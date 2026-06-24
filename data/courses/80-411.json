@@ -1,0 +1,37 @@
+{
+        "code":  "80-411",
+        "name":  "Proof Theory",
+        "short_name":  "PROOF THEORY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(21-300 [] at least D) or (80-311 [] at least D) or (80-310 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "An introduction to the general study of deductive systems and their properties. Topics include the natural deduction and sequent calculi cutelimination and normalization theorems metamathematical properties of firstorder logic and theories of arithmetic and conservation theorems.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn to reason rigorously about formal deductive systems.",
+                                                    "key_topics":  "Deductive systems for first-order logic, including natural deduction and sequent calculi; the cut elimination theorems; the metamathematics of first-order arithmetic.",
+                                                    "prerequisite_knowledge":  "The syntax and semantics of first-order logic; computability theory",
+                                                    "assessment_structure":  "Weekly assignments.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

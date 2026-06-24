@@ -1,0 +1,37 @@
+{
+        "code":  "76-404",
+        "name":  "Critical Race \u0026 Ethnicity Studies",
+        "short_name":  "CRTCL RACE/ETH STUD",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Terms commonly associated with the academic study of race and ethnicity have gained or regained prominence within our always volatile political discourse intersectionality, identity politics, white supremacy and blackness. But what is critical race and ethnic studies What are the theories about race, ethnicity, art, subjectivity, power, knowledge and the human that have driven the scholarship and intellectual work for scholars committed to an interdisciplinary exploration of race and ethnicity This course will introduce students to some of the key figures, terms, debates that have emerged out of critical race and ethnicity studies with a particular focus on how the structuralist controversy, which foregrounded critiques of the subject have changed the way scholars talk about race, ethnicity and identity since the middle of the twentiethcentury. Given the wide ranging and interdisciplinary nature of critical race and ethnicity studies our readings will inherently cover disciples such as literary criticism and theory, legal studies, anthropology, linguistics, science and technology studies and film studies to name a few. Readings may include W.E.B. Du Bois, Kimberly Crenshaw, bell hooks, Richard Dyer, Edward Said, Stuart Hall, Michel Foucault, Jacques Derrida, Henry Louis Gates Jr., Claudia Sharpe, Denise D Silva, Gayatri Spivak, Eduardo Bonilla Silva and Achille Mbembe. There will be two short papers.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

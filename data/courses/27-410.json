@@ -1,0 +1,37 @@
+{
+        "code":  "27-410",
+        "name":  "Computational Techniques in Engineering",
+        "short_name":  "COMPTTNL TECHNQS ENG",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(21-120 [] at least D) and (21-122 [] at least D) and ((15-110 [] at least D) or (15-112 [] at least D) or (15-122 [] at least D)) and (21-260 [] at least D) and (21-259 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course develops the methods to formulate basic engineering problems in a way that makes them amenable to computationalnumerical analysis. The course will consist of three main modules basic programming skills, discretization of ordinary and partial differential equations, and numerical methods. These modules are followed by two modules taken from a larger list Monte Carlobased methods, molecular dynamics methods, image analysis methods, and so on. Students will learn how to work with numerical libraries and how to compile and execute scientific code written in Fortran90 and C. Students will be required to work on a course project in which aspects from at least two course modules must be integrated.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Develop facility to recast equations into forms that are amenable to computer solution. Learn how to set up computer simulations.",
+                                                    "key_topics":  "Module 1: Linear algebra - with a few practical examples drawn from machine learning and deep learning; applications in curve fitting; modeling and error Analysis;\nModule 2: Numerical differentiation and integration, numerical ordinary differential equations, and numerical partial differential equations.",
+                                                    "prerequisite_knowledge":  "Some understanding of algebra, calculus, and familiarity with simple first-order, ordinary differential equations. Computer literacy (and some facility with the MATLAB or Mathematica software packages).",
+                                                    "assessment_structure":  "Problem sets (7) - 20%; mini project (1) - 25%; in-class tests (2) - 50%; attendance and class participation - 5%.",
+                                                    "relevance":  "Numerical solution of mathematical equations with relevance to engineering applications. Recasting of equations into formats that permit solution with simple computer programs (or macros).",
+                                                    "learning_resources":  "Course textbook - Numerical Methods for Engineers, by Steven C. Chapra and Raymond P. Canale; Any programming resource (MatLab, Mathematica, C++ or Python).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

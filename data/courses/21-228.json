@@ -1,0 +1,42 @@
+{
+        "code":  "21-228",
+        "name":  "Discrete Mathematics",
+        "short_name":  "DISCRETE MATH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(21-128 [] at least D) or (15-151 [] at least D) or (21-127 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "15-251",
+                                            "id":  2669,
+                                            "name":  "Great Ideas in Theoretical Computer Science",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "The techniques of discrete mathematics arise in every application of mathematics, which is not purely continuous, for example in computer science, economics, and general problems of optimization. This course introduces two of the fundamental areas of discrete mathematics enumeration and graph theory. The introduction to enumeration includes permutations, combinations, and topics such as discrete probability, combinatorial distributions, recurrence relations, generating functions, Ramseys Theorem, and the principle of inclusion and exclusion. The introduction to graph theory includes topics such as paths, walks, connectivity, Eulerian and Hamilton cycles, planar graphs, Eulers Theorem, graph coloring, matchings, networks, and trees. Three 50 minute lectures, one 50 minute recitation",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Proof-writing, sets, relations",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

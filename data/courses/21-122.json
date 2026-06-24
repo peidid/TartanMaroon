@@ -1,0 +1,54 @@
+{
+        "code":  "21-122",
+        "name":  "Integration and Approximation",
+        "short_name":  "INTEGRTN \u0026 APPROX",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "(21-120 [] at least D) or (21-112 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-123",
+                                            "id":  7314,
+                                            "name":  "21-123",
+                                            "units":  5.0
+                                    },
+                                    {
+                                            "code":  "21-118",
+                                            "id":  7316,
+                                            "name":  "21-118",
+                                            "units":  5.0
+                                    },
+                                    {
+                                            "code":  "21-132",
+                                            "id":  7357,
+                                            "name":  null,
+                                            "units":  10.0
+                                    }
+                            ],
+        "long_desc":  "Integration by trigonometric substitution and partial fractions arclength improper integrals Simpsons and Trapezoidal Rules for numerical integration separable differential equations, Newtons method, Eulers method, Taylors Theorem, including a discussion of the remainder, sequences, series, power series. Parametric curves, polar coordinates, vectors, dot product. Three 50 minute lectures, two 50 minute recitations",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Differential and Integral Calculus",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,42 @@
+{
+        "code":  "85-111",
+        "name":  "Self-Paced Lisp Lab",
+        "short_name":  "SELF-PACED LISP LAB",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "85-213",
+                                                "id":  4035,
+                                                "name":  "Human Information Processing and Artificial Intelligence",
+                                                "units":  9.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Students enrolled in 85213, Human Information Processing and Artificial Intelligence, who are not familiar with LISP are required to take this selfpaced LISPlab. Students who are already familiar with LISP cannot take the lab for extra credit.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

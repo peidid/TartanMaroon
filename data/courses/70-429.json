@@ -1,0 +1,37 @@
+{
+        "code":  "70-429",
+        "name":  "Accounting for Financial Institutions",
+        "short_name":  "ACCTNG FINANC INSTS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-122 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The banking sector is important because it drives the financial growth of an economy.  This sector accepts deposits from the public and issues loans, and thus the banking sector expands in response to positive changes in retail, corporate and government business demand.  Similarly, if a slowdown occurs this results in a reduction in demand for banking sector services.  As a result, the important starting point for a financial analyst, who wants to assess current and future economic growth, are the financial statements of banks and the information they contain.  To extract this information, however, requires being able to read and interpret the financial statements of a bank.  These statements are very different from reading traditional corporate financial statements.  As a result, the first objective of this course is to learn how to read financial statements generated from the banking sector including how to interpret and evaluate these statements.  The banking sector in Qatar is unique because it has two important and separate subsectors  Islamic and conventional banking.  Each of these subsectors have a different banking business model which in turn generate differences in their financial statements.  As a result a second important objective for this course is to learn how to read and evaluate the financial statements from each of these subsectors.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

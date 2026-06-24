@@ -1,0 +1,520 @@
+{
+  "academic_year": "2026-2027",
+  "institution": "Carnegie Mellon University - Qatar",
+  "semesters": [
+    {
+      "semester": "Fall 2026",
+      "class_days": {
+        "semester": {
+          "sunday": 13,
+          "monday": 13,
+          "tuesday": 14,
+          "wednesday": 13,
+          "thursday": 13,
+          "total": 66
+        },
+        "mini_1": {
+          "sunday": 6,
+          "monday": 6,
+          "tuesday": 7,
+          "wednesday": 7,
+          "thursday": 7,
+          "total": 33
+        },
+        "mini_2": {
+          "sunday": 7,
+          "monday": 7,
+          "tuesday": 7,
+          "wednesday": 6,
+          "thursday": 6,
+          "total": 33
+        }
+      },
+      "events": [
+        {
+          "date": "2026-08-17",
+          "date_range": "2026-08-17 to 2026-08-20",
+          "day": "Monday-Thursday",
+          "event": "First Year Orientation Week"
+        },
+        {
+          "date": "2026-08-23",
+          "day": "Sunday",
+          "event": "Semester & Mini-1 Classes Begin"
+        },
+        {
+          "date": "2026-08-27",
+          "day": "Thursday",
+          "event": "Mini-1 Course Add Deadline"
+        },
+        {
+          "date": "2026-08-27",
+          "day": "Thursday",
+          "event": "Mini-1 Course Audit Grade Option Deadline"
+        },
+        {
+          "date": "2026-08-27",
+          "day": "Thursday",
+          "event": "Mini-1 Course Drop Deadline to Receive Tuition Adjustment"
+        },
+        {
+          "date": "2026-09-03",
+          "day": "Thursday",
+          "event": "Semester Course Add Deadline"
+        },
+        {
+          "date": "2026-09-03",
+          "day": "Thursday",
+          "event": "Semester Course Audit Grade Option Deadline"
+        },
+        {
+          "date": "2026-09-03",
+          "day": "Thursday",
+          "event": "Semester Course Drop Deadline to Receive Tuition Adjustment"
+        },
+        {
+          "date": "2026-09-10",
+          "day": "Thursday",
+          "event": "Mini-1 Course Drop and Pass/Fail Grade Option Deadline; Assign Withdrawal Grade After this Date"
+        },
+        {
+          "date": "2026-09-13",
+          "date_range": "2026-09-13 to 2026-09-14",
+          "day": "Sunday-Monday",
+          "event": "Break; No Classes"
+        },
+        {
+          "date": "2026-09-24",
+          "day": "Thursday",
+          "event": "Mini-1 Course Withdrawal Grade Deadline. No Course Withdrawal after This Date"
+        },
+        {
+          "date": "2026-09-27",
+          "date_range": "2026-09-27 to 2026-10-08",
+          "day": "Sunday-Thursday",
+          "event": "Mini-1 Faculty Course Evaluations"
+        },
+        {
+          "date": "2026-10-01",
+          "day": "Thursday",
+          "event": "Semester Course Drop Deadline; Assign Withdrawal Grade after This Date"
+        },
+        {
+          "date": "2026-10-08",
+          "day": "Thursday",
+          "event": "Mini-1 Last Day of Classes"
+        },
+        {
+          "date": "2026-10-11",
+          "date_range": "2026-10-11 to 2026-10-15",
+          "day": "Sunday-Thursday",
+          "event": "Fall Break; No Classes"
+        },
+        {
+          "date": "2026-10-18",
+          "day": "Sunday",
+          "event": "Classes Resume/Mini-2 Classes Begin"
+        },
+        {
+          "date": "2026-10-19",
+          "day": "Monday",
+          "event": "Mid-Semester Grades Due by 11 p.m. (Local Time)"
+        },
+        {
+          "date": "2026-10-19",
+          "day": "Monday",
+          "event": "Mini-1 Final Grades Due by 11 p.m. (Local Time)"
+        },
+        {
+          "date": "2026-10-22",
+          "day": "Thursday",
+          "event": "Mini-2 Course Add Deadline"
+        },
+        {
+          "date": "2026-10-22",
+          "day": "Thursday",
+          "event": "Mini-2 Course Audit Grade Option Deadline"
+        },
+        {
+          "date": "2026-10-22",
+          "day": "Thursday",
+          "event": "Mini-2 Course Drop Deadline to Receive Tuition Adjustment"
+        },
+        {
+          "date": "2026-11-05",
+          "day": "Thursday",
+          "event": "Semester Course Withdrawal Grade and Pass/Fail Grade Option Deadline. No Course Withdrawal After this Date"
+        },
+        {
+          "date": "2026-11-05",
+          "day": "Thursday",
+          "event": "Mini-2 Course Drop and Pass/Fail Grade Option Deadline; Assign Withdrawal Grade After this Date"
+        },
+        {
+          "date": "2026-11-11",
+          "day": "Wednesday",
+          "event": "Break; No Classes"
+        },
+        {
+          "date": "2026-11-12",
+          "day": "Thursday",
+          "event": "Day for Community Engagement; No Classes"
+        },
+        {
+          "date": "2026-11-16",
+          "date_range": "2026-11-16 to 2026-11-19",
+          "day": "Monday-Thursday",
+          "event": "Spring 2027 Registration Week"
+        },
+        {
+          "date": "2026-11-19",
+          "day": "Thursday",
+          "event": "Mini-2 Course Withdrawal Grade Deadline. No Course Withdrawal After this Date"
+        },
+        {
+          "date": "2026-11-22",
+          "date_range": "2026-11-22 to 2026-12-03",
+          "day": "Sunday-Thursday",
+          "event": "Semester & Mini-2 Faculty Course Evaluations"
+        },
+        {
+          "date": "2026-12-03",
+          "day": "Thursday",
+          "event": "Semester & Mini-2 Last Day of Classes"
+        },
+        {
+          "date": "2026-12-06",
+          "date_range": "2026-12-06 to 2026-12-07",
+          "day": "Sunday-Monday",
+          "event": "Final Examinations"
+        },
+        {
+          "date": "2026-12-08",
+          "day": "Tuesday",
+          "event": "Reading Day"
+        },
+        {
+          "date": "2026-12-09",
+          "date_range": "2026-12-09 to 2026-12-10",
+          "day": "Wednesday-Thursday",
+          "event": "Final Examinations"
+        },
+        {
+          "date": "2026-12-13",
+          "day": "Sunday",
+          "event": "Makeup Final Examinations"
+        },
+        {
+          "date": "2026-12-15",
+          "day": "Tuesday",
+          "event": "Final Grades Due by 11 p.m. (Local Time)"
+        }
+      ],
+      "notes": [
+        "Ramadan begins on / about February 8, 2027",
+        "Eid-al-Fitr begins on / about March 10, 2027",
+        "Eid al-Adha begins on / about May 27, 2026"
+      ]
+    },
+    {
+      "semester": "Spring 2027",
+      "class_days": {
+        "semester": {
+          "sunday": 14,
+          "monday": 14,
+          "tuesday": 13,
+          "wednesday": 13,
+          "thursday": 13,
+          "total": 65
+        },
+        "mini_3": {
+          "sunday": 7,
+          "monday": 7,
+          "tuesday": 6,
+          "wednesday": 6,
+          "thursday": 6,
+          "total": 32
+        },
+        "mini_4": {
+          "sunday": 6,
+          "monday": 6,
+          "tuesday": 7,
+          "wednesday": 7,
+          "thursday": 7,
+          "total": 33
+        }
+      },
+      "events": [
+        {
+          "date": "2027-01-10",
+          "day": "Sunday",
+          "event": "Semester & Mini-3 Classes Begin"
+        },
+        {
+          "date": "2027-01-14",
+          "day": "Thursday",
+          "event": "Mini-3 Course Add Deadline"
+        },
+        {
+          "date": "2027-01-14",
+          "day": "Thursday",
+          "event": "Mini-3 Course Audit Grade Option Deadline"
+        },
+        {
+          "date": "2027-01-14",
+          "day": "Thursday",
+          "event": "Mini-3 Course Drop Deadline to Receive Tuition Adjustment"
+        },
+        {
+          "date": "2027-01-21",
+          "day": "Thursday",
+          "event": "Semester Course Add Deadline"
+        },
+        {
+          "date": "2027-01-21",
+          "day": "Thursday",
+          "event": "Semester Course Audit Grade Option Deadline"
+        },
+        {
+          "date": "2027-01-21",
+          "day": "Thursday",
+          "event": "Semester Course Drop Deadline to Receive Tuition Adjustment"
+        },
+        {
+          "date": "2027-01-28",
+          "day": "Thursday",
+          "event": "Mini-3 Course Drop and Pass/Fail Grade Option Deadline; Assign Withdrawal Grade After this Date"
+        },
+        {
+          "date": "2027-02-09",
+          "day": "Tuesday",
+          "event": "National Sports Day"
+        },
+        {
+          "date": "2027-02-10",
+          "date_range": "2027-02-10 to 2027-02-11",
+          "day": "Wednesday-Thursday",
+          "event": "Break; No Classes"
+        },
+        {
+          "date": "2027-02-14",
+          "day": "Sunday",
+          "event": "Mini-3 Course Withdrawal Grade Deadline. No Course Withdrawal After this Date"
+        },
+        {
+          "date": "2027-02-21",
+          "day": "Sunday",
+          "event": "Semester Course Drop Deadline; Assign Withdrawal Grade After this Date"
+        },
+        {
+          "date": "2027-02-21",
+          "date_range": "2027-02-21 to 2027-02-25",
+          "day": "Sunday-Thursday",
+          "event": "Mini-3 Faculty Course Evaluations"
+        },
+        {
+          "date": "2027-02-25",
+          "day": "Thursday",
+          "event": "Mini-3 Last Day of Classes"
+        },
+        {
+          "date": "2027-02-28",
+          "day": "Sunday",
+          "event": "Mini-4 Classes Begin"
+        },
+        {
+          "date": "2027-03-01",
+          "day": "Monday",
+          "event": "Mid-Semester Grades Due by 11 p.m. (Local Time)"
+        },
+        {
+          "date": "2027-03-07",
+          "date_range": "2027-03-07 to 2027-03-11",
+          "day": "Sunday-Thursday",
+          "event": "Break; Eid al-Fitr; No Classes"
+        },
+        {
+          "date": "2027-03-15",
+          "day": "Monday",
+          "event": "Mini-3 Final Grades Due by 11 p.m. (Local Time)"
+        },
+        {
+          "date": "2027-03-16",
+          "day": "Tuesday",
+          "event": "Summer 2027 Registration Begins"
+        },
+        {
+          "date": "2027-03-25",
+          "day": "Thursday",
+          "event": "Mini-4 Course Add Deadline"
+        },
+        {
+          "date": "2027-03-25",
+          "day": "Thursday",
+          "event": "Mini-4 Course Audit Grade Option Deadline"
+        },
+        {
+          "date": "2027-03-25",
+          "day": "Thursday",
+          "event": "Mini-4 Course Drop Deadline to Receive Tuition Adjustment"
+        },
+        {
+          "date": "2027-03-25",
+          "day": "Thursday",
+          "event": "Mini-4 Course Drop and Pass/Fail Grade Option Deadline; Assign Withdrawal Grade After this Date"
+        },
+        {
+          "date": "2027-03-30",
+          "day": "Tuesday",
+          "event": "Semester Course Withdrawal Grade and Pass/Fail Grade Option Deadline. No Course Withdrawal After this Date"
+        },
+        {
+          "date": "2027-04-04",
+          "date_range": "2027-04-04 to 2027-04-05",
+          "day": "Sunday-Monday",
+          "event": "Break; No Classes"
+        },
+        {
+          "date": "2027-04-06",
+          "day": "Tuesday",
+          "event": "Mini-4 Course Withdrawal Grade Deadline. No Course Withdrawal After this Date"
+        },
+        {
+          "date": "2027-04-11",
+          "date_range": "2027-04-11 to 2027-04-22",
+          "day": "Sunday-Thursday",
+          "event": "Semester & Mini-4 Faculty Course Evaluations"
+        },
+        {
+          "date": "2027-04-19",
+          "date_range": "2027-04-19 to 2027-04-22",
+          "day": "Monday-Thursday",
+          "event": "Fall 2027 Registration Week"
+        },
+        {
+          "date": "2027-04-22",
+          "day": "Thursday",
+          "event": "Semester & Mini-4 Last Day of Classes"
+        },
+        {
+          "date": "2027-04-25",
+          "date_range": "2027-04-25 to 2027-04-26",
+          "day": "Sunday-Monday",
+          "event": "Final Examinations"
+        },
+        {
+          "date": "2027-04-27",
+          "day": "Tuesday",
+          "event": "Reading Day"
+        },
+        {
+          "date": "2027-04-28",
+          "date_range": "2027-04-28 to 2027-04-29",
+          "day": "Wednesday-Thursday",
+          "event": "Final Examinations"
+        },
+        {
+          "date": "2027-05-01",
+          "day": "Saturday",
+          "event": "Final Grades Due by 11 p.m. (Local Time) (graduating students)"
+        },
+        {
+          "date": "2027-05-02",
+          "day": "Sunday",
+          "event": "Makeup Final Examinations"
+        },
+        {
+          "date": "2027-05-03",
+          "day": "Monday",
+          "event": "CMU-Q Diploma Ceremony"
+        },
+        {
+          "date": "2027-05-04",
+          "day": "Tuesday",
+          "event": "QF Convocation (TBC)"
+        },
+        {
+          "date": "2027-05-15",
+          "day": "Wednesday",
+          "event": "Final Grades Due by 11 p.m. (Local Time)"
+        },
+        {
+          "date": "2027-05-16",
+          "day": "Sunday",
+          "event": "CMU-P Diploma Commencement"
+        }
+      ],
+      "notes": [
+        "Eid-al-Fitr begins on / about March 10, 2027",
+        "Ramadan begins on / about February 8, 2027",
+        "Eid al-Adha begins on / about May 17, 2027"
+      ]
+    },
+    {
+      "semester": "Summer 2027",
+      "duration_days": 28,
+      "events": [
+        {
+          "date": "2027-05-16",
+          "date_range": "2027-05-16 to 2027-05-20",
+          "day": "Sunday-Thursday",
+          "event": "Eid al-Adha"
+        },
+        {
+          "date": "2027-05-23",
+          "day": "Sunday",
+          "event": "Summer I Classes Begin"
+        },
+        {
+          "date": "2027-05-27",
+          "day": "Thursday",
+          "event": "Summer I Course Add Deadline"
+        },
+        {
+          "date": "2027-05-27",
+          "day": "Thursday",
+          "event": "Summer I Course Audit Grade Option Deadline"
+        },
+        {
+          "date": "2027-05-27",
+          "day": "Thursday",
+          "event": "Summer I Course Drop Deadline to Receive Tuition Adjustment"
+        },
+        {
+          "date": "2027-06-10",
+          "day": "Thursday",
+          "event": "Summer I Course Drop and Pass/Fail Grade Option Deadline; Assign Withdrawal Grade After this Date"
+        },
+        {
+          "date": "2027-06-17",
+          "day": "Thursday",
+          "event": "Summer I Course Withdrawal Grade Deadline. No Course Withdrawal After this Date"
+        },
+        {
+          "date": "2027-06-23",
+          "date_range": "2027-06-23 to 2027-06-29",
+          "day": "Wednesday-Tuesday",
+          "event": "Summer I Faculty Course Evaluations"
+        },
+        {
+          "date": "2027-06-29",
+          "day": "Tuesday",
+          "event": "Last Day of Classes"
+        },
+        {
+          "date": "2027-06-30",
+          "day": "Wednesday",
+          "event": "Summer I Final Examinations"
+        },
+        {
+          "date": "2027-07-01",
+          "day": "Thursday",
+          "event": "Summer I Final Grades Due by 11 p.m. (Local time)"
+        }
+      ],
+      "notes": [
+        "Eid al-Adha begins on / about May 17, 2027"
+      ]
+    }
+  ]
+}

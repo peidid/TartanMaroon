@@ -1,0 +1,37 @@
+{
+        "code":  "16-223",
+        "name":  "IDeATe Portal: Creative Kinetic Systems",
+        "short_name":  "CREATIVE KINETIC SYS",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The art and science of machines which evoke human delight through physical movement is founded on a balance of form and computation.  This introductory physical computing course addresses the practical design and fabrication of robots, interactive gadgets, and kinetic sculptures.  The emphasis is on creating experiences for human audiences through the physical behavior of devices which embody computation with mechanism, sensing, and actuation.  Specific topics include basic electronics, elementary mechanical design, embedded programming, and parametric CAD.  A key objective is gaining an intuitive understanding of how information and energy move between the physical, electronic, and computational domains to create a compelling behavior.  The final projects are tested in the field on children and adults.  This interdisciplinary course is an IDeATe Portal Course open to students from all colleges.  For students choosing to follow an IDeATe program it is an entry into either Physical Computing or Intelligent Environments.  The structure of the class revolves around collaborative exercises and projects which introduce core physical computing and system engineering techniques in a humancentric context.  Students apply system and design thinking across multiple domains, work together to make and test several devices, and participate in wideranging critique which considers both technical and artistic success.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://courses.ideate.cmu.edu/16-223",
+        "custom_fields":  {
+                                                    "goals":  "Upon completion of this course the students will be able todesign and fabricate kinetic mechanical structuresselect and build basic sensor and actuator circuits for microcontrollersapply elementary electrical theory to exploring and debugging simple circuitsprogram imperative and eventloop based software for realtime embedded controlpartition system functionality between mechanism, electronic hardware, and softwaredevelop physical computing solutions through an iterative research, design, and prototyping processevaluate a system in the context of an end user application or experienceparticipate in collaborative teams by negotiating common goals and coordinating rolesanalyze and critique projects along artistic and technical dimensions both verbally and in writing",
+                                                    "key_topics":  "electromechanical design and fabrication, microcontroller programming, interactive experience design, interdisciplinary collaboration",
+                                                    "prerequisite_knowledge":  "A basic level of programming experience (Python, C, or C++ preferred).",
+                                                    "assessment_structure":  "hands-on project demonstrations, project reports, and practicum examination",
+                                                    "relevance":  "The integration of computing and mechanism to produce an interactive experience is a practical foundation for artists, engineers, and product designers who wish to create dynamic physical artifacts. As an IDeATe Portal, this course will address the essential skills of interdisciplinary collaboration and prepare students who wish to continue in IDeATe collaborative courses.",
+                                                    "learning_resources":  "course web site with exercises, reference designs, and resource material at http://courses.ideate.cmu.edu/16-223",
+                                                    "extra_time_commitment":  "Students will be required to make four Friday field trips for observation and testing. Students must be willing to obtain Act 153 clearances for working with children."
+                                            }
+}

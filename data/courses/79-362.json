@@ -1,0 +1,37 @@
+{
+        "code":  "79-362",
+        "name":  "Are We There Yet? The Politics and Culture of Highway Infrastructure",
+        "short_name":  "ARE WE THERE YET",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Infrastructure does more than connect disparate placesit connects the politics of development with scientific expertise and the lived experience of ordinary people. This course will examine the political and cultural history of infrastructure through the American highway system. Highways are living components of any great society, but much like many aspects of everyday life, the planning, construction, and use of highways has changed dramatically over time, from the era of the horse to our own of the superhighway. These changes have come in a variety of forms  political, economic, technological, environmental, social, cultural  and demonstrate the necessity of roadways to individuals, communities, and nations. This course will encourage students to think critically about past and present infrastructure and transportation debates in the United States and globally. ",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

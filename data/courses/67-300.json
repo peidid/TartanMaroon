@@ -1,0 +1,37 @@
+{
+        "code":  "67-300",
+        "name":  "Special Topics: Search Engines",
+        "short_name":  "SP TPC: SRCH ENGINE",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least D) or (15-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This mini course will cover the fundamental aspects of modern search engines. The main intent is to provide a glimpse on how Google, Bing and many other websites search boxes work. Students will have the unique chance to implement their own search engine, exploring options for the Arab world, in a similar way that Yandex works in Russia and Seznam in Czech Republic. By the end of this course, the students will be able to discover, stepbystep, how a modern search engine works. They will become familiarized with basic and advanced concepts of Information Retrieval Theory information theory, ranking models, evaluation. Finally, they will have an opportunity to build their own search engine in Python.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

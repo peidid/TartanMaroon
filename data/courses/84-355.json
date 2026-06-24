@@ -1,0 +1,37 @@
+{
+        "code":  "84-355",
+        "name":  "Democracy\u0027s Data: Analytics and Insights into American Elections",
+        "short_name":  "US ELECTIONS \u0026 DATA",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "36-200 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In the aftermath of the 2024 US presidential election, understanding the intricacies of electoral processes has become paramount. This course is a blend of political science and data analytics, specifically focusing on the US electoral system. It places a special emphasis on the 2024 election, as well as the upcoming midterm and local elections. History demonstrates that elections can have profound and enduring impacts. From the pivotal election of 1876, which concluded Reconstruction and reshaped the nation for a century, to the razorthin margins in the 1960 Kennedy election and the 2000 BushGore contest, American politics has been profoundly influenced by electoral outcomes.Throughout the semester, students will actively engage in data collection, statistical analysis, and interpretation. These techniques will be applied to analyze election trends, voter demographics, and the influence of technology on political campaigns. The course will also explore how data analytics can assess the health of democracy, examining metrics such as voter turnout, electoral competitiveness, and public trust in electoral institutions. As the course progresses, students will utilize analytical tools to make informed predictions about the 2026 midterm elections, which will determine all House seats and 35 Senate seats. They will delve into oddyear elections in various states and localities, gaining insights into their unique dynamics and implications. Beyond the core topics, the course will cover a diverse range of additional subjects, including political advertising, campaign finance, media bias, partisanship, nationalization, mobilization strategies, vote suppression techniques, election security, voter knowledge, racially polarized voting, gerrymandering, polarization, forecasting models, and public opinion polling.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students will be able to frame questions related to American elections, such as how do candidates emerge, why do some candidates succeed while others fail, when do elections fundamentally change the course of history, and who votes and why Students will be able to utilize diverse electoral data sources to analyze trends and patterns in American electoral behavior and outcomes. Using that data, students will be able to make connections between and across elections across the last several decades to explain how they have led to recent electoral outcomes. Students will be asked to reflect critically on personal perspectives regarding American elections in light of historical, cultural, and political contexts.",
+                                                    "key_topics":  "The course will look at historical and contemporary political elections in the United States.",
+                                                    "prerequisite_knowledge":  "36-200 Reasoning with Data",
+                                                    "assessment_structure":  "Hands-on projects with real electoral data sets will enable students to apply their analytical skills to contemporary election scenarios. This approach enhances their ability to discern patterns and draw meaningful conclusions about modern political campaigns and voter behavior. Assignments include problem sets, data analysis projects, and a final paper that requires a comprehensive analysis of a recent American election. Students will investigate current electoral patterns, understanding their roots in historical contexts, and exploring potential future implications.",
+                                                    "relevance":  "DC: Contextual Thinking",
+                                                    "learning_resources":  "All course materials will be provided via Canvas.",
+                                                    "extra_time_commitment":  "None, though election related activities will be offered."
+                                            }
+}

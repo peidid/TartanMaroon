@@ -1,0 +1,37 @@
+{
+        "code":  "36-410",
+        "name":  "Introduction to Probability Modeling",
+        "short_name":  "INTRO PROB MODELING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-235 [] at least D) or (36-225 [] at least D) or (36-217 [] at least D) or (21-325 [] at least D) or (15-259 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "An introductorylevel course in stochastic processes. Topics typically include Poisson processes, Markov chains, birth and death processes, random walks, recurrent events, and renewal theory. Examples are drawn from reliability theory, queuing theory, inventory theory, and various applications in the social and physical sciences.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Given a stochastic model, students will be able to calculate relevant properties, e.g. the probability of a given event, or the expected value of a given random variable. Students will be able to critically assess the use of probability models in published research.",
+                                                    "key_topics":  "Markov Chain, transient states and recurrent states, stationary distribution, random walks, branching processes, Poisson processes, Birth and Death Chain, Renewal processes.",
+                                                    "prerequisite_knowledge":  "Basic probabilities, basic linear algebra, and basic calculus.",
+                                                    "assessment_structure":  "Quiz, Homework, midterms and final exam.",
+                                                    "relevance":  "Given a real world situation, students will be able to identify which, if any, of the common stochastic processes are an appropriate model.",
+                                                    "learning_resources":  "Lecture slides, textbooks, websites.",
+                                                    "extra_time_commitment":  "None usually expected"
+                                            }
+}

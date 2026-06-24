@@ -1,0 +1,37 @@
+{
+        "code":  "79-368",
+        "name":  "Un-natural Disasters: Societies and Environmental Hazards in Global Perspective",
+        "short_name":  "UN-NATURAL DISASTERS",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In the wake of Hurricane Katrina, Neil Smith famously observed that there is no such thing as a natural disaster.  This course takes a cue from Smith by examining the social production of disasters in the past and present, from acute environmental events like typhoons and earthquakes to disasters of slow violence like chronic exposure to toxic pollution and food insecurity.  Examining case studies from around the world, we will explore how these different forms of disaster collide with inequalities of race, class, and gender  and in the process challenge us to rethink the relationship between nature and society.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

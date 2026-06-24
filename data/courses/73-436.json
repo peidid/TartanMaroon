@@ -1,0 +1,37 @@
+{
+        "code":  "73-436",
+        "name":  "Applied Projects for Business and Economics",
+        "short_name":  "APPL PROJECTS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Jewish Healthcare Foundation strives to make aging a joyful experience. With this vision in mind, a team of students will aim to conduct a market analysis in order to provide a report and presentation to the Foundation on areas such as policy, technology andor infrastructure that counter aging mobility as a limiting factor. This exercise may cover a review of what exists in the aging space globally andor specifically in the Pittsburgh community. Of note, in this project mobility may be defined broadly including areas such as transportation, physical limitations, use of technology etc.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

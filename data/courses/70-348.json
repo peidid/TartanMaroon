@@ -1,0 +1,37 @@
+{
+        "code":  "70-348",
+        "name":  "Cross-Cultural Business Communications",
+        "short_name":  "CROSS CULT BUSINESS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-221 [] at least D) or (76-270 [] at least D) or (70-340 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course considers cultural behaviors, assumptions, values, and conflicts surrounding business communication across cultures. It will begin with an evolving definition of culture and consider several cultural variables that may affect communicative success i.e. collectivistindividualist cultures, highlowcontext languages, monochronicpolychronic cultures. Students will research and present findings on the characteristics of specific cultures. They will prepare business documents and presentations that build on the knowledge and skills acquired in 70340, Business Communication, and reflect new sensitivities to the needs of specific crosscultural audiences. This course is offered only at the Carnegie MellonQatar campus.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

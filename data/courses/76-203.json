@@ -1,0 +1,37 @@
+{
+        "code":  "76-203",
+        "name":  "Literature \u0026 Culture in the 18th Century",
+        "short_name":  "LIT \u0026 CULT 18TH C",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Fall 2022 This section will examine race, gender, and their intersections as points of entry into the major literary and cultural movements of the long eighteenth century, which continue to shape our present. From about 1660 to 1820, historical phenomena such as European empires, the Rights of Woman, and slavery and abolition coincided with changes in print and media culture to produce the rich literary productions we will study. Through reading and graded assignments such as short essays and oral presentations, students will learn methods for analyzing the formal features of literary texts such as narrative structure and poetic rhythm and how such texts respond to the pressures of history. Furthermore, students will develop their ability to think critically about race and gender, to argue persuasively, and to express ideas clearly. Examples of readings include Aphra Behns Ooronoko, Jonathan Swifts The Ladys Dressing Room, Jane Austens Mansfield Park, Mary Princes The History of Mary Prince, and William Wordsworths To Toussaint LOuverture.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

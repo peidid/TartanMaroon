@@ -1,0 +1,42 @@
+{
+        "code":  "57-173",
+        "name":  "Survey of Western Music History",
+        "short_name":  "SURVEY WEST MUS HIST",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "57-188",
+                                                "id":  7217,
+                                                "name":  "Repertoire and Listening for Musicians",
+                                                "units":  1.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course surveys European art musicwhat, loosely, problematically, has been called classical music. We survey its development and contexts as well as its adaptation globally. While keeping in view the chronology from Gregorian chant to music of our own time, this survey also emphasizes key personalities andissues. So, classroom lectures and musical examples may not always follow a strict progression through the centuries. Since most in this course have experience singing, playing, writing, or listening to music, we are particularly interested in connections between particular genres and period styleswhat you can hearand their broad historical contexts. In turn, what connections can we make to our own situation So, history is practical, not esoteric.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "As a result of this course, students should be able to verbally or in writing name and describe the major periods and movements of Western classical music from Medieval to the present describe the dynamic, evolutionary processes which are at work in the transitions from period to period relate musical events, movements, and personalities to broader cultural contexts outline select key classical music forms define or identify over fifty terms and significant names in music history relate musicohistorical concepts to assigned musical examples.",
+                                                    "key_topics":  "music, music history",
+                                                    "prerequisite_knowledge":  "This is an introductory-level course for music minors, BXA students, and non-music majors.",
+                                                    "assessment_structure":  "attendance, quizzes, midterm exam, final exam",
+                                                    "relevance":  "Through Survey of Western Music History, students will: obtain a useful overview—the big picture—of musical history in Western cultures; begin to think historically—to seek the continuities and interruptions of cultural development; make connections between facts of music history and practical, interpretive issues; become generally familiar with characteristics of various style periods; be prepared for more detailed music history study later, such as that encountered in Music History I, II, and III, or upper-level music history electives.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

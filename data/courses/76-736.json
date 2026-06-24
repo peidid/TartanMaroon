@@ -1,0 +1,37 @@
+{
+        "code":  "76-736",
+        "name":  "CMU Prison Education Project",
+        "short_name":  "CMU PRISON EDUCATION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We read newspapers for reports about what is happening in our world. But we also read fictionnovels and storiesthat tell us about our world, and alternative worlds. In this course well read classic American fiction such as Rip van Winkle and by Rebecca Harding Davis, Melville, and Faulkner, as well as more contemporary fiction by Octavia Butler, Colson Whitehead, and others, and consider about what they say about their culture and society. This course is based on the InsideOut Prison Exchange Program, and will be taught at SCI Somerset, a nearby prison. For more information about InsideOut, see httpswww.insideoutcenter.orgprospectivestudents.htmlThe course will include both outside students from CMU, as well as inside students at SCI Somerset. The course focuses on active participation and discussion between students. The Somerset class runs from 230510 on Friday afternoons. CMU students will travel together by bus, leaving our campus at 1230 sharp and return by around 715 pm. To enroll, students in the course will submit a brief application and interview with faculty. The course is part of an exciting new initiative by CMU to bring education into Americas prisons.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "https://bit.ly/S25CMUPEPAmericanNovel",
+        "custom_fields":  {
+                                                    "goals":  "Knowledge of American fiction, as well as experiential learning and finding out what American prisons are like. The incarcerated will be equal members of the class.",
+                                                    "key_topics":  "The novel; American fiction.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Weekly writing assignments and participation. Attendance is required, as the purpose is also experiential learning.",
+                                                    "relevance":  "This will give a basic overview of American fiction and hopefully tell us a little more about our culture.",
+                                                    "learning_resources":  "CMU students will have a Canvas page, where short stories will be posted, but will have to acquire novels themselves.",
+                                                    "extra_time_commitment":  "Travel to and from Somerset prison, as well as class time, from 12:30-7:15 pm, as outlined earlier."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "84-393",
+        "name":  "The US Congress: Legislative Progress or Paralysis?",
+        "short_name":  "LEGISLATIVE CONGRESS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "84-104 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Seemingly everyone across the political spectrum agrees that Congress is broken paralyzed by conflict between and within the parties, out of touch with the needs and concerns of the American people, and incapable of acting swiftly or competently to address the nations problems. Yet considering the daunting task Congress faces in legislating for an incredibly diverse nation of 340 million people while its members represent constituencies with starkly differing interests, perhaps it is more surprising that the body functions at all. This class investigates how Congress overcomes the obstacles to action it faces as well as whether the institution has operated less effectively in recent years, and if so, the reasons why. Specifically, we will scrutinize what the legislative process looks like in practice and how the structure of Congress interacts with the electoral, partisan, ideological, and interestgroup influences on its members to determine their behavior. To accomplish this objective, we will apply rational choice theory to analyze Congress as social scientists do while also evaluating the limitations of this approach. In addition, we will examine the place Congress occupies in the broader governmental system, exploring its relationships with the presidency, courts, and federal bureaucracy. Throughout the semester, we will assess Congresss performance in terms of effectiveness and representation along with what can be done to improve it.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "US legislative structure, organization, procedures, and history.",
+                                                    "prerequisite_knowledge":  "Decision Processes in American Political Institutions (84-104) is a prerequisite for this course. Students who have not taken 84-104 and would like to enroll should contact the instructor.",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

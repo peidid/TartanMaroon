@@ -1,0 +1,37 @@
+{
+        "code":  "03-260",
+        "name":  "Neurobiology of Disease",
+        "short_name":  "NEURO OF DISEASE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will explore the biological basis of several neurological and neuropsychiatric diseases, with an emphasis on medical diagnostic tools and techniques. It will include discussions of the anatomical basis of neurological diseases as well as recent research into understanding the mechanisms of disease. This course is intended to broaden students understanding of how diseases are diagnosed and studied.  Students will also learn how basic neurological and psychiatric evaluations are conducted and gain proficiency in these evaluation techniques.  We will begin with a discussion of clinical neuroanatomy to serve as a basis for understanding brain structures and functional alterations in a variety of developmental, degenerative, neurological, and psychiatric disorders.  Specific diseases covered may vary from year to year.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

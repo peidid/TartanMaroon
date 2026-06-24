@@ -1,0 +1,37 @@
+{
+        "code":  "76-483",
+        "name":  "Research Methods in Technical \u0026 Professional Communication",
+        "short_name":  "RSCH MTHDS TECH PROF",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-270 [] at least D) or (76-271 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides you with practical, handson experience with designing, collecting, and analyzing research in Technical and Professional Communication. These same research methods are also applicable to Writing Studies and classroom research. We will go into depth on three main methods in this class interviews, surveys, and thinkaloud protocols. In addition, we will touch on focus groups, eyetracking analysis, and collaborative analysis techniques.  More specifically, in this class you will learn how to design wellworded questions that produce reliable information critically reflect on and improve your interview technique explore software designed to aid in openended analysis of qualitative data design an AB or controlexperimental study write a datadriven research report, and experiment with a range of data collection techniques. Students taking the course for 12units will have additional readings that look at how these research methods have been applied in Technical and Professional Communication and Writing Studies.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will improve on their abilities to ask good research questions and good survey and interview questions Students will practice implementing a range of research techiques Students will learn how to design an AB or quasiexperimental study Students will learn techniques for analyzing qualitative and quantiative data",
+                                                    "key_topics":  "Interviewing methods, Analyzing large amounts of qualitative data, Survey methods and analysis, Think-aloud usability protocols",
+                                                    "prerequisite_knowledge":  "Writing professional documents, document design",
+                                                    "assessment_structure":  "The class is very hands-on: There will be four major projects and regular hands-on activities",
+                                                    "relevance":  "Professional and technical writing students will learn essential research methods for analyzing users; Rhetoric students (and others) will gain experience with essential methods for conducting writing studies research",
+                                                    "learning_resources":  "Canvas with readings; Access to MaxQDA qualtiative data analysis software; Qualtrics survey software;",
+                                                    "extra_time_commitment":  null
+                                            }
+}

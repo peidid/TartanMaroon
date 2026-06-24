@@ -1,0 +1,37 @@
+{
+        "code":  "76-233",
+        "name":  "Literature and Culture in the Renaissance",
+        "short_name":  "LIT \u0026 CUL RENAISSANC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Renaissance was a time of worldshattering change brought about by innovation, exploration, colonization, religious upheaval, the emergence of capitalism, the print revolution, scientific discovery, and unprecedented flourishing in the creative arts. In England, the same years also ushered in a golden age for English literature, which grew into its own with the arrival of canonical authors such as Thomas More, William Shakespeare, Edmund Spenser, John Milton, and many others. This course will introduce students to literary and cultural studies by convening a survey of works from the English Renaissance alongside a selection of critical readings that will help to bring Englands extraordinary literary output into connection with its equally fascinating cultural context. In addition to canonical works by authors such as Shakespeare and Milton, we will also study lesserknown works by brilliant female authors such as Elizabeth Carey and Margaret Cavendish, women who have been left out of the traditional canon, not for a lack of literary merit, but because of their gender. On a similar note, the course will also consider questions such as, How can modern readers best navigate the ethical hazards presented by problematic, centuriesold artworks To what extent can we hold such artworks responsible for ideas that violate contemporary values, or contemporary boundaries of appropriateness and To what extent can one study and learn from such artworks without endorsing or perpetuating the objectionable ideas or opinions they represent  As we read, write, and converse together, we will work toward a broad understanding of what the literature of the English Renaissance means in a 21st century context, and how it has helped to shape the culture of modernity.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students in this course will learn how to 1. Frame and reframe fundamental questions who, what, where, when, why, and how in order to interpret the literature of early modernity. 2. Select and interpret materials that enrich inquiry, such as archival records, media sources, literary texts, letters, journals, official documents, images, etc. 3. Analyze and interpret early modern texts from medium and longterm historical perspectives. 4. Consider how thinking about early modern literature has developed and situate their own way of thinking in relation to such traditions. 5. Generate a substantive argument that includes appropriate elements i.e., claim, counterclaims, reasons, and evidence and adheres to appropriate disciplinary conventions.6. Communicate an argument in various forms written, verbal and visual as appropriate to the context.7. Prepare coherent and clearly organized oral, written, and visual products based on purpose, genre, context, and audience.",
+                                                    "key_topics":  "renaissance, literature, culture",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Two essay assignments, discussion posts on Canvas, class participation, and a final \"maker project\" (choice of film, creative writing, or multimedia presentation).",
+                                                    "relevance":  "Dietrich GenEd prior to Fall 2021: Reflecting\nDietrich GenEd after Fall 2021: Disciplinary Perspectives Humanities",
+                                                    "learning_resources":  "All video and text resources available through Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

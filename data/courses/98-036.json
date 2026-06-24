@@ -1,0 +1,37 @@
+{
+        "code":  "98-036",
+        "name":  "Student Taught Courses (StuCo):Intro to Cars and Motorsports",
+        "short_name":  "STUCO: DRIVEN",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Join in as we take a look at some of the most remarkable innovation in automotive history from a laymans perspective. Ranging from every day civilian vehicles to hypercars and motorsport spec vehicles, we will watch lots of informative shows and videos like Top Gear, 5th Gear, Vehicle Virgins, etc. and respectfully voice our opinions.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

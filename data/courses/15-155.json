@@ -1,0 +1,42 @@
+{
+        "code":  "15-155",
+        "name":  "The Computational Lens",
+        "short_name":  "COMPUTATIONAL LENS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-110 [] at least D) or (15-104 [] at least D) or (15-112 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "15-251",
+                                                    "id":  2669,
+                                                    "name":  "Great Ideas in Theoretical Computer Science",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What is knowable, in principle and in practice  What does it mean to be intelligent  Can creativity be automated  What is the role of randomness in the universe  How can we achieve provable guarantees of security, privacy, fairness, etc. in various settings  What does the social network of the world look like  Do we live in a simulation  Despite their differences, all of these questions are fundamentally about the notion of computation. And all these questions can be put under the following single umbrella  What is computation and how does it shape our understanding of life, science, technology, and society  This course is for anyone interested in these questions and more broadly, anyone interested in the algorithmic lens to tackle hard, foundational problems. Our goal will be to find reliable explanations through modeling and rigorous reasoning. We will discuss great and powerful ideas from the field of theory of computation and see how these ideas shed new light on human reasoning, laws of nature, life, technology, and society.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "computationallens.com",
+        "custom_fields":  {
+                                                    "goals":  "Define the notions of computation, algorithm, and computational complexity.Express and compare the computability and computational complexity of problems.State and give examples of the connections of the theory of computation with mathematics, physics, biology, statistics, philosophy, social sciences and economics.State and give examples of technological realworld applications of the theory of computation.Recognize the use of ideas and techniques from the theory of computation, like modeling, abstraction, algorithmic thinking, reductions, classifications.State and explain the important and wellknown open problems in the theory of computation and their connections to other fields.",
+                                                    "key_topics":  "Introduction to mathematical reasoning\nFormalization of computation\nUncountability\nUncomputability\nUnprovability\nComputational complexity\nGraph/network theory\nP vs NP\nOverview of randomness in computer science\nRandomized algorithms\nCryptography\nQuantum computation\nStatistical physics\nLearning theory\nEvolution as a learning algorithm\nFair division\nAlgorithmic game theory\nInteractive Proofs",
+                                                    "prerequisite_knowledge":  "Some elementary programming experience. No mathematics background beyond high school mathematics is expected.",
+                                                    "assessment_structure":  "Weekly homework. No exams.",
+                                                    "relevance":  "Theory of computation is one of the richest and deepest intellectual fields with connections to computer science \u0026 engineering, mathematics, physics, biology, statistics, philosophy, social sciences, economics, etc. The reason for this is that computation (i.e. information processing) is very fundamental, and in many systems ¿ whether natural or human-made, primitive or emergent ¿ the most important or relevant aspect of the system is how information evolves. Theory of computation brings powerful ideas and techniques like modeling, abstractions, algorithms, reductions, classifications, etc. that help us push the boundaries of what we know, what we understand, and what we can explain. Future intellectuals and leaders, whether they have a technical background or not, should recognize the true nature of computation as one of the pillars of human knowledge, understanding and discovery.",
+                                                    "learning_resources":  "Course notes, online readings, course discussion board",
+                                                    "extra_time_commitment":  null
+                                            }
+}

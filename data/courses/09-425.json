@@ -1,0 +1,37 @@
+{
+        "code":  "09-425",
+        "name":  "Special Topics in Chemistry:Environmental Exposure and Risk Assessment",
+        "short_name":  "ENVIRON EXP\u0026RISK",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((09-106 [] at least D) or (09-107 [] at least D)) and ((09-217 [] at least D) or (09-219 [] at least D) or (03-231 [] at least D) or (03-232 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Our world is full of synthetic and naturally occurring toxic chemicals, presenting an imminent but difficulttoquantify threat for human and ecosystem health. In this papersbased course we will ask the question, How do we decide whats safe in the context of exposure and risk assessment for toxic environmental pollutants. We will complete a series of case studies featuring current and seminal literature, inclass activities, and projectbased assignments. Each case study will focus on a distinct contaminant exposure scenario and will be linked back to the common theme of using chemistry to understand how external exposure leads to internal dose and subsequent health impacts for diverse environmental pollutants. We will discuss how knowledge generated in the laboratory can be translated and used to inform regulatory decisions. The first half of the course will focus on contaminant bioavailability, exposure, and toxic effects in aquatic organisms. In the second half of the course, we will discuss human exposure to toxic pollutants and strategies to assess risks in the human population, including the human exposome concept, omicsbased research, and strategies for discovering novel harmful contaminants.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1.Critically read and review scientific literature related to environmental exposure and associated health risks 2.Be familiar with the major types of environmental pollutants and associated toxic effects 3.Be familiar with the common ways that we monitor for harmful pollutants and measure their toxicity, as well as sources of uncertainty or limitations of these methods4.Understand how we define acceptable risks in different contexts for example, for wildlife versus humans5.Understand how chemical properties impact bioavailability, accumulation and tissue distribution in living things, and how this is related to adverse health effects 6.Be able to apply simple models for estimating toxic effects and internal dose based on external exposure levels7.Understand how to determine and communicate about acceptable levels and risks posed environmental contaminants and the sources of uncertainty in these levels, including how to create informative figures to summarize scientific information",
+                                                    "key_topics":  "Environmental chemistry, environmental health, environmental monitoring, toxicokinetics, biomonitoring, exposome, environmental pollutants, risk assessment",
+                                                    "prerequisite_knowledge":  "9-UNIT VERSION: Completion of introductory chemistry courses 09-105/09-106 recommended.\n12-UNIT VERSION: Basic knowledge of organic chemistry and/or biochemistry recommended [03-232 or 09-217]",
+                                                    "assessment_structure":  "Students\u0027 understanding of the material will be assessed through participation in in-class discussions and activities, pop quizzes based on reading assignments, team projects including in-class presentations, and a final term paper with accompanying in-class presentation. The final term paper will critically review a topic related to contaminant exposure and risk assessment and incorporate aspects of global change or environmental justice. Students enrolled in the 12-unit course will complete additional reading assignments and in-class presentations, as well as completing a more-in depth critical review for their final term paper.",
+                                                    "relevance":  "The course exposes students to the many ways in which chemistry can be applied to understand issues in environmental health and risk assessment and shows how knowledge generated from laboratory research can ultimately be used to inform policy (e.g., regulatory levels of environmental pollutants). It is relevant to STEM majors who are interested in applying their knowledge to better understand current issues related to environmental health.",
+                                                    "learning_resources":  "There is no required text for this course. Reading materials will be posted in Canvas, as will links to any podcasts or videos assigned for listening/viewing.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

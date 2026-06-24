@@ -1,0 +1,37 @@
+{
+        "code":  "70-381",
+        "name":  "Marketing I",
+        "short_name":  "MARKETING I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-102 [] at least D) or (76-101 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "An introduction to the nature and fundamentals of marketing and consumer behavior. Topics include an analysis of the economic and psychological factors influencing buyer behavior, marketing research, market segmentation, and the development of marketing programs new product, price, advertising and distribution decisions. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The objective of this course is to introduce students to the concepts, analyses, and activities that comprise marketing management, and to provide practice in assessing and solving marketing problems.",
+                                                    "key_topics":  "Consumer behavior, branding, product life cycle, segmentation/targeting/positioning, marketing research, pricing, channel, retail, promotion, platform strategy, marketing math.",
+                                                    "prerequisite_knowledge":  "This is an introductory course that is suitable for any and all students with an interest in marketing and business topics. Students will be expected to think critically about real-world marketing problems.",
+                                                    "assessment_structure":  "Midterm, final, five assignments, participation, and a group project.",
+                                                    "relevance":  "The course is a foundation for advanced electives in marketing as well as other business/social science disciplines.",
+                                                    "learning_resources":  "1) Recommended (but not required) textbook:\nMKTG12 by Lamb, Hair, and McDaniel\n2) Required material: course packet with case studies",
+                                                    "extra_time_commitment":  null
+                                            }
+}

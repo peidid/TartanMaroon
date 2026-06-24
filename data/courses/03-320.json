@@ -1,0 +1,37 @@
+{
+        "code":  "03-320",
+        "name":  "Cell Biology",
+        "short_name":  "CELL BIOLOGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((03-120 [] at least D) or (03-121 [] at least D) or (03-151 [] at least D)) and ((03-232 [] at least D) or (03-233 [] at least D) or (03-231 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides descriptive information and mechanistic detail concerning key cellular processes in six areas membrane function, protein targeting, signaling, cytoskeleton, cell division, and cell interaction. An attempt is made to introduce the methodology that was used to obtain this information and to discuss how our understanding of these processes relates to the treatment of human disease.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/bio/undergrad/courses/index.html",
+        "custom_fields":  {
+                                                    "goals":  "The basic goal is to understand how cells operate, communicate, and control their activities. The level spans the spectrum from the structurefunction analysis of single molecules to tissue organization within a complex organism. Nevertheless, the emphasis is on how molecules and their interactions carry out specific cellular processes in the following major areas of cell biology protein targeting, signaling, cytoskeleton including cell adhesion, and cell division. Secondary goals include the experimental basis of our understanding diverse disciplines such as biochemistry, genetics, microscopy and physiology, and diverse model systems including bacteria, yeast, flies, and cultured mammalian cells, the medical relevance of the material linking basic molecular mechanism to understanding diseases and intervention, and an evolutionary view of bioregulatory mechanisms.",
+                                                    "key_topics":  "Cell evolution, Nuclear targeting, ER translocation \u0026 quality control, Vescile trafficking, GPCR and RTK signaling, Cytoskeleton \u0026 motors, Cell adhesion, Cell cycle \u0026 cell death, Nerve cells",
+                                                    "prerequisite_knowledge":  "Biochemistry, Introductory Biology",
+                                                    "assessment_structure":  "Assessment Structure\t 4 midterm exams, a comprehensive final exam, weekly problem sets",
+                                                    "relevance":  "Cellular life depends on chemical interactions coordinated in time and space and influenced by the cell\u0027s genetic instructions and its environment. An understanding of these interactions at the molecular level is medically relevant and addresses fundamental questions about life.",
+                                                    "learning_resources":  "Students are required to read selected chapters of \"Molecular Cell Biology\" by Lodish et al. (Freeman ). Optional multimedia resources are available to students.",
+                                                    "extra_time_commitment":  "Read and work problems for a minimum of 6 hours per week outside of class."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "67-357",
+        "name":  "Healthcare Analytics and Big Data",
+        "short_name":  "HLTHCR ANLTC \u0026 BG DT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "36-200 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will help students gain a deep understanding of how healthcare analytics supports the reengineering of complex processes that drive return on investment and reduced medical costs and how the big data revolution is accelerating value and innovation in healthcare.  Topics to be covered include i how analytics improves healthcare decision making ii how to leverage analytics in healthcare quality improvement activities iii how to develop an analytics strategy iii how improved data quality and better data governance enhances the quality of healthcare v creating a datadriven healthcare organization and vi applying big data to transform the healthcare industry.  Besides gaining handson lab experience with analytics tools and technologies used in realworld healthcare organizations, students will also work on a group project to understand better the challenges and opportunities that big data analytics presents to healthcare and the life sciences.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The primary goal of this course is to help students develop an analytics mindset in the healthcare context. The student will gain the ability to discuss the business value of analytics in healthcare, particularly in reducing costs and increasing quality, be able to work with healthcare data and understand the importance of data quality and data governance. They will learn to apply analytics tools to solve realworld problems in the healthcare domain with focus on descriptive, predictive, and prescriptive modeling and analysis. The student will gain understanding of the promises and perils of big data in healthcare and develop case studies on applying big data analytics to develop innovative solutions to emerging problems. Further, the student will understand the strategic implications in becoming an analytics organization. Be able to demonstrate responsibilities and contributions in a teambased environment based upon prenegotiated group timelines, roles and deliverables.",
+                                                    "key_topics":  "Topics to be covered include (i) different types of analytics with examples; (ii) case studies of how analytics improves healthcare decision making; (iii) how to leverage analytics in healthcare quality improvement activities; (iv) how to develop an analytics strategy; (iii) how improved data quality and better data governance enhances the quality of healthcare; (v) creating a data-driven healthcare organization; and (vi) exemplars of applying big data to transform the healthcare industry;",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "This course will use a combination of reading assignments, case studies, group projects, three exams, inclass activities, and a series of lab activities in descriptive, predictive, and prescriptive analytics applied to healthcare .",
+                                                    "relevance":  "Healthcare analytics is gaining increasing attention as an effective means of quality improvement while reducing costs. This course provides students a solid foundation to applying analytics in the real world.",
+                                                    "learning_resources":  "\"Required Texts:\nTB1- \"Healthcare Analytics: For Quality and Performance Improvement\" by Trevor L. Strome\nTB2 - \"R in Action\" by Robert Kabacoff\n\"",
+                                                    "extra_time_commitment":  "None beyond the regular 9-unit hours of classwork, homework, preparation for exams, and team activities."
+                                            }
+}

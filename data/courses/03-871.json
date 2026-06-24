@@ -1,0 +1,37 @@
+{
+        "code":  "03-871",
+        "name":  "Structural Biophysics",
+        "short_name":  "STRUCTURL BIOPHYSICS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((03-231 [] at least D) or (03-232 [] at least D)) and ((09-214 [] at least D) or (09-344 [] at least D)) and ((21-120 [] at least D) or (21-122 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course MB1 is the firstsemester core course for the joint CMUPitt graduate program in Molecular Biophysics and Structural Biology MBSB. The physical properties of biological macromolecules and the methods used to analyze their structure and function are discussed in indepth lectures. Topics covered include protein architecture and folding nucleic acid structures and energetics structure determination by Xray crystallography and NMR optical spectroscopy with emphasis on absorption and fluorescence, NMR spectroscopic methods other methods to characterize proteins and proteinligand interactions, such as mass spectrometry, calorimetry, singlemolecule manipulation and measurements, and surface plasmon resonance. Sufficient detail is given to allow the student to critically evaluate the current literature.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "03871 provides a substantial theoretical foundation for understanding modern methods for determination of biomolecular structure, interactions, and dynamics.",
+                                                    "key_topics":  "Protein structure\nDNA and RNA structure\nAbsorption and fluorescence spectroscopy\nNMR spectroscopy\nSolid-state NMR\nDifferential scanning calorimetry\nIsothermal titration calorimetry\nElectron microscopy\nSingle-molecule imaging and measurements\nProtein-DNA interactions\nMass spectrometry\nX-ray crystallography\nIsotope exchange\nCircular dichroism",
+                                                    "prerequisite_knowledge":  "Basic biochemistry, chemical thermodynamics, and 2nd-year physics or physical chemistry",
+                                                    "assessment_structure":  "Instructors will assign a problem set or exam for each topical unit.",
+                                                    "relevance":  "This is a required course for graduate students entering the MBSB graduate program.",
+                                                    "learning_resources":  "Course notes, course web page postings.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

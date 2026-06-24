@@ -1,0 +1,37 @@
+{
+        "code":  "80-419",
+        "name":  "Interactive Theorem Proving",
+        "short_name":  "INTER THEOREM PROV",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(80-211 [] at least D) or (21-300 [] at least D) or (15-317 [] at least D) or (80-310 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Interactive theorem proving involves using computational proof assistants to verify that mathematical proofs are correct, or to verify that hardware and software designs meet their formal specifications. This course uses a new interactive theorem prover, Lean, to explore this new technology and its logical foundations. We will study dependent type theory, a powerful and expressive language for representing mathematical objects, algorithms, and proofs. We will also consider automated methods that can be used in support of formal verification, including propositional, equational, firstorder, and higherorder methods, as well as decision procedures for real and integer arithmetic.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://leanprover.github.io/theorem_proving_in_lean/",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "02-261",
+        "name":  "Quantitative Cell and Molecular Biology Laboratory",
+        "short_name":  "QNTV CL MLC BLG LAB",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-112 [] at least D) or (02-120 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is an introductory laboratorybased course designed to teach basic biological laboratory skills used in exploring the quantitative nature of biological systems and the reasoning required for performing research in computational biology. Over the course of the semester, students will design and perform multiple modern experiments and quantitatively analyze the results of these experiments. During this course students will also have an opportunity to use techniques learned during the course to experimentally answer an open question.  Designing the experiments will require students to think critically about the biological context of the experiments as well as the necessary controls to ensure interpretable experimental results.  During this course students will gain experience in many aspects of scientific research, including sequencing DNA, designing and performing PCR for a variety of analyses, maintaining cell cultures, taking brightfield and fluorescent microscopy images, developing methods for automated analysis of cell images, communicating results to peers and colleagues. Course Outline 1 3hour lab per week, 1 1hour lecture per week.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "During this course, students will learn to Interpret, follow and write a scientific protocol Propose, design, and perform scientific experiments Develop and apply computational methods for data analysis Present scientific results to colleagues",
+                                                    "key_topics":  "- Sequencing and analyzing DNA\n- Developing computational methods for designing and performing PCR\n- Maintaining cell cultures\n- Acquiring brightfield and fluorescent microscopy images\n- Designing computational methods for Image analysis\n- Designing protocols for automated experiments\n- Communicating results to peers and colleagues",
+                                                    "prerequisite_knowledge":  "Students should have a basic knowledge of programming",
+                                                    "assessment_structure":  "Assessment will be based on lab reports and notebooks, programming assignments, final project, presentations and participation.",
+                                                    "relevance":  "Computational Biology majors should register for the 12-unit version of 02-261. All other students should register for 9 units.\n\nThis class is intended for Computational Biology Majors and Minors and students seeking to fulfill a CSD Science and Engineering requirement as well as the lab requirement, and Dietrich College\u0027s Modeling/Science Gen Ed requirement.",
+                                                    "learning_resources":  "Canvas",
+                                                    "extra_time_commitment":  "no extra time commitments"
+                                            }
+}

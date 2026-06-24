@@ -1,0 +1,1191 @@
+{
+  "program": {
+    "title": "BS in Biological Sciences",
+    "school": "Qatar Biological Sciences",
+    "university": "Carnegie Mellon University",
+    "degree": "BS",
+    "audit_version": "EY2024+ Doha BS in Biological Sciences",
+    "visibility": "PUBLIC",
+    "last_published": "September 15, 2025",
+    "published_by": "Jarrin Nevel",
+    "applies_to_students": 30,
+    "entry_year": {
+      "start": 2024,
+      "end": null,
+      "description": "2024 and later"
+    },
+    "campus": "Doha"
+  },
+  "program_requirements": {
+    "total_units_required": 312,
+    "mode_average_units": 9
+  },
+  "requirements": {
+    "biological_sciences": {
+      "mode_average_units": 9,
+      "modern_biology": {
+        "mode_average_units": 10,
+        "choose_one_from": [
+          {
+            "code": "03-121",
+            "title": "Modern Biology"
+          },
+          {
+            "code": "03-151",
+            "title": "Honors Modern Biology"
+          }
+        ]
+      },
+      "colloquia": {
+        "units_required": 2,
+        "mode_average_units": 1,
+        "non_letter_grade_allowed": true,
+        "choose_from": [
+          {
+            "code": "03-201",
+            "title": "Undergraduate Colloquium for Sophomores"
+          },
+          {
+            "code": "03-202",
+            "title": "Undergraduate Colloquium for Sophomores"
+          },
+          {
+            "code": "03-301",
+            "title": "Undergraduate Colloquium for Juniors"
+          },
+          {
+            "code": "03-302",
+            "title": "Undergraduate Colloquium for Juniors"
+          },
+          {
+            "code": "03-401",
+            "title": "Undergraduate Colloquium for Seniors"
+          },
+          {
+            "code": "03-402",
+            "title": "Undergraduate Colloquium for Seniors"
+          }
+        ]
+      },
+      "genetics": {
+        "mode_average_units": 9,
+        "required_course": {
+          "code": "03-220",
+          "title": "Genetics"
+        }
+      },
+      "biochemistry": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "03-231",
+            "title": "Honors Biochemistry"
+          },
+          {
+            "code": "03-232",
+            "title": "Biochemistry I"
+          }
+        ]
+      },
+      "introduction_to_computational_biology": {
+        "units_required": 12,
+        "mode_average_units": 6,
+        "choose_from": [
+          {
+            "code": "02-250",
+            "title": "Introduction to Computational Biology"
+          },
+          {
+            "code": "03-250",
+            "title": "Introduction to Computational Biology"
+          },
+          {
+            "code": "03-251",
+            "title": "Introduction to Computational Molecular Biology"
+          },
+          {
+            "code": "03-252",
+            "title": "Introduction to Computational Cell Biology"
+          }
+        ]
+      },
+      "cell_biology": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "03-240",
+            "title": "Cell Biology"
+          },
+          {
+            "code": "03-320",
+            "title": "Cell Biology"
+          }
+        ]
+      },
+      "experimental_techniques_molecular_biology": {
+        "mode_average_units": 12,
+        "required_course": {
+          "code": "03-343",
+          "title": "Experimental Techniques in Molecular Biology"
+        }
+      },
+      "experimental_biochemistry": {
+        "mode_average_units": 12,
+        "choose_one_from": [
+          {
+            "code": "03-344",
+            "title": "Experimental Biochemistry"
+          },
+          {
+            "code": "03-345",
+            "title": "Experimental Cell and Developmental Biology"
+          },
+          {
+            "code": "03-346",
+            "title": "Experimental Neuroscience"
+          }
+        ]
+      },
+      "topics_in_research": {
+        "units_required": 2,
+        "mode_average_units": 1,
+        "non_letter_grade_allowed": true,
+        "choose_from": [
+          {
+            "code": "03-411",
+            "title": "Topics in Research"
+          },
+          {
+            "code": "03-412",
+            "title": "Topics in Research"
+          }
+        ]
+      },
+      "biological_sciences_electives": {
+        "total_units_required": 54,
+        "mode_average_units": 9,
+        "advanced_biological_sciences_electives": {
+          "units_required": 18,
+          "mode_average_units": 9,
+          "courses": [
+            {
+              "code": "03-326",
+              "title": "Evolution of Regulatory Genomics"
+            },
+            {
+              "code": "03-327",
+              "title": "Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method"
+            },
+            {
+              "code": "03-350",
+              "title": "Developmental Biology"
+            },
+            {
+              "code": "03-362",
+              "title": "Cellular Neuroscience"
+            },
+            {
+              "code": "03-363",
+              "title": "Systems Neuroscience"
+            },
+            {
+              "code": "03-364",
+              "title": "Developmental Neuroscience"
+            },
+            {
+              "code": "03-365",
+              "title": "Neural Correlates of Learning and Memory"
+            },
+            {
+              "code": "03-366",
+              "title": "Neuropharmacology: Drugs, Brain and Behavior"
+            },
+            {
+              "code": "03-380",
+              "title": "Virology"
+            },
+            {
+              "code": "03-390",
+              "title": "Molecular and Cellular Immunology"
+            },
+            {
+              "code": "03-391",
+              "title": "Microbiology"
+            },
+            {
+              "code": "03-392",
+              "title": "Microbiology Laboratory"
+            },
+            {
+              "code": "03-410",
+              "title": "Special Topics in Biological Sciences"
+            },
+            {
+              "code": "03-428",
+              "title": "Genome Editing"
+            },
+            {
+              "code": "03-435",
+              "title": "Cancer Biology"
+            },
+            {
+              "code": "03-439",
+              "title": "Introduction to Biophysics"
+            },
+            {
+              "code": "03-442",
+              "title": "Molecular Biology"
+            },
+            {
+              "code": "03-451",
+              "title": "Advanced Developmental Biology and Human Health"
+            },
+            {
+              "code": "03-511",
+              "title": "Computational Molecular Biology and Genomics"
+            },
+            {
+              "code": "03-512",
+              "title": "Computational Methods for Biological Modeling and Simulation"
+            },
+            {
+              "code": "03-534",
+              "title": "Biological Imaging and Fluorescence Spectroscopy"
+            },
+            {
+              "code": "03-620",
+              "title": "Techniques in Electron Microscopy"
+            },
+            {
+              "code": "03-709",
+              "title": "Applied Cell and Molecular Biology"
+            },
+            {
+              "code": "03-711",
+              "title": "Computational Molecular Biology and Genomics"
+            },
+            {
+              "code": "03-712",
+              "title": "Computational Methods for Biological Modeling and Simulation"
+            },
+            {
+              "code": "03-713",
+              "title": "Bioinformatics Data Integration Practicum"
+            },
+            {
+              "code": "03-726",
+              "title": "Evolution of Regulatory Genomics"
+            },
+            {
+              "code": "03-727",
+              "title": "Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method"
+            },
+            {
+              "code": "03-728",
+              "title": "Genome Editing Biotechnology"
+            },
+            {
+              "code": "03-730",
+              "title": "Advanced Genetics"
+            },
+            {
+              "code": "03-740",
+              "title": "Advanced Biochemistry"
+            },
+            {
+              "code": "03-741",
+              "title": "Advanced Cell Biology"
+            },
+            {
+              "code": "03-742",
+              "title": "Advanced Molecular Biology"
+            },
+            {
+              "code": "03-744",
+              "title": "Membrane Trafficking"
+            },
+            {
+              "code": "03-751",
+              "title": "Advanced Developmental Biology and Human Health"
+            },
+            {
+              "code": "03-760",
+              "title": "Advanced Genomics and Epigenetics of the Brain"
+            },
+            {
+              "code": "03-762",
+              "title": "Advanced Cellular Neuroscience"
+            },
+            {
+              "code": "03-763",
+              "title": "Advanced Systems Neuroscience"
+            },
+            {
+              "code": "03-765",
+              "title": "Advanced Neural Correlates of Learning and Memory"
+            },
+            {
+              "code": "03-770",
+              "title": "Principles of Biotechnology"
+            },
+            {
+              "code": "03-791",
+              "title": "Advanced Microbiology"
+            },
+            {
+              "code": "03-871",
+              "title": "Structural Biophysics"
+            }
+          ]
+        },
+        "departmental_electives": {
+          "mode_average_units": 9,
+          "courses": [
+            {
+              "code": "03-115",
+              "title": "Phage Genomics Research"
+            },
+            {
+              "code": "03-116",
+              "title": "Phage Genomics Research"
+            },
+            {
+              "code": "03-124",
+              "title": "Modern Biology Laboratory"
+            },
+            {
+              "code": "03-125",
+              "title": "Evolution"
+            },
+            {
+              "code": "03-126",
+              "title": "Cellular Response to the Environment"
+            },
+            {
+              "code": "03-127",
+              "title": "How Biological Experiments Work - A Project Course"
+            },
+            {
+              "code": "03-133",
+              "title": "Neurobiology of Disease"
+            },
+            {
+              "code": "03-161",
+              "title": "Molecules to Mind"
+            },
+            {
+              "code": "03-326",
+              "title": "Evolution of Regulatory Genomics"
+            },
+            {
+              "code": "03-327",
+              "title": "Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method"
+            },
+            {
+              "code": "03-350",
+              "title": "Developmental Biology"
+            },
+            {
+              "code": "03-362",
+              "title": "Cellular Neuroscience"
+            },
+            {
+              "code": "03-363",
+              "title": "Systems Neuroscience"
+            },
+            {
+              "code": "03-364",
+              "title": "Developmental Neuroscience"
+            },
+            {
+              "code": "03-365",
+              "title": "Neural Correlates of Learning and Memory"
+            },
+            {
+              "code": "03-366",
+              "title": "Neuropharmacology: Drugs, Brain and Behavior"
+            },
+            {
+              "code": "03-370",
+              "title": "Principles of Biotechnology"
+            },
+            {
+              "code": "03-390",
+              "title": "Molecular and Cellular Immunology"
+            },
+            {
+              "code": "03-391",
+              "title": "Microbiology"
+            },
+            {
+              "code": "03-392",
+              "title": "Microbiology Laboratory"
+            },
+            {
+              "code": "03-428",
+              "title": "Genome Editing"
+            },
+            {
+              "code": "03-435",
+              "title": "Cancer Biology"
+            },
+            {
+              "code": "03-439",
+              "title": "Introduction to Biophysics"
+            },
+            {
+              "code": "03-442",
+              "title": "Molecular Biology"
+            },
+            {
+              "code": "03-451",
+              "title": "Advanced Developmental Biology and Human Health"
+            },
+            {
+              "code": "03-511",
+              "title": "Computational Molecular Biology and Genomics"
+            },
+            {
+              "code": "03-512",
+              "title": "Computational Methods for Biological Modeling and Simulation"
+            },
+            {
+              "code": "03-534",
+              "title": "Biological Imaging and Fluorescence Spectroscopy"
+            },
+            {
+              "code": "03-620",
+              "title": "Techniques in Electron Microscopy"
+            },
+            {
+              "code": "03-709",
+              "title": "Applied Cell and Molecular Biology"
+            },
+            {
+              "code": "03-711",
+              "title": "Computational Molecular Biology and Genomics"
+            },
+            {
+              "code": "03-712",
+              "title": "Computational Methods for Biological Modeling and Simulation"
+            },
+            {
+              "code": "03-713",
+              "title": "Bioinformatics Data Integration Practicum"
+            },
+            {
+              "code": "03-726",
+              "title": "Evolution of Regulatory Genomics"
+            },
+            {
+              "code": "03-727",
+              "title": "Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method"
+            },
+            {
+              "code": "03-728",
+              "title": "Genome Editing Biotechnology"
+            },
+            {
+              "code": "03-730",
+              "title": "Advanced Genetics"
+            },
+            {
+              "code": "03-740",
+              "title": "Advanced Biochemistry"
+            },
+            {
+              "code": "03-741",
+              "title": "Advanced Cell Biology"
+            },
+            {
+              "code": "03-742",
+              "title": "Advanced Molecular Biology"
+            },
+            {
+              "code": "03-744",
+              "title": "Membrane Trafficking"
+            },
+            {
+              "code": "03-751",
+              "title": "Advanced Developmental Biology and Human Health"
+            },
+            {
+              "code": "03-762",
+              "title": "Advanced Cellular Neuroscience"
+            },
+            {
+              "code": "03-763",
+              "title": "Advanced Systems Neuroscience"
+            },
+            {
+              "code": "03-765",
+              "title": "Advanced Neural Correlates of Learning and Memory"
+            },
+            {
+              "code": "03-770",
+              "title": "Principles of Biotechnology"
+            },
+            {
+              "code": "03-791",
+              "title": "Advanced Microbiology"
+            },
+            {
+              "code": "03-871",
+              "title": "Structural Biophysics"
+            },
+            {
+              "code": "03-113",
+              "title": "Biologies in Text and Film"
+            },
+            {
+              "code": "03-117",
+              "title": "Frontiers, Analysis, and Discovery in Biological Sciences"
+            },
+            {
+              "code": "03-230",
+              "title": "Intro to Mammalian Physiology"
+            },
+            {
+              "code": "03-120",
+              "title": "Biology for Life Special Topics Mini"
+            },
+            {
+              "code": "03-118",
+              "title": "Beer: A Yeast's Perspective"
+            }
+          ]
+        },
+        "undergraduate_research": {
+          "max_units": 18,
+          "mode_average_units": 1,
+          "courses": [
+            {
+              "code": "03-445",
+              "title": "Undergraduate Research"
+            },
+            {
+              "code": "03-545",
+              "title": "Honors Research"
+            }
+          ]
+        },
+        "interdisciplinary_electives": {
+          "max_courses": 3,
+          "mode_average_units": 9,
+          "courses": [
+            {
+              "code": "09-518",
+              "title": "Bioorganic Chemistry: Nucleic Acids and Carbohydrates"
+            },
+            {
+              "code": "09-519",
+              "title": "Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry"
+            },
+            {
+              "code": "09-521",
+              "title": "Metals in Biology: Function and Reactivity"
+            },
+            {
+              "code": "21-127",
+              "title": "Concepts of Mathematics"
+            },
+            {
+              "code": "21-128",
+              "title": "Mathematical Concepts and Proofs"
+            },
+            {
+              "code": "21-259",
+              "title": "Calculus in Three Dimensions"
+            },
+            {
+              "code": "36-200",
+              "title": "Reasoning with Data"
+            },
+            {
+              "code": "21-260",
+              "title": "Differential Equations"
+            },
+            {
+              "code": "36-201",
+              "title": "Statistical Reasoning and Practice"
+            },
+            {
+              "code": "36-247",
+              "title": "Statistics for Lab Sciences"
+            },
+            {
+              "code": "42-202",
+              "title": "Physiology"
+            },
+            {
+              "code": "85-170",
+              "title": "Foundations of Brain and Behavior"
+            },
+            {
+              "code": "85-219",
+              "title": "Foundations of Brain and Behavior"
+            }
+          ]
+        }
+      }
+    },
+    "chemistry": {
+      "mode_average_units": 10,
+      "modern_chemistry_i": {
+        "mode_average_units": 10,
+        "choose_one_from": [
+          {
+            "code": "09-105",
+            "title": "Introduction to Modern Chemistry I"
+          },
+          {
+            "code": "09-107",
+            "title": "Honors Chemistry: Fundamentals, Concepts and Applications"
+          }
+        ]
+      },
+      "modern_chemistry_ii": {
+        "mode_average_units": 10,
+        "required_course": {
+          "code": "09-106",
+          "title": "Modern Chemistry II"
+        }
+      },
+      "organic_chemistry_i": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "09-217",
+            "title": "Organic Chemistry I"
+          },
+          {
+            "code": "09-219",
+            "title": "Modern Organic Chemistry"
+          }
+        ]
+      },
+      "organic_chemistry_ii": {
+        "mode_average_units": 10,
+        "choose_one_from": [
+          {
+            "code": "09-218",
+            "title": "Organic Chemistry II"
+          },
+          {
+            "code": "09-220",
+            "title": "Modern Organic Chemistry II"
+          }
+        ]
+      },
+      "general_chemistry_lab": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "09-207",
+            "title": "Techniques in Quantitative Analysis"
+          },
+          {
+            "code": "09-221",
+            "title": "Laboratory I: Introduction to Chemical Analysis"
+          }
+        ]
+      },
+      "organic_chemistry_lab": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "09-208",
+            "title": "Techniques for Organic Synthesis and Analysis"
+          },
+          {
+            "code": "09-222",
+            "title": "Laboratory II: Organic Synthesis and Analysis"
+          },
+          {
+            "code": "QC-211",
+            "title": "Introduction to Experimental Organic Chemistry (Lab)"
+          }
+        ]
+      }
+    },
+    "mathematics_physics_computer_science": {
+      "mode_average_units": 12,
+      "programming": {
+        "mode_average_units": 10,
+        "choose_one_from": [
+          {
+            "code": "02-201",
+            "title": "Programming for Scientists"
+          },
+          {
+            "code": "15-110",
+            "title": "Principles of Computing"
+          },
+          {
+            "code": "15-112",
+            "title": "Fundamentals of Programming and Computer Science"
+          }
+        ]
+      },
+      "calculus_i": {
+        "mode_average_units": 10,
+        "choose_one_from": [
+          {
+            "code": "21-112",
+            "title": "Integral Calculus"
+          },
+          {
+            "code": "21-120",
+            "title": "Differential and Integral Calculus"
+          }
+        ]
+      },
+      "calculus_ii": {
+        "mode_average_units": 10,
+        "choose_one_from": [
+          {
+            "code": "21-122",
+            "title": "Integration and Approximation"
+          },
+          {
+            "code": "21-124",
+            "title": "Calculus II for Biologists and Chemists"
+          }
+        ]
+      },
+      "physics_i": {
+        "mode_average_units": 12,
+        "choose_one_from": [
+          {
+            "code": "33-111",
+            "title": "Physics I for Science Students"
+          },
+          {
+            "code": "33-121",
+            "title": "Physics I for Science Students"
+          },
+          {
+            "code": "33-141",
+            "title": "Physics I for Engineering Students"
+          },
+          {
+            "code": "33-151",
+            "title": "Matter and Interactions I"
+          }
+        ]
+      },
+      "physics_ii": {
+        "mode_average_units": 12,
+        "choose_one_from": [
+          {
+            "code": "33-112",
+            "title": "Physics II for Science Students"
+          },
+          {
+            "code": "33-122",
+            "title": "Physics II for Biological Sciences and Chemistry Students"
+          },
+          {
+            "code": "33-142",
+            "title": "Physics II for Engineering and Physics Students"
+          },
+          {
+            "code": "33-152",
+            "title": "Matter and Interactions II"
+          }
+        ]
+      }
+    },
+    "core_at_cmu": {
+      "mode_average_units": 3,
+      "non_letter_grade_allowed": true,
+      "choose_one_from": [
+        {
+          "code": "99-101",
+          "title": "Core@CMU"
+        },
+        {
+          "code": "99-102",
+          "title": "Core@CMU"
+        }
+      ]
+    },
+    "concentration_options": {
+      "mode_average_units": 9,
+      "double_counting_allowed": true,
+      "concentrations": {
+        "biochemistry": {
+          "mode_average_units": 9,
+          "required_biology_electives": {
+            "mode_average_units": 10,
+            "advanced_biochemistry": {
+              "mode_average_units": 12,
+              "required_course": {
+                "code": "03-740",
+                "title": "Advanced Biochemistry"
+              }
+            },
+            "advanced_calculus": {
+              "mode_average_units": 10,
+              "choose_one_from": [
+                {
+                  "code": "21-259",
+                  "title": "Calculus in Three Dimensions"
+                },
+                {
+                  "code": "21-260",
+                  "title": "Differential Equations"
+                }
+              ]
+            },
+            "choose_one_chemistry_course": {
+              "mode_average_units": 9,
+              "courses": [
+                {
+                  "code": "09-518",
+                  "title": "Bioorganic Chemistry: Nucleic Acids and Carbohydrates"
+                },
+                {
+                  "code": "09-519",
+                  "title": "Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry"
+                },
+                {
+                  "code": "09-521",
+                  "title": "Metals in Biology: Function and Reactivity"
+                }
+              ]
+            }
+          },
+          "recommended_biology_electives": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "03-442",
+                "title": "Molecular Biology"
+              },
+              {
+                "code": "03-534",
+                "title": "Biological Imaging and Fluorescence Spectroscopy"
+              },
+              {
+                "code": "03-439",
+                "title": "Introduction to Biophysics"
+              },
+              {
+                "code": "03-871",
+                "title": "Structural Biophysics"
+              }
+            ]
+          }
+        },
+        "biophysics": {
+          "mode_average_units": 10,
+          "required_biology_electives": {
+            "mode_average_units": 10,
+            "courses": [
+              {
+                "code": "03-439",
+                "title": "Introduction to Biophysics"
+              },
+              {
+                "code": "03-740",
+                "title": "Advanced Biochemistry"
+              },
+              {
+                "code": "21-259",
+                "title": "Calculus in Three Dimensions"
+              }
+            ]
+          },
+          "recommended_biology_electives": {
+            "mode_average_units": 12,
+            "courses": [
+              {
+                "code": "03-534",
+                "title": "Biological Imaging and Fluorescence Spectroscopy"
+              },
+              {
+                "code": "03-871",
+                "title": "Structural Biophysics"
+              }
+            ]
+          }
+        },
+        "cell_biology": {
+          "mode_average_units": 9,
+          "required_biology_electives": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "03-362",
+                "title": "Cellular Neuroscience"
+              },
+              {
+                "code": "03-390",
+                "title": "Molecular and Cellular Immunology"
+              }
+            ],
+            "choose_one_from": [
+              {
+                "code": "03-362",
+                "title": "Cellular Neuroscience"
+              },
+              {
+                "code": "03-390",
+                "title": "Molecular and Cellular Immunology"
+              }
+            ]
+          }
+        },
+        "computational_biology": {
+          "mode_average_units": 12,
+          "required_biology_electives": {
+            "mode_average_units": 12,
+            "courses": [
+              {
+                "code": "03-711",
+                "title": "Computational Molecular Biology and Genomics"
+              },
+              {
+                "code": "15-210",
+                "title": "Parallel and Sequential Data Structures and Algorithms"
+              }
+            ],
+            "choose_one_from": [
+              {
+                "code": "36-247",
+                "title": "Statistics for Lab Sciences"
+              },
+              {
+                "code": "21-260",
+                "title": "Differential Equations"
+              },
+              {
+                "code": "21-241",
+                "title": "Matrices and Linear Transformations"
+              }
+            ]
+          },
+          "recommended_biology_electives": {
+            "mode_average_units": 12,
+            "courses": [
+              {
+                "code": "03-512",
+                "title": "Computational Methods for Biological Modeling and Simulation"
+              },
+              {
+                "code": "15-451",
+                "title": "Algorithm Design and Analysis"
+              },
+              {
+                "code": "09-560",
+                "title": "Computational Chemistry"
+              }
+            ]
+          }
+        },
+        "genetics": {
+          "mode_average_units": 9,
+          "required_biology_electives": {
+            "mode_average_units": 9,
+            "genetics_course_requirement": {
+              "minimum_grade": "B",
+              "mode_average_units": 9,
+              "required_course": {
+                "code": "03-220",
+                "title": "Genetics"
+              }
+            },
+            "additional_courses": [
+              {
+                "code": "03-326",
+                "title": "Evolution of Regulatory Genomics"
+              },
+              {
+                "code": "03-327",
+                "title": "Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method"
+              },
+              {
+                "code": "03-442",
+                "title": "Molecular Biology"
+              },
+              {
+                "code": "03-730",
+                "title": "Advanced Genetics"
+              }
+            ]
+          },
+          "recommended_biology_electives": {
+            "mode_average_units": 9,
+            "course": {
+              "code": "03-391",
+              "title": "Microbiology"
+            }
+          }
+        },
+        "developmental_biology": {
+          "mode_average_units": 9,
+          "required_biology_electives": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "03-350",
+                "title": "Developmental Biology"
+              },
+              {
+                "code": "03-442",
+                "title": "Molecular Biology"
+              },
+              {
+                "code": "03-751",
+                "title": "Advanced Developmental Biology and Human Health"
+              }
+            ]
+          },
+          "recommended_biology_electives": {
+            "mode_average_units": 4.5,
+            "courses": [
+              {
+                "code": "03-326",
+                "title": "Evolution of Regulatory Genomics"
+              },
+              {
+                "code": "03-741",
+                "title": "Advanced Cell Biology"
+              }
+            ]
+          }
+        },
+        "molecular_biology": {
+          "mode_average_units": 9,
+          "required_biology_elective": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "03-442",
+                "title": "Molecular Biology"
+              },
+              {
+                "code": "09-518",
+                "title": "Bioorganic Chemistry: Nucleic Acids and Carbohydrates"
+              },
+              {
+                "code": "03-726",
+                "title": "Evolution of Regulatory Genomics"
+              },
+              {
+                "code": "03-727",
+                "title": "Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method"
+              }
+            ]
+          },
+          "recommended_biology_elective": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "03-390",
+                "title": "Molecular and Cellular Immunology"
+              },
+              {
+                "code": "03-391",
+                "title": "Microbiology"
+              },
+              {
+                "code": "03-730",
+                "title": "Advanced Genetics"
+              }
+            ]
+          }
+        },
+        "neuroscience": {
+          "mode_average_units": 9,
+          "required_biology_electives": {
+            "graduate_course_required": {
+              "course_range": "03-700 to 03-999",
+              "min_courses": 1
+            },
+            "mode_average_units": 9,
+            "cellular_neuroscience": {
+              "mode_average_units": 9,
+              "choose_one_from": [
+                {
+                  "code": "03-362",
+                  "title": "Cellular Neuroscience"
+                },
+                {
+                  "code": "03-762",
+                  "title": "Advanced Cellular Neuroscience"
+                }
+              ]
+            },
+            "systems_neuroscience": {
+              "mode_average_units": 9,
+              "choose_one_from": [
+                {
+                  "code": "03-363",
+                  "title": "Systems Neuroscience"
+                },
+                {
+                  "code": "03-763",
+                  "title": "Advanced Systems Neuroscience"
+                }
+              ]
+            },
+            "choose_one_additional_course": {
+              "mode_average_units": 9,
+              "courses": [
+                {
+                  "code": "03-133",
+                  "title": "Neurobiology of Disease"
+                },
+                {
+                  "code": "03-350",
+                  "title": "Developmental Biology"
+                },
+                {
+                  "code": "03-364",
+                  "title": "Developmental Neuroscience"
+                },
+                {
+                  "code": "03-365",
+                  "title": "Neural Correlates of Learning and Memory"
+                },
+                {
+                  "code": "03-366",
+                  "title": "Neuropharmacology: Drugs, Brain and Behavior"
+                },
+                {
+                  "code": "03-534",
+                  "title": "Biological Imaging and Fluorescence Spectroscopy"
+                },
+                {
+                  "code": "42-202",
+                  "title": "Physiology"
+                },
+                {
+                  "code": "85-170",
+                  "title": "Foundations of Brain and Behavior"
+                },
+                {
+                  "code": "85-219",
+                  "title": "Foundations of Brain and Behavior"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    
+    "general_requirements": {
+      "qatar_biological_sciences_degree_check": {
+        "mode_average_units": 9,
+        "double_counting_allowed": "unlimited",
+        "requirements": [
+          "QPA",
+          "Total Units (Including Free Electives)"
+        ]
+      }
+    }
+  }
+}

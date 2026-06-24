@@ -1,0 +1,37 @@
+{
+        "code":  "76-218",
+        "name":  "Special Topics in Literature: Medieval Romance \u0026 Arthurian Legends",
+        "short_name":  "SP TPCS LITERATURE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will explore the greatest hits of medieval literature from early Arthurian legend to the most popular of the Canterbury Tales. We will read famous medieval romances from Chaucers Troilus and Crysede to Gottfried von Strassburgs Tristan, and the timeless letters of Abelard and Heloise. We will compare and contrast these texts across time, place, space, genre, and form, discussing medieval cultural values of chivalry, nobility, honor, quest, charity, and fealty. Students will be expected to write short responses, one close reading paper, and a comparative paper by the end of the term.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

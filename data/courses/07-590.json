@@ -1,0 +1,37 @@
+{
+        "code":  "07-590",
+        "name":  "Independent Study in CS Education (Undergraduate)",
+        "short_name":  "IND STUDY CS EDUCATN",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  15.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Description An independent study course to allow motivated students to work on CS education projects under the supervision of a faculty advisor. Includes the development of a pedagogical study, reading of research papers or texts on CS education, or other suitable activities to learn about the teaching of computer science. Presentation of research or study results required. Independent studies are usually one semester in duration and require prior approval from the faculty advisor and the School of Computer Science.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "82-214",
+        "name":  "Topics in Modern Arabic Language, Literature, \u0026 Culture",
+        "short_name":  "TPSC MDRN ARBC LIT",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "82-112 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "An integrated approach to the study of the Arabic language, literature and culture by means of literary and cultural readings.This course explores definitions of culture and analyzes the dynamic role of language in culture and culture in language, with an aim to foster crosscultural awareness and selfrealization while developing proficiency in Arabic. This course is designed to strengthen listening, speaking, reading and writing, within the context of an evolving Arabic culture.  F22 A2   The beauty of Arabic is within its flexibility the way the sentence is built and the freedom it gives writers to create new expressions.  Are you ready to take your Arabic language and culture to the next level Your journey has just begun. Creative Writing and Media is an interactive course that allows Arabic language students to better understand the formal language, idioms, and metaphors, as well as enhance their writing and reading capacity, not just in simple essays but also in literature, short stories, poems, novels, and journalistic reports.  This course will provide students with techniques to help them develop their artistic imagination to write long or short texts or poems in Arabic. In addition, the course will allow students to expand their knowledge of the Arab world, its culture, and its literature. Guest speakers will include novelists, editors, and journalists from the Arab world to talk about their writing processes and the general writing and media culture in the Arab world.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Create a project in Arabic and maintain it.\nDistinguish between different literary genres and schools.\nRead fiction and nonfiction texts and learn the most common idioms in formal Arabic.\nHave a general culture of literature and media in the Arab world\nIncrease critical thinking and analyze different kinds of writings in Arabic.\nSpeak Arabic with greater confidence.",
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "82112",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "·\nDevelop an artistic and literary imagination to help students write in Arabic and gain new linguistic skills [creativity is a worldwide language].\n\n·\nBuild a deeper connection between Arabic learners and the language, drawing on its beauty and charm.\n\n·\nCreate interactive work between students to help each other learn the language [we learn through mistakes].\n\n·\nAddress common mistakes non-native Arabic speakers make when speaking or writing formal Arabic.\n\n·\nPrepare students for work in different fields in an Arabic language climate.\n\n·\nBuild students\u0027 knowledge of Arab culture and media.\n\n·\nHelp students gain self-confidence by facing their fears of speaking and writing in Arabic.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

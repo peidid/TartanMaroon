@@ -1,0 +1,37 @@
+{
+        "code":  "15-322",
+        "name":  "Introduction to Computer Music",
+        "short_name":  "INTRO COMPUTER MUSIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) or (15-112 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Computers are used to synthesize sound, process signals, and  compose music. Personal computers have replaced studios full of sound  recording and processing equipment, completing a revolution that began with  recording and electronics. In this course, students will learn the  fundamentals of digital audio, basic sound synthesis algorithms, and  techniques for digital audio effects and processing. Students will apply  their knowledge in programming assignments using a very highlevel  programming language for sound synthesis and composition. In a final  project, students will demonstrate their mastery of tools and techniques  through music composition or by the implementation of a significant  soundprocessing technique.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://courses.ideate.cmu.edu/15-322",
+        "custom_fields":  {
+                                                    "goals":  "Understanding of highlevel programming for sound synthesis and composition and demonstrate their knowledge in a final project.",
+                                                    "key_topics":  "Digital audio; Basic sound synthesis algorithms; Techniques for digital audio effects and processing",
+                                                    "prerequisite_knowledge":  "Introductory programming skills",
+                                                    "assessment_structure":  "Online exercises: 8%; 6 projects: 42%; Midterm: 15%; Final Project: 15%; Final: 20%",
+                                                    "relevance":  "For students interested in computer science and its power to create music. This course 15-322 is for undergraduates. Graduate students should enroll in 15-622.",
+                                                    "learning_resources":  "Course textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

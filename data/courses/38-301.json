@@ -1,0 +1,37 @@
+{
+        "code":  "38-301",
+        "name":  "PROPEL",
+        "short_name":  "PROPEL",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "PROPEL Preparation, Readiness, and Optimization for Professional Excellence in Life  is a 6unit seminar course that MCS students will enroll in the spring of their junior year. The course will leverage students deepening disciplinary perspective in service of the development of competencies, skills and perspectives that are necessary to achieve professional excellence in todays society. The course will use traditional career development activities, such as interviewing, resume writing and networking, as a starting point for students to begin the process of reflecting on, and preparing for, their impending transitions into professional life. From there, the course will seek to expand students conceptualization of the scientific workplace by exploring the interplay of science, innovation, public policy, entrepreneurism and business in professional settings today. The seminar will also equip students with significant insight into the ways in which global policy, societal and political forces, environmental issues and ethical considerations shape and influence the activity and research of working scientists. The course will offer additional experiences for students to refine their multidisciplinary teamwork and communication skills via small group projects focusing on the aforementioned course themes. Finally, PROPEL will include a formal academic advising component to ensure that all students are well positioned to complete the MCS core requirements and departmental requirements in the following year.  THIS COURSE IS FOR QBS JUNIORS ONLY.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Analyze a scientific case study and articulate the interplay of science, society, public policy, business, and economics in connection with it. Understand a sciencerelated issue and identify the reciprocal relationships among science, technology, political forces, societal contexts, and environmental issues in connection with it. Develop their personal postgraduation plan and prepare for the related application processes, interviews, and life transition activities. Leverage their disciplinary experience in the service of a unified team objective. Explain a scientific topic to a nonexpert audience and a STEM outside of their major field audience. To explore and be familiar with ethical topic areas such as authorship, data management, and research misconduct that are relevant to all scientific disciplines.",
+                                                    "key_topics":  "The course will use traditional career development activities, such as interviewing, resume writing and networking, as a starting point for students to begin the process of reflecting on, and preparing for, their impending transitions into professional life. From there, the course will seek to expand students\u0027 conceptualization of the scientific workplace by exploring the interplay of science, innovation, public policy, entrepreneurism and business in professional settings today. The seminar will also equip students with significant insight into the ways in which global policy, societal and political forces, environmental issues and ethical considerations shape and influence the activity and research of working scientists. The course will offer additional experiences for students to refine their multidisciplinary teamwork and communication skills via team projects focusing on the aforementioned course themes. Finally, \"PROPEL\" will include a formal academic advising component to ensure that all students are well positioned to complete the MCS core requirements and departmental requirements in the following year.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Professional Ethics Module: 15%. Attendance: 25%. Homework: 25%. E\u0026I Group Project: 10%. S\u0026S Group Project: 25%.",
+                                                    "relevance":  "The MCS seminar \"PROPEL\", will leverage upper class students\u0027 deepening disciplinary perspective in service of the development of competencies, skills and perspectives that are necessary to achieve professional excellence in today\u0027s society.",
+                                                    "learning_resources":  "MCS MyCORE Canvas Site",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,53 @@
+{
+        "code":  "33-112",
+        "name":  "Physics II for Science Students",
+        "short_name":  "PHYSICS II SCI STDNT",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(21-120 [] at least D) and (33-111 [] at least D)"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-122",
+                                                "id":  2628,
+                                                "name":  "Integration and Approximation",
+                                                "units":  10.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "33-132",
+                                            "id":  1577,
+                                            "name":  "Matter and Interactions II",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "33-107",
+                                            "id":  4685,
+                                            "name":  "Physics II for Engineering Students",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "This is the second semester course that follows 33111. Electricity and magnetism is developed, including the following topics Coulombs law, polarization, electric field, electric potential, DC circuits, magnetic field and force, magnetic induction, and the origins of electromagnetic waves.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

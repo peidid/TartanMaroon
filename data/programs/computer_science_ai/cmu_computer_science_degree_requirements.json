@@ -1,0 +1,1343 @@
+{
+  "program": {
+    "title": "BS in Computer Science",
+    "school": "Qatar Computer Science",
+    "university": "Carnegie Mellon University",
+    "degree": "BS",
+    "audit_version": "EY2017 Doha - BS in Computer Science",
+    "visibility": "PUBLIC",
+    "last_published": "January 23, 2023",
+    "published_by": "Jarrin Nevel",
+    "applies_to_students": 1,
+    "entry_year": {
+      "start": 2017,
+      "end": 2017
+    },
+    "campus": "Doha"
+  },
+  "program_requirements": {
+    "total_units_required": 360,
+    "double_counting_rules": {
+      "general": "Courses may not double count with other programs unless specified otherwise",
+      "exceptions": {
+        "unlimited": [
+          "Humanities and Arts",
+          "Mathematics and Probability",
+          "Science and Engineering"
+        ],
+        "limited": {
+          "2_SCS_Electives_and_Computer_Science": {
+            "max_courses": 5
+          }
+        }
+      }
+    },
+    "mode_average_units": 9
+  },
+  "requirements": {
+    "computer_science": {
+      "mode_average_units": 12,
+      "core_courses": [
+        {
+          "code": "15-122",
+          "title": "Principles of Imperative Computation"
+        },
+        {
+          "code": "15-150",
+          "title": "Principles of Functional Programming"
+        },
+        {
+          "code": "15-210",
+          "title": "Parallel and Sequential Data Structures and Algorithms"
+        },
+        {
+          "code": "15-251",
+          "title": "Great Ideas in Theoretical Computer Science"
+        }
+      ],
+      "introduction_to_computer_systems": {
+        "choose_one_from": [
+          {
+            "code": "15-213",
+            "title": "Introduction to Computer Systems"
+          },
+          {
+            "code": "18-213",
+            "title": "Introduction to Computer Systems"
+          }
+        ],
+        "mode_average_units": 12
+      },
+      "algorithm_design": {
+        "code": "15-451",
+        "title": "Algorithm Design and Analysis"
+      },
+      "algorithms_complexity_elective": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "15-354",
+            "title": "Computational Discrete Mathematics"
+          },
+          {
+            "code": "15-355",
+            "title": "Modern Computer Algebra"
+          },
+          {
+            "code": "15-453",
+            "title": "Formal Languages, Automata, and Computability"
+          },
+          {
+            "code": "15-455",
+            "title": "Undergraduate Complexity Theory"
+          },
+          {
+            "code": "15-456",
+            "title": "Computational Geometry"
+          },
+          {
+            "code": "21-301",
+            "title": "Combinatorics"
+          },
+          {
+            "code": "21-484",
+            "title": "Graph Theory"
+          }
+        ]
+      },
+      "logics_languages_elective": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "15-312",
+            "title": "Foundations of Programming Languages"
+          },
+          {
+            "code": "15-314",
+            "title": "Programming Language Semantics"
+          },
+          {
+            "code": "15-316",
+            "title": "Software Foundations of Security and Privacy"
+          },
+          {
+            "code": "15-317",
+            "title": "Constructive Logic"
+          },
+          {
+            "code": "15-414",
+            "title": "Bug Catching: Automated Program Verification"
+          },
+          {
+            "code": "15-424",
+            "title": "Logical Foundations of Cyber-Physical Systems"
+          },
+          {
+            "code": "17-355",
+            "title": "Program Analysis"
+          },
+          {
+            "code": "21-300",
+            "title": "Basic Logic"
+          },
+          {
+            "code": "80-413",
+            "title": "Category Theory"
+          }
+        ]
+      },
+      "software_systems_elective": {
+        "mode_average_units": 12,
+        "choose_one_from": [
+          {
+            "code": "15-410",
+            "title": "Operating System Design and Implementation"
+          },
+          {
+            "code": "15-411",
+            "title": "Compiler Design"
+          },
+          {
+            "code": "15-418",
+            "title": "Parallel Computer Architecture and Programming"
+          },
+          {
+            "code": "15-440",
+            "title": "Distributed Systems"
+          },
+          {
+            "code": "15-441",
+            "title": "Networking and the Internet"
+          },
+          {
+            "code": "15-445",
+            "title": "Database Systems"
+          }
+        ]
+      },
+      "applications_elective": {
+        "mode_average_units": 12,
+        "choose_one_from": [
+          {
+            "code": "02-250",
+            "title": "Introduction to Computational Biology"
+          },
+          {
+            "code": "05-391",
+            "title": "Designing Human Centered Software"
+          },
+          {
+            "code": "10-315",
+            "title": "Introduction to Machine Learning (SCS Majors)"
+          },
+          {
+            "code": "11-411",
+            "title": "Natural Language Processing"
+          },
+          {
+            "code": "15-281",
+            "title": "Artificial Intelligence: Representation and Problem Solving"
+          },
+          {
+            "code": "15-322",
+            "title": "Introduction to Computer Music"
+          },
+          {
+            "code": "15-323",
+            "title": "Computer Music Systems and Information Processing"
+          },
+          {
+            "code": "15-381",
+            "title": "Artificial Intelligence: Representation and Problem Solving"
+          },
+          {
+            "code": "15-415",
+            "title": "Database Applications"
+          },
+          {
+            "code": "15-462",
+            "title": "Computer Graphics"
+          },
+          {
+            "code": "16-384",
+            "title": "Robot Kinematics and Dynamics"
+          },
+          {
+            "code": "16-385",
+            "title": "Computer Vision"
+          },
+          {
+            "code": "17-313",
+            "title": "Foundations of Software Engineering"
+          },
+          {
+            "code": "02-510",
+            "title": "Computational Genomics"
+          }
+        ]
+      }
+    },
+    "mathematics_and_probability": {
+      "mode_average_units": 12,
+      "two_semesters_calculus": {
+        "mode_average_units": 10,
+        "required_courses": [
+          {
+            "code": "21-120",
+            "title": "Differential and Integral Calculus"
+          },
+          {
+            "code": "21-122",
+            "title": "Integration and Approximation"
+          }
+        ]
+      },
+      "concepts_of_math": {
+        "mode_average_units": 12,
+        "minimum_grade": "C",
+        "choose_one_from": [
+          {
+            "code": "15-151",
+            "title": "Mathematical Foundations for Computer Science"
+          },
+          {
+            "code": "21-127",
+            "title": "Concepts of Mathematics"
+          },
+          {
+            "code": "21-128",
+            "title": "Mathematical Concepts and Proofs"
+          }
+        ]
+      },
+      "matrix_linear_algebra": {
+        "mode_average_units": 11,
+        "choose_one_from": [
+          {
+            "code": "21-241",
+            "title": "Matrices and Linear Transformations"
+          },
+          {
+            "code": "21-242",
+            "title": "Matrix Theory"
+          }
+        ]
+      },
+      "probability": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "15-259",
+            "title": "Probability and Computing"
+          },
+          {
+            "code": "15-359",
+            "title": "Probability & Computing: Randomized Algs and Markov Chains"
+          },
+          {
+            "code": "21-325",
+            "title": "Probability"
+          },
+          {
+            "code": "36-217",
+            "title": "Probability Theory and Random Processes"
+          },
+          {
+            "code": "36-218",
+            "title": "Probability Theory for Computer Scientists"
+          },
+          {
+            "code": "36-225",
+            "title": "Introduction to Probability Theory"
+          }
+        ]
+      }
+    },
+    "technical_communication": {
+      "mode_average_units": 9,
+      "choose_one_from": [
+        {
+          "code": "08-200",
+          "title": "Ethics and Policy Issues in Computing"
+        },
+        {
+          "code": "15-300",
+          "title": "SEE 07-300 Research and Innovation in Computer Science"
+        },
+        {
+          "code": "17-200",
+          "title": "Ethics and Policy Issues in Computing"
+        },
+        {
+          "code": "76-270",
+          "title": "Writing for the Professions"
+        }
+      ]
+    },
+    "scs_electives": {
+      "courses_required": 2,
+      "minimum_units_per_course": 9,
+      "mode_average_units": 12,
+      "subject_codes": [
+        "15",
+        "16",
+        "08",
+        "02",
+        "11",
+        "05",
+        "10",
+        "17"
+      ],
+      "additional_courses": [
+        "07-599"
+      ],
+      "excluded_courses": [
+        "02-223",
+        "02-261",
+        "05-341",
+        "05-436",
+        "08-200",
+        "08-532",
+        "08-533",
+        "15-351",
+        "16-200",
+        "16-223",
+        "16-397",
+        "17-200",
+        "17-562"
+      ],
+      "excluded_ranges": [
+        "02-100 to 02-199",
+        "05-100 to 05-199",
+        "08-100 to 08-199",
+        "10-100 to 10-199",
+        "11-100 to 11-199",
+        "15-100 to 15-199",
+        "16-100 to 16-199",
+        "17-100 to 17-199"
+      ]
+    },
+    "humanities_and_arts": {
+      "mode_average_units": 9,
+      "writing": {
+        "mode_average_units": 4.5,
+        "choose_one_from": [
+          {
+            "code": "76-101",
+            "title": "Interpretation and Argument"
+          },
+          {
+            "code": "76-102",
+            "title": "Advanced First Year Writing: Special Topics"
+          }
+        ]
+      },
+      "two_writing_minis": {
+        "courses_required": 2,
+        "mode_average_units": 4.5,
+        "courses": [
+          "76-106",
+          "76-107",
+          "76-108"
+        ]
+      },
+      "cognition_choice_behavior": {
+        "mode_average_units": 9,
+        "courses": [
+          {
+            "code": "70-311",
+            "title": "Organizational Behavior"
+          },
+          {
+            "code": "80-130",
+            "title": "Introduction to Ethics"
+          },
+          {
+            "code": "80-150",
+            "title": "Nature of Reason"
+          },
+          {
+            "code": "80-180",
+            "title": "Introduction to Linguistics"
+          },
+          {
+            "code": "80-221",
+            "title": "Philosophy of Social Science"
+          },
+          {
+            "code": "80-230",
+            "title": "Ethical Theory"
+          },
+          {
+            "code": "80-241",
+            "title": "Ethical Judgments in Professional Life"
+          },
+          {
+            "code": "80-242",
+            "title": "Conflict and Dispute Resolution"
+          },
+          {
+            "code": "80-270",
+            "title": "Problems of Mind and Body: Meaning and Doing"
+          },
+          {
+            "code": "80-271",
+            "title": "Mind and Body: The Objective and the Subjective"
+          },
+          {
+            "code": "80-275",
+            "title": "Metaphysics"
+          },
+          {
+            "code": "80-281",
+            "title": "Language and Thought"
+          },
+          {
+            "code": "85-011",
+            "title": "AP PSYCHOLOGY"
+          },
+          {
+            "code": "85-100",
+            "title": "Introduction to Psychology"
+          },
+          {
+            "code": "85-102",
+            "title": "Introduction to Psychology"
+          },
+          {
+            "code": "85-211",
+            "title": "Cognitive Psychology"
+          },
+          {
+            "code": "85-221",
+            "title": "Principles of Child Development"
+          },
+          {
+            "code": "85-241",
+            "title": "Social Psychology"
+          },
+          {
+            "code": "85-251",
+            "title": "Personality"
+          },
+          {
+            "code": "85-261",
+            "title": "Psychopathology"
+          },
+          {
+            "code": "85-340",
+            "title": "Research Methods in Social Psychology"
+          },
+          {
+            "code": "85-370",
+            "title": "Cognitive Neuropsychology Research Methods"
+          },
+          {
+            "code": "85-390",
+            "title": "Human Memory - Readings in Psychology Course"
+          },
+          {
+            "code": "85-406",
+            "title": "Autism: Psychological and Neuroscience Perspectives"
+          },
+          {
+            "code": "88-120",
+            "title": "Reason, Passion and Cognition"
+          },
+          {
+            "code": "88-260",
+            "title": "Organizations"
+          },
+          {
+            "code": "85-414",
+            "title": "Cognition in the Age of AI"
+          }
+        ]
+      },
+      "economic_political_social_institutions": {
+        "mode_average_units": 9,
+        "courses": [
+          {
+            "code": "19-101",
+            "title": "Introduction to Engineering and Public Policy"
+          },
+          {
+            "code": "36-303",
+            "title": "Sampling, Survey and Society"
+          },
+          {
+            "code": "70-332",
+            "title": "Business, Society and Ethics"
+          },
+          {
+            "code": "73-100",
+            "title": "Principles of Economics"
+          },
+          {
+            "code": "73-102",
+            "title": "Principles of Microeconomics"
+          },
+          {
+            "code": "73-103",
+            "title": "Principles of Macroeconomics"
+          },
+          {
+            "code": "73-150",
+            "title": "73-150"
+          },
+          {
+            "code": "73-230",
+            "title": "Intermediate Microeconomics"
+          },
+          {
+            "code": "73-240",
+            "title": "Intermediate Macroeconomics"
+          },
+          {
+            "code": "79-245",
+            "title": "Capitalism and Individualism in American Culture"
+          },
+          {
+            "code": "79-299",
+            "title": "Jewish American History: From New Amsterdam to Pittsburgh"
+          },
+          {
+            "code": "79-300",
+            "title": "Controversial Topics in the History of American Public Policy"
+          },
+          {
+            "code": "79-320",
+            "title": "Women, Politics, and Protest"
+          },
+          {
+            "code": "79-331",
+            "title": "Body Politics: Women and Health in America"
+          },
+          {
+            "code": "79-335",
+            "title": "Banned Substances: Drugs and Alcohol in American History"
+          },
+          {
+            "code": "79-341",
+            "title": "Football and Futbol: American & Global Perspectives"
+          },
+          {
+            "code": "80-136",
+            "title": "Social Structure, Public Policy & Ethics"
+          },
+          {
+            "code": "80-235",
+            "title": "Political Philosophy"
+          },
+          {
+            "code": "80-236",
+            "title": "80-236"
+          },
+          {
+            "code": "80-243",
+            "title": "Ethics of Leadership"
+          },
+          {
+            "code": "80-244",
+            "title": "Environmental Ethics"
+          },
+          {
+            "code": "80-245",
+            "title": "Medical Ethics"
+          },
+          {
+            "code": "80-324",
+            "title": "Philosophy of Economics"
+          },
+          {
+            "code": "80-334",
+            "title": "Social and Political Philosophy"
+          },
+          {
+            "code": "80-341",
+            "title": "Computers, Society and Ethics"
+          },
+          {
+            "code": "84-012",
+            "title": "AP GOVT & POL: US"
+          },
+          {
+            "code": "84-013",
+            "title": "GOV & POL: US"
+          },
+          {
+            "code": "84-104",
+            "title": "Decision Processes in American Political Institutions"
+          },
+          {
+            "code": "84-210",
+            "title": "84-210"
+          },
+          {
+            "code": "84-310",
+            "title": "Policy in a Global Economy 1: International Trade and Trade Policy"
+          },
+          {
+            "code": "84-320",
+            "title": "Global Perspectives on International Affairs"
+          },
+          {
+            "code": "84-393",
+            "title": "The US Congress: Legislative Progress or Paralysis?"
+          },
+          {
+            "code": "84-402",
+            "title": "Judicial Politics and Behavior"
+          },
+          {
+            "code": "84-414",
+            "title": "International and Subnational Security"
+          },
+          {
+            "code": "88-011",
+            "title": "CMBR SOCIOLOGY"
+          },
+          {
+            "code": "88-012",
+            "title": "AP GOVT&POLITICS:US"
+          },
+          {
+            "code": "88-104",
+            "title": "Decision Processes in American Political Institutions"
+          },
+          {
+            "code": "88-110",
+            "title": "88-110"
+          },
+          {
+            "code": "88-205",
+            "title": "Comparative Politics"
+          },
+          {
+            "code": "88-210",
+            "title": "Comparative Political Systems"
+          },
+          {
+            "code": "88-220",
+            "title": "Policy Analysis I"
+          },
+          {
+            "code": "88-257",
+            "title": "Experimental Economics"
+          },
+          {
+            "code": "84-362",
+            "title": "Diplomacy and Statecraft"
+          },
+          {
+            "code": "84-275",
+            "title": "Comparative Politics"
+          },
+          {
+            "code": "84-386",
+            "title": "The Privatization of Force"
+          },
+          {
+            "code": "84-380",
+            "title": "US Grand Strategy"
+          },
+          {
+            "code": "84-389",
+            "title": "Terrorism and Insurgency"
+          },
+          {
+            "code": "80-135",
+            "title": "Introduction to Political Philosophy"
+          },
+          {
+            "code": "84-322",
+            "title": "Nonviolent Conflict and Revolution"
+          },
+          {
+            "code": "84-324",
+            "title": "The Future of Democracy"
+          },
+          {
+            "code": "80-348",
+            "title": "Health, Human Rights, and International Development"
+          },
+          {
+            "code": "79-393",
+            "title": "Institutions of the Roman Church"
+          },
+          {
+            "code": "76-357",
+            "title": "(Im)Migration, Multilingualism, and Identities"
+          },
+          {
+            "code": "79-203",
+            "title": "The Other Europe: The Habsburgs, Communism, & Central/Eastern Europe, 1740-1990"
+          },
+          {
+            "code": "79-221",
+            "title": "From the Atom Bomb to 9/11: United States History 1945-2001"
+          },
+          {
+            "code": "79-279",
+            "title": "Science and Technology in World History"
+          },
+          {
+            "code": "79-237",
+            "title": "Comparative Slavery"
+          },
+          {
+            "code": "84-291",
+            "title": "Geopolitical Challenges of a Changing Middle East I: Politics, Security, & Law"
+          },
+          {
+            "code": "84-292",
+            "title": "Geopolitical Challenges of a Changing Middle East II: Politics, Security, & Law"
+          },
+          {
+            "code": "79-391",
+            "title": "Nations and Nationalisms in South Asia"
+          },
+          {
+            "code": "79-392",
+            "title": "Europe and the Islamic World"
+          },
+          {
+            "code": "84-293",
+            "title": "Geopolitical Challenges of a Changing Middle East III: Politics, Security, & Law"
+          }
+        ]
+      },
+      "cultural_analysis": {
+        "mode_average_units": 9,
+        "courses": [
+          {
+            "code": "60-011",
+            "title": "AP ART HISTORY"
+          },
+          {
+            "code": "60-205",
+            "title": "Intermediate Studio: OTHER MEDIA"
+          },
+          {
+            "code": "62-306",
+            "title": "Music-Cinema-Culture"
+          },
+          {
+            "code": "62-371",
+            "title": "Photography, The First 100 Years, 1839-1939"
+          },
+          {
+            "code": "76-221",
+            "title": "Books You Should Have Read By Now"
+          },
+          {
+            "code": "76-239",
+            "title": "Introduction to Film Studies"
+          },
+          {
+            "code": "79-240",
+            "title": "Development of American Culture"
+          },
+          {
+            "code": "79-261",
+            "title": "The Last Emperors: Chinese History and Society, 1600-1900"
+          },
+          {
+            "code": "79-262",
+            "title": "Modern China: From the Birth of Mao ... to Now"
+          },
+          {
+            "code": "79-265",
+            "title": "Russian History: Game of Thrones"
+          },
+          {
+            "code": "79-282",
+            "title": "Europe and the World Since 1800"
+          },
+          {
+            "code": "79-311",
+            "title": "PaleoKitchen: Food and Cooking in the Ancient World"
+          },
+          {
+            "code": "79-316",
+            "title": "Photography, the First 100 Years, 1839-1939"
+          },
+          {
+            "code": "79-345",
+            "title": "Roots of Rock & Roll"
+          },
+          {
+            "code": "79-350",
+            "title": "Early Christianity"
+          },
+          {
+            "code": "79-395",
+            "title": "The Arts in Pittsburgh"
+          },
+          {
+            "code": "79-396",
+            "title": "Music, Art, and Society in 19th and 20th Century Europe and the U.S."
+          },
+          {
+            "code": "80-276",
+            "title": "Philosophy of Religion"
+          },
+          {
+            "code": "80-354",
+            "title": "80-354"
+          },
+          {
+            "code": "82-236",
+            "title": "Intensive Chinese Language & Culture: Intermediate Level"
+          },
+          {
+            "code": "82-278",
+            "title": "Japanese Film and Literature: The Art of Storytelling"
+          },
+          {
+            "code": "82-293",
+            "title": "Russian Cinema: From the Bolshevik Revolution to Putin's Russia"
+          },
+          {
+            "code": "82-305",
+            "title": "French in its Social Contexts"
+          },
+          {
+            "code": "82-327",
+            "title": "The Emergence of the German Speaking World"
+          },
+          {
+            "code": "57-173",
+            "title": "Survey of Western Music History"
+          },
+          {
+            "code": "70-342",
+            "title": "Managing Across Cultures"
+          },
+          {
+            "code": "76-227",
+            "title": "Comedy"
+          },
+          {
+            "code": "76-232",
+            "title": "Introduction to Black Literature"
+          },
+          {
+            "code": "76-241",
+            "title": "Introduction to Gender Studies"
+          },
+          {
+            "code": "79-011",
+            "title": "AP EUROPEAN HISTORY"
+          },
+          {
+            "code": "79-015",
+            "title": "AP WORLD HISTORY"
+          },
+          {
+            "code": "79-104",
+            "title": "Global Histories"
+          },
+          {
+            "code": "79-113",
+            "title": "79-113"
+          },
+          {
+            "code": "79-201",
+            "title": "Introduction to Anthropology"
+          },
+          {
+            "code": "79-241",
+            "title": "The Holocaust: What You Should Know and Why"
+          },
+          {
+            "code": "79-242",
+            "title": "African American History: Reconstruction to the Present"
+          },
+          {
+            "code": "79-255",
+            "title": "Modern Ireland: Politics and Culture from the Famine (1847) to Today"
+          },
+          {
+            "code": "79-281",
+            "title": "Introduction to Religion"
+          },
+          {
+            "code": "79-293",
+            "title": "Inward Odyssey"
+          },
+          {
+            "code": "79-368",
+            "title": "Un-natural Disasters: Societies and Environmental Hazards in Global Perspective"
+          },
+          {
+            "code": "80-100",
+            "title": "Introduction to Philosophy"
+          },
+          {
+            "code": "80-151",
+            "title": "80-151"
+          },
+          {
+            "code": "80-250",
+            "title": "Ancient Philosophy"
+          },
+          {
+            "code": "80-251",
+            "title": "Modern Philosophy"
+          },
+          {
+            "code": "80-253",
+            "title": "Continental Philosophy"
+          },
+          {
+            "code": "80-254",
+            "title": "The History of Analytic Philosophy and Its Influence"
+          },
+          {
+            "code": "80-255",
+            "title": "Pragmatism: Clear Ideas for a Better Life"
+          },
+          {
+            "code": "80-261",
+            "title": "Experience, Reason, and Truth"
+          },
+          {
+            "code": "82-273",
+            "title": "Introduction to Japanese Language and Culture"
+          },
+          {
+            "code": "82-294",
+            "title": "19th Century Russian Masterpieces"
+          },
+          {
+            "code": "82-303",
+            "title": "French & Francophone Cultures"
+          },
+          {
+            "code": "82-304",
+            "title": "French & Francophone Sociolinguistics"
+          },
+          {
+            "code": "82-325",
+            "title": "82-325"
+          },
+          {
+            "code": "82-333",
+            "title": "Introduction to Chinese Language and Culture"
+          },
+          {
+            "code": "82-342",
+            "title": "Cultures of Spain"
+          },
+          {
+            "code": "82-344",
+            "title": "U.S. Latine Cultures"
+          },
+          {
+            "code": "82-345",
+            "title": "Using Spanish in Social Contexts"
+          },
+          {
+            "code": "70-352",
+            "title": "Business Acting"
+          },
+          {
+            "code": "76-253",
+            "title": "Information Graphics"
+          },
+          {
+            "code": "76-425",
+            "title": "Rhetoric, Science, and the Public Sphere"
+          },
+          {
+            "code": "79-253",
+            "title": "Imperialism and Decolonization in South Asia"
+          },
+          {
+            "code": "79-378",
+            "title": "Gender in South Asia"
+          },
+          {
+            "code": "79-465",
+            "title": "The Arts in Qatar"
+          },
+          {
+            "code": "80-249",
+            "title": "AI, Society, and Humanity"
+          },
+          {
+            "code": "82-355",
+            "title": "Tpcs in Hispanic Std: Beyond the Film Screen: The Hispanic World Through Film"
+          },
+          {
+            "code": "99-231",
+            "title": "Introduction to Environmental Ideas"
+          },
+          {
+            "code": "79-285",
+            "title": "Islam in the United States"
+          },
+          {
+            "code": "79-221",
+            "title": "From the Atom Bomb to 9/11: United States History 1945-2001"
+          },
+          {
+            "code": "79-294",
+            "title": "Islam on the Main Street in the West since the 18th Century"
+          },
+          {
+            "code": "82-214",
+            "title": "Topics in Modern Arabic Language, Literature, & Culture"
+          },
+          {
+            "code": "82-313",
+            "title": "Topics in Modern Arabic Language, Literature & Culture"
+          }
+        ]
+      },
+      "humanities_arts_electives": {
+        "courses_required": 3,
+        "minimum_units_per_course": 9,
+        "mode_average_units": 9,
+        "subject_codes": [
+          "57",
+          "51",
+          "62",
+          "54",
+          "79",
+          "80",
+          "73",
+          "76",
+          "66",
+          "85",
+          "60",
+          "88",
+          "82",
+          "84",
+          "48"
+        ],
+        "additional_courses": [
+          "08-200",
+          "08-532",
+          "08-533",
+          "16-161",
+          "16-397",
+          "19-101",
+          "19-211",
+          "19-402",
+          "19-403",
+          "19-411",
+          "32-102",
+          "32-201",
+          "32-402",
+          "36-303",
+          "70-160",
+          "70-311",
+          "70-321",
+          "70-332",
+          "70-340",
+          "70-341",
+          "70-342",
+          "70-343",
+          "70-345",
+          "70-350",
+          "70-352",
+          "70-364",
+          "70-365",
+          "70-381",
+          "70-430",
+          "99-231",
+          "99-238"
+        ],
+        "excluded_courses": [
+          "51-224",
+          "51-257",
+          "51-327",
+          "51-328",
+          "73-226",
+          "73-251",
+          "73-252",
+          "73-253",
+          "73-260",
+          "73-261",
+          "73-274",
+          "73-347",
+          "73-360",
+          "73-363",
+          "73-374"
+        ]
+      }
+    },
+    "science_and_engineering": {
+      "mode_average_units": 12,
+      "double_counting_allowed": true,
+      "sci_eng_any_dept": {
+        "courses_required": 4,
+        "minimum_units_per_course": 9,
+        "mode_average_units": 12,
+        "subject_codes": [
+          "09",
+          "19",
+          "39",
+          "27",
+          "12",
+          "42",
+          "03",
+          "06",
+          "18",
+          "24",
+          "33",
+          "38"
+        ],
+        "additional_courses": [
+          "02-223",
+          "02-261",
+          "85-219",
+          "85-310",
+          "85-314"
+        ],
+        "excluded_courses": [
+          "03-511",
+          "03-512",
+          "06-262",
+          "09-103",
+          "09-104",
+          "09-108",
+          "09-109",
+          "09-231",
+          "12-090",
+          "12-215",
+          "12-271",
+          "18-090",
+          "18-099",
+          "18-200",
+          "18-202"
+        ]
+      },
+      "two_sci_eng_same_dept": {
+        "courses_required": 2,
+        "minimum_units_per_course": 9,
+        "mode_average_units": 12,
+        "option_1": {
+          "description": "Two Sci/Eng courses from the same department",
+          "subject_codes": [
+            "09",
+            "19",
+            "27",
+            "12",
+            "42",
+            "06",
+            "18",
+            "24",
+            "33"
+          ],
+          "requirement": "All courses should be from the same subject code",
+          "excluded_courses": [
+            "03-511",
+            "03-512",
+            "06-262",
+            "09-103",
+            "09-104",
+            "09-108",
+            "09-109",
+            "09-231",
+            "12-090",
+            "12-271",
+            "18-090",
+            "18-099",
+            "18-200",
+            "18-202",
+            "18-213"
+          ]
+        },
+        "option_2": {
+          "description": "Alternative option with specific biology courses",
+          "courses_required": 2,
+          "mode_average_units": 9,
+          "specific_courses": [
+            {
+              "code": "02-223",
+              "title": "Personalized Medicine: Understanding Your Own Genome"
+            },
+            {
+              "code": "02-261",
+              "title": "Quantitative Cell and Molecular Biology Laboratory"
+            }
+          ],
+          "or_biology_course": {
+            "subject_code": "03",
+            "excluded_courses": [
+              "03-511",
+              "03-512"
+            ],
+            "mode_average_units": 9
+          }
+        }
+      },
+      "lab_requirement": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "02-261",
+            "title": "Quantitative Cell and Molecular Biology Laboratory"
+          },
+          {
+            "code": "03-124",
+            "title": "Modern Biology Laboratory"
+          },
+          {
+            "code": "03-151",
+            "title": "Honors Modern Biology"
+          },
+          {
+            "code": "03-206",
+            "title": "Biomedical Engineering Laboratory"
+          },
+          {
+            "code": "09-101",
+            "title": "Introduction to Experimental Chemistry"
+          },
+          {
+            "code": "09-221",
+            "title": "Laboratory I: Introduction to Chemical Analysis"
+          },
+          {
+            "code": "09-425",
+            "title": "Special Topics in Chemistry:Environmental Exposure and Risk Assessment"
+          },
+          {
+            "code": "27-100",
+            "title": "Engineering the Materials of the Future"
+          },
+          {
+            "code": "33-104",
+            "title": "Experimental Physics"
+          },
+          {
+            "code": "33-228",
+            "title": "Electronics I"
+          },
+          {
+            "code": "42-203",
+            "title": "Biomedical Engineering Laboratory"
+          },
+          {
+            "code": "85-310",
+            "title": "Research Methods in Cognitive Psychology"
+          },
+          {
+            "code": "85-314",
+            "title": "Cognitive Neuroscience Research Methods"
+          }
+        ]
+      }
+    },
+    "freshman_immigration": {
+      "mode_average_units": 1,
+      "non_letter_grade_allowed": true,
+      "choose_one_from": [
+        {
+          "code": "15-129",
+          "title": "Freshman Immigration II"
+        },
+        {
+          "code": "15-128",
+          "title": "Freshman Immigration Course"
+        }
+      ]
+    },
+    "computing_at_carnegie_mellon": {
+      "mode_average_units": 3,
+      "non_letter_grade_allowed": true,
+      "choose_one_from": [
+        {
+          "code": "99-101",
+          "title": "Core@CMU"
+        },
+        {
+          "code": "99-102",
+          "title": "Core@CMU"
+        },
+        {
+          "code": "99-103",
+          "title": "99-103"
+        },
+        {
+          "code": "99-104",
+          "title": "Carnegie Skills Workshop"
+        }
+      ]
+    },
+    "general_requirements": {
+      "qatar_cs_degree_check": {
+        "mode_average_units": 9,
+        "double_counting_allowed": "unlimited",
+        "requirements": [
+          "QPA",
+          "Total Units"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "05-410",
+        "name":  "User-Centered Research and Evaluation",
+        "short_name":  "USER-CN RSRCH EVALN",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(85-241 [] at least D) or (85-211 [] at least D) or (85-213 [] at least D) or (88-120 [] at least D) or (85-370 [] at least D) or (85-408 [] at least D) or (85-421 [] at least D) or (85-251 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an overview and introduction to the field of humancomputer interaction HCI. It introduces students to tools, techniques, and sources of information about HCI and provides a systematic approach to design. The course increases awareness of good and bad design through observation of existing technology and teaches the basic skills of generative and evaluative research methods. This is a companion course to courses in visual design 51422 and software implementation 05430, 05431. When registering for this course, undergraduate students are automatically placed the wait list. Students will be then moved into the class, based on if they are in the BHCI second major and year in school e.g. seniors, juniors, etc.   In the Fall, this course is NOT open to students outside the HCI major.   The Spring offering is open to all students.   This course is a core requirement for students in the HCI additional major.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will collect and analyze information about the participants in a system, design new systems that fulfill the users needs and goals, work in teams to access multiple perspectives and exploit varying talents, and communicate with a systems users to improve designs..",
+                                                    "key_topics":  "This course covers a variety of user research methods for both generating new systems designs and evaluating them.",
+                                                    "prerequisite_knowledge":  "We assume you already have a strong background in some aspect of computer system design.",
+                                                    "assessment_structure":  "Students will primarily learn by doing, in teams or solo, and will be evaluated based on the output of their projects. There will also be a final exam.",
+                                                    "relevance":  "This course is intended to make you an effective, professional system designer and analyst incorporating user research.",
+                                                    "learning_resources":  "Students will use a wide number of resources to learn a variety of user research methods.",
+                                                    "extra_time_commitment":  "Students will need to find time for teamwork."
+                                            }
+}

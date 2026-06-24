@@ -1,0 +1,37 @@
+{
+        "code":  "03-355",
+        "name":  "Stem Cell Engineering",
+        "short_name":  "STEM CELL ENGINEERNG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "03-240 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is offered only at CMUs campus in Qatar. This course covers the progress of stem cell research and its application to tissue engineering and regenerative therapy. The students will learn about the different types of stem cells, the biochemical stimuli that are responsible for regulating stem cell differentiation and techniques involved in the culture of stem cells. This subject will also highlight the development of various biomaterials that are used as biological substitutes in regenerative therapy. Current and emergent stem cell technologies in selected applications of tissue engineering in bone, skin and vascular tissues will be emphasized. The course will be delivered through problembased learning where students are expected to participate in discussions, perform literature search, present their findings through presentations and written reports on selected topics. The class is designed for undergraduates with a strong interest in stem cell biology and tissue engineering, and the desire to actively contribute to discussions in the class.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn about tissue, structure and function and how stem cells can be used effectively in regenerative medicine by looking at medical case studies. The course will introduce to students the problembased learning approach.",
+                                                    "key_topics":  "This course will cover the use of stems cells in the field of tissue engineering and regenerative therapy. The key model tissues that will be covered are the bone, skin, kidney and the vascular model. The use of stem cells in diseases such as diabetes and osteogenesis imperfecta will be covered.",
+                                                    "prerequisite_knowledge":  "03-240 Cell Biology",
+                                                    "assessment_structure":  "Presentations, report, peer assessments, quizzes, assignments, readings and attendance grade",
+                                                    "relevance":  "Students will gain a deep understanding about the versatility of stem cells and their uses in the future of medicine and regenerative tissue engineering.",
+                                                    "learning_resources":  "a. Principles of Tissue Engineering (2014), 4th Edition Lanza, R.P., Langer, R. \u0026 Vacanti, J.P. Academic Press, ISBN: 978-0-12-409503-8\nb.\tEssentials of Stem Cell Biology (2014), 3rd Edition Lanza, R.P., Atala, A. Academic Press, ISBN: 978-0-12-409503-8",
+                                                    "extra_time_commitment":  "Students will be required to do readings to be able to participate in in-class discussions. Students will also be required to do writings as part of their reports and assignments"
+                                            }
+}

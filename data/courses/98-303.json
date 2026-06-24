@@ -1,0 +1,37 @@
+{
+        "code":  "98-303",
+        "name":  "Student Taught Courses (StuCo): Introduction to Freestyle Rap",
+        "short_name":  "STUCO: FREESTYLE RAP",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Are you a fan of hiphop who wants to learn how to create your own rhymes Are you a quickminded individual who enjoys a mental challenge Have you ever heard a track and thought man, I wanna drop bars all over this beat Then this is the class for you. Freestyle rap is a difficult but rewarding mental exercise that, when mastered, is guaranteed to sound dope. This class will start from the basics and work up to more and more complicated techniques. We promise that anyone who completes this class will be able to spit SwayintheMorninglevel bars, anytime, anywhere. All skill levels are welcome",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to freestyle for at least a minute at a time while maintaining dynamic rhyme schemes, an interesting tone, and solid rhythm, all while delivering it with confidence and adding their own unique style to impress anyone who listens.",
+                                                    "key_topics":  "Flow, rhyme, sentence construction, delivery, counting, literary devices, storytelling, tone, breath control, wordplay.",
+                                                    "prerequisite_knowledge":  "Students should be able to count to 4. That\u0027s it!",
+                                                    "assessment_structure":  "Students will be assessed during a midterm and a final performance. The midterm will require the student to perform a 1-minute freestyle by themselves in front of the instructors in order to demonstrate proficiency with the beginning material. The final performance will require the students to practice in small groups to prepare for a group freestyle performance where they show off their newfound skills in front of their friends and anyone else who wants to attend.",
+                                                    "relevance":  "This course will allow students to step outside of their comfort zone and gain confidence while performing in front of others. Hip hop is the most popular music genre in the world now, so students will get to learn about another facet of the genre that many people listen to and enjoy.",
+                                                    "learning_resources":  "Students will have access to a course webpage where they can view the lecture slides and find drills to help practice their freestyle.",
+                                                    "extra_time_commitment":  "Students will be required to attend at least one office hours session a week held by a TA to complete the homework assignment for the week. This will typically consist of rapping with the TA with emphasis being placed on a specific aspect of freestyle to improve their skills. This usually takes around 20 minutes, but students are free to stay longer if they want, during office hours to practice other skills with the TA."
+                                            }
+}

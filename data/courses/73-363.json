@@ -1,0 +1,42 @@
+{
+        "code":  "73-363",
+        "name":  "Econometrics",
+        "short_name":  "ECONOMETRICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-112 [] at least D) or (21-120 [] at least D)) and ((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-100 [] at least C) and (73-230 [] at least C) and (73-240 [] at least D) and ((21-325 [] at least C) or (36-217 [] at least C) or (36-225 [] at least C)) and (36-226 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "73-261",
+                                            "id":  7299,
+                                            "name":  "73-261",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "This course takes as its starting point ordinaryleastsquares estimation and the linear regression model, which are presented utilizing vector and matrix notation. This is followed by the application of OLS to nonlinear models.  Cases are then considered where the various assumptions of OLS do not hold and what corrective actions should be taken. Topics include  nonlinearleastsquares, twostage estimation, instrumental variables, simultaneous equations, maximum likelihood estimation, and logitprobit models.  Lecture, 3 hours Recitation, 1 hour. Minimum grade standard of C applies only to economics courses. Note This course will be retired after the Fall 2015 semester.  Beginning in Spring 2016 semester, a new econometrics sequence will be offered.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tepper.cmu.edu/prospective-students/course-page/73363/econometrics",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

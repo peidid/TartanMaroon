@@ -1,0 +1,37 @@
+{
+        "code":  "03-302",
+        "name":  "Undergraduate Colloquium for Juniors",
+        "short_name":  "UNDGRAD COLLOQUM JUN",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Missing Course Description  please contact the teaching department.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

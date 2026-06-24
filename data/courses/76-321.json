@@ -1,0 +1,37 @@
+{
+        "code":  "76-321",
+        "name":  "History of the British Novel",
+        "short_name":  "GENRE STUDIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Consult the course descriptions provided by the department for current offerings. Example, Fall 2011 Poe defined the short story as something that could be read at one sitting. While simple enough, the definition suggests a concern with concentrated form and unified artistic effect. in a sense, the short story has been around as long as people have been telling each other tales, to be sure, but as a literary form it came into its own in modern times, during the 19th century and it continues to be produced in considerable numbers. For many readers one of the great features is the one Poe pointed to it is short. People who have never finished a novel by Henry James must be legion. So we can experience something with genuine literary merit, in an accessible form. Concentration, of course, can bring issues of comprehension and often short stories can seem puzzling or incomplete to the average reader. This class will attempt to develop our abilities to read with care and attentionand feelingin order to make us better readers of any artistic text. The challenges of the short form turn out to be excellent opportunities for learning a lot, in a little space. Well make use of several inexpensive anthologies, and look at one or two central writers Hemingway, for example in more depth. The class will require the writing of a few short papers, engaging in online discussions on Blackboard, and three in class tests.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

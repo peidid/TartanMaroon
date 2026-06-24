@@ -1,0 +1,37 @@
+{
+        "code":  "76-723",
+        "name":  "Text to Screen",
+        "short_name":  "TEXT TO SCREEN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to the fundamentals of narrative filmmaking and the attendant creative processes.  Students will explore the symbiosis between film literature, visual storytelling, team building and the practical planning essentials universal to making film.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will write short screenplays with a focus on making them ready for shooting. the will break down scripts, learn the vocabulary of shots, create logical shot lists, and plan and shoot a short film.",
+                                                    "key_topics":  "screenplays, films, planning a film shoot",
+                                                    "prerequisite_knowledge":  "one of the following classes: Intro to Screenwriting, Directing, Dramaturgy or Acting",
+                                                    "assessment_structure":  "Class participation, creative script assignments, complete and logical breakdowns and shooting schedules.",
+                                                    "relevance":  "the class is designed for prepared students who are ready to explore bringing written screenplays to the screen.",
+                                                    "learning_resources":  "Students will use smart phones to make short films. They will use Premiere Pro Editing software.",
+                                                    "extra_time_commitment":  "Short films to be shot outside class time."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "73-331",
+        "name":  "Political Economy of Inequality and Redistribution",
+        "short_name":  "POL ECNMY INEQL REDS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Three basic types of institution  markets, communities, and states i.e. public governments  determine the distribution of economic resources and opportunities in societies. The balance between these governing institutions has changed dramatically over time, at very different rates across societies. This course will begin with economic and political theory on why these differences over time and across countries may exist. Then it will survey some of these differences across both industrialized and preindustrial societies and investigate their causes and consequences.   Some of the questions the course will ask include the following In the industrialized world, the public sector government plays a much larger role in Europe than in the United States. Why is this so How does this affect the quality of everyday life for different classes of people How have globalization and technological change affected the distribution of income and social policy in industrialized countries, and how does this affect the public sector In some tribal societies, people have no access to markets at all. How does this affect distributive behavior within communities Finally, what might be the ultimate causes of income inequality on a global scale Are there prehistoric and environmental roots in the ways peoples of different societies live today This course will examine these questions by studying theoretical and empirical research conducted by economists, economic anthropologists, political economists, and economic geographers on these questions. Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "82-112",
+        "name":  "Elementary Arabic II",
+        "short_name":  "ELEMENTARY ARABIC II",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(82-111 [] at least C) or (82-113 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course builds on Elementary Arabic I to continue introducing students to Modern Standard Arabic MSA to achieve communicative competence at the NoviceHighIntermediateLow level in all language skills listening, speaking, reading, and writing. To this end, the course follows a proficiencyoriented approach to language teaching. In addition to MSA, the course continues to introduce students to one of the popular spoken dialects in the Arab world such as Egyptian, Levantine, or Moroccan depending upon the instructors backgroundexpertise. Students will continue to explore various cultural aspects of the Arab world through written, audiovisual and online materials.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To build students communicative competence at the intermediate level in Modern Standard Arabic in all four skills Listening, Reading, Speaking and Writing following a Proficiencyoriented teaching approach.To introduce students to the Arabic spoken in Egypt andor the Levant Region as appropriate.To introduce students to various aspects of Arab culture.",
+                                                    "key_topics":  "Modern Standard Arabic and Egyptian Arabic; pragmatic skill development in speaking; reading; writing; listening; and cultural knowledge.",
+                                                    "prerequisite_knowledge":  "Elementary Arabic 1, placement test, or permission of the instructor",
+                                                    "assessment_structure":  "Class participation, homework, quizzes, presentations and skits, mid and final exams.",
+                                                    "relevance":  "This course is relevant to students who want to continue learning Arabic for the second semester to keep developing their abilities in speaking and writing. The course contributes to such goals of the Department of Modern Languages as Communication, Collaboration, and Cultural Knowledge.",
+                                                    "learning_resources":  "Course packet, dialogue videos, materials on Quizlet and Canvas provided by instructors, student speaking assistants, and other materials online.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "73-341",
+        "name":  "Managing through Incentives",
+        "short_name":  "MNG THR INCENTIVES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-259 [] at least D) or (21-256 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D) or (21-254 [] at least D)) and ((36-202 [] at least D) or (70-207 [] at least D) or (36-201 [] at least D) or (36-207 [] at least D) or (36-200 [] at least D) or (36-217 [] at least D) or (36-225 [] at least D) or (36-218 [] at least D) or (36-219 [] at least D) or (36-220 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We live in an exciting age of information and knowledge when inspiring employees within a firm becomes increasing important. Aligning the objectives of workers, managers, and owners by providing them with appropriate incentives becomes an emerging paradigm in the modern business world. In this course, we learn how to reason about incentives between managers and employees, between managers and owners, and within a team of coworkers. We cover a broad range of topics including objective and subjective performance measurements, relative performance evaluations, relational contracts, and executive compensation. The course relies on business case discussions, rigorous theoretical material, and numerous class activities.   This course may use thirdparty course material that is not available for individual purchase from the publisher. If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided. The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "At the end of the course, you should be able a to reason about the benefits of various incentive schemes, b to discuss successful business experiences and practices of managing through incentives, c to apply tools of game theory to reason about incentives within the firm, d to design appropriate incentive schemes in new business situations.",
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Subject to change: business case discussions, participation, class activities, homework, mid-semester exams, and final project.",
+                                                    "relevance":  "This course is for those interested in motivating employees, workers, CEOs, and teammates.",
+                                                    "learning_resources":  "Weekly office hours, lecture slides, Piazza, and articles available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

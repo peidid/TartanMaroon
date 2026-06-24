@@ -1,0 +1,37 @@
+{
+        "code":  "73-375",
+        "name":  "History of Money and Monetary Policy",
+        "short_name":  "HSTY MNY MONTRY PLY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) and (73-100 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will consider the evolution of monetary institutions and policies from 550 BC to the present, providing an understanding of the role of monetary policy through a critical evaluation of the mistakes and successes of the past.   Specific topics will include Greek, Roman, and Medieval coinage metallic systems including strengths and weaknesses of the gold standard and bimetallism American colonial experiences French episodes including the system of John Law and the Assignats of the French Revolution critical British episodes including the Great Debasement and the Restriction of 17971821 and the following topics in United States history the Constitution, early problems, Greenbacks of the Civil War, legal tender cases, the Crime of 1873, founding of the Federal Reserve, Great Depression, Bretton Woods, the Great Inflation, the Volcker disinflation, and the financial crisis of 200810. The course will include a bit of general history and history of economic thought, with just enough economic theory to provide analytical coherence. Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tepper.cmu.edu/prospective-students/course-page/73375/history-of-money-and-monetary-policy",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "99-333",
+        "name":  "Brazil Today",
+        "short_name":  "BRAZIL TODAY",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Fall 2015 Brazil Today weekend course will be held September 1113, 2015 on the University of Pittsburghs campus.  This is a joint course between CMU and Pitt.  The course website can be accessed at httpwww.ucis.pitt.eduglobalminicoursebrazil2015.  Undergraduate students should register for 99333A1, and graduate students should register for 94822A1.  Please contact Cathy Ribarchak at cr2andrew.cmu.edu or by phone at 4122688677 if you have any questions related to registration.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

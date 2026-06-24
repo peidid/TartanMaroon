@@ -1,0 +1,37 @@
+{
+        "code":  "98-056",
+        "name":  "Student Taught Courses (StuCo): Exploring Ancient Practices for a Modern World",
+        "short_name":  "STUCO: ART OF CHILL",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Embark on a transformative journey with Art of Chill a dynamic course designed for students eager to explore the ancient practices of yoga and meditation. This course offers an immersive experience into breathwork, mindful movement, and meditation techniques that promote physical, mental, and emotional wellbeing.This course will be rooted in experience as compared to theoretical knowledge. Through a blend of guided practices, discussions on the history and philosophy behind these traditions, and handson workshops, youll learn how to enhance your personal and academic life through mindfulness, breathwork, and effective stress management techniques. The course will guide you through the basics of meditation and how you can incorporate mindful breaks into your daily routine. Whether youre looking to boost focus, foster resilience, or simply find a peaceful moment in your bustling college schedule, this course is the perfect start to your journey at to discovering yourself Embrace this opportunity to connect with your peers and develop skills that will support your wellbeing and academic success throughout your university experience",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Students will learn breathwork techniques including but not limited to Bhastrika or bellows breath, Ujjayi or Ocean breath, Nadishodhan or Alternate Nostril, Bhramari or Bee Breath, Kapalbhati or Rapid breath etc2. Students will experience meditation. They will learn how to and how not to meditate. Few meditations include Panchakosha5 Sheaths, YogaNidraNSDR, Meditation for stress relief, meditation for clarity etc 3. Students will learn the history of yoga from an ancient text called Patanjali Yoga Sutras. The course will also discuss some text called upanishads and how they inform our modern lives.4. Students will learn the fascinating link between breath and emotion, what yoga says about emotions and how to be resilient in the face of overwhelming emotions.",
+                                                    "key_topics":  "Meditation, Breathwork, History of Yoga, Managing stress and emotions",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Attendance will be 50%\nHomework 25%\nAssignment 25%",
+                                                    "relevance":  "1. Stress Management: College life can be stressful, with academic pressures and social challenges. Breathwork and meditation provide tools to manage stress, anxiety and mental fog in effective way.\n2. Emotional Regulation: These practices help students develop emotional resilience, making it easier to navigate the ups and downs of college life.\n3. Cultural Awareness: Understanding the history of yoga provides insight into its cultural and philosophical roots, fostering greater appreciation for diversity and promoting global awareness.\n4. Focus and Concentration: Techniques learned through meditation can enhance concentration and focus, which can improve academic performance and productivity.",
+                                                    "learning_resources":  "Scientific papers, supplementary texts and video resources",
+                                                    "extra_time_commitment":  "Homework ~1hr per week\nAssignments ~10hours in total for the semester"
+                                            }
+}

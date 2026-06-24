@@ -1,0 +1,37 @@
+{
+        "code":  "88-284",
+        "name":  "Topics of Law: The Bill of Rights",
+        "short_name":  "TPCS LAW:BILL OF RIG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the history and place of the Bill of Rights in our nations constitutional framework. It focuses on the historical origins of the U.S. Constitution, of each of the first ten amendments to the Constitution that we refer to as the Bill of Rights, how the meanings and interpretations of these have evolved over time, and what they mean to us today. Each article of the Bill of Rights will be examined in terms of its original intentions, and then through cases that have challenged and been interpreted through the Bills articles.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goals of the course are that students will learn each of the Amendments, gain an understanding of how the Supreme Court of the United States functions and understand the oftenpolarized views of how the Bill of Rights should be interpreted by the Courts.",
+                                                    "key_topics":  "This course is designed to provide an introduction to to the Second through Tenth Amendments as well as to the Fourteenth Amendment to the United States Constitution",
+                                                    "prerequisite_knowledge":  "No prior knowledge required",
+                                                    "assessment_structure":  "There will be one mid-term exam, written assignments, presentations, class discussion and participation as well as mandatory attendance",
+                                                    "relevance":  "DC Gen Ed: Reflecting",
+                                                    "learning_resources":  "Cases will be assigned that must be accessed on Lexis, WestLaw, or the official site of the Supreme Court of the United States",
+                                                    "extra_time_commitment":  null
+                                            }
+}

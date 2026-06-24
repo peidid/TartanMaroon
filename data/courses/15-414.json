@@ -1,0 +1,37 @@
+{
+        "code":  "15-414",
+        "name":  "Bug Catching: Automated Program Verification",
+        "short_name":  "BUG CATCHING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) and (15-251 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Many CS and ECE students will be developing software and hardware that must be ultra reliable at some point in their careers. Logical errors in such designs can be costly, even life threatening. There have already been a number of well publicized errors like the Intel Pentium floating point error and the Arian 5 crash. In this course we will study tools for finding and preventing logical errors. Three types of tools will be studied automated theorem proving, state exploration techniques like model checking and tools based on static program analysis. Although students will learn the theoretical basis for such tools, the emphasis will be on actually using them on real examples.  This course can be used to satisfy the Logic  Languages requirement for the Computer Science major.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cs.cmu.edu/~15414/",
+        "custom_fields":  {
+                                                    "goals":  "Identifying and formalizing program correctness. Understanding how to write correct software from the ground up using formal principles. Apply rigorous reasoning to program correctness. Experience using automated tools to assist in verifying real code. Understanding how modern verification tools work.",
+                                                    "key_topics":  "- Rigorous reasoning applied to program correctness\n- Deductive program verification\n- Model checking\n- Formal specification",
+                                                    "prerequisite_knowledge":  "- Experience programming in imperative languages\n- Basic understanding of contracts and invariants, as developed in 15-122",
+                                                    "assessment_structure":  "40% Labs, 25% Written homework, 15% midterm exam, 15% final exam, 5% participation",
+                                                    "relevance":  "15-414 is for undergraduates. Graduate students should enroll in 15-615.\n\nBugs can lead to reliability, safety and security issues within systems which can cost valuable resources, especially in industry. This course develops key skills needed to develop practical software that does not suffer from these problems.",
+                                                    "learning_resources":  "- Course notes provided by instructors\n- Piazza\n- Gradescope\n- Autolab\n- Optional textbook available digitally through the library",
+                                                    "extra_time_commitment":  null
+                                            }
+}

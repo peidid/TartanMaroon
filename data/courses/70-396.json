@@ -1,0 +1,37 @@
+{
+        "code":  "70-396",
+        "name":  "Applied Business AI",
+        "short_name":  "APPLIED BUSINESS AI",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(70-122 [] at least D) or (70-391 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This minisemester course explores into the prudent and responsible use of AI assistants in business.  In particular, we will emphasize AI applications, benefits, limitations, ethical considerations, and future implications. The core focus is on employing AI assistants to expedite work without compromising quality prudent use while minimizing negative externalities responsible use. Throughout the course, students will develop and implement a pipeline for prudent and responsible use tailored to specific fields.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1.Understand the basics of large language models LLMs and their applications in various business tasks.2.Identify the normative assumptions of prudent and responsible use of AI assistants.3.Recognize the main threats to prudent use overreliance and responsible use tragedy of commons.4. Develop a business use case for an AI assistant",
+                                                    "key_topics":  "Large-Language Models (LLMs), Artificial Intelligence",
+                                                    "prerequisite_knowledge":  "Finance, and/or Accounting. While not required, some familiarity with coding environments (i.e., Python or R) is helpful.",
+                                                    "assessment_structure":  "A mix of short (weekly) assignments and a final project",
+                                                    "relevance":  "By examining these areas through the lens of prudent and responsible usage principles, students will gain a comprehensive understanding of how to effectively incorporate AI technology into their businesses while mitigating potential risks and adverse effects.",
+                                                    "learning_resources":  "All material will be via canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

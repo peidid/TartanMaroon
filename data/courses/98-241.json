@@ -1,0 +1,34 @@
+{
+        "code":  "98-241",
+        "name":  "Student Taught Courses (StuCo): Mock Trial - The StuCo",
+        "short_name":  "STUCO: MOCK TRIAL",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Have you ever wanted to be on CMU\u0027s Mock Trial team but haven\u0027t had the time for it?  Have you ever wanted to increase your public speaking skills but didn\u0027t know how?  Well, this StuCo is for you!  Mock Trial - the StuCo will take a look at what it means to be a successful mocker.  The class will begin by giving an overview of what mock trial entails and what is required by both attorneys and witnesses on a team.  It will end with students presenting a full case, competing with other students in the class.  In the beginning, class will be mainly lecture-based, but as the semester progresses, the class will be more presentation- and teamwork-based.  By the end, students will be able to present their own Mock Trial case and, in doing so, increase their own public speaking and presentation skills.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

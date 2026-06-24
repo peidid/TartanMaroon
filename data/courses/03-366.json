@@ -1,0 +1,37 @@
+{
+        "code":  "03-366",
+        "name":  "Neuropharmacology: Drugs, Brain and Behavior",
+        "short_name":  "NEUROPHARMACOLOGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-133 [] at least D) or (03-362 [] at least D) or (03-232 [] at least D) or (03-231 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to give students a comprehensive understanding of the major neurotransmitter systems in the brain.  Students will explore approaches to understanding how various neurotransmitters function in sensory and motor systems as well as how they are modulated by endogenous and exogenous agents.  The exploration will include basic principles of neural communication, signal transduction and second messenger systems, main classes of neurotransmitters, and the effects of medications and drugs of abuse.  In terms of sensory and motor systems, student will learn how different neurotransmitters affect different aspects of systems neuroscience and how a single neurotransmitter can have multiple roles in different systems.  Students will learn how these processes affect the endocrine system, neuroinflammatory responses, addictive behaviors, and neurotoxic or degenerative conditions.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/bio/undergrad/courses/index.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "Cellular communication in neural circuits, major neurotransmitter systems (Amino acid transmitters, neuropeptides, neuroendocrinology), impacts on: mood, emotions, addiction, pain, and other disorders (such as seizures and neurodegenerative disorders).",
+                                                    "prerequisite_knowledge":  "Previous coursework in neuroscience, neurobiology, or biochemistry preferred, or instructor permission.",
+                                                    "assessment_structure":  "15% class participation and quizzes\n55% two midterms and one final exam\n15% group project and presentation\n15% written assignments",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Molecular Neuropharmacology, (2015, 3rd Edition by Nestler et al. ISBN: 978-0-071827690). Supplemented with readings from the primary research and review literature",
+                                                    "extra_time_commitment":  null
+                                            }
+}

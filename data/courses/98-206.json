@@ -1,0 +1,34 @@
+{
+        "code":  "98-206",
+        "name":  "Student Taught Courses (StuCo): Experience Entertainment",
+        "short_name":  "STUCO: EXP ENTRTNMNT",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Stories are incredibly powerful. Themed entertainment helps to convey these stories in a different kind of way. In this course we will discuss a variety of types of entertainment, their history, their design and specific examples. Some of the topics will range from integrating social media into rides to gamifcation to innovation culture. We will also be going through examples of new ideas in this industry. As part of the course, the class will take field trips with behind the scene tours of Kennywood (the trip is free to all enrolled students), the Pittsburgh Zoo and PPG Aquarium (small fee required), and the Entertainment Technology Center. Please send any questions about the course to myho@andrew.cmu.edu.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

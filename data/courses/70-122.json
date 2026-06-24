@@ -1,0 +1,37 @@
+{
+        "code":  "70-122",
+        "name":  "Introduction to Accounting",
+        "short_name":  "INTRO TO ACCOUNTING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides the knowledge and skills necessary for the student to understand financial statements and financial records and to make use of the information for management and investment decisions. Topics include an overview of financial statements and business decisions the balance sheet, the income statement, and the cash flow statement sales revenue, receivables, and cash cost of goods sold and inventory longlived assets and depreciation, and amortization current and longterm liabilities owners equity investments in other corporations an introduction to financial statement analysis and international issues dealing with financial statements. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The primary focus of the course will be financial accounting, or the measurement of business performance for external use. The main objective is to enable one to read, understand, and produce financial statements. The secondary focus of the course will be managerial accounting, or the measurement of business performance for internal use. The objective of this part of the course will be on the ways accounting information is used by managers to make decisions.",
+                                                    "key_topics":  "Journalizing business transactions; reading financial statements; understanding the timing of cash flows vs. revenues and expenses; inventory measurement; costing in manufacturing, merchandising, and service firms; financial statement analysis and ratios; budgeting for a business segment; variable vs. fixed costs; period vs. product costs; short-term business decisions",
+                                                    "prerequisite_knowledge":  "No prior knowledge required; most appropriate for students looking to learn about business in preparation for internships and future interviews",
+                                                    "assessment_structure":  "Two midterm exams, and a final, with quizzes in recitation and homework assignments",
+                                                    "relevance":  "Students will gain the background knowledge necessary to do better interviews, the language business people use to discuss performance, and an understanding of the economics of companies.",
+                                                    "learning_resources":  "Students are required to have Horngren\u0027s Accounting (12th edition). The publisher offers many complementary learning units",
+                                                    "extra_time_commitment":  null
+                                            }
+}

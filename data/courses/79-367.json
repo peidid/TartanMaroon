@@ -1,0 +1,37 @@
+{
+        "code":  "79-367",
+        "name":  "Disastrous Encounters",
+        "short_name":  "DISASTROUS ENCOUNTER",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is ONLY offered at Carnegie Mellon in Qatar.  Disastrous Encounters explores the complex interaction between human beings and their environment by examining incidents in which those disasters have proven destructive or fatal to humankind. By the end of the class students will be able to  Explain the scientific principles behind natural disasters, including cyclonic weather, global climate change, volcanoes, earthquakes, tsunamis, river flooding, famines, and diseases.  Analyze to what extent a given disaster is in fact natural at all, but rather was either caused by or exacerbated by human actions.    Draw connections between different types of disasters, recognizing that major disasters often produce predictable secondary disaster effects.  Read documents critically, especially in terms of the authors agenda and the authors likely biases.  Write strong analytical essays.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

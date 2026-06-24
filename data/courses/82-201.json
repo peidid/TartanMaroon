@@ -1,0 +1,37 @@
+{
+        "code":  "82-201",
+        "name":  "Intermediate French I",
+        "short_name":  "INTERMED FRENCH I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(82-104 [] at least D) or (82-102 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "At the intermediate level, students will continue to improve listening, speaking, reading and writing skills with the goal of becoming more proficient in daily and extended communication needs. In addition to an ongoing review of basic grammar, a greater variety of grammar, expressions and complicated sentence structures will be taught so that students can carry on more sophisticated conversations on various topics. Inclass activities and homework using authentic texts related to the broad spectrum of French and francophone cultures will be used to integrate language learning with content and culture. Regular homework, quizzes, tests, presentations, essays, and class participation are mandatory. A student with prior experience in French must take the placement exam.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To communicate, learn increased control of grammar, vocabulary, and pronunciation to understand the importance of cultural information in language and pragmatics. Cultural topics will be taken from course materials.",
+                                                    "key_topics":  "Continued work in language, communication, pragmatic skill development in speaking, reading, writing, and listening, and cultural knowledge.",
+                                                    "prerequisite_knowledge":  "82-102/82-104, placement test, or permission of the instructor.",
+                                                    "assessment_structure":  "Any of these are possible: class participation, homework, quizzes, unit/chapter exams, essays, presentations, oral exams/meetings; meetings with a speaking or writing peer assistant. Final exams are course dependent.",
+                                                    "relevance":  "Intermediate level courses build on and extend students\u0027 abilities to communicate in the target language. Students can achieve up to Intermediate Mid (ACTFL) or the B1 level (CEFR: European framework).",
+                                                    "learning_resources":  "Depending on the course, textbooks, film, online resources, materials provided by instructors.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

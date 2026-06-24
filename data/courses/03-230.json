@@ -1,0 +1,37 @@
+{
+        "code":  "03-230",
+        "name":  "Intro to Mammalian Physiology",
+        "short_name":  "INTRO MAMMALIAN PHYS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-151 [] at least D) or (03-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course has been designed to explore human physiology at an introductory level. Emphasis will be placed on the physiological processes in an organ system framework and focus on a wide range of pertinent clinical topics. Our aim is to instill in you a deeper appreciation for the complexity and beauty of the human body, and most importantly, to motivate you to carry away physiological principles that you may need later in your profession or simply may be relevant to a realworld situation.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Learn about the relationship between the structure and function of the organ systems of the human bodyDiagnose simple malfunctions in organ systems based upon physiological dataUnderstand glucose metabolism and the regulation of insulin releaseIllustrate and compare second messenger signaling systems and to recognize their role in multiple organ systems.Explain membrane potential and relate this to principles of nervous systems and muscle functionDiagram the circulatory and respiratory systems and their functional interrelationshipExplain osmolarity and relate this to principles of function in the urinary and digestive systemsDevelop skills in critical thinking and problem solving in evaluating physiological data Constructively use peer review to evaluate understanding of course materials.",
+                                                    "key_topics":  "The following is a list of units that will be addressed in the order that they will be covered:\n(1)\tLevels of Organization: \tBasic Cellular Metabolism and the Endocrine System\n(2)\tControl and Regulation:\tNervous Systems\n(3)\tSupport and Movement:\tMuscle and Skeletal Systems\n(4)\tFluids and Transport: Circulatory, Respiratory, and Urinary Systems\n(5)\tEnvironmental Exchange:Digestive, Reproductive, and Immune System.",
+                                                    "prerequisite_knowledge":  "Modern Biology 03-121 or equivalent.",
+                                                    "assessment_structure":  "This course will include Exams, Quizzes, homework. Learn, in addition to writing simple lab reports. This course also includes 2 sessions called \"current event discussion\" where students present current topics in the media. Prior to the assigned session, each student will be required to find and write a critique about a scientific article published within popular press, e.g. newspaper, magazine etc., which is related to the topic we will have been discussing in class.",
+                                                    "relevance":  "This course will expand students knowledge about how our body works, im addition to relating organ systems to diseases and current topics such as vaping or keto diet. Most importantly, students will develop analytical skills in solving clinical scenario.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

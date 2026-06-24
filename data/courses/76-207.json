@@ -1,0 +1,37 @@
+{
+        "code":  "76-207",
+        "name":  "Special Topics in Literature \u0026 Culture",
+        "short_name":  "SPEC TPCS LIT \u0026 CULT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics very by semester and section. Please see course URL for more information.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://docs.google.com/document/d/1Cv4PYt9WifMbOgn-ehK_9l6hI4ESCIrcQ_oXkh7zDLY/edit?usp=sharing",
+        "custom_fields":  {
+                                                    "goals":  "Varies by section and semester. See course URL for more information.",
+                                                    "key_topics":  "Varies by section and semester. See course URL for more information.",
+                                                    "prerequisite_knowledge":  "Varies by section and semester. See course URL for more information.",
+                                                    "assessment_structure":  "Varies by section and semester. See course URL for more information.",
+                                                    "relevance":  "Varies by section and semester. See course URL for more information.",
+                                                    "learning_resources":  "Varies by section and semester. See course URL for more information.",
+                                                    "extra_time_commitment":  "Varies by section and semester. See course URL for more information."
+                                            }
+}

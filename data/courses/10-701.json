@@ -1,0 +1,66 @@
+{
+        "code":  "10-701",
+        "name":  "Introduction to Machine Learning",
+        "short_name":  "MACHINE LEARNING",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((15-121 [] at least C) or (15-122 [] at least C)) and ((21-128 [] at least C) or (15-151 [] at least C) or (21-127 [] at least C)) and ((21-325 [] at least C) or (15-359 [] at least C) or (36-219 [] at least C) or (36-225 [] at least C) or (15-259 [] at least C) or (36-217 [] at least C) or (36-218 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "18-782",
+                                                    "id":  3010,
+                                                    "name":  "Machine Learning",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-697",
+                                                    "id":  7131,
+                                                    "name":  "Statistical Discovery and Learning",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-461",
+                                                    "id":  8806,
+                                                    "name":  "Introduction to Machine Learning for Engineers",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-661",
+                                                    "id":  8815,
+                                                    "name":  "Introduction to Machine Learning for Engineers",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "42-656",
+                                                    "id":  11737,
+                                                    "name":  "Introduction to Machine Learning for Biomedical Engineers",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Machine learning studies the question how can we build adaptive algorithms that automatically improve their performance on a given task as they acquire more experience This can cover a dizzying array of technologies depending on what sort of task we have in mind, and we take to constitute experience. Through this framing, we might view classical statistics problems, like estimating the likelihood that a coin lands on heads as an ML problem the task is to produce an estimate, and the experience would consist of observations. But ML can also include robotics challenges, where the experience is acquired dynamically as our artificial agent interacts with the real world. Other grand challenges in machine learning relate to personalized medicine, natural language processing, and most recently generating media artifacts like photographs and essays but dont ask chatGPT to do your homework. This course is designed to give PhD students a solid foundation in the methods, mathematics, and algorithms of modern machine learning. Students entering the class with a preexisting working knowledge of probability, statistics and algorithms will be at an advantage, but the class has been designed so that anyone with a strong mathematical and computer science background can catch up and fully participate. If you are interested in this topic, but are not a PhD student, or are a PhD student not specializing in machine learning, you might consider the masters level course on Machine Learning, 10601. This class may be appropriate for MS and undergrad students who are interested in the theory and algorithms behind ML.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "https://machinelearningcmu.github.io/F23-10701/",
+        "custom_fields":  {
+                                                    "goals":  "This course is designed to give PhD students a thorough grounding in the methods, mathematics and algorithms needed to do research and applications in machine learning.",
+                                                    "key_topics":  "This course covers the core concepts, theory, algorithms, and applications of machine learning. We cover supervised learning topics such as classification (Naive Bayes, Logistic regression, Support Vector Machines, neural networks, decision trees, boosting) and regression (linear, nonlinear), unsupervised learning (MLE, MAP, clustering, PCA, dimensionality reduction), graphical models, reasoning under uncertainty, and ML theory.",
+                                                    "prerequisite_knowledge":  "This is a PhD class and requires knowledge of math, statistics, probability and algorithms (including basic knowledge of complexity). Since most PhD students take it in their first or second semester at CMU there are no official pre-reqs for this class. However, MS and undergrad students who are interested in the theory and algorithms behind ML should have sufficient mathematical background in order to do well in this course.",
+                                                    "assessment_structure":  "Assessment includes midterm exams, final exam, homework assignments, mini-project, and readings.",
+                                                    "relevance":  "Machine learning is an interdisciplinary field that draws on aspects of computer science, statistics, probability, optimization, information theory, and more. Increasingly its applications include fields that span all of those represented at Carnegie Mellon. This course is designed to give students a deep understanding of how and why these methods work and how they can be applied to new problems.",
+                                                    "learning_resources":  "Weekly lectures, recorded.\n\nOccasional recitations\n\nOffice hours\n\nA website with all class slides, problem sets and links to previous exams.\n\nOptional textbooks provided on the class website",
+                                                    "extra_time_commitment":  null
+                                            }
+}

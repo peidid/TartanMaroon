@@ -1,0 +1,37 @@
+{
+        "code":  "15-121",
+        "name":  "Introduction to Data Structures",
+        "short_name":  "INTRO DATA STRUCTURS",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "15-112 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "A continuation of the process of program design and analysis for  students with some prior programming experience functions, loops, and  arrays, not necessarily in Java. The course reinforces objectoriented  programming techniques in Java and covers data aggregates, data  structures e.g., linked lists, stacks, queues, trees, and graphs, and  an introduction to the analysis of algorithms that operate on those data  structures.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cs.cmu.edu/~mjs/121/index.html",
+        "custom_fields":  {
+                                                    "goals":  "Analyze the efficiency of algorithms. Design and implement eventbased graphical animations.",
+                                                    "key_topics":  "Data Structures: Graphs, trees, heaps, stacks, queues, etc. Object Oriented Programming in Java. Analysis of algorithms on data structures (time/space efficiency)",
+                                                    "prerequisite_knowledge":  "Basic Programming Skills (loops, functions, arrays)",
+                                                    "assessment_structure":  "Quizzes (12%), Homework/Labs (49%), Midterms (14%), and Exams (25%)",
+                                                    "relevance":  "This course is or students with some prior programming experience and want to learn about data structures.",
+                                                    "learning_resources":  "Piazza, Java API, required textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

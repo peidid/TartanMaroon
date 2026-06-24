@@ -1,0 +1,37 @@
+{
+        "code":  "76-396",
+        "name":  "Non-Profit Message Creation",
+        "short_name":  "NONPRFT MSG CREATION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Nonprofit organizations support a multitude of causes ranging from the arts to animals to the environment to health care to human rights to scientific research to many great causes in between. Nonprofits achieve their missions by advocating on behalf of their organizations cause, raising public awareness about issues surrounding their cause, and fundraising to make their advocacy possible. In this course, students will select a local, Pittsburgharea nonprofit to examine and produce materials based on the organizations needs. Over the course of the semester students will research the organizations persona and values via interviews with chosen organizations staff and analysis of existing communication channels and different forms of content currently used by the organization. Students will use this research and analyses to inform and shape a final project that should meet the specified, needed deliverables from the selected nonprofit. Previous example projects include Revising a newsletter and specifying future best practices for an organization developing new format and copy for an organizations website developing a social media campaign for an upcoming event developing a grant proposal for an organizations project among many others. Students will have a wide selection of organizations to choose from and know projects associated with the organization at the beginning of the semester, as these will be organized by the professor. At the end of the course, students will have a portfolio ready material and an increased understanding as to how nonprofit organizations advance their causes.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will have a portfolio ready material and an increased understanding as to how nonprofit organizations advance their causes.",
+                                                    "key_topics":  "non-profits, marketing, social media, fundraising, storytelling, grantwriting, creating meaningful messages",
+                                                    "prerequisite_knowledge":  "Students should have previously taken First-Year Writing. No other pre-requisite knowledge.",
+                                                    "assessment_structure":  "Short analysis papers, two short presentations, and a final project fulfilling a non-profit\u0027s desired deliverable",
+                                                    "relevance":  "We will be working in tandem with local non-profit organizations to create a professional, portfolio ready material based on the non-profit\u0027s needs. This will develop over the course of the semester and will provide project-based learning. We will also learn central persuasive techniques and discuss how to use them effectively in message creation for the non-profit organizations.",
+                                                    "learning_resources":  "The course will be hands-on in analyzing examples in relation to key terms and concepts discussed in the class. All readings will be provided via Canvas. Previous student examples will be provided as well.",
+                                                    "extra_time_commitment":  "The course includes working with a local non-profit organization to develop or revise existing messaging materials for the organization. This can range from developing a social media campaign to revamping a website to creating fliers to writing a blog and more. A range of options will be provided to the students and they will not be required to find their own non-profit partner organization. Students are expected to meet with their non-profit organization at least twice during the semester. Depending on the deliverable for the non-profit, students may be asked to attend an event for the non-profit related to their final project. Students will be selecting their organization and deliverable at the beginning of the semester."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "03-151",
+        "name":  "Honors Modern Biology",
+        "short_name":  "HONORS MOD BIOLOGY",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Honors Modern Biology 03151 is an honors introductory course. This course has been designed for freshman students with an interest in a major in the biological sciences who have had solid preparation in this field as indicated by the following examinations SAT II Molecular Biology, AP, or IB Biology. This course will present the concepts and principles necessary for a general understanding of the processes occurring in living cells and is the basis for further study in cell biology, biochemistry, genetics, molecular and developmental biology. While similar core topics will be covered in all sections of Modern Biology, this section will be offered at an accelerated pace, requiring more independent learning. The extra class time this pacing provides will allow the exploration of the molecular basis of life to help students integrate and apply the core principles of biology covered in the course.  THIS SECTION IS RESERVED FOR INCOMING FIRSTYEAR MCS STUDENTS.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/bio/undergrad/courses/index.html",
+        "custom_fields":  {
+                                                    "goals":  "Apply knowledge of molecular and cellular processes to solve problembased questions about biological systems in normal function and disease states. Understand the experimental strategies that biologists use to study the natural world. Able to interpret data and predict outcomes from hypothetical experiments.",
+                                                    "key_topics":  "Honors Modern Biology examines topics routinely studied by biologists, such as cellular and protein structure and function, glycolysis and respiration, genetics, cell signaling, molecular biology, and biochemistry. An emphasis will be placed on understanding how the experiments that lead to our current knowledge were done.",
+                                                    "prerequisite_knowledge":  "High school biology course, preferably AP, or the equivalent, credit.",
+                                                    "assessment_structure":  "The assessment structure will include several exams during the semester and a cumulative final exam. Students should expect to complete frequent homework assignments and may also take quizzes (depending on the individual instructors).",
+                                                    "relevance":  "Students will learn about the relationship between structure and function, as it relates to processes at the cellular and molecular level, to appreciate normal versus disease and experimental approaches.",
+                                                    "learning_resources":  "There will be weekly instructor and TA office hours. Supplemental instruction (SI) may also be available. A textbook will also be used, but may vary between sections as determined by individual instructors. Additional course materials may include the following: online study materials, lecture slides and notes, videos, and selected papers from the literature. In recitation, students will learn problem solving and experimental approaches, as well as read and discuss articles from the primary scientific literature.",
+                                                    "extra_time_commitment":  "Students are expected to spend an average of 4-5 hours outside of class working on homework assignments or preparing for exams. Students are encouraged to study in small groups and attend instructor or TA office hours and study sessions, as well as supplemental instruction (SI) sessions if available."
+                                            }
+}

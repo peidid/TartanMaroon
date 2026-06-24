@@ -1,0 +1,37 @@
+{
+        "code":  "79-293",
+        "name":  "Inward Odyssey",
+        "short_name":  "INWARD ODYSSEY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is ONLY offered at Carnegie Mellon in Qatar. Inward Odyssey will explore world history by examining it through the outwardlooking eyes of travel writers, on the assumption that travelogues, though supposedly written about the other, in fact provide crucial insights about the mindset of the culture that produced them, and often serve as a vehicle for cultural selfexploration or even selfcriticism. In terms of content, this course is intended to overlap with World History, Islam and the European World, and USArab Encounters. However, this course is intended to be a skills course, designed not to teach students about specific historical periods, but rather to give students the tools they need to conduct their own critical explorations into the historical past.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,42 @@
+{
+        "code":  "36-350",
+        "name":  "Statistical Computing",
+        "short_name":  "STAT COMP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((36-218 [] at least C) or (21-235 [] at least D) or (36-225 [] at least C) or (36-217 [] at least C) or (36-235 [] at least C) or (36-219 [] at least C) or (15-259 [] at least C)) and ((15-110 [] at least D) or (15-112 [] at least D) or (02-120 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "15-106",
+                                                    "id":  9692,
+                                                    "name":  "Introduction to Computing for Data Analysis",
+                                                    "units":  5.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Statistical Computing an introduction to computing targeted at statistics majors with perhaps minimal programming knowledge. The main topics are core ideas of programming functions, objects, data structures, flow control, input and output, debugging, logical design and abstraction. The class will be taught primarily in the R language, with Python also being utilized beginning in Spring 2025. No previous programming experience in R is required but exposure to it in previous classes is assumed students who have not been exposed to Python in the courses 1511015112 or their equivalents are advised to work through, e.g., the free CMU Open Learning Initiative OLI Python course prior to the first week of class.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To prepare students to code analyses of data in 400level statistics classes, in summer internships, in postgraduation employment, andor in graduate school.",
+                                                    "key_topics":  "Data types and manipulation, functions, string processing, data input/output, functions, simulation and random sampling, numerical tool use, optimization, debugging and unit testing, version control, relational databases",
+                                                    "prerequisite_knowledge":  "Knowledge of probability theory",
+                                                    "assessment_structure":  "Weekly programming labs and homework, quizzes, and possible in-class exams.",
+                                                    "relevance":  "All modern data analysis is carried out via computers.",
+                                                    "learning_resources":  "Extensive course slides, unstructured lab time with instructor and teaching assistants (TA\u0027s).",
+                                                    "extra_time_commitment":  "None are foreseen."
+                                            }
+}

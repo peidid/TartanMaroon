@@ -1,0 +1,37 @@
+{
+        "code":  "79-269",
+        "name":  "Russian History: From Socialism to Capitalism",
+        "short_name":  "RUS HIS:SOC-CAP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Beginning with Stalins death in 1953, this course focuses on the efforts of a new group of Soviet leaders to eliminate the repression of the Stalin years and to create a more democratic socialism. It will examine the reforms of Khrushchev and the reaction against them, the long period of Brezhnevs rule, and the hopeful plans of Gorbachev. Finally, it will survey Gorbachevs loss of control, the collapse of socialism and the Soviet Union, and the growth of wild west or gangster capitalism. We will look at the rise of the oligarchs and the impact of the capitalist transition on ordinary people. The course provides essential background for anyone interested in understanding Russias place in the world today and its relationship with the West.  This course fulfills Dietrich Colleges Intercultural and Global Inquiry general education requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will obtain and understanding of a critical part of Russian history, they will learn to analyze change over time, and to assess the winners and losers of systemic change.",
+                                                    "key_topics":  "Soviet history from Stalin\u0027s death to the collapse of the Soviet Union and the transition to capitalism. Khrushchev\u0027s reforms, stagnation under Brezhnev, the break up of the Soviet Union, the impact of the transition on ordinary people.",
+                                                    "prerequisite_knowledge":  "No prerequisite knowledge is required.",
+                                                    "assessment_structure":  "A midterm, a final, a paper, and class participation.",
+                                                    "relevance":  "This course fulfills Dietrich College\u0027s \"Intercultural and Global Inquiry\" general education requirement.\n\nStudents interested in international affairs, Russia\u0027s place in the world, the break up of the Soviet Union, current events, and the impact of transition from one economic system to another.",
+                                                    "learning_resources":  "Books, films, primary sources, and articles.",
+                                                    "extra_time_commitment":  "Instructor may possibly include an outside film showing."
+                                            }
+}

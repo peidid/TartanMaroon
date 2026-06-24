@@ -1,0 +1,37 @@
+{
+        "code":  "66-221",
+        "name":  "Topics of Law: Introduction to Intellectual Property Law",
+        "short_name":  "TOPICS OF LAW",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides students with an overview of patent, trademark, copyright, and trade secret laws.  Goals for the course include identifying intellectual property IP rights and understanding how to take the necessary steps to protect and enforce those rights.  Many recent developments in IP law will also be covered.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to identify intellectual property issues, when they or their future employer has intellectual property rights and how to protect those rights.",
+                                                    "key_topics":  "The course will cover intellectual property laws including patent, trademark, copyright, and trade secret laws.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Students have a mid-term and final assignment. Class participation is also considered.",
+                                                    "relevance":  "The course is an interdisciplinary course and appeals to students with a variety of backgrounds because it is a law course and it teaches students with any background how to protect their intellectual property.",
+                                                    "learning_resources":  "Students are encourages to purchase \"Understanding Intellectual Property Law\" by Chisum et al.\n\nRelevant laws and case examples are also posted to the course\u0027s Canvas site.",
+                                                    "extra_time_commitment":  "There are not any extra time commitments."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-386",
+        "name":  "Join the Conversation: Tackling Social Injustices",
+        "short_name":  "TACKLG SOC INSJUSTIC",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about cultivating a safe and comfortable space to tackle social injustices, like racism, sexism and other kinds of discrimination. It deals with current issues faced by minorities and systematically oppressed groups. In a very diverse world, it is important for us to learn about other peoples struggles and confront our own biases. Along with the other platforms provided on campus, this course will be a different kind of space for students to learn and have fruitful discussions.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

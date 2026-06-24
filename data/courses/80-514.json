@@ -1,0 +1,37 @@
+{
+        "code":  "80-514",
+        "name":  "Categorical Logic",
+        "short_name":  "CATEGORICAL LOGIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "80-413 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on applications of category theory in logic and computer science. A leading idea is functorial semantics, according to which a model of a logical theory is a setvalued functor on a category determined by the theory. This gives rise to a syntaxinvariant notion of a theory and introduces many algebraic methods into logic, leading naturally to the universal and other general models that distinguish functorial from classical semantics. Geometric logic is treated categorically by the theory of Grothendieck topoi. We shall see how this idea connects logic with topology the models of a theory form a sort of generalized space. A prerequisite for this course is familiarity with basic category theory as treated in the course 80413713.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.andrew.cmu.edu/user/barton2/80-514-814/",
+        "custom_fields":  {
+                                                    "goals":  "Students will understand the relationships between logic, category theory and geometry.",
+                                                    "key_topics":  "Categorical semantics of logical theories, topos theory",
+                                                    "prerequisite_knowledge":  "Category theory, some prior exposure to formal logic",
+                                                    "assessment_structure":  "Homework assignments, final in-class presentations",
+                                                    "relevance":  "Interactions between logic, category theory, and topology have become fundamental in the three fields.",
+                                                    "learning_resources":  "Instructor will provide notes",
+                                                    "extra_time_commitment":  null
+                                            }
+}

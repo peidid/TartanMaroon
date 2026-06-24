@@ -1,0 +1,37 @@
+{
+        "code":  "98-330",
+        "name":  "Student Taught Courses (StuCo): Fundamentals of Personal Development",
+        "short_name":  "STUCO: PERSONAL DEV",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will provide students with a general introduction to the principles of personal development. In this class students will learn how to become more charismatic and increase their confidence, improve their negotiation skills, be more vulnerable, manage their time efficiently, and many more things. They will do so by learning how to create positive habits and break negative ones. Assignments include helping strangers, watching keynote conference speakers and short readings.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-171",
+        "name":  "Student Taught Courses (StuCo): Career Readiness for Future Professionals",
+        "short_name":  "STUCO: CAREER SKILLS",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this class, youll develop a foundation of the career readiness skills needed to find and succeed in your future career Youll identify and develop your career and professional goals, learn to write a strong resume and cover letter, and utilize professional communication and networking skills. Additionally, youll develop an understanding of how different types of summersemester experiences internships, research, campus jobs, etc. can be valuable, and develop the interviewing skills needed to obtain those experiences. This course isnt specific to any one major or career field, but the instructor hopes to work together with each student to help you apply these concepts to your own career path.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

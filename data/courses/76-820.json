@@ -1,0 +1,37 @@
+{
+        "code":  "76-820",
+        "name":  "The Cognition of Reading and Writing: Introduction to a Social/Cognitive Process",
+        "short_name":  "PROCESS READ WRITING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Ever wondered how a reader is interpreting a text you wroteand how that compares to what you thought it said  Or how does your own process of writing that text compare to the problemsolving strategies experts draw upon  This course explores reading and writing as a socialcognitive processrevealing conscious and unconscious problemsolving strategies with which readers comprehend and interpret texts, and writers construct and communicate their meaning.  To get at the why behind the surprising things readers do with a text, we will draw on the psychology of reading, where socially constructed memory networks, cognitive schemas, and metaknowledge actively shape interpretation. To uncover readers interpretations, we put our knowledge to work trying out usertesting methods that help writers build effective audiencebased presentations, applications, websites, or guides.  We then take the same approach to writers as thinkers, examining the key problemsolving processes, from task representation, to planning, to revision, on which expert and novice writers often differ.  Learning to track problemsolving through process tracing methods, will let you carry out two case studies of your own.  The first will uncover the sometimes radical differences in how a small set of readers actually interpret a text you find significant. The second will be a case study of your own thinking process on a real task you are doing outside this class.  Here you are likely to uncover old unconscious habits, problems you had to solve, as well as unrecognized successful strategies, giving you a new reflective insight into your own thinking as a writer.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

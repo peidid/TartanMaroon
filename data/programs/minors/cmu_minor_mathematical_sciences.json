@@ -1,0 +1,94 @@
+{
+  "minor": {
+    "name": "Minor in Mathematical Sciences",
+    "department": "Mathematical Sciences",
+    "college": "Mellon College of Science",
+    "university": "Carnegie Mellon University",
+    "version": "EY2019 Doha - Minor in Mathematics",
+    "entry_year": "2019 and later",
+    "campus": "Doha",
+    "Description": "The Minor in Mathematical Sciences, administered by the Undergraduate Mellon College of Science, provides a rigorous foundation in mathematical reasoning, proof techniques, and advanced topics. Beginning with an introductory course in mathematical concepts and proofs, students then deepen their understanding through discrete mathematics or theoretical computer science. Core coursework includes linear algebra and real analysis, ensuring proficiency in both computational methods and rigorous analysis. Two 300-level (or higher) electives allow exploration of specialized areas such as abstract algebra, topology, probability, or applications in computational finance. Electives counted toward this minor may not also satisfy requirements for any other major or minor, preserving the integrity of each program. This minor equips students with the quantitative and abstract problem-solving skills valued in research, data science, finance, and technology careers. Computational Finance majors should consult a separate document for the tailored version of this minor.",
+    "Notes": "Students who take 21-325 (or 15-259 or 36-218) to fulfill their BSCF requirements should take an additional 21-3xx elective to avoid excessive double counting. Students must take one course as an elective from the Mathematical Sciences Elective list. "
+
+  },
+  "program_requirements": {
+    "total_min_units": 56,
+    "mode_average_units": 12,
+    "requirement": "Fulfill all of the following requirements",
+    "double_counting_rules": {
+      "general": "Courses may double count without any limit with other programs unless specified otherwise",
+      "electives_double_count": 0,
+      "note": "Courses that count towards Electives: 0 (no double counting allowed for electives)"
+    },
+    "requirements": {
+      "description": "Fulfill all of the following requirements",
+      "mode_average_units": 12,
+      "internal_double_counting": "Courses may double count without any limit with other requirements unless specified otherwise",
+      "categories": {
+        "concepts_of_mathematics": {
+          "requirement": "Fulfill any of the following requirements",
+          "mode_average_units": 12,
+          "options": [
+            {
+              "code": "21-127",
+              "title": "Concepts of Mathematics"
+            },
+            {
+              "code": "21-128",
+              "title": "Mathematical Concepts and Proofs"
+            }
+          ]
+        },
+        "discrete_mathematics": {
+          "requirement": "Fulfill any of the following requirements",
+          "mode_average_units": 12,
+          "options": [
+            {
+              "code": "21-228",
+              "title": "Discrete Mathematics"
+            },
+            {
+              "code": "15-251",
+              "title": "Great Ideas in Theoretical Computer Science"
+            }
+          ]
+        },
+        "matrices": {
+          "requirement": "Fulfill any of the following requirements",
+          "mode_average_units": 11,
+          "options": [
+            {
+              "code": "21-241",
+              "title": "Matrices and Linear Transformations"
+            },
+            {
+              "code": "21-242",
+              "title": "Matrix Theory"
+            },
+            {
+              "code": "21-355",
+              "title": "Principles of Real Analysis I"
+            }
+          ]
+        },
+        "electives": {
+          "requirement": "Take at least 2 courses",
+          "min_units": 18,
+          "mode_average_units": 12,
+          "course_range": {
+            "start": "21-300",
+            "end": "21-999"
+          },
+          "excluded_courses": [
+            "21-355"
+          ],
+          "description": "Any 2 courses from 21-300 to 21-999 range except 21-355"
+        }
+      }
+    },
+    "pathways": {
+      "available": false,
+      "note": "No Pathways Available"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "80-253",
+        "name":  "Continental Philosophy",
+        "short_name":  "CONTINENTAL PHILSPHY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides students with an overview of key movements in European Philosophy. The historical background covers Descartes, Kant, Kierkegaard, and Nietzsche. The central tenets of phenomenology and existentialism e.g., intentionality, BeingintheWorld, Bad Faith will be discussed in the context of selected works from Husserl, Heidegger, Sartre and MerleauPonty. The course will conclude with the background for and current work of Habermas.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is to introduce students to some of the central texts in European philosophy and to help students learn to appreciate, analyze, and criticize different perspectives concerning the topics debated in that tradition.",
+                                                    "key_topics":  "We will examine several key thinkers in the history of European philosophy, including Kant, Kierkegaard, Nietzsche, Husserl, Heidegger, Sartre, Merleau-Ponty, Levinas and Derrida, among others. Our focus will be on the development of and relationship between two central intellectual movements--existentialism and phenomenology--in this tradition. This course will therefore cover material central for the study of modern European intellectual history and for many core philosophical topics such as ethics, metaphysics, the theory of knowledge, and the nature of philosophy itself.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Primarily two medium-length papers, one midterm, attendance and participation, and a final exam. There may be one or two other brief assignments.",
+                                                    "relevance":  "University students will acquire a deeper understanding of several core questions relevant to the human experience, such as ethics, metaphysics, the theory of knowledge, and the nature of philosophy itself.",
+                                                    "learning_resources":  "Most of our texts will be excerpts from books. Some of these will be available for download.",
+                                                    "extra_time_commitment":  "Just the reading and assessment tasks already described."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "09-348",
+        "name":  "Inorganic Chemistry",
+        "short_name":  "INORGANIC CHEMISTRY",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "((09-105 [] at least D) or (09-107 [] at least D)) and (21-120 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The focus of this class is understanding the properties of the elements and of the inorganic compounds. The electronic structure of elements is discussed as the basis for the elements organization in the Periodic Table and for their properties. We will discuss atomic structure, and bonding of diatomic and polyatomic molecules using different models such as Lewis structures, VSEPR and Molecular Orbital Theory including group theory and linear combination of atomic orbitals. We will study the structure, spectroscopy, and reactivity of coordination complexes and their application in bioinorganic and organometallic chemistry. 3 hrs. lec., 1 hr. rec.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the time we finish this course, we will be able toExplain the basic models used to describe bonding in inorganic compounds. Describe the underlying principles of molecular symmetry. Explain the periodicity trends in the maingroup elements.Explain the theory behind dblock coordination chemistry. Comprehend the main principles of organometallic chemistry, bioinorganic systems and catalysis.",
+                                                    "key_topics":  "Atomic structure, bonding in diatomic and polyatomic molecules, Lewis structures, VSEPR, Molecular orbital theory, Group theory, coordination chemistry, structure and spectroscopy of coordination complexes, organometallic chemistry, bioinorganic chemistry.",
+                                                    "prerequisite_knowledge":  "(09-107 or 09-105) and 21-120",
+                                                    "assessment_structure":  "Homework problems will be assigned every week, except for the weeks with an exam, and will be due in a week from the initial assigned date. A total of 5 quizzes will be given during class, but not in weeks with an exam. Each quiz takes half class period. There will be two exams, which takes a full class period. A comprehensive final exam will be given at the end of the course. The student final grade is determined by combining all grades from homework, 5 quizzes, 2 exams and final exam, and the cutoffs for the final grades are A(90), B(80), C(70), and D(60).",
+                                                    "relevance":  "In this undergraduate level course you will learn in detail the concepts of atomic structure and periodic trends on the properties of the elements of the periodic table. We will discuss the different models to explain bonding in diatomic and polyatomic molecules. We will also learn about the electronic structure coordination complexes and how that impacts their reactivity in bioinorganic and organometallic transformations.",
+                                                    "learning_resources":  "INORGANIC CHEMISTRY- Housecroft and Sharpe (4th Edition).\nINORGANIC CHEMISTRY- Shriver and Atkins (5th Edition).\nINORGANIC CHEMISTRY - Missler and Tarr (3rd - 5th Editions)",
+                                                    "extra_time_commitment":  "Students need to commit about 3-4 hours a week to review lecture notes, answer homework and study for quizzes and exams. Taking advantage of the practice offered in the course (e.g., recitation and office hours) is important to ensure achieving the learning goals of this course."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-384",
+        "name":  "Student Taught Courses (StuCo): Harmonious Scenic Watercolor",
+        "short_name":  "STUCO: WATERCOLOR",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Watercolor is an expressive medium that captures the mood of the painter through clever use of color. This course will introduce you to various watercolor techniques, scenic painting practices and relevant color theory. Together, we will explore the beauty of nature using harmonious color palettes. No prior knowledge of watercolor or color theory is required.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "03-344",
+        "name":  "Experimental Biochemistry",
+        "short_name":  "EXPERMNTL BIOCHEMTRY",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(03-343 [] at least D) and ((03-232 [] at least D) or (03-231 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to be taken as a sequel to 03343. Experiments cover a variety of methods for investigating the structure and function of biological molecules. Experimental methods with proteins, enzyme kinetics, lipids, spectroscopy, and isolation and quantization of biological molecules are covered. During several experiments, students design their own projects. Experimentation using living organisms andor their tissues, cells or molecules is an essential component of this course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This is an upper level course for biology majors, equivalent to a graduate level course. It is designed to teach you the techniques used in biological research in biochemistry, cell biology and developmental biology. In addition, we will be doing labs in biotechnology, tissue culture and uses of antibodies in research. You will develop your analytical, reasoning, quantitative and problemsolving skills. We focus not on the cookbook aspect of lab work, but rather on the principles of each step in the experimental protocol. You should further develop your recordkeeping, lab report writing, analytical and problem solving skills.",
+                                                    "key_topics":  "Uses of Florescent Proteins in Research using Florescence microscopy, Isolation, Quantitation and purification of Proteins, Enzyme Kinetics, Biotechnology of Genetically Modified Organisms (GMOs) , Uses of Antibodies in Research including-Immunohistochemistry, Western Blots and Elisa Assays, Tissue Culture-Effects of food additives on MDCK kidney cells",
+                                                    "prerequisite_knowledge":  "Genetics, Biochemistry",
+                                                    "assessment_structure":  "Lab reports, exams, problem sets, weekly quizzes and class presentations",
+                                                    "relevance":  "To apply your knowledge from your prior biology courses in order to implement and interpret techniques used in Biochemistry, Cell and Developmental Biology and Immunohistochemistry used in research.\n\nAssess and describe how each step in an experiment contributes to the outcome.\n\nTo build analytical, problem solving, and data analysis skills in preparation for completing a final student-driven research project.\n\nTo be able to collect, record, and organize data in lab notebooks, excel spreadsheets, etc.\n\nTo be able to clearly articulate and explain experimental results through written reports and oral presentations to your peers and faculty.\n\nTo Plan, Design, Implement and Perform your own independent investigation during multiple labs in the course.\n\nTo be able to read and interpret primary scientific literature through summarization of relevant components and critiquing the final conclusion.\n\nTo work with a group to design, carry out and complete a project successfully.",
+                                                    "learning_resources":  "Lab Manual and Journal Articles",
+                                                    "extra_time_commitment":  "Occasional out of class time to culture your cells."
+                                            }
+}

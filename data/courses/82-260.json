@@ -1,0 +1,37 @@
+{
+        "code":  "82-260",
+        "name":  "Black Italy",
+        "short_name":  "BLACK ITALY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Black Italians have been underrepresented in Italian Literature and Cinema, but their presence has changed and increased in the last decade. This course will explore how Italian identities are constructed and how various factors influence Italians perceptions of themselves and others. Then, the course will contextualize the representation of Blackness in Italy through a historical perspective, exploring the challenges of Black people in the Italian space by focusing on the representation of Blackness in Italian cultural production and discussing issues such as culture, identity, alterity, colonialism, gender, race, and colorism. Course taught in English with English material.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Identify the history and complexity of the issues related to the Black community in Italy, evaluating how and why Black Italians perspectives and experiences differ from other minorities and white Italians. Compare and contrast methods of raising issues within the Black community to promote equity by engaging history, literature, art, cinema, music, and sports perspectives to explore ways the Black community in Italy can fight against injustice. Analyze how citizenship and discriminatory laws in Italy have shaped the system, which may promote justice or inequality. Explain how protests, organizations, activism, and artivism in the Black Italian community fight against injustice, describe the role of allies in addressing systemic inequality and injustice, and evaluate the relative strengths and weaknesses of Black activism in Italy, including implications and consequences. Consider and integrate perspectives and approaches from different disciplines to enrich the analysis of topics related to Black Italy.",
+                                                    "key_topics":  "Black Italian art, literature, music, sport, podcasts, etc.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Canvas Posts based on readings, Class Discussion, Two Group Presentations, Comparative Paper, and Final paper",
+                                                    "relevance":  "DC GenEd: Perspectives on Justice and Injustice",
+                                                    "learning_resources":  "All course materials will be available via Canvas or the Library web site.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

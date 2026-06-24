@@ -1,0 +1,37 @@
+{
+        "code":  "76-363",
+        "name":  "Reading in Forms: Poetry",
+        "short_name":  "RDG FRMS: POETRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, students will study the history of poetry as a tool for political protest and a challenge to established power. Well examine the areas of documentary poetics, occasional poems, spoken word, published books, and multimedia poetics, including video poems and online projects, as both artistic endeavors and as powerful tools to confront specific dominant ideologies.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To deepen understanding of literatures social and cultural context, and to consider how creative writing can be used as a tool toward political protest and change.",
+                                                    "key_topics":  "20th \u0026 21st century poetry; literary criticism; race, gender, sexuality and cultural identity. political protest",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "In-class discussions, written responses, several essays and creative projects.",
+                                                    "relevance":  "Class is geared toward studetns with interest in poetry, literature, and politics",
+                                                    "learning_resources":  "Most readings will be provided through Canvas. Several books will be assigned.",
+                                                    "extra_time_commitment":  "Yes - There will be 1-2 poetry readings outside of class time that studetns will be required to attend"
+                                            }
+}

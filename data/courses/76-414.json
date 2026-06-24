@@ -1,0 +1,37 @@
+{
+        "code":  "76-414",
+        "name":  "Decolonial Imaginaries",
+        "short_name":  "DECOLNAL IMAGINARIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The strategy of decoloniality looks to undo the lingering effects of powers expression in empire, colonization and slavery.  While this project of undoing has taken political and philosophical forms, cultural production has played a central role in retrieving hidden histories and reimagining possible futures.  This course connects theories of decoloniality with works of literature, primarily, as well as some film and visual art that engage in such new imaginaries.  The course will be organized in three units  the African diaspora, the postcolonialglobal south, and critical refugeeborder studies.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "familiarity with decoloniality, postcolonial studies, critical race theory",
+                                                    "key_topics":  "colonialism, racism, slavery, literature, art",
+                                                    "prerequisite_knowledge":  "no prior knowledge but interest and experience reading critical theory and philosophy would be helpful",
+                                                    "assessment_structure":  "regular low stakes writing, presentation and longer interpretive paper",
+                                                    "relevance":  "decolonialty has been the subject of interdisciplinary interest in the fields of history, black studies, and literary and cultural studies",
+                                                    "learning_resources":  "Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

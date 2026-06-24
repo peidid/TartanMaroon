@@ -1,0 +1,34 @@
+{
+        "code":  "88-210",
+        "name":  "Comparative Political Systems",
+        "short_name":  "COMPARTV POLITCL SYS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Why do some countries thrive while others stagnate?  Why are some leaders in power for decades, while others last less than a year?  When do political protests lead to regime change?  What types of political systems produce the \"best\" outcomes?  In this class students will learn the art and science of comparative politics.  We will ask central questions to understanding how political systems emerge, how they change, and how they survive.  To do so, students will learn core theories of comparative politics and be introduced to the major methods of inquiry designed to test those theories.  Students will learn to evaluate current events through a comparative politics lens and draw reasoned conclusions by considering contemporary issues in light of the theories covered.  Students should be prepared to think critically, analyze complex arguments and data, and apply theories to the \"real world.\"  Upon completing the course, students will be well-equipped for advanced study of comparative politics, and will also be able to think like a comparative political scientists as they interpret events in the world around them.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "70-318",
+        "name":  "Managing Effective Work Teams",
+        "short_name":  "MNG EFF WRK TEAMS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-311 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Over the past decade, managers have greatly expanded their use of teams to accomplish a wide variety of organizational objectives.  Teams have emerged as a favorite work arrangement for such ongoing activities as developing new products, providing professional services, and starting new businesses.  Temporary groups are frequently assembled for a multitude of purposes, such as making difficult decisions, solving crossfunctional problems, generating ideas, or performing unique tasks.  Indeed, groups and teams can be found at every level of the organization, from production crews on the shop floor to top management teams in the executive suite.  Moreover, advances in communication technology have created the potential for people who are dispersed across the globe to collaborate virtually, creating many new opportunities and challenges for leaders of such teams.  Teams are not a panacea, however.  Even as they become a way of life in many organizations, widespread myths and misconceptions about teams often stand in the way of effective teamwork.  At their worst, teams sometimes create more problems than they solve.  The core content of the course is a series of team and group exercises, case analyses, and readings. The exercises are framed and analyzed in terms of readings, lecture, and indepth class discussions.  Much of the learning that occurs in the course will involve exercises, simulations, and cases that draw on students current experiences in the class as well as their previous experiences in teams and organizations outside of this class.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-761",
+        "name":  "Corpus Rhetorical Analysis",
+        "short_name":  "CORPUS RHET ANALYSIS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(76-780 [] at least D) or (76-380 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Digital Humanities is a huge and growing field spanning many disciplines and skill sets. The focus of this course is on tools and methods that allow students to analyze textual corpora as purveyors of stories,information, and arguments that seek to influence cultural thinking, reveal existing cultural mindsets, and often both in tandem, either synchronically or diachronically. This is the point of view often taken by analysts who work for universities, think tanks and intelligence agencies who seek to understand cultural trends and mindsets from volumes of digital texts. For such analysts, close reading is an indispensible part of their work and computing tools help focus their reading while reading helps refine their understanding of the computer output. The course will give students intensive practice with methods and tools for analyzing corpora of text at the word, phrase, and sentence level, and with working with large scalable dictionaries and multivariate statistics",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

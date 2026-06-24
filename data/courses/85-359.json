@@ -1,0 +1,37 @@
+{
+        "code":  "85-359",
+        "name":  "Introduction to Music Cognition Research",
+        "short_name":  "INTRO MUSIC COG RES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((85-102 [] at least D) and (36-200 [] at least D)) or ((85-211 [] at least D) and (36-200 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores the roles of cognitive processes in the experience of music with a focus on carrying out a collaborative laboratory project in order to understand firsthand the challenges of the experimental study of music. In readings, lectures, discussions, and demonstrations we will become acquainted with the relevant psychological theories of perception, memory and learning, and review and critically analyze selected experimental findings on the psychology of music. We will examine the use of psychological principles e.g. Gestalt laws of perception, limitations on working memory, categorical perception, chunking, schemas, modularity to explain musical phenomena. The emphasis will be on applying an experimental approach to music perception and cognition, but we will also consider ongoing debates about larger issues such as musics adaptive value to the human species, and the determinants of musical taste. Prerequisite either Harmony 1 or Cognitive Psychology or introduction to psychology or an intro level statistics or by instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

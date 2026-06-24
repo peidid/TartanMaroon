@@ -1,0 +1,37 @@
+{
+        "code":  "95-422",
+        "name":  "Managing Digital Transformation",
+        "short_name":  "MNG DIGITAL TRNSFM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of this course is to analyze and understand how technological change impacts firms, markets, supply chains, and regulatorypolicy structures. Information and communication technologies play multiple roles within businesses, organizations, industries, and societies   From a technological perspective, they define the information and communication infrastructure of the entity and they enable new ways to digitize processes.  From a managerial perspective, they facilitate new coordination and communication processes within and across entities, enable new organizational forms, change the information environment underlying the business, and permit new incentive and monitoring structures.  From a policy perspective, these new coordination and communication processes, new organizational forms, new modes of crossorganizational interaction, and new incentive and monitor structures frequently challenge established policy and regulatory structures.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Senior status in the undergraduate IS program or with faculty permission.",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

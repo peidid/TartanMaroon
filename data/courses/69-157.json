@@ -1,0 +1,37 @@
+{
+        "code":  "69-157",
+        "name":  "Swimming Stroke Improvement",
+        "short_name":  "SWIMMING STRKE IMPRV",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to provide the student with the opportunity to learn the elements of good swimming. A wide range of strokes, basic diving, safety, endurance, and versatility in the water will be covered for all students. Experienced swimmers will have the opportunity to perfect their strokes.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

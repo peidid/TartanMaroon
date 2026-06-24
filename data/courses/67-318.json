@@ -1,0 +1,37 @@
+{
+        "code":  "67-318",
+        "name":  "Business Process Modeling and Implementation",
+        "short_name":  "BUS PROC MDLNG IMPLM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(67-272 [] at least D) or (15-210 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on concepts, techniques, and tools for modeling, executing, and managing business processes. Structured along the phases of the business process management lifecycle the course starts by introducing different languages and tools for business process modeling.  Then, it presents techniques and tools for implementing, automating, and executing businesses processes such as the use of BPM systems or workflow systems. The course also covers further aspects of business processes such as monitoring and simulation. Moreover, it will present several reallife business processes such as ordertocash or maketoorder.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 Demonstrate knowledge of the organizational and technical challenges of business process management BPM2 Demonstrate knowledge of business processes and the typical processes in organizations such as those supported by ERP and CRMSystems, e.g., ordertocash or maketoorder3 Document business processes at different levels of detail using both textual templates and graphical process modeling languages such as BPMN and EPC.4 Analyze business processes both qualitatively and quantitatively5 Understand how business processes can be automated using technologies such as workflow systems, process engines, and standard enterprise software packages.",
+                                                    "key_topics":  "This course introduces students to business process, business process management, and the lifecycle of business process improvement. Following the BPM lifecycle, the course starts by identifying processes that require to be investigated following the BPM approach. Then, methods and techniques for process discovery are discussed. The course also introduces different languages and tools for business process modeling.  Furthermore, it covers techniques and tools for analyzing the current process and redesigning it in order to improve it. Finally, different alternatives for implementing the redesigned process are studied such as the use of standard enterprise software systems, the use of workflow systems, and programming.",
+                                                    "prerequisite_knowledge":  "67-272 is a prerequisite for this course unless otherwise approved by the instructor. Junior and Senior students are suitable for enrolment.",
+                                                    "assessment_structure":  "Assessments in the course typically includes a project, exams, homework assigments, quizzes, and graded inclass work.",
+                                                    "relevance":  "This course introduces students to business processes and to business process mangement, which are important for any organization",
+                                                    "learning_resources":  "Textbooks, online resources, BPM software tools",
+                                                    "extra_time_commitment":  "This is a 9 units course. On average, a student is expected to spend 9 hours a week on this course, consisiting of 3 hours in class and 6 hours of self study."
+                                            }
+}

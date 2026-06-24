@@ -1,0 +1,37 @@
+{
+        "code":  "70-481",
+        "name":  "Marketing Research",
+        "short_name":  "MARKETING RESEARCH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((36-202 [] at least D) or (70-208 [] at least D)) and (70-381 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The purpose of this course is to teach multiple research techniques used in marketing. This course is an applied marketing course that gives insight into how various techniques are used in marketing research firms. There are three projects and a final. The first project is designed to teach students about research survey methods. The second is an experiment in which the whole class is involved. The third, an individual project, is designed to teach quantitative research techniques. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To improve your problem definition skills. You will discover why, when and how to use marketing research tools conduct an actual marketing research project understand the basic components of marketing and how marketing research can support each improve your data coding and analysis skills using a statistical program e.g., SPSS, Excel.",
+                                                    "key_topics":  "Survey design, Focus groups, Fieldwork (collecting data), Data and statistical analysis, Presenting data presentations",
+                                                    "prerequisite_knowledge":  "See prerequisite courses",
+                                                    "assessment_structure":  "Small group case competitions (research-based presentations to a case prompt); quizzes; client project (marketing research for a real organization); attendance and class participation",
+                                                    "relevance":  "Marketing research makes every discipline \"better,\" because it helps encourage data driven decision-making instead of relying on hunches or guesswork. It is particularly valuable to students who want to pursue marketing careers, since much of this discipline is focused on understanding and persuading consumer and other mindsets.",
+                                                    "learning_resources":  "All coursebooks and textbooks will be provided by your instructor; Courseweb contains dozens of sample files (Excel, SPSS, PDF, etc.), tools and online books to simplify the research design and administration process.",
+                                                    "extra_time_commitment":  "To complete the competitive cases and client project, students will need to meet in small group teams."
+                                            }
+}

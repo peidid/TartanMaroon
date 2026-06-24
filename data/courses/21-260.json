@@ -1,0 +1,42 @@
+{
+        "code":  "21-260",
+        "name":  "Differential Equations",
+        "short_name":  "DIFFRENTL EQUATIONS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "21-122 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-261",
+                                            "id":  3723,
+                                            "name":  "Introduction to Ordinary Differential Equations",
+                                            "units":  10.0
+                                    }
+                            ],
+        "long_desc":  "Ordinary differential equations first and second order equations, applications, Laplace transforms partial differential equations partial derivatives, separation of variables, Fourier series systems of ordinary differential equations applications. 21259 or 21268 or 21269 are recommended. Three 50 minute lectures, one 50 minute recitation",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Differential and Integral Calculus",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

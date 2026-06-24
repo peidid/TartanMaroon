@@ -1,0 +1,37 @@
+{
+        "code":  "19-534",
+        "name":  "Usable Privacy and Security",
+        "short_name":  "USABLE PRIVACY SECTY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "There is growing recognition that technology alone will not provide all of the solutions to security and privacy problems. Human factors play an essential role in these areas, and it is important for security and privacy experts to have an understanding of how people will interact with the systems they develop. This course is designed to introduce students to a variety of usability and userinterface problems related to privacy and security and to give them experience in understanding and designing studies aimed at helping to evaluate usability issues in security and privacy systems. The course is suitable both for students interested in privacy and security who would like to learn more about usability, as well as for students interested in usability who would like to learn more about security and privacy. Students will also work on a group project throughout the semester. The course is open to all students who have technical backgrounds. The 12unit course numbers 17734, 5836, 19734 are for PhD students and masters students. Students enrolled in these course numbers will have extended homework assignments and will be expected to play a leadership role in a group project that produces a paper suitable for publication. The 9unit course numbers 17334, 5436, 19534 are for undergraduates and masters students if permitted by their program.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "Usability and user-interface problems related to security and privacy; designing and conducting user studies related to security and privacy.",
+                                                    "prerequisite_knowledge":  "Prior computer science courses are helpful",
+                                                    "assessment_structure":  "Homework assignments, two exams, final project",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Online articles and textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

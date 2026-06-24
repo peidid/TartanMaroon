@@ -1,0 +1,37 @@
+{
+        "code":  "73-433",
+        "name":  "Environmental Policy and Economics",
+        "short_name":  "ENVIRONMNTL PLY ECON",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The primary objective of this course is to encourage students to apply the tools of microeconomic analysis and to a lesser degree, macroeconomics to the problems of environmental protection, natural resource management, and energy production and use. The course will begin by introducing students to how an economist approaches problems of market failure commonly found in environmental contexts. Next, we will explore models that characterize solutions to such environmental issues. We will then address questions regarding measurement, the design of environmental regulations, and, finally, we will apply the tools that we have developed during the semester to the problems of climate change, and the optimal management of forests, water resources, and land use. Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

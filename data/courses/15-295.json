@@ -1,0 +1,37 @@
+{
+        "code":  "15-295",
+        "name":  "Competition Programming II",
+        "short_name":  "COMPTN PGMG II",
+        "units":  5.0,
+        "min_units":  5.0,
+        "max_units":  5.0,
+        "prereqs":  {
+                                        "text":  "((15-195 [] at least C) or (15-295 [] at least C)) and (15-122 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Each year, Carnegie Mellon fields several teams for participation in the ICPC Regional Programming Contest. During many recent years, one of those teams has earned the right to represent Carnegie Mellon at the ICPC World Finals. This course is a vehicle for those who consistently and rigorously train in preparation for the contests to earn course credit for their effort and achievement. Preparation involves the study of algorithms, the practice of programming and debugging, the development of test sets, and the growth of team, communication, and problem solving skills. Neither the course grade nor the number of units earned are dependent on ranking in any contest. Students are not required to earn course credit to participate in practices or to compete in ACMICPC events. Students who have not yet taken 15295 should register for 15195 only students who have already taken 15295 should register for 15295 again.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://contest.cs.cmu.edu/295/",
+        "custom_fields":  {
+                                                    "goals":  "You will learn to apply fundamental algorithmic techniques such as divide and conquer, sweepline, binary search, graph search, segment trees, hill climbing, string search, and many others. You will become fluent using the features and libraries in your chosen programming language. You will learn by solving a series of problems. In each problem you will write a short program that will then be automatically judged on efficiency and correctness.",
+                                                    "key_topics":  "Learn how to devise and implement efficient algorithms",
+                                                    "prerequisite_knowledge":  "Please start with 15-195 if you don\u0027t have this experience yet. You must have beginner\u0027s skill level (high school level is sufficient) in one of the following programming languages: C/C++, Pascal, Java, C#, Python, Ruby, Perl, PHP, Haskell, Scala, OCaml, Go, D, JavaScript, Rust and Kotlin. It will be difficult to do well (get an A) if you only know Python.",
+                                                    "assessment_structure":  "Every week there will be a problem set of about 6 problems. You solve as many as you can in class or during the following week (for half credit). The final grade in the course is based on how many problems you solve.",
+                                                    "relevance":  "Many of the algorithms and techniques covered are classic ones that every computer scientist should know. You will also learn to think about algorithms in a deeper way, because many of the problems require you to devise a new algorithm, not just apply a classic one. These skills will be of great value in your other classes, in your job interviews, and in your future work.",
+                                                    "learning_resources":  "The course uses a variety of resources such as: The USACO training website, Online judge (codeforces.com),\nLecture material posted on our own website, Solution descriptions that are posted after each problem set",
+                                                    "extra_time_commitment":  null
+                                            }
+}

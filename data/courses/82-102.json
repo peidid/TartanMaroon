@@ -1,0 +1,37 @@
+{
+        "code":  "82-102",
+        "name":  "Elementary French II",
+        "short_name":  "ELEMENTARY FRENCH II",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(82-103 [] at least D) or (82-101 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed for students who have taken firstsemester French at Carnegie Mellon or learned its equivalent as determined by placement. Using a proficiencyoriented approach, students will expand contextually appropriate interpersonal communication skills in both written and spoken French, continue to develop reading and listening skills through the use of various media, review previously learned and practice new grammar and vocabulary, and gain a further understanding of French and francophone cultures through class activities. Regular homework, quizzes, tests, presentations, and class participation are mandatory four inclass hours per week. The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in French must take the placement exam.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To communicate, learn moderate control of grammar, vocabulary, and pronunciation to understand the importance of cultural information in language and pragmatics. They do so primarily through the use of isolated words, phrases, and sentences that have been encountered, memorized, and recalled. They will also be able to build their knowledge of French language and culture.",
+                                                    "key_topics":  "Language, communication, pragmatic skill development in speaking, reading, writing, and listening, and cultural knowledge.",
+                                                    "prerequisite_knowledge":  "82-101, placement test, or permission of the instructor.",
+                                                    "assessment_structure":  "Class participation, homework, quizzes, unit/chapter exams, presentations, oral exams/meetings; meetings with a speaking or writing peer assistant. Final exams are course dependent.",
+                                                    "relevance":  "This elementary level course extends students\u0027 abilities to communicate in the target language. Students can achieve up to Intermediate Low (ACTFL) or the A2 level (CEFR: European framework).",
+                                                    "learning_resources":  "Depending on the course, textbooks, online resources, materials provided by instructors. For the online courses, all course material is provided through the Open Learning Initiative (oli.cmu.edu).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "69-150",
+        "name":  "Beginning Swimming",
+        "short_name":  "BEGINNING SWIMMING",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This basic course is designed to equip the nonswimmer with fundamental skills and knowledge to assure reasonable safety in, on or about the water. Areas covered include the basic swimming strokes, basic diving, safe and efficient entry into the water, and some elementary forms of rescue.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

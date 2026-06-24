@@ -1,0 +1,37 @@
+{
+        "code":  "76-235",
+        "name":  "20th Century American Literary and Cultural Studies",
+        "short_name":  "20TH CNY AM LT CL SD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Example, Fall 2010 20th Century American Bestsellers In this course we will work to construct a story about the United States and its literary tastes in the twentieth century by reading a selection of bestselling American fiction from the last 100 years. The class will introduce students to concepts central to the cultural study of popular texts, as well as a number of more and less familiar authors and novels. Readings will include only novels that appeared on yearly Publishers Weekly topten bestsellers lists from 1900 to 1975. Winston Churchills A Far Country, Edith Whartons The Age of Innocence, Margaret Mitchells Gone with the Wind, Sloan Wilsons The Man in the Gray Flannel Suit, J. D. Salingers Franny and Zooey, and E. L. Doctorows Ragtime are just a few of the novels that have shown up on this list. To complete our sketch of popular contemporary fiction, students will present on a bestseller from the last three decades and its reception. Moving through the wide range of texts that became bestsellers, from Wharton to Dan Brown or Stephen King, will allow us to consider whether Daniel J. Boorstin really got the whole picture when he said, A bestseller was a book which somehow sold well because it was selling well. Course requirements will include a midterm exam, a presentation, and a final paper based on the presentation, as well as intensive reading.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

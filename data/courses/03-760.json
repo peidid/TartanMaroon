@@ -1,0 +1,37 @@
+{
+        "code":  "03-760",
+        "name":  "Advanced Genomics and Epigenetics of the Brain",
+        "short_name":  "ADV GENOM EPIGEN BRN",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(03-330 [] at least D) or (03-220 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will provide an introduction to genomics, epigenetics, and their application to problems in neuroscience.  The rapid advances in genomic technology are in the process of revolutionize how we conduct molecular biology research.  These new techniques have given us an appreciation for the role that epigenetics modifications of the genome play in gene regulation, development, and inheritance.  In this course, we will cover the biological basis of genomics and epigenetics, the basic computational tools to analyze genomic data, and the application of those tools to neuroscience. Through programming assignments and reading primary literature, the material will also serve to demonstrate important concepts in neuroscience, including the diversity of neural cell types, neural plasticity, the role that epigenetics plays in behavior, and how the brain is influenced by neurological and psychiatric disorders.  Although the course focuses on neuroscience, the material is accessible and applicable to a wide range of topics in biology.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

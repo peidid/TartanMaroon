@@ -1,0 +1,37 @@
+{
+        "code":  "67-355",
+        "name":  "System Quality and Testing",
+        "short_name":  "SYSTEM QUALITY TEST",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(67-272 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The System Quality and Testing course adopts the view that software quality is not only the absence of defects but it encompasses all the characteristics that bear on the its ability to satisfy stated and implied needs. Software quality is then defined from different perspectives product quality, quality in use and process quality through the use of specific quality models. The course systematically explores different quality characteristics and the techniques most appropriate to verify them. Specific topics include test case design, test automation, code reviews, testing ML applications, technical debt, cost of software quality, planning for quality, and defect classifications.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

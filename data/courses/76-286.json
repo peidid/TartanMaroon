@@ -1,0 +1,37 @@
+{
+        "code":  "76-286",
+        "name":  "Oral Communication",
+        "short_name":  "ORAL COMMUNICATION",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Oral presentations are essential to professional success. Yet many people find themselves growing weak in the knees at the thought of presenting in front of a group. They read off of notes, speak too fast, or pepper their speech with nervous filler words such as um or you know. 76286 Oral Presentations is a mini intended for students who want to boost their confidence in presenting in front of others. You will learn strategies for structuring the content of a presentation, designing effective presentation slides, and controlling your voice and body language to produce a smooth, confidentsounding oral delivery. We will begin with giving short informal presentations and gradually increase the stakes as your confidence improves. You will have weekly opportunities to practice and improve your skills. We will also find opportunities to practice in a variety of physical settings so you can envision yourself as a calm, confident speaker no matter your surroundings. Grades in the course will be based on improvement and effort to encourage students to focus on their development rather than on final outcomes.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will improve their presentation, interview, and informal communciation skills",
+                                                    "key_topics":  "Presenting to expert and non-expert audiences, informal oral communication",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "presentations, short, informal exercises",
+                                                    "relevance":  "This course helps students improve their abilities to present before a range of audiences. Because the course focuses on skill development rather than topics, it should be relevant to any CMU student who wants to be a stronger communicator.",
+                                                    "learning_resources":  "course website, videos, and short readings",
+                                                    "extra_time_commitment":  null
+                                            }
+}

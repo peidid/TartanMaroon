@@ -1,0 +1,37 @@
+{
+        "code":  "76-309",
+        "name":  "Stories",
+        "short_name":  "STORIES",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Powerful stories have a remarkable ability to endure across time and space, while the best of them not only continue to delight and transform generations of readers around the world, but also reflection in philosophers, social critics, and political thinkers. The premise of this course is that great stories raise essential questions about the human experience. We will study how and why narratives raise these questions by focusing on a few fundamental texts in the Western tradition, as well as on philosophical responses to them. We will seek to understand the power of these narratives in framing our moral imagination about key issues, such as justice,  empathy, and truthfulness. ",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

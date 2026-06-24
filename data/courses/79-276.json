@@ -1,0 +1,37 @@
+{
+        "code":  "79-276",
+        "name":  "Beyond the Border",
+        "short_name":  "BEYOND THE BORDER",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course we will consider the historical emergence and transformation of the U.S.Mexico border, as much as an idea as a physical boundary. Our explorations will be farranging from the initial encounters of Christopher Columbus and Hernn Corts with indigenous populations, to social, cultural and political dynamics of the borderlands in subsequent centuries from the experiences and practices of cross border migrants, to contemporary immigration debates and policies surrounding migration, border control and walling, and the deportation of unauthorized migrants. In addition to course readings, we will screen several Mexican films that are centrally concerned with the dynamics of bordering and bordercrossing.  This course fulfills Dietrich Colleges Perspectives on Justice and Injustice general education requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Through discussion of a wide range of texts, from written history, ethnographies, and literature, to music, visual arts and film, students should come to appreciate how border thinking helps to illuminate the frontiers of language, race, ethnicity, nationalism, and culture in the contemporary Americas while also highlighting social and cultural interconnections that transcend any attempt to impose sharp separations between the United States and Mexico.",
+                                                    "key_topics":  "The course will cover the emergence and transformation of the U.S.-Mexico border, as much as an idea as a physical boundary or structure.",
+                                                    "prerequisite_knowledge":  "No prerequisite knowledge is required.",
+                                                    "assessment_structure":  "There will be extensive reading, reaction papers, a film commentary, and a final paper.",
+                                                    "relevance":  "This course fulfills Dietrich College\u0027s \"Perspectives on Justice and Injustice\" general education requirement.\n\nBy the end of this course, students should understand and appreciate diverse aspects of the conquest and colonization of the Americas, and specifically the power and contemporary legacies of colonial narratives that helped to shape and make sense of frontiers, boundaries, and racial and cultural difference.",
+                                                    "learning_resources":  "Article and chapter-length texts.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

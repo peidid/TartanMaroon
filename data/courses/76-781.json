@@ -1,0 +1,34 @@
+{
+        "code":  "76-781",
+        "name":  "Writing for Multimedia",
+        "short_name":  "WRTG FOR MULTIMEDIA",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(76-791 [] at least D) or (51-761 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "There is increasing demand for professional/technical writers who understand multimedia and it?s communicative possibilities. This class will provide students with the opportunity to develop the ability to analyze and create multimedia experiences. Students will be introduced to the basic concepts and vocabulary of multimedia, as well as the practical issues surrounding multimedia design through a series of hands-on projects involving various contexts. We will explore what it means to write for a dynamic medium and how the elements of time, motion and interactivity can help writers expand their communicative skills. Class discussion and critiques are an essential part of this course.  While students are not expected to become masters of multimedia software, Adobe After Effects, Adobe Flash, audio and additional creative tools will be taught in the class in order to provide them with the basic skills necessary to complete assignments and explore multimedia possibilities.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

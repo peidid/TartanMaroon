@@ -1,0 +1,37 @@
+{
+        "code":  "67-239",
+        "name":  "Agile Software Frameworks",
+        "short_name":  "AGILE SOFTWARE FRMWR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(67-250 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course has been designed for students seeking to acquire a working knowledge of agile project management methodologies, tools, and techniques with a focus on  Understanding, validating and defining the work to be done  Estimating the effort required  Planning the work  Tracking and controlling progress  Reflecting The course is organized around Scrum, the most popular agile development method, and Milestone Driven Agile Execution, a method developed by the instructor, that combines milestone planning with Scrum to use in environments which require known delivery dates. The teaching approach combines traditional lectures with active learning, so students taking the course must be prepared to work in groups during class. Each lecture is typically followed by a class activity in which the concepts learned are put into practice.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

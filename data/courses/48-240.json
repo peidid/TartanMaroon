@@ -1,0 +1,37 @@
+{
+        "code":  "48-240",
+        "name":  "History of World Architecture, I",
+        "short_name":  "HIS WLD ARC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This survey cuts a broad swath through time, geography and cultures, surveying critical episodes in the built environment of Europe, the Middle East, Asia, Africa, and the Americas from ancient times through the nineteenth century. Reflecting the inseparable relation between building and human needs, this course is not only a history of architecture, but also a history through architecture. Over the semester, we will examine architecture as a form of cultural expression unique to its time and place. Through readings and lectures, we will study the ways that the design, use, meaning, and legacy of a building and its site was conditioned not only by the architects will or the patrons desire, but also by a web of technological, religious, social, cultural, economic, and political factors of the time. There will be several exams over the course of the semester including during finals week.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "soa.cmu.edu",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

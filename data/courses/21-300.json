@@ -1,0 +1,42 @@
+{
+        "code":  "21-300",
+        "name":  "Basic Logic",
+        "short_name":  "BASIC LOGIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-251 [] at least D) or (21-373 [] at least D) or (21-228 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-600",
+                                            "id":  7348,
+                                            "name":  "Mathematical Logic I",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "Propositional and predicate logic Syntax, proof theory and semantics up to completeness theorem, Lowenheim Skolem theorems, and applications of the compactness theorem.  Three 50 minute lectures",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Discrete mathematics and proofs",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks: https://www.cmu.edu/math/textbooks/index.html",
+                                                    "extra_time_commitment":  null
+                                            }
+}

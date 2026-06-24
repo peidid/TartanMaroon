@@ -1,0 +1,66 @@
+{
+        "code":  "21-112",
+        "name":  "Integral Calculus",
+        "short_name":  "INTEGRAL CALCULUS",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "21-111 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-120",
+                                            "id":  2627,
+                                            "name":  "Differential and Integral Calculus",
+                                            "units":  10.0
+                                    },
+                                    {
+                                            "code":  "21-122",
+                                            "id":  2628,
+                                            "name":  "Integration and Approximation",
+                                            "units":  10.0
+                                    },
+                                    {
+                                            "code":  "21-123",
+                                            "id":  7314,
+                                            "name":  "21-123",
+                                            "units":  5.0
+                                    },
+                                    {
+                                            "code":  "21-118",
+                                            "id":  7316,
+                                            "name":  "21-118",
+                                            "units":  5.0
+                                    },
+                                    {
+                                            "code":  "21-132",
+                                            "id":  7357,
+                                            "name":  null,
+                                            "units":  10.0
+                                    }
+                            ],
+        "long_desc":  "Definite and indefinite integrals, and hyperbolic functions  applications of integration, integration by substitution and by parts. Successful completion of 21111 and 21112 entitles a student to enroll in any mathematics course for which 21120 is a prerequisite. Three 50 minute lectures, two 50 minute recitations",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Basic Differential Calculus",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks:",
+                                                    "extra_time_commitment":  null
+                                            }
+}

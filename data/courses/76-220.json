@@ -1,0 +1,37 @@
+{
+        "code":  "76-220",
+        "name":  "Mystery! From Detective Fiction to True Crime",
+        "short_name":  "MYSTERY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Mystery fiction is one of the most enduring and popular literary genres, and the current media landscape has expanded the concept of the armchair detective to include podcasters, journalists, and true crime addicts. This course provides a better understanding of narrative and genre, as well as social norms around gender and race, by looking at the conventions of mystery fiction and true crime. What can these formulaic genres teach us about storytelling, character development, and narrative point of view What do they reveal about a societys notions of justice and order And how is textual analysis itself an act of detection Texts may include podcasts, documentaries, and newstories classic stories and novels by Wilkie Collins, Arthur Conan Doyle, and Walter Mosely and noir films such as Vertigo and Gaslight.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students should expect to leave with better understanding of literary and cultural analysis and improved writing and presentation abilities",
+                                                    "key_topics":  "Fiction, nonfiction, media, policing, narrative",
+                                                    "prerequisite_knowledge":  "Students should have completed first-year writing, have some interest in literature and literary analysis, and have the time and motivation to read (and watch and listen) quite a bit",
+                                                    "assessment_structure":  "Oral presentations, short writing assignments, formal essays, and creative projects.",
+                                                    "relevance":  "The course emphasizes clear writing, critical thinking, and the ability to present and support an argument. It invites students to think about literature in a socio-political context",
+                                                    "learning_resources":  "Most readings will be available on Canvas, but students may need to purchase some novels",
+                                                    "extra_time_commitment":  null
+                                            }
+}

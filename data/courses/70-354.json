@@ -1,0 +1,37 @@
+{
+        "code":  "70-354",
+        "name":  "Communication: Social Media in Action",
+        "short_name":  "COMM SOCIAL MEDIA",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(73-270 [] at least D) or (70-340 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Building upon what you already learned in Business Communications, this course will amplify your ability to successfully work in teams to produce social media content, collaborate via online mediums, and build online communication skills through development of an effective online presence. You will create and deliver social media content for your chosen organizations in this online space. This is a differentiator for you after this course, you will be able to go into an interview confidently and share your team experience helping the organization build a successful social media presence.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Produce social media content, collaborate via online mediums, and build online communication skills through development of an effective online presence.",
+                                                    "key_topics":  "Explore factors that help audience decision-making;\nDiscover how social media and mass communication differs from all other forms of communication;\nResearch organizational needs and create an appropriate social media platform;\nWrite blog/vlog posts;\nProduce podcast episodes;\nCreate social media content for FB, Twitter, or IG\nUse an entrepreneurial perspective to research and create social media platforms for selected organizations;\nAnalyze media and the truthfulness behind it;\nCommunicate effectively with internal and external clients and partners;\nDevelop remote teams and leadership (weekly team meetings and in-class feedback);\nCreate professional online presence (online resumes and virtual interviewing)",
+                                                    "prerequisite_knowledge":  "Business communication skills competency from Business Communication (or related approved course) in audience analysis, adapting written, oral, and visual messages to diverse business or professional audiences, industry-focused research, persuasion, and ethical, responsible interpersonal communication skills.",
+                                                    "assessment_structure":  "Graded assignments include team social media deliverables (blog/vlog, podcast, social media platform), team presentations, and peer-and self-assessments.",
+                                                    "relevance":  "This course amplifies your ability to successfully work in teams to produce social media content, collaborate via online mediums, and build online communication skills through development of an effective online presence. Employees who communicate clearly, effectively, and can develop relationships with internal and external clients both in-person and online will thrive in these online environments. This course leads you through the development of creating effective social media platforms for your own team\u0027s organization.",
+                                                    "learning_resources":  "Team and team/instructor meetings, possibly adding 1 hour to the expected weekly hours",
+                                                    "extra_time_commitment":  "Course page in Canvas contains all resource"
+                                            }
+}

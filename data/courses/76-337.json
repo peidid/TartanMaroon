@@ -1,0 +1,37 @@
+{
+        "code":  "76-337",
+        "name":  "Intersectional Feminism",
+        "short_name":  "INTERSCTNL FEMINISM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The concept of intersectionality first appeared in AfricanAmerican feminist legal theory, but it rapidly spoke to other ideas and movements authored by other women positioned on the margins in the United States and beyond. Now widely disseminated as a feminist practice embraced by many identities, intersectional feminism acknowledges how interlocking power structures produce systematic oppression and discrimination to create distinctive gender identities in terms of such aspects as sexuality, race, ethnicity, class, religion, language and accent, and neuro and physical diversity. In this class, we will consider a wide variety of texts that mobilize this movement, including fiction, poetry, memoir, scholarly works, drama, popular media and films. We will consider voices from the global south, nonWestern countries that are speaking back to the economic and political centers of globalization. Pairing analysis with these texts with some examples of praxis, or political practice, we will think through and debate how critiques of power can move toward social change. Students will be encouraged to use these texts and a series of shorter writing assignments about texts to build toward a final project relevant to their own discipline. Readings might include Kimberl Crenshaw, Audre Lorde, bell hooks, Roxane Gay, Chimamanda Ngozi Adichie, Mona Eltahawy, Erika L. Snchez, Chandra Talpade Mohanty, Fatima Mernissi and Mari Matsuda, Fatima Mernissi, and Aiwah Ong.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

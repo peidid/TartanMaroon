@@ -1,0 +1,37 @@
+{
+        "code":  "84-367",
+        "name":  "The Politics of Antisemitism",
+        "short_name":  "POLITIC ANTISEMITISM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The course examines the phenomenon of antisemitism in contemporary international politics. Antisemitism is an old form of prejudice, but concerns about its growth and consequences are very present in the news today. Meanwhile, the term has also become something of a political football domestically and abroad and has been instrumentalized by different political factions who accuse one another of engaging in it. What is antisemitism and how should we define it What are the main dynamics and trends in antisemitic attitudes and behaviors in the U.S. and around the world What fuels these attitudes and behaviors, and what are their chief political consequences This course aims to engage with these questions in a thoughtful and empirical way by grounding itself in the growing political and social science literature on antisemitism, and bringing a careful social scientific lens to these challenging issues.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Describe Jewish identity and what antiSemitism is and articulate the role of group identity among other competing arguments in explaining antiSemitic attitudes and behavior.Compare the dynamics of antiSemitism relative to other types of prejudice, including Islamophobia, and identify their similarities and differences.Analyze how perceptions of Jews status within a society and their position relative to established systems and institutions intersect with antiSemitic beliefs. Engage with different competing arguments and evidence in the course thoughtfully about difficult questions such as how to most effectively combat antiSemitismEvaluate the strengths and weaknesses of different scholarly ideas, arguments, and explanations about the dynamics of antiSemitismEngage approaches from history, political science, sociology, and psychology to explore the causes, dynamics, and social and political consequences of antiSemitism around the world today.Apply different scholarly ideas to analyze one important case of antiSemitism in context.Practice open and thoughtful oral communication, and refine analytical writing abilities.Engage thoughtfully with quantitative datadriven analyses, parsing quantitative findings and connecting them to substantive questions of interest.",
+                                                    "key_topics":  "The history of anti-Semitism; defining and measuring anti-Semitism; causes of anti-Semitism; consequences of anti-Semitism; comparison to other types of prejudice; case studies and applications around the world today.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Course discussion in class and online, reading quizzes, mid-semester paper proposal, final paper",
+                                                    "relevance":  "DC Gen Ed: Perspectives on Justice and Injustice",
+                                                    "learning_resources":  "All provided for students via Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

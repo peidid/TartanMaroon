@@ -1,0 +1,37 @@
+{
+        "code":  "76-265",
+        "name":  "Introduction to Writing Poetry",
+        "short_name":  "INTRO WRIT POETRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What is a poem In this class, well attempt to arrive at a definition for ourselves as we learn about poetrys building blocks, traditions, and explorations. Well examine poetic meter, rhyme, form, line, and music, taking a look at traditional approaches and contemporary craft. As we examine the work of a wide range of poets, well discuss how aspects like repetition, sound, silence, image, perspective and voice come together to deliver the poems content. Well read and discuss the work of published poets as well as the work of our peers, and create poems of our own, both in and out of class. And well consider the role poetry plays in our lives, how it connects to our contemporary moment, and how it exists in the public imagination, as we engage with contemporary writing both on the page, and at poetry readings well attend during the semester.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course will provide students with a background in the basics of poetry, from structural tools like meter and rhyme to more experimental approaches. With an emphasis on craft and inclass discussion of published and student work, students will learn to become confident practitioners and readers of this writing form.Section B This course will provide students with a background in the basics of poetry, from structural tools like meter and rhyme to more experimental approaches like multimedia and crossgenre poetics. The aim is to expose students to a broad range of poetry and to experiment with writing within and without forms.",
+                                                    "key_topics":  "--introduction to poetic forms --basics of meter, rhyme, and older poetic tools alongside more contemporary approaches --learning how to discuss poetry critically --experimentation and lots of creative exercises --development of a portfolio of poems",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will write a number of poems over the course of the semester, and will compose a final essay and compile a portfolio. Students will also complete 2-3 short essays, a variety of in-class writing exercises, and will be expected to participate in class discussions.\n\n\n\nSection B: Students will write a number of poems over the course of the semester and compile a final portfolio. There will also be 2-3 short essays, and a variety of in-class writing assignments.",
+                                                    "relevance":  "DC Disciplinary Perspectives: The Arts\n\nThis course will provide students with a background in the basics of poetry, from structural tools like meter and rhyme to more experimental approaches like multimedia and cross-genre poetics. The aim is to expose students to a broad range of poetry and to experiment with writing within and without forms.",
+                                                    "learning_resources":  "We\u0027ll use handouts, online material, and two-to-three short books.",
+                                                    "extra_time_commitment":  "There will be 1-2 poetry readings outside of class time that studetns will be required to attend"
+                                            }
+}

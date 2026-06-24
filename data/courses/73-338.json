@@ -1,0 +1,37 @@
+{
+        "code":  "73-338",
+        "name":  "Financial Crises and Risk",
+        "short_name":  "FINANCIAL CRIS \u0026 RSK",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-269 [] at least D) or (21-268 [] at least D) or (21-254 [] at least D)) and ((73-102 [] at least C) or (73-104 [] at least C)) and (73-240 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an indepth examination of the causes of financial crises as well as what governments can do to prevent them or at least reduce their cost. The course is designed to to provide an understanding of individual attitudes towards risk and individual decision making about savings and investment under uncertainty, and to use this understanding to evaluate the various economic roles played by financial institutions in helping individuals manage risk, especially those roles which may lead to economic instability and crises. In addition, the course may cover bubbles and swindles, especially when these spillover to the broader macroeconomy the role of information in banking in normal times and in bank runs crisis resolution techniques and the extensive history of attempts to improve regulation so as to reduce the frequency and cost of crises. Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

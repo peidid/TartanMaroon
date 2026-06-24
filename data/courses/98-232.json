@@ -1,0 +1,34 @@
+{
+        "code":  "98-232",
+        "name":  "Student Taught Courses (StuCo): Game Development on the Web",
+        "short_name":  "STUCO: WEB GAMES",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores methods for creating both 2D and 3D games in the browser. Students will learn basic concepts of game creation as well as the specific tools needed to implement these concepts, namely Javascript and multiple open-source frameworks. Throughout the semester each student will develop a web game, translating the lessons in lecture to code using the Canvas (2D) and WebGL (3D) technologies. Prior programming experience on the level of 15-112 is required.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

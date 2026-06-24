@@ -1,0 +1,37 @@
+{
+        "code":  "70-416",
+        "name":  "New Venture Creation",
+        "short_name":  "NEW VENTURE CREATION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-390 [] at least D) or (70-414 [] at least C) or (70-425 [] at least D) or (70-420 [] at least C) or (70-415 [] at least C) or (70-421 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course exposes students to the nuances of financing new ventures, getting them started legally and marketing their products or services. Students pull together all the ideas and information from different functional aspects of their projects into coherent and persuasive minibusiness plans that serve as roadmaps for building their businesses and useful instruments to find sufficient financing for the new ventures, so that they can convince the outside world that these opportunities are viable, with substantial potential for success.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

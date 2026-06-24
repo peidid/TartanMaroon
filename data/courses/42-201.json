@@ -1,0 +1,42 @@
+{
+        "code":  "42-201",
+        "name":  "Professional Issues in Biomedical Engineering",
+        "short_name":  "PRO ISSUES IN BIOMED",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "42-101",
+                                                "id":  6018,
+                                                "name":  "Introduction to Biomedical Engineering",
+                                                "units":  12.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course exposes students to many of the issues that biomedical engineers face.  It provides an overview of professional topics including bioethics, regulatory issues, communication skills, teamwork, and other contemporary issues.  Outside speakers and case studies will describe real world problems and professional issues in biotechnology and bioengineering, and progress toward their solution.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, the students should be able to describe the following topics and areas and apply them to reallife situationsResponsible Conduct of ResearchUse of Animals in Biomedical ResearchUse of Humans in Biomedical ResearchFood and Drug AdministrationEthics in Biomedical EngineeringCurrent Biomedical Engineering ResearchCareers in Biomedical Engineering",
+                                                    "key_topics":  "bioethics, regulatory issues, communication skills, teamwork, and other contemporary issues",
+                                                    "prerequisite_knowledge":  "42101",
+                                                    "assessment_structure":  "Homework",
+                                                    "relevance":  "Exposes students to many of the issues that biomedical engineers face",
+                                                    "learning_resources":  "All course material available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

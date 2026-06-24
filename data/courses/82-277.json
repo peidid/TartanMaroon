@@ -1,0 +1,37 @@
+{
+        "code":  "82-277",
+        "name":  "Tutoring for Community Outreach",
+        "short_name":  "TUTORING COMM OUTRCH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "TBA",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students will 1 have a typological understanding of structures of Japanese language and 2 be able to critically analyze questions about Japanese linguistics utilizing academic literature.",
+                                                    "key_topics":  "Phonology, Morphology, Semantics, Syntax, Pragmatics, Dialect",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will do two mini research projects throughout the semester -- one for midterm component and the other for final component.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

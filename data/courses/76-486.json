@@ -1,0 +1,37 @@
+{
+        "code":  "76-486",
+        "name":  "Argument Theory",
+        "short_name":  "ARGUMENT THEORY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((76-373 [] at least D) and (76-101 [] at least D)) or ((76-102 [] at least D) and (76-373 [] at least D)) or ((76-107 [] at least D) and (76-106 [] at least D) and (76-373 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D) and (76-373 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D) and (76-373 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Please note Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The objectives of the seminar is for you 1 to acquire the concepts needed to read the current researchscholarship on argumentation with understanding, 2 to apply that research to the analysis of arguments, and 3 to contribute to that research.",
+                                                    "key_topics":  "Argumentation\n\nArgument theory\n\n\nArgument analysis",
+                                                    "prerequisite_knowledge":  "Undergraduate students: (1) 76-373/773, Topics in Rhetoric: Argument or (2) permission of the instructor.",
+                                                    "assessment_structure":  "Reading assignments, participation in discussion, discussion questions and discussion posts, and seminar paper.",
+                                                    "relevance":  "Argumentation is central to rhetoric as conceived as a discipline concerned with finding all the available means of persuasion.",
+                                                    "learning_resources":  "Readings",
+                                                    "extra_time_commitment":  "Time to do the reading, think about them, formulate good questions, and to do research for the seminar paper and write a seminar paper."
+                                            }
+}

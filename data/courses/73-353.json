@@ -1,0 +1,37 @@
+{
+        "code":  "73-353",
+        "name":  "Financial Regulation in the Digital Age",
+        "short_name":  "FIN REG IN DIGTL AGE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-259 [] at least D) or (21-269 [] at least D) or (21-268 [] at least D) or (21-256 [] at least D) or (21-254 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The financial crisis and the digitalization of the financial markets have focused attention on the role of regulation for our financial system and the broader economy in recent years.  Among the settings that are especially important in the digital economy are electronic trading, big data, algorithms, robo investing, winnertakeall economics, securities offerings, property rights and cyber assets. The course will address the foundations of regulation why regulate from various perspectives within a market economy, highlighting the sources of market failure such as externalities, adverse selection, and natural monopoly and potential remedies such as disclosure, taxes and fees, antitrust prohibitions, privacy requirements, price regulation and guarantees.  The conflicting goals among regulators and why we have multiple regulators and their impact on the meaning of regulation will be considered along with regulatory competitionarbitrage.  Portions of the course will tackle relatively broad questions such as Why regulate Why could it be beneficial to restrict permitted algorithms Are our markets rigged How suitable are antitrust remedies in the digital era What is the law of unintended consequences What is the objective of a policy advocate Are regulators and regulatory policies a systemic risk How can regulators enhance the predictability and credibility of their policies Should we bar insider trading  Should regulations be determined and motivated based upon costbenefit analysis  How can we evaluate the success or failure of particular regulations and whether they have achieved their objectives To what extent did the DoddFrank Act ensure financial stabilityLecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

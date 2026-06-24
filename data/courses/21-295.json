@@ -1,0 +1,37 @@
+{
+        "code":  "21-295",
+        "name":  "Putnam Seminar",
+        "short_name":  "PUTNAM SEMINAR",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "A problem solving seminar designed to prepare students to participate in the annual William Lowell Putnam Mathematical Competition.  Students solve and present their solutions to problems posed.  One 50 minute session",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "No prior knowledge required",
+                                                    "assessment_structure":  "Problem sets",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Problem sets from instructor",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "73-497",
+        "name":  "Senior Project",
+        "short_name":  "SENIOR PROJECT",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D) or (21-254 [] at least D)) and ((36-303 [] at least D) or (36-226 [] at least D) or (73-274 [] at least D) or (73-374 [] at least D) or (73-407 [] at least D) or (73-265 [] at least D)) and (73-230 [] at least D) and (73-240 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "A fourthyear project course, open only to Economics primary and additional majors with Senior standing.  The senior project is a capstone course in economics. The purpose of the course is to showcase the analytical and quantitative skills that you have acquired as an undergraduate at Carnegie Mellon. The course project should reflect some independent applied research that is genuinely your own work. Thus a book report or a literature review are not sufficient exercises to satisfy this requirement. The following research approaches are acceptable for the research project an empirical study based on a data set that you put together, an experimental study based on an experiment that you conducted, an analysis of survey data based on a survey that you conducted, a theoretical analysis based on a model that you have developed, based on your own algorithm.   Students who write an honor thesis are exempted from this class.  Lecture, 3 hours.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

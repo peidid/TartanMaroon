@@ -1,0 +1,37 @@
+{
+        "code":  "38-220",
+        "name":  "ENGAGE in the Arts",
+        "short_name":  "ENGAGE IN THE ARTS",
+        "units":  2.0,
+        "min_units":  2.0,
+        "max_units":  2.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "ENGAGE in the Arts is part of Mellon College of Sciences Core Curriculum. In this 2unit fullsemester course, students will broaden their knowledge of the fine arts, extend their global and cultural awareness, and facilitate the further development of their selfidentity. Coursework requires that students attend 8 distinct arts events, 2 of which must engage with a culture different from ones personal cultural background. In choosing events, students should be imbued with an attitude of openness to new ideas and a willingness to try something new. The course requires students to share, reflect, and document their participation in a variety of arts events by engaging with classmates and instructors through MyCORE, where they can upload coursework and find postings for events.  Coursework can be completed at any time during students undergraduate years, but they must register for the class during the semester that they intend to complete it, no later than their penultimate semester.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able to demonstrate knowledge of the arts, humanities and social sciences as well as describe multiple similarities and differences between ones own culture and that of others.",
+                                                    "key_topics":  "Broaden your knowledge of the fine arts. Extend your global and cultural awareness. Facilitate the further development of your self-identity.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "After completing all 8 mini-reflection papers (~1 page) summarizing each event attended a final reflection paper (2 to 4 pages) reflecting on all 8 events and how your knowledge, perspectives, and understanding of self or others were affected as a result of your experience.",
+                                                    "relevance":  "This course was created to support students\u0027 development in not only cultural understanding, but their personal development while they are an undergraduate student.",
+                                                    "learning_resources":  "MCS MyCORE Canvas Site\nInstructor will be available weekly during office hours or by appointment",
+                                                    "extra_time_commitment":  null
+                                            }
+}

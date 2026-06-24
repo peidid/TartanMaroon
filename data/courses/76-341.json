@@ -1,0 +1,37 @@
+{
+        "code":  "76-341",
+        "name":  "The Age of Jane Austen",
+        "short_name":  "RACE GNDER JANE AUST",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "From Bridgerton Netflix to Sanditon ITV, there has been a recent boom in Regency adaptations that practice colorblind or colorconscious casting while interrogating the periods gendered and racial dynamics. But how were race and gender, and their intersections, actually forged and navigated in the age of Austen What can account for Austens enduring appeal Who were Austens literary peers and influences And who gets left out of Regency romance This 300level course will look at Regencyera literature in both a historical and a contemporary context. Through reading, viewing, and graded assignments including short essays and oral presentations, we will practice methods for analyzing the formal features of literary and visual texts, such as the structure of a novel, the rhythms of poetry, or the costuming of period drama. In doing so, we consider how do these texts respond to historical phenomena such as empire, the rights of women, and slavery and abolition, as well as how contemporary adaptations take up such questions. Examples of readings include Jonathan Swifts The Ladys Dressing Room, Jane Austens Mansfield Park and Emma, and Soniah Kamals Unmarriagable.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Better understanding of Regency and long 18thc literature improved writing and presentation skills better knowledge of literary criticism methods",
+                                                    "key_topics":  "Adaptation, regency, Romantic era, empire, race, slavery, gender, visual culture, material culture",
+                                                    "prerequisite_knowledge":  "Basic Knowledge of literary analysis and academic writing",
+                                                    "assessment_structure":  "Oral presentation, short written assignments, one longer research assignment (4-6 pages), a creative project of the student\u0027s choice, participation",
+                                                    "relevance":  "Students will gain a greater understanding of how present conversations about race, gender, and other social issues are shaped by the literature and culture of the long eighteenth century; develop skills in critical thinking and literary analysis; and learn strategies for written and oral expression.",
+                                                    "learning_resources":  "2-3 novels to purchase; other readings available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

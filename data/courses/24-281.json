@@ -1,0 +1,42 @@
+{
+        "code":  "24-281",
+        "name":  "Introduction to Scientific Computing",
+        "short_name":  "INTRO TO SCI COMP",
+        "units":  2.0,
+        "min_units":  2.0,
+        "max_units":  2.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "24-282",
+                                                    "id":  9556,
+                                                    "name":  "Special Topics: Linear Algebra and Vector Calculus for Engineers",
+                                                    "units":  11.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an introduction to scientific computing with Matlab for engineers. The course introduces the basics of Matlab syntax and programming, data analysis, visualization, curve fitting and interpolation, symbolic computation, differential equations, and debugging. The use of Matlab in solving mechanical engineering applications will be demonstrated.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.meche.engineering.cmu.edu/",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

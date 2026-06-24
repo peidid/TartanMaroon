@@ -1,0 +1,37 @@
+{
+        "code":  "76-751",
+        "name":  "Rhetorical Invention",
+        "short_name":  "RHETORICAL INVENTION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Rhetorical invention is a discursive approach to the process of inquiry, discovery, and problem solving, or how we decide what to say, what arguments to advance, and what means of persuasion to use in any situation. In other words, it is a rhetorical approach to content generation in any speaking or writing situation. Although invention is centrally important to rhetoricwithout it rhetoric becomes a superficial and marginalized study of style and arrangementfrom the Scientific Revolution and Enlightenment through the midtwentieth century invention all but disappeared as a topic of rhetorical study, influenced by the view that the content of communication should be exclusively governed by deductive logic and the scientific method rather than rhetorical considerations such as audience, situation, or the history and figurality of language. This repudiation of rhetorical invention fundamentally shaped modern thought and continues to influence the ways we think and communicate today. In this course, we examine the status of rhetorical invention in the development of modern thought and then attend to scholarly efforts to revive a rhetorical understanding of invention from the midtwentieth century forward, surveying contemporary theories of rhetorical invention including those promoted by postmodern, posthuman, and digital rhetorics. The course is designed to explore the central importance of invention to contemporary rhetorical theory through a pairing of historical and contemporary readings. In addition to regular reading responses, students select a research project examining the history or theory of rhetorical invention.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-308",
+        "name":  "Student Taught Courses (StuCo): Vehicles of Armored Warfare",
+        "short_name":  "STUCO: TANKS A LOT",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Just as how battleships were seen as a countrys pride and show of apical military and manufacturing capabilities, tanks were in a sense, too. The course name is a bit of a misnomer because the term vehicle implies a multitude of selfpropelled machines. To keep interests focused and manageable, this course deals with tanks. Yes. You heard me. TANKS My objective is to teach as much as I know about tanks to an interested audience. As we progress, we will learn about the history, particular battles, and specific design details that made these steel monstrosities both loved and feared since the beginning of modern warfare.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

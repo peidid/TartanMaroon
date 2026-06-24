@@ -1,0 +1,37 @@
+{
+        "code":  "70-374",
+        "name":  "Data Mining \u0026 Business Analytics",
+        "short_name":  "DATA MINING BUS ANLY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-202 [] at least D) or (36-208 [] at least D) or (36-225 [] at least D) or (70-208 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Interest in big data analytics has skyrocketed recently. The recent explosion in largescale highresolution data enables managers to ask and answer questions regarding businesses and consumers at a whole new level. Managers are faced with data about businesses and consumers that are growing faster than they can be utilized. Data mining enables business to extract useful consumer behavior and preferences from seemingly tremendous and unorganized data, which then can be utilized for datadriven decisionmaking and competitive advantage. Applications can be found in ecommerce, sales, marketing, finance, operations, etc. In this handson introductory class, you will learn the basic concepts and techniques of data mining in addition to when and how they can be applied to improve many aspects of business and consumers welfare. Throughout the course, we will use R, a powerful opensource statistical language and one of the main tools in data mining and business analytics, fast becoming a mainstream tool. With this tool, you will learn about variety of exploratory and predictive data analytics techniques such as Nave Bayes classifier, nearest neighbor approaches, decision trees, clustering algorithms, etc. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Upon completing the course, a student will be able to do the following Know pros and cons of various data analysis techniques and decide which technique to use for a particular goal. Write R code to implement several machine learning methods.",
+                                                    "key_topics":  "Cleaning data with R, K-Nearest Neighbor, Naïve Bayes, Decision Tree, Linear Regression, ROC curve, Kappa statistics, Clustering, Dealing with high dimensional data, Neural Network.",
+                                                    "prerequisite_knowledge":  "Familiarity with probability and statistics.",
+                                                    "assessment_structure":  "The course will have four homework assignments, one mid-term exam, one final exam and one group project. Apart from this there will be some in-class practice exercises.",
+                                                    "relevance":  "This course will serve as a basis for advanced business analytic courses.",
+                                                    "learning_resources":  "Detailed lecture notes will be available during the semester.",
+                                                    "extra_time_commitment":  "Homework\u0027s; a group project for which student teams meet outside of class; optional review sessions before exams."
+                                            }
+}

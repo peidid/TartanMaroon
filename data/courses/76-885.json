@@ -1,0 +1,37 @@
+{
+        "code":  "76-885",
+        "name":  "The New Public Sphere",
+        "short_name":  "NEW PUBLIC SPHERE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Public deliberation about issues that matter to us is at the heart of the rhetorical tradition. But is meaningful public dialogue really a live option in a divisive, mediasaturated world of sound bites addressed to partisan publics  Moreover, is the process of debate, deliberation, and decision making in which the best argument wins really the normal or even ideal model  Or can people use local public spaces to develop new, more inclusive positions  How might such a process create a boundarycrossing public in which diverse groups enter intercultural deliberation around racial, social, economic or environmental issues  This course looks at critical ways people use rhetoric to take literate social action within local publics. From the debate spurred by Habermass canonical version of the public sphere, we move to a feminist rereading of the Greek Sophists, to more contemporary studies of deliberation in workplaces, web forums, grassroots groups, new media, and community think tanks.  Working as a rhetorical consultant into the meaning making process of a local public of your choice, you will also learn how to support your inquiry with a variety of methods, from an interactive activity analysis to a more focused probe into the socialcognitive negotiation conflict may require.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  "insight into to how publics local publics workability to support better public dialogueability to do so through writing",
+                                                    "key_topics":  "Alternative models of the public sphere and how it operates (should operate)\n\n\nCounterpublics\n\n\nUsing / Dealing with Conflict\n\n\nIntercultural inquiry\n\n\nAcademic engagement and local publics",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Dialogue Analysis of a blog as a public sphere. Is it?\n\n\nShort method note on turning a concept into a tool of analysis\n\n\nInquiry project into the deliberative practice of a local public of your choice",
+                                                    "relevance":  "translates theory into action, with special application of local public\n\n\nworks on writing as a consultant both for a local public and about its deliberative practice\n\n\nspecial focus on intercultural deliberation",
+                                                    "learning_resources":  "texts, prior studies",
+                                                    "extra_time_commitment":  "yes, to research your local public, like any course project"
+                                            }
+}

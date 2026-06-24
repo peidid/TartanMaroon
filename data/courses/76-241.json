@@ -1,0 +1,37 @@
+{
+        "code":  "76-241",
+        "name":  "Introduction to Gender Studies",
+        "short_name":  "GENDER STUDIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Intersectional feminism. Structural oppression. Biological sex vs. gender roles. LGBTQIA rights. Consent. Masculinity. metoo and genderbased violence. Sexual politics. Global feminism. This course offers students a scholarly introduction to these social and political issues through critical readings, literature and film. In this discussionbased class, students read and discuss contemporary gender studies that speaks to questions of identity, race, nation, sexuality, and disability. Critical readings include work by Audre Lorde, bell hooks, Judith Butler, Kimberl Crenshaw, Sara Ahmed, Eve Sedgewick, Raewyn Connell, Mari Matsuda, Mona Eltahawy, Rosemarie GarlandThomson, and Kate Bornstein. Fiction might include Toni Morrison, Ocean Vuong, and Alison Bechdel.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Section A B Examine and critique ideological assumptions underlying social institutions and systems of representation, including but not limited to assumptions about aspects of identity such as gender, race, class, and sexuality. Learn to conduct interdisciplinary feminist analysis of literature, film and other media artifacts. Analyze and discuss the impact of gender on individuals historical and contemporary agency, and how gender has shaped individuals experience of the social world in various geographical settings. Become familiar with scholarly conversations and contemporary debates about topics relating to gender and sexuality, and well as the history and emergence of feminism.",
+                                                    "key_topics":  "Section A: gender and sexuality",
+                                                    "prerequisite_knowledge":  "Section A \u0026 B: none",
+                                                    "assessment_structure":  "Section A: Regular discussion posts and reflections, two papers, a presentation, and participation and engagement\nSection B: Regular short written annotations, an interpretive paper, and a final project with a written and presentation component.",
+                                                    "relevance":  "Section A \u0026 B: provides an introduction to theories of gender and sexuality",
+                                                    "learning_resources":  "Section A: Students will need to obtain copies of two novels. All other readings and material will be provided via Canvas and CMU Library Kanopy.\nSection B: Students will need to obtain a copy of one novel. All other readings and material will be provided via Canvas and CMU Library Kanopy.",
+                                                    "extra_time_commitment":  "Section A: no extra time commitments other than reading and completing assignments\nSection B: no extra time commitments other than reading and completing assignments"
+                                            }
+}

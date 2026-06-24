@@ -1,0 +1,37 @@
+{
+        "code":  "76-844",
+        "name":  "History of Books and Reading",
+        "short_name":  "HIST BOOKS \u0026 READ",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Rather than putting an end to the book, digital media have had the oddly exhilarating effect of making us look at all kinds of print, past and present, through newly focused lenses.  This course will introduce you to the history of books and reading, a crossfertilizing field of study that is having an impact on many disciplines, from the history of science to literary history, cultural studies, and the arts.  Scholarship in this stillemerging field will include work by Roger Chartier, Michel Foucault, Elizabeth Eisenstein, Pierre Bourdieu, Michel de Certeau, , and the current scholars who appear in one of our key books, Interacting with Print A Multigraph.  Well also read primary texts by Joseph Addison, Jane Austen, Samuel Coleridge, and Wilkie Collins to see how differing modes of print and reading became highly contested cultural and political matters in the eighteenth and nineteenth centuries. Other topics include the division between new reading publics and their ways of reading books important changes in book production, typography, printing methods handpress to steam press. Such knowledge of the history of print has become especially crucial in an era of emerging new media and the field of digital humanities in the university. Two papers will be requiredone shorter paper 57 pp. and a longer research paper on the uses of books and print by producers and readers. Though the course meets in Baker Hall, you will have handson experience with early books and other forms of print as we also meet periodically in the Rare Book Room at Hunt Library.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

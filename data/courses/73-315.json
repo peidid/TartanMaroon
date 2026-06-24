@@ -1,0 +1,37 @@
+{
+        "code":  "73-315",
+        "name":  "Market Design",
+        "short_name":  "MARKET DESIGN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-269 [] at least D) or (21-268 [] at least D) or (21-259 [] at least D) or (21-254 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, we consider the design of various market mechanisms. We learn the typical causes of market failures and why we need to design new markets. For each topic, we start with a case study of a problem, develop a theory to address it, and consider its possible solutions.   The class is roughly divided into three parts matching, auctions, and further topics. In the first part, we study markets where there is no money and no prices matching markets. Instead, we have people preferences over possible matching outcomes. Examples include placing doctors in residency positions, assigning students to schools, and assigning kidneys to transplant patients. We will learn algorithms that have desirable theoretical properties and are often used in practice.   In the second part, we consider the problem of allocating of single or multiple goods a house, a painting, or the rights to a natural resource such as oil or timber using auctions. We discuss how different types of auctions work in theory and practice. We will look at the auctions used in financial markets to sell treasury bills, the auctions used by Google, Microsoft and Facebook to sell advertising, and the auctions used by governments to sell radio spectrum licenses.   In the third part, we consider further important topics of market design. We will look into problems of highfrequency trading, digital markets, the allocation of refugees among European countries, and proposals to fix market for carbon pollution permits.   An important goal of the course is to show how recent achievements of game theory and mechanism design lead to important practical applications and to inspire you to use these ideas in your life and workplace.      Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

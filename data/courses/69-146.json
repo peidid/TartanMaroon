@@ -1,0 +1,34 @@
+{
+        "code":  "69-146",
+        "name":  "Team Handball",
+        "short_name":  "TEAM HANDBALL",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Team Handball or European Handball - This is an introductory level class that will cover the basics of the sport including the rules, organization, and basic game play.  Students will be expected to learn the rules and participate in play on a daily basis.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

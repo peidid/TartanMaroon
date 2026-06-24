@@ -1,0 +1,37 @@
+{
+        "code":  "70-496",
+        "name":  "Venture Capital",
+        "short_name":  "VENTURE CAPITAL",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "70-391 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course serves as an introduction to venture capital, including its development as an industry, key participants, organizational structure, and common contract terms. The course will address how performance is measured, including how this relates to venture capitalists compensation, in addition to common exit strategies for investments. The course will also describe the venture capital method and other approaches for valuing potential investment targets.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Describe the development of the venture capital VC industry identify VC institutions, contracts, and practitioners, and specify interactions among them calculate returns and cost of capital for VC investments apply the VC method perform comparables analysis and discounted cash flow analysis for growth firms.",
+                                                    "key_topics":  "Venture capital (VC) industry development; VC institutions, contracts, and practitioners; performance measurement; the VC method.",
+                                                    "prerequisite_knowledge":  "Capital asset pricing model; cost of capital, free cash flow calculation; discounted cash flow valuation.",
+                                                    "assessment_structure":  "The course grade will be based on class participation, assignments, and an exam.",
+                                                    "relevance":  "This is an elective finance course in the Tepper School of Business\u0027s undergraduate program. It introduces key venture capital (VC) institutions, structures, and participants. It also covers how VC investments are made and evaluated.",
+                                                    "learning_resources":  "Textbook; lecture notes; assignments.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "79-360",
+        "name":  "Crime, Policing, and the Law: Historical and Contemporary Perspectives",
+        "short_name":  "CRIME POLICING \u0026 LAW",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This seminar will critically explore the development of the American criminal legal system from the colonial era to the present. Students will learn how the present system took shape and what they can do to make it fairer and more effective in the future. Students will analyze the role of race, class, and gender in policy decisions that have created the American criminal legal system how these factors play into the differential enforcement of laws in various communities and how they affect outcomes in the legal system. Students will understand the history of social movements that have emerged to advocate for changes in our criminal legal system, including an analysis of when they have been successful and when they have not. Topics covered will include slave patrols, the 19th century origins of modern policing and incarceration, the factors leading to the emergence of urban police departments, changing understandings of crime and criminals, surveillance, the wars on crime and drugs and their racial implications, mass incarceration, deaths in custody, police corruption, police oversight, and the portrayal of law in popular culture. The course is discussionbased and includes many opportunities to engage directly with people whose lives have been impacted by crime and the criminal legal system. This course meets the Dietrich Gen Ed Perspectives on Justice and Injustice requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is to help students understand how the present criminal legal system took shape and what they can do to make it more fair and effective in the future. Students will also analyze the role of race, class, and gender in policy decisionsthat have created the American criminal legal system how these factors play into the differential enforcement of laws in various communities and how they affect outcomes in the legal system. Finally, students will understand the history of social movementsthat have emerged to advocate for changes in our criminal legal system, including an analysis of when they have been successful and when they have not.",
+                                                    "key_topics":  "This seminar will critically explore the development of the American criminal legal system (including policing, courts, jails, prisons, and parole/probation) from the colonial era to the present.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "This course will be discussion-based. Assignments will include reading reflections, a review essay, a personal reflection, and a debate.",
+                                                    "relevance":  "Dietrich Gen Ed: Special Seminars - Perspectives on Justice and Injustice\n\nThe criminal legal system, mass incarceration, and deaths in custody are among the most important and controversial social issues of the current political era. They are currently receiving a great deal of attention across the political spectrum, and are among the few issues upon which liberals, conservatives, and libertarians have been able to find some common ground for reform.",
+                                                    "learning_resources":  "This course will involve reading works of history, anthropology, sociology, criminology, investigative journalism, and law that have transformed our understanding of the criminal legal system; engaging with experts and people impacted by the criminal legal\nsystem; and connecting with activists of varying political persuasions who are seeking to reform the system. Almost all reading material will be available on Canvas, through the CMU library, or on the internet.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "99-102",
+        "name":  "Core@CMU",
+        "short_name":  "CORE@CMU",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "CoreCMU is an engaging, online learning experience where youll develop your core competency skills in the Core4 domains  1 Collaboration  Teamwork, 2 Communication  Presentation, 3 Information  Data Literacy and 4 Intercultural  Global Literacy. Additionally, youll discover evidencebased strategies to enhance your learning. This foundational course is an essential first step in your educational journey at CMU, setting you up for academic, personal, and professional success across any field of study.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/c-cm/",
+        "custom_fields":  {
+                                                    "goals":  "1 Prepare for your CMU experience and plan to integrate CMUs Core 4 Competencies into your undergraduate career 2 Select and apply appropriate learning strategies for specific tasks and learning goals3 Demonstrate baseline knowledge and skill in each of the Core 4 Competencies",
+                                                    "key_topics":  "Evidence-based Learning Strategies\nCollaboration \u0026 Teamwork\nCommunication \u0026 Presentation\nInformation \u0026 Data Literacy\nIntercultural \u0026 Global Literacy",
+                                                    "prerequisite_knowledge":  "no prior knowledge required",
+                                                    "assessment_structure":  "Learn by doing activities interpreted throughout online course\nEnd-of-course assessment",
+                                                    "relevance":  "The Core 4 is a set of essential capabilities that are important for success across many disciplines and professions. These competencies complement the disciplinary expertise students achieve during their undergraduate careers at CMU. Core@CMU exposes the significance of the Core 4, links them to further opportunities for competency development and supports them in establishing a shared foundation of knowledge, skills and attitudes.",
+                                                    "learning_resources":  "All of the course materials in Canvas; no textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

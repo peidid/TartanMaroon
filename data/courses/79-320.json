@@ -1,0 +1,37 @@
+{
+        "code":  "79-320",
+        "name":  "Women, Politics, and Protest",
+        "short_name":  "WOMEN POLTCS \u0026 PROTS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the history of womens rights agitation in the United States from the early nineteenthcentury to the present. It investigates both wellknown struggles for womens equalityincluding the battles for womens voting rights, an Equal Rights Amendment, and access to birth controland also explores the history of lesserknown struggles for economic and racial justice. Because women often differed about what the most important issues facing their sex were, this course explores not only the issues that have united women, but also those that have divided them, keeping intersectionality and womens diversity at the center of the course. This course is open to all students.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "No prerequisite knowledge is required.",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

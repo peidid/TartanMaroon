@@ -1,0 +1,37 @@
+{
+        "code":  "69-097",
+        "name":  "Introduction to Horseback Riding",
+        "short_name":  "HORSEBACK RIDING",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This full semester course is designed for beginners who want to learn the fundamentals of horseback riding. Through handson experience and instruction, students will develop basic riding skills, gain an understanding of horse care, and build confidence in their ability to work with horses. The course covers safety, grooming, tacking up, mounting, and basic riding techniques, including walking, trotting, and basic steering.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

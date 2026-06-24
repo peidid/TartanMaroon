@@ -1,0 +1,37 @@
+{
+        "code":  "80-255",
+        "name":  "Pragmatism: Clear Ideas for a Better Life",
+        "short_name":  "PRAGMATISM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "American Pragmatism represented an energetic attempt to bridge the divergent cultures of science and the humanities. The movements founder, C.S. Peirce, was trained in chemistry and worked as a physicist, but he was also deeply concerned with the contemporary philosophical portrayal of science, which distinguished sharply between theoretical knowledge and practice. Peirce responded by constructing a comprehensive philosophy emphasizing the scientific importance of community, fallibility, and action. Pragmatism was developed and popularized by William James, who aspired to be a painter and ended up as an acknowledged founder of modern empirical psychology. James extended Peirces position by defending the role of values in even the purest of empirical sciences. John Dewey, who is also wellknown for his role in education, interpreted science as an evolving social system and developed a theory of aesthetics based on what we now call the psychology of problem solving. The pragmatists made lasting contributions to modern statistics, logic, and social science and their emphases on community, fallibility, action, and value in science are still of primary importance in philosophy and in the ongoing dialogue between the scientific and humanistic cultures.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "There are no prerequisites; however, it will benefit a student to have taken Introduction to Philosophy.",
+                                                    "assessment_structure":  "Students enrolled in the seminar are required to submit a research paper, and to make a class presentation.",
+                                                    "relevance":  "Dietrich GenEd prior to 2021: Reflecting",
+                                                    "learning_resources":  "Required Texts: [1] Philosophical Writings of [C.S.] Peirce, J.Buchler (ed.); [2] Pragmatism and other Writings, by William James; [3] The Quest for Certainty, by John Dewey.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

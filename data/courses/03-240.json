@@ -1,0 +1,37 @@
+{
+        "code":  "03-240",
+        "name":  "Cell Biology",
+        "short_name":  "CELL BIOLOGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((03-120 [] at least D) or (03-121 [] at least D) or (03-151 [] at least D)) and ((03-232 [] at least D) or (03-233 [] at least D) or (03-231 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The course provides descriptive information and mechanistic details concerning key cellular processes in six areas membrane function, protein targeting, signaling, cytoskeleton, cell division, and cell interaction. An attempt will be made to introduce the methodology that was used to obtain this information and to discuss how our understanding of these processes relates to human diseases. In this course, we will use different pedagogical tools Inclass activities, props, online modules, lecture slides... to keep students engaged and to make the concepts easy to understand. In addition we will have various assessment types weekly quizzes, problem sets, tests... to gage students proper understanding of the taught science. This course builds on previous knowledge that students have acquired in other courses prerequisite courses like Honors modern Biology and Biochemistry to give them a deeper and more detailed understanding of how the cell works. Finally, this course will require from you, beside some memorization effort, to think critically about scientific data and experimental procedures and to work collaboratively with other students e.g. endofsemester cell bio fair project. These are important skills that will empower your growth as a scientist inside and outside the lab.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 Identify and explain specific protein functions and their role in cellular processes. 2 Compare and contrast protein functions across cellular processes. 3 Design experiments to answer pressing scientific research questions related to cellular processes. 4 Synthesize course concepts to develop a big picture understanding of the different conditions under which cells operate.",
+                                                    "key_topics":  "This course covers cellular processes in six areas: membrane function, protein targeting, signaling, cytoskeleton, cell division, and cell interaction",
+                                                    "prerequisite_knowledge":  "Honors Modern Biology \u0026 Biochemistry courses",
+                                                    "assessment_structure":  "Assessments include: tests, problem sets, quizzes, group presentation \u0026 a final comprehensive exam",
+                                                    "relevance":  "This course builds on previous knowledge that students have acquired in other courses (prerequisite courses like Honors modern Biology and Biochemistry) to give them a deeper and more detailed understanding of how the cell works.",
+                                                    "learning_resources":  "Textbook: Molecular Cell Biology, 8th Edition. ISBN-13: 978-1464183393, W.H. Freeman and Company, 2016.",
+                                                    "extra_time_commitment":  "A weekly 50 min recitation session to practice exam-type questions, review previous material and prepare for upcoming assessments."
+                                            }
+}

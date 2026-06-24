@@ -1,0 +1,37 @@
+{
+        "code":  "76-376",
+        "name":  "Crafting Race in 19th-Century Britain",
+        "short_name":  "CRAFTING RACE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores how the idea of race was developed, deployed, and reinforced through nineteenthcentury British culture, from novels to museums to ballet. Students investigate how literature and art produced and replicated arguments about race that justified or fought against oppression. Alongside literary texts, students will also work with advertisements, paintings, filmic adaptation, and theatrical practice. We take an intersectional approach, thinking not only about race, but also the connections between gender, class, sexuality, and disability. What are the roots of problems we think of as modern, like whitewashing in media How has racial thinking been passed down through time and across oceans Ultimately, our investigation aims to provide insight to modern issues of race through a better understanding of cultural history. Note we will have one field trip during class time Carnegie Museum of Art and Natural History",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students will have1. Analyzed and contextualized key pieces of nineteenthcentury British culture, as well as their modern, transatlantic legacies2. Practiced thinking, speaking, and writing about intersectional topics in a critical and thoughtful manner3. Learned to interpret multiple forms of media, including literature, art, and drama4. Worked with different critical methodologies for example, archival work, historical contextualization of media, multimodal analysis, critical race studies",
+                                                    "key_topics":  "race, literature, novel, poetry, theater, gender, British literature, 19th century, museums",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Discussion questions posted to Canvas, paper/project, group podcast project, presentation",
+                                                    "relevance":  "This course is designed for undergraduates who feel ready to start working with secondary criticism as well as primary sources, and for graduate students who are interested in learning more about the intersections between race and media",
+                                                    "learning_resources":  "Most readings will be available on Canvas",
+                                                    "extra_time_commitment":  "No - we have one field trip but it will be during class time"
+                                            }
+}

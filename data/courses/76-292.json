@@ -1,0 +1,37 @@
+{
+        "code":  "76-292",
+        "name":  "Introduction to Film Production",
+        "short_name":  "INTRO FILM PROD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to the process of filmmaking. Students will develop a personal cinematic language and create a short final film from the ideation, to the synopsis and shot list, the set then to the editing room. The course will introduce technical tools to create audio and visual forms that serve the content developed in a film treatment through filming assignments, planning and producing a short film, peer review and group work. The focus will be on understanding shots and coverage of a scene, the various aspects of the cinematic language, with an emphasis on the basic visual components such as space, movement, and rhythm  and how they are used to tell the story visually. Audio layering to create a meaningful soundscape and the art of Editing will be discussed extensively.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will gain a better understanding of the cinematic language, the video and audio gear as well as postproduction softwares, and the process involved in making a short film from Ideation, production management to postproduction.",
+                                                    "key_topics":  "Ideation, Cinematic language, Pre-production, production, post-production of a short film.",
+                                                    "prerequisite_knowledge":  "Interest in films. 76239 Intro to Film Studies a plus",
+                                                    "assessment_structure":  "1 visual component assignment, 1 audio layering and editing assignment, tech quiz, group work, 1 final short film",
+                                                    "relevance":  "Major and minor students will further their skills and non major students will gain a better understanding of the filmmaking process",
+                                                    "learning_resources":  "Online books from CMU library and audio and video gear from the Department of English available to all undergrads",
+                                                    "extra_time_commitment":  "The classes includes lab time but students are expected to produce in groups content for their films outside of class"
+                                            }
+}

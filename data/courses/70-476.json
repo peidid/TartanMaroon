@@ -1,0 +1,37 @@
+{
+        "code":  "70-476",
+        "name":  "Service Operations Management",
+        "short_name":  "SERVICE OPER MGMT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((36-202 [] at least D) or (36-208 [] at least D) or (70-208 [] at least D)) and (70-371 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The service sector accounts for approximately 70 of the GDP and 85 of the jobs in the United States. Given the everincreasing role of services in the economy, it is crucial for a manager to understand both how services differ from manufacturing operations and how traditional operations management techniques can be applied to services. This course provides a general managers perspective on strategic analysis as well as operational decision making. The course will examine settings in traditional service businesses such as financial services banking, retail environments, and transportation airlines, and healthcare sector. The Additional topics include evaluation of management of service quality, variability and customer waits, and revenue management. The course is intended for students interested in general management, consulting, financial services, or operations.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

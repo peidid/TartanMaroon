@@ -1,0 +1,42 @@
+{
+        "code":  "09-109",
+        "name":  "Kitchen Chemistry Sessions",
+        "short_name":  "KTCHEN CHEMTRY SESSN",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "09-209",
+                                                    "id":  1594,
+                                                    "name":  "Kitchen Chemistry Sessions",
+                                                    "units":  3.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Ever wanted to boil water in ice Cook an egg so the yolk is set but the white still runny Lick a lemon or drink vinegar but have it tastesweet Make caviar from fruit juice and noodles from yogurt Explore the science of molecular gastronomy through the lectures and demonstrations that reveal the chemistry and biochemistry of food ingredients and their preparation. Then use a kitchen as your laboratory to test hypotheses and delve into molecular cooking  you may just get to eat your lab results.  For this course high school background in chemistry would help but nothing more advanced is required.  Concepts will be discussed on a need to know basis. Students with stronger chemistry backgrounds should enroll in 09209. 3 hrs. lec. and lab",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

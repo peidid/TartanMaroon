@@ -1,0 +1,54 @@
+{
+        "code":  "21-269",
+        "name":  "Vector Analysis",
+        "short_name":  "VECTOR ANALYSIS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(21-122 [] at least D) and ((21-127 [] at least D) or (15-151 [] at least D)) and ((21-241 [] at least A) or (21-242 [] at least B))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-259",
+                                            "id":  442,
+                                            "name":  "Calculus in Three Dimensions",
+                                            "units":  10.0
+                                    },
+                                    {
+                                            "code":  "21-268",
+                                            "id":  3717,
+                                            "name":  "Multidimensional Calculus",
+                                            "units":  11.0
+                                    },
+                                    {
+                                            "code":  "21-266",
+                                            "id":  11385,
+                                            "name":  "Vector Calculus for Computer Scientists",
+                                            "units":  10.0
+                                    }
+                            ],
+        "long_desc":  "A component of the honors program, 21269 is a more demanding version of 21268 of greater scope, with greater emphasis placed on rigorous proofs. Topics to be covered typically include the real field, sups, infs, and completeness geometry and topology of metric spaces limits, continuity, and derivatives of maps between normed spaces inverse and implicit function theorems, higher derivatives, Taylors theorem, extremal calculus, and Lagrange multipliers. Integration. Iterated integration and change of variables.   Three 50 minute lectures, two 50 minute recitations",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Linear algebra, differential and integral calculus",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

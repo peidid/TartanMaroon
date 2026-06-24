@@ -1,0 +1,37 @@
+{
+        "code":  "73-327",
+        "name":  "Advanced Topics In Macroeconomics And Real Business Cycles",
+        "short_name":  "ADVTOPMACROREALBUSCY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-240 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "For analysts and decision makers in a variety of positions, such as business managers and government policy makers, a thorough understanding of the economy as a whole helps to make wellinformed decisions. Examples of important knowledge about the economy are its sources of growth, the main impulses that cause the economy to fluctuate over time and enter into booms and recessions, the way in which these impulses propagate over time, and the state of the economy in general. The main objective of this course is to lay the foundation for such an understanding and present a framework within which we can and will evaluate a variety of aggregate phenomena. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

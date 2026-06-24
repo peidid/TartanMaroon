@@ -1,0 +1,37 @@
+{
+        "code":  "70-432",
+        "name":  "Diversity, Equity, \u0026 Inclusion and Business Strategy",
+        "short_name":  "DEI \u0026 BUSINESS STRAT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In an increasingly multicultural society with many layers of intersectionality, matters of Diversity, Equity, and Inclusion DEI impact businesses both in the workplace and the marketplace. This course will focus on business strategies in particular how they are formulated within organizations and how they play out in the competitive space, through a DEI lens. We will move through multilevels of analysis to examine how DEI within organizations impact the way strategies are developed, are potentially manifested as competitive advantage, and the implications of those strategies on society more broadly. It will therefore touch on topics across the management domain including, organizational behavior, human resource management, entrepreneurship, international business, and strategic management. The course will draw on this body of knowledge in the field of management as well as the realworld situations businesses face today. It is open to upperlevel business and nonbusiness majors. The course will be taught at an advanced level, where students will be expected to use knowledge gained in their foundational courses to make substantive contribution to lecture discussions and group work. All are also invited to contribute their own life experiences and cultural richness to the discussion. Interactive lectures, realworld cases and videos, self assessments, guest speakers, and team projects are all learning methods that students can expect to experience in this course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "organizational behavior, human resource management, entrepreneurship, international business, and strategic management.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Interactive lectures, real-world cases and videos, self-\nassessments, guest speakers, and team projects",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-266",
+        "name":  "Russian History and Revolutionary Socialism",
+        "short_name":  "RUS HIS REV SOC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-101 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Whether famous or infamous or secret, fantastical or everyday, gonewrong or happilyeverafter, writing about love is as universal as it is deeply particularand the subject provides a powerful engine for our creative work as writers. This course encourages students to take up the manysided subject of love in all three major genres poetry, fiction, and nonfiction, beginning with considering how we might define love in its many nuanced facets as writers, and then shaping that important definition through the reading of other contemporary writers diverse work on the subject. This course will offer readings in short fiction, poetry, and creative nonfiction about love in its numerous and distinct contexts, considering both common tropes within the subject and ways that writers subvert or challenge those tropes. What does it mean to write about love, and how can we push to do so in new and challenging ways Students will then have the opportunity to craft, workshop, and revise their own creative work, using these complex definitions of the love story to help direct their own creative poetry or prose writing.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "70-428",
+        "name":  "Financial Statement Analysis",
+        "short_name":  "FINANCL STATMNT ANAL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-122 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about fundamental analysis using financial statements. We develop and apply technologies for understanding and identifying firm activities that generate shareholder value and for developing valuation benchmarks. The ultimate goal of such analysis is to aid the security valuation and risk analysis exercises. This course is intended to help students establish a good foundation and introduce students the basics of equity and debt analysis techniques. Taking Finance 70391 before this course is recommended, though not a formal prerequisite. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Handon skills 1 financial statement analysis and 2 equity valuation solutions to models of shareholder value, a comparison of accrual accounting and discounted cash flow approaches to valuation, the determination of priceearnings PE and markettobook PB ratios, the reformulation of financial statements, the analysis of profitability, growth and valuation generation in a firm, and diagnosing accounting quality.",
+                                                    "key_topics":  "Financial statement reformulation, Financial Ratio Analysis, equity valuation modeling.",
+                                                    "prerequisite_knowledge":  "See course prerequisite.",
+                                                    "assessment_structure":  "Group Project (two parts) 40% (16%+24%); In-class quizzes 24%; Final Exam (take-home) 25%; Class Participation (e.g., Homework, Mini-case) 11%",
+                                                    "relevance":  "Provide tools to finance students: build earnings-based valuation models to evaluate publicly traded companies, perform fundamental analysis based on GAAP financial figures and their ratios, link cash flow modeling to earnings and book value modeling; to entrepreneurship students: analyze the driver of firm value; how cash flows and accounting earnings are related to each other how to use earnings multiple to value company activities; general or non-business schools students: know how use combine financial figures to explain financial performance, use basic valuation models to value companies.",
+                                                    "learning_resources":  "Stephen Penman, Financial Statement Analysis and Security Valuation, fifth edition, New York, NY: McGraw-Hill/Irwin, 2013.",
+                                                    "extra_time_commitment":  "periodic individual homework, Team-based cases"
+                                            }
+}

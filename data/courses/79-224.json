@@ -1,0 +1,37 @@
+{
+        "code":  "79-224",
+        "name":  "The Making of the Modern Middle East",
+        "short_name":  "MOD MID EAST HIST",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The class focuses on the 19th and 20th century Middle East and covers the modern history of imperial and colonial formations in the Ottoman Empire, Iran, the Arab world, Turkey, and the Gulf. The class will trace the developments of nationalism, colonialism and settler colonialism, decolonizationindependence, reform, statebuilding, popular politics, revolution, and the role of society and social movements in shaping these histories. The class will interrogate the notion of modernity as well as notions of the nation and empire in the Middle East across time and space. Readings focus on both secondary and primary sources with an emphasis on knowledge produced within the Middle East. Students will critically assess the types of knowledge production and their links to empire and decolonization that have shaped how we understand the modern history of the region.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

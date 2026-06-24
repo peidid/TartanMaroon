@@ -1,0 +1,37 @@
+{
+        "code":  "76-841",
+        "name":  "Theorizing Sexuality",
+        "short_name":  "GENDER STUDIES",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course offers a foundation in the history of theorizing sexuality that brings us from the Greek classical concept of manboy love, through medieval concepts of the onesex body, and up to contemporary transgender theory.  We will read canonical theories of sexuality in the modern period, such as Freuds psychoanalytic Three Essays on Sexuality and Michel Foucaults revisionist History of Sexuality.  To ground our theoretical investigations in social and historical context, we will focus on three discursive sites the feminist sex wars of the 1980s, the theory and practice of transboth gender and sexualityfrom modern and contemporary periods, and late 20th and 21st century queer concepts of sexuality.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

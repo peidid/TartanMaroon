@@ -1,0 +1,37 @@
+{
+        "code":  "99-519",
+        "name":  "Collaborative Research through Projects- Summer All",
+        "short_name":  "COLLAB RESEARCH",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course has students engage in experiential learning via interdisciplinary projects around a variety of topics determined by each instructor. Students should review the lengthier descriptions for each section posted on the Office of the Vice Provost website under the Academic Resources tab to gain more knowledge of the projects and prerequisites.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://docs.google.com/document/d/1JRPqsB15OBd-gWgrCuUXAqCnE7JApt4HmLehtNHyelk/edit?usp=sharing",
+        "custom_fields":  {
+                                                    "goals":  "Students will gain applied skills and knowledge based on the project deliverable for the course selection.",
+                                                    "key_topics":  "Experiential learning, project development, project management",
+                                                    "prerequisite_knowledge":  "This will be dependent upon each section and professors. Please see the course description listing on the VPE website under the Academic Resources heading.",
+                                                    "assessment_structure":  "This will be dependent upon each section and professors. Please see the course listing on the VPE website under the Academic Resources heading.",
+                                                    "relevance":  "This will focus on experiential learning and skill development related to the project focus.",
+                                                    "learning_resources":  "This will be dependent upon each section and professors. Please see the course listing on the VPE website under the Academic Resources heading.",
+                                                    "extra_time_commitment":  "This will be dependent upon each section and professors. Please see the course listing on the VPE website under the Academic Resources heading."
+                                            }
+}

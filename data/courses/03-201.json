@@ -1,0 +1,37 @@
+{
+        "code":  "03-201",
+        "name":  "Undergraduate Colloquium for Sophomores",
+        "short_name":  "UNDGRAD COLLQM SOPHM",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  2.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The purpose of this seminar series is to update biology undergraduates about university and departmental functions, seminars, etc. that are pertinent or useful. In addition, research talks by faculty and undergraduates will be used to introduce students to the research being conducted in faculty laboratories. Additional topics may include graduate and medical school applications, career options, topics in the press, and important scientific discoveries.This course is for Biological Science majors only. Bio majors are required to pass 2 units and Neuroscience majors are required to pass 1 unit of this course to graduate, and should ideally REGISTER for this course in the fall of their sophomore year.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This seminar is intended to foster interaction between all biological sciences majors, identify important campus and department resources, support growth and professional development, and identify post graduation career paths for students with a biological sciences degree.",
+                                                    "key_topics":  "This course is part of the required curriculum for the bachelor\u0027s degree in Biological Sciences and Neuroscience. Students will attend a seminar once a week to listen to a featured speaker, ask questions, and learn more about the biological sciences department as well as topics that are relevant to students majoring in biological sciences.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Attendance and participation will make up the primary form of assessment for this course.",
+                                                    "relevance":  "The undergraduate colloquium courses in biological sciences serve to help students develop a sense of community by fostering interactions with majors across all classes and with their academic advisor. It serves to inform students of research and pertinent resources in the department as well as future career options.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "79-311",
+        "name":  "PaleoKitchen: Food and Cooking in the Ancient World",
+        "short_name":  "PALEOKITCHEN ANC WRL",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "From home cooking to haute cuisine, people are passionate about food. But what did people eat in the ancient world This class will center around the origins of the human diet, including human dietary adaptation to diverse ecological and technological situations social, cultural, behavioral, and ecological factors which influenced diet in ancient societies and the origins of cuisines around the world.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "After successfully completing this course, students will be able toDiscuss key issues in the anthropology and archaeology of food, including hominid diet, the biological and cultural basis of food choice, the transition to agriculture, gender roles and kitchen life, feasting, ancient cuisines, and the origins of cuisines. Interpret and evaluate archaeological evidence of diet and cuisine from specific sites and regions, and apply this evidence to our reconstructions of past societies.Apply archaeological and anthropological debates about food and domesticity to their own lives and to modern society.Identify the cultural, historical, evolutionary, and ecological underpinnings of world cuisines.",
+                                                    "key_topics":  "This class will center around the origins of the human diet, including human dietary adaptation to diverse ecological and technological situations; social, cultural, behavioral, and ecological factors which influenced diet in ancient societies; and the origins of cuisines around the world.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will be expected to read and write extensively, as well as conduct practical exercises and engage in collaborative analysis.",
+                                                    "relevance":  "This course will contextualize their own culinary experiences and develop an appreciation for archaeological methods for learning about the past.",
+                                                    "learning_resources":  "Students will make use of texts, especially Hastorf\u0027s The Social Archaeology of Food, case studies, and scaffolded field studies.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

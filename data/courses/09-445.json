@@ -1,0 +1,37 @@
+{
+        "code":  "09-445",
+        "name":  "Undergraduate Research",
+        "short_name":  "UNDERGRAD RESEARCH",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  15.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Properly qualified students may undertake research projects under the direction of members of the faculty, normally 6 to 12 hrsweek. A written, detailed report describing the project and results is required. Course may be taken only with the consent of a faculty research advisor in chemistry or on occasion in another department provided that the project is chemical in nature and with permission of the Director of Undergraduate Studies. The number of units taken generally corresponds to the actual number of hours the student actually spends in the lab doing research during the week. Maximum number of units taken per semester is 18.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

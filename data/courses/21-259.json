@@ -1,0 +1,54 @@
+{
+        "code":  "21-259",
+        "name":  "Calculus in Three Dimensions",
+        "short_name":  "CALCULUS IN 3-D",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "21-122 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-268",
+                                            "id":  3717,
+                                            "name":  "Multidimensional Calculus",
+                                            "units":  11.0
+                                    },
+                                    {
+                                            "code":  "21-269",
+                                            "id":  3718,
+                                            "name":  "Vector Analysis",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "21-266",
+                                            "id":  11385,
+                                            "name":  "Vector Calculus for Computer Scientists",
+                                            "units":  10.0
+                                    }
+                            ],
+        "long_desc":  "Vectors, lines, planes, quadratic surfaces, polar, cylindrical and spherical coordinates, partial derivatives, directional derivatives, gradient, divergence, curl, chain rule, maximumminimum problems, multiple integrals, parametric surfaces and curves, line integrals, surface integrals, GreenGauss theorems. Three 50 minute lectures, two 50 minute recitations",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Differential and Integral Calculus",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

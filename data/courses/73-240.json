@@ -1,0 +1,42 @@
+{
+        "code":  "73-240",
+        "name":  "Intermediate Macroeconomics",
+        "short_name":  "INTERMD MACROECONOMC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((73-100 [] at least D) or (73-102 [] at least D) or (73-104 [] at least D)) and (73-103 [] at least D) and ((21-256 [] at least D) or (21-259 [] at least D) or (21-254 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "73-200",
+                                            "id":  7354,
+                                            "name":  null,
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "Through macroeconomic models built upon microeconomic foundations, insights are developed into economic growth processes and business cycles.  Topics include aggregation and measurement, national income, business cycle measurement, economic welfare theorems and social inefficiencies, the effect of government fiscal policy upon employment and productivity, and the relationship between investment, interest rates and economic growth.  Lecture, 3 hours Recitation, 1 hour. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able toUnderstand and be able to use the various measures of an aggregate economys performance and wellbeingUnderstand how aggregate macroeconomic behavior is effected by microeconomic behavior and equilibrium restrictionsBe able to answer simple macroeconomic policy questions by formulating a model, finding the data and deriving an analytical and quantitative answerUnderstand the factors that cause economic growth and be able to describe the patterns of economic development across countries and over timeUnderstand how credit and labor frictions operate and how they might impact macro economicbehavior.",
+                                                    "key_topics":  "Measurement (GDP, Growth and Fluctuations, Business Cycles); Consumers; Firms; Government; Equilibrium and Pareto Optimality; Taxation and Spending; Unemployment: Search and Vacancies; Economic Growth (Malthus and Solow); Savings and Investment; Ricardian Equivalence; Inter-temporal Models; Money and Banking;",
+                                                    "prerequisite_knowledge":  "Multivariate calculus and comfort with logarithms.\nComfort with spreadsheet software\nIntroductory microeconomic knowledge (theory of the firm, consumer theory, game theory)\nIntroductory macroecnomic knowledge (output, unemployment, inflation)",
+                                                    "assessment_structure":  "Subject to change: graded assignments (30%), midsemester exams (35%), final project (25%), participation (10%)",
+                                                    "relevance":  "The goal of this course to provide a rigorous framework for understanding modern macroeconomic issues, debates, policies, and solutions. This course is a critical component for students preparing to enter the fields of international finance, centrial banking, economic consulting, government, strategic consulting, public policy or international organizations.",
+                                                    "learning_resources":  "Weekly office hours, lecture slides, lecture notes, MobLab (provided free to students), Piazza, and current newspaper articles (made available on the course webpage).",
+                                                    "extra_time_commitment":  "During F21, 73-240 Lecture 1 will only be offered remotely. Remote recitation section A is available by special permission only."
+                                            }
+}

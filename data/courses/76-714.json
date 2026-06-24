@@ -1,0 +1,37 @@
+{
+        "code":  "76-714",
+        "name":  "Data Stories",
+        "short_name":  "DATA STORIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Every dataset has a story. In the age of big data, it is vital to understand the unlikely casts of algorithms, data miners, researchers, data janitors, pirates, data brokers, financiers, etc. whose activities shape culture. This course will feature a range of farm to table data stories, some going back hundreds of years, and introduce students to resources and strategies for contextual research. It will explore cases such as the London cholera epidemic, Google Books, Netflix, the Oxford English Dictionary, the Strava map, and the Queen Nefertiti scan alongside several pieces of art and fiction that capture aspects of data stories typically obscured elsewhere. Research methods introduced will include book history, media archeology, history of information, infrastructure studies, ethnography, narratology, and digital forensics. Students will read scholarly articles, novels, journalism, and popular nonfiction they will test algorithms and they will develop individualized longform research and writing projects informed by computational methods in data studies, journalism, and art.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students at the end of the course should be able to Detail cases in contemporary culture and historical contexts alike of the people, standards, technologies, and infrastructures responsible for collecting, maintaining, and transmitting data. Assess contemporary writing about data through the lens of narratology. Analyze ways that data of various kinds facilitate andor frustrate narrativization. Develop and complete individualized longform research and writing projects informed by computational methods and contemporary developments in data studies, journalism, and art. Evaluate work from a variety of perspectives speaking to datas past and future impacts on individuals, communities, and societies.",
+                                                    "key_topics":  "The people, standards, technologies, and infrastructures responsible for collecting, maintaining, and transmitting data.",
+                                                    "prerequisite_knowledge":  "This course includes a gentle introduction to algorithms and computation but does not require deep programming or statistical background.",
+                                                    "assessment_structure":  "There will be an oral presentation, a short paper, and a longer paper with an associated oral presentation.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "The majority of readings are available on the open web, and students will need to purchase a few textbooks. Course materials are organized via Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

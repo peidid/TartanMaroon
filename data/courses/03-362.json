@@ -1,0 +1,42 @@
+{
+        "code":  "03-362",
+        "name":  "Cellular Neuroscience",
+        "short_name":  "CELLULAR NEUROSCIENC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-161 [] at least D) or (03-320 [] at least D) or (42-202 [] at least D) or (85-219 [] at least D) or (03-230 [] at least D)"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "03-240",
+                                                "id":  269,
+                                                "name":  "Cell Biology",
+                                                "units":  9.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Modern neuroscience is an interdisciplinary field that seeks to understand the function of the brain and nervous system. This course provides a comprehensive survey of cellular and molecular neuroscience ranging from molecules to simple neural circuits. Topics covered will include the properties of biological membranes, the electrical properties of neurons, neural communication and synaptic transmission, mechanisms of brain plasticity and the analysis of simple neural circuits. In addition to providing information the lectures will describe how discoveries were made and will develop students abilities to design experiments and interpret data.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understand concepts in cellular neuroscience such as excitable membranes and action potentials Understand strategies of neural communication and neurotransmitter systems Understand the methods and approaches used to analyze neural systems. Understand the biological bases of some brain disorders. Describe the molecular basis of neural circuit function. Learn to develop testable hypotheses and to propose appropriate experiments. Learn to critically evaluate and assess graphical representations of data",
+                                                    "key_topics":  "Membrane potential and IV plots, Action potentials, Na and K currents, Bursting neurons and sleep, AP conduction, myelin and glia, Synaptic physiology, Glutamatergic synapses, Synaptic Plasticity, LTP, Memory, Dopamine system, Synaptic Plasticity and Parkinson\u0027s Disease, GABAergic synapses",
+                                                    "prerequisite_knowledge":  "Physiology, cell biology, or a university-level neurobiology course",
+                                                    "assessment_structure":  "10% Completion of in-class problem sets\n20% Homework\n10% Exam 1\n15% Exam 2\n20% Exam 3\n25% Final Exam\n\nThree exams will be given during the semester. You will be able to use your textbook(s)\nduring the exams, but no other materials will be allowed.",
+                                                    "relevance":  "In this course, you will learn about the properties of biological membranes, the electrical properties of\nneurons, neural communication and synaptic transmission, mechanisms of brain plasticity and the\nneural architecture of simple neural circuits.",
+                                                    "learning_resources":  "1. Neurobiology: A Functional Approach (Striedter) *required\nISBN: 978-0-19-539615-7\n2. Principles of Neurobiology (Luo) * strongly recommended\nISBN: 978-0-8159-4492-6\n\nThe primary textbook for this class is Striedter, but I also recommend purchasing the second textbook\nby Luo. The Striedter is better at explaining some concepts while the Luo is better at explaining others.\nBoth books will be on reserve at Sorrells library.\n\nRequired Software: MetaNeuron (Download for free from http://www.metaneuron.org/)",
+                                                    "extra_time_commitment":  "Homework, study time, textbook reading"
+                                            }
+}

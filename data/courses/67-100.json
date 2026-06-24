@@ -1,0 +1,37 @@
+{
+        "code":  "67-100",
+        "name":  "Information Systems First Year Colloquium",
+        "short_name":  "FIRST YEAR COLLOQ",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This IS Colloquium will provide a broad introduction to the Information Systems Program, an exciting program newly joint between Carnegie Mellons Dietrich College and Heinz College. The IS Colloquium is open only to firstyear IS students and is led by an IS academic advisor who facilitates discussions on the field of IS, the program curriculum, and careers, in addition to cocurricular experiences such as internships and study abroad. Because the flexible nature of the IS program encourages students to explore their own interests, we place an emphasis on highlighting a variety of areas within the field of IS. Guest lecturers will include leaders in IS research including Dietrich and Heinz faculty and IS alumni. Additional speakers include the IS career consultant and various campus representatives. Discussions will include students progress in their first semester, as well as guidance in course planning, creating student Spring semester class schedules, and their overall fouryear plan.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To provide a general understanding of Carnegie Mellon University at large along with many of the available resources.",
+                                                    "key_topics":  "The field of IS, the curriculum, and careers, as well as co-curricular experiences such as internships and study abroad",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  "There are no textbooks or other materials required for this course.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

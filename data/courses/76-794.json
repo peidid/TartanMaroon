@@ -1,0 +1,37 @@
+{
+        "code":  "76-794",
+        "name":  "Healthcare Communications",
+        "short_name":  "HEALTHCARE COMMNCTNS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Healthcare communications is designed for students with an interest in how medical and health care information is constructed and transferred between medical experts, health care providers, educators, researchers, patients and family members who are often not experts but need a thorough understanding of the information to make important health decisions. Throughout the course, we will explore the interactions of current theory and practice in medical communication and the role of writing in the transfer and adoption of new therapies and promising medical research. We will also study how the web and social media alter the way information is constructed, distributed, and consumed. We will examine the ways medical issues can be presented in communication genres including entertainment genres and discuss how communication skills and perceptions about audience can influence clinical research and patient care. Additionally, we will explore clinical trials, grant writing, and press releases, and will feature guest speakers from these fields will discuss their experiences.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students are expected to\nUnderstand the basic concepts of health literacy and the social construction of medical knowledge\nUtilize sound criteria to evaluate the content, design and delivery of medical information\nRecognize the advantages and disadvantages of various information sources\nComprehend the fundamental terms and processes of human research trials, including ethical concerns\nIdentify the components of medical news stories, grant proposals, and press releases\nProduce and present a healthcare communication product or document that meets the needs of its intended audience\nConsider the practical implications and potential outcomes of healthcare communication projects\nDevelop a portfolio of work from the class that can stand alone or be excerpted into a more diverse writing portfolio",
+                                                    "key_topics":  "A survey of some of the forms of writing that can be found within the field of healthcare.\n\n\n\nKeywords/subjects covered:\n\n\n\nmedicine; academic medicine; grant seeking; grant writing; clinical trials; public relations; social media; expressive writing; narrative medicine; medical journalism; professional writing; freelance writing",
+                                                    "prerequisite_knowledge":  "Students must be fluent in written English have completed course prerequisites (or obtained permission of the instructor).\n\n\n\nStudents are expected to be strong writers.\n\n\n\nKnowledge of healthcare and medicine, though helpful, is not necessary for success in this class.",
+                                                    "assessment_structure":  "Assigned smaller writing projects, a large final writing project, and a final presentation",
+                                                    "relevance":  "This course is relevant to students interested in healthcare as a career, either as professional writers seeking entré into the field or to students seeking healthcare profession-related careers (scientists, physicians, or other healthcare team members).",
+                                                    "learning_resources":  "All relevant readings and reference materials will be provided for students via Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

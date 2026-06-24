@@ -1,0 +1,42 @@
+{
+        "code":  "18-487",
+        "name":  "Introduction to Computer Security",
+        "short_name":  "INTRO CMP SCTY",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(18-213 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "18-730",
+                                                    "id":  489,
+                                                    "name":  "Introduction to Computer Security",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Security is becoming one of the core requirements in the design of critical systems. This course will introduce students to the introlevel fundamental knowledge of computer security and applied cryptography. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking and wireless security, and applied cryptography. Students will also learn the fundamental methodology for how to design and analyze security critical systems.  Antirequisites  18631 and 18730",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

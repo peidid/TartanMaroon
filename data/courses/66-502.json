@@ -1,0 +1,37 @@
+{
+        "code":  "66-502",
+        "name":  "Dietrich College Senior Honors Thesis II",
+        "short_name":  "DC SEN HNR THESIS II",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "66-501 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is the second semester of a twosemester sequence that is the culmination of an original, yearlong independent research or creative project.  The course is open only to students who have been approved for entry into the Dietrich College Senior Honors Program. Thesis topics are selected by faculty and students, and reviewed and approved through the senior honors program application process. Dietrich College senior honors students are also required to participate in the annual Meeting of the Minds Undergraduate Research Symposium, offering either an oral presentation or poster session based on their senior honors thesis",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/undergraduate/programs/shp/index.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "79-411",
+        "name":  "Research on Great Islamic Issues According to the Early Sources",
+        "short_name":  "RSRCH ISLAMIC ISSUES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) and ((79-209 [] at least D) or (79-210 [] at least D) or (79-216 [] at least D) or (79-378 [] at least D) or (79-284 [] at least D) or (79-285 [] at least D) or (79-294 [] at least D) or (79-307 [] at least D) or (79-361 [] at least D) or (79-104 [] at least D) or (79-279 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is ONLY offered at Carnegie Mellon in Qatar.  The term Islam suggests centuries of history that embody a creed and a civilization with unity and diversity in its rituals and politics. The Islamic world involves great questions that differentiate Muslims from one another. Examples include the ShiaSunni schism or split that has divided Islamdom since the first decades after the death of the Prophet founder in 632 the tensions between unity and sectarianism that relentlessly explode in Muslim countries the persisting questions of equality and inequality that pertain to gender and race. The works of such historians as Muhammad ibn Ishaq of Medina 704769, who authored an early biography Sirat Rasul Allah, Life of the Messenger of Allah, Muhammad ibn Saad of Basra 764845, who was inspired by Ibn Ishaq, the historian Abu Jafar Muhammad ibn Jarir AlTabari 839923, who authored the multivolume Tarikh alrasul wa al muluk History of the Prophets and Kings,and the 14thcentury eminent thinker, Abu Zayd Muhammad Ibn Khaldun, who wrote the Muqaddimah, an Introduction to History, and numerous contemporary scholars help to elucidate part of the problems. Exploring these texts improves the students grasp of history.  This course will be taught as a proseminar that aims at introducing the literature in the English translation and at raising questions.  It will broaden deepen the appreciation of history by undergraduate students. As a specialized offering reserved for students minoring in history or having successfully completed two courses in history or having the authorization of the instructor.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

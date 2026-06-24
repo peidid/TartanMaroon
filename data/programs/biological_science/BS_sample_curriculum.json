@@ -1,0 +1,257 @@
+[
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "03-151: Honors Modern Biology"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "09-106: Modern Chemistry II"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "09-105: Modern Chemistry I"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "76-101: Interpretation and Argument"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "21-111: Differential Calculus1 (Or 21-120)"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "15-110: Principals of Computing"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "38-101: First Year Seminar: EUREKA"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "21-112: Integral Calculus1  (21-111)"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "76-100: Reading & Writing in Academic Context"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "Bio elective e.g. 03-117 FADS  or 09121"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "99-102: Core@CMU"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "CGU/Non-technical/Free or Bio Elective4"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "09-207: Techniques in Quantitative Analysis"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "QC-211: Introduction to Experimental Organic Chemistry (09-218)"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "09-217: Orgo Chem I"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "09-218: Orgo Chem II"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "03-231: Honors Biochemistry"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "03-220: Genetics"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "21-124: Calculus II for Bio & Chemists (21-112)"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "03-240: Cell Biology"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "03-201: Undergraduate Colloquium"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "03-202: Undergraduate Colloquium"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "CGU/Non-technical/Free Elective/Bio elective"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "38-230: Engage in Wellness I"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "CGU/Non-technical/Free Elective/Bio elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "03-343: Experimental Techniques in Molecular Biology"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "03-344: Experimental Biochemistry"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "03-411: Topics in Research"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "33-122: Physics II"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "03-xxx Biology elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "03-412: Topics in Research"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "CGU/Non-technical/Free Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "02-250: Introduction to Computational Biology"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "33-121: Physics I"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "Third Year Seminar course"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "38-330: Engage in Wellness II"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "38-110: Engage in Service – can be done anytime, but no later than fall Senior year."
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "CGU/Non-technical/Free or Bio Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "CGU/Non-technical/Free or Bio Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "03-xxx Biology elective7"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "03-xxx: Biology elective (e.g. honors thesis)"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "03-3xx: Advanced Biology elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "03-3xx: Advanced Biology elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "Non-technical/Free Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "Non-technical/Free Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "Non-technical/Free Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "Non-technical/Free Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "Non-technical/Free Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "Non-technical/Free Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "38-430: Engage in Wellness III"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "38-220: Engage in Arts – can be done anytime, but not later than fall Senior year."
+  }
+]

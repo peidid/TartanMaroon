@@ -1,0 +1,37 @@
+{
+        "code":  "80-130",
+        "name":  "Introduction to Ethics",
+        "short_name":  "INTRO TO ETHICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Philosophical ethics, or moral philosophy, covers a lot of ground. It asks and tries to answer questions like Whats good in life What matters What should I and others do How should I and others act What kinds of things out there must be treated ethically Do we have moral duties to at least some nonhuman animals Is morality subjective Are there actually any objective moral truths Morally speaking, what if anything is the difference between killing someone, and simply letting them die In trying to answer these questions and others, well engage in some wonderfully weird thought experiments, class discussions, smaller group discussions, debates, etc. Well study and critique several moral theories which try to explain and help guide our moral judgments, and well try to apply these theories to reallife moral controversies. Past classes covered topics including drug prohibition, abortion, euthanasia, and physicianassisted suicide. This is an introductory philosophy class, so youll be learning how to read, critique, do, and write philosophy generally, not just ethics. Considerable time and effort, both in lectures and in recitations, will be spent helping you learn to recognize and evaluate philosophical arguments, as well as empowering you to create, improve, and defend your own arguments in class assignments.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Explaining, and critiquing, the philosophical foundations of different sides taken on a number of pressing ethical issues. Applying moral theories not only to moral controversies discussed in class, but to other morally charged issues as well. Recognizing, reproducing, and critiquing arguments, as well as creating your own philosophical arguments. Producing a good philosophical paper engaging with the theorists, issues, and positions we discuss, thus preparing you to write good papers in other philosophical subjects.",
+                                                    "key_topics":  "Ethics, Moral Philosophy",
+                                                    "prerequisite_knowledge":  "No prior knowledge necessary",
+                                                    "assessment_structure":  "Exams (largely essay in format), papers, regularly assigned small writing assignments, and participation",
+                                                    "relevance":  "Dietrich GenEd prior to 2021: Deciding\nDietrich GenEd after Fall 2021: Disciplinary Perspectives - Humanities\n\nStudents will learn the basics of philosophical ethics.\nFoundation Course in Philosophy for EHPP major.",
+                                                    "learning_resources":  "A textbook will likely be assigned.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

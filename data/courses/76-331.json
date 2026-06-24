@@ -1,0 +1,37 @@
+{
+        "code":  "76-331",
+        "name":  "Dissenters and Believers:  Romantics, Revolution, and Religions",
+        "short_name":  "ROMANTICS REV RELIGN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the relation of Romantic writing to religion in the age of revolutions. We will read a number of Romanticage writersWilliam Blake, S. T. Coleridge, William Wordsworth, Edmund Burke, Monk Lewis, Percy Shelleyin relation to the most orthodox religious modes Anglican, Catholic, Lutheran, and Evangelical and the most heterodoxEnthusiasm, Rational Dissent, Unitarianism, Deism, Pantheism, or atheism. We will also distinguish between religions as formally institutionalized and religiositydefining religiosity as more diffused or displaced feelings, ideas and practices that are often not clearly marked as religious or related to any one institutional religion. Two papers are required.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn how to think about culture and literature in light of religious and political controversies.",
+                                                    "key_topics":  "RELIGIONS\n\nPOLITICS AND REVOLUTION\n\nROMANTIC LITERATURE",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "essays, discussions, short assignments",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "web pages, case studies, texts",
+                                                    "extra_time_commitment":  null
+                                            }
+}

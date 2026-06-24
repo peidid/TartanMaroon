@@ -1,0 +1,37 @@
+{
+        "code":  "73-367",
+        "name":  "AI, Technology, and Work",
+        "short_name":  "AI, TECH, WORK",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(73-240 [] at least D) or (73-230 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of the course is to understand how changes in technology will affect workers in the near future. The course will draw from research in economics and related fields. The emphasis will be both theoretical and quantitative. On the theoretical side, the course will overview recent economic theories of technological change that analyze the changing nature of work and the changing demands for workers abilities. The class will focus on a wide range of technologies both historical and modern, ranging from early forms of automation to advanced robotics, additive manufacturing and AI. On the quantitative side, the course will provide students with handson opportunities for analyzing data. For example, students will use both data on technological adoption and workerlevel data to learn broad lessons on the impact of technology both in the US as well as in other advanced economies. The class will conclude by looking at the set of policies available to governments aimed at easing the transition of technologicallydisplaced workers, for example universal basic income, unemployment and wage insurances, and retraining programs.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Use economic theory and data to understand how changes in technology will affect workers.",
+                                                    "key_topics":  "Techology, AI, labor market, firms.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

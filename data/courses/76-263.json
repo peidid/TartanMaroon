@@ -1,0 +1,37 @@
+{
+        "code":  "76-263",
+        "name":  "Survey of Forms: Playwriting",
+        "short_name":  "SURVEY OF FORMS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to the craft of playwriting. Beginning with an understanding of the basic elements of dramatic action such as  character, conflict, plot, setting and dialogue, students will be given weekly writing prompts both in class and as homework assignments in order to explore each of these elements in their own writing, along with reading and analyzing examples of contemporary dramatic literature.   There will be opportunities to attend local and university productions in order to appreciate how a text is transformed when staged. Student writing will be workshopped in class with the goal of learning how to give and take feedback as well as completing a short play by the end of the semester.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

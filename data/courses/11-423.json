@@ -1,0 +1,37 @@
+{
+        "code":  "11-423",
+        "name":  "ConLanging: Lrng Ling \u0026 Lang Tech via Constru Artif. Lang",
+        "short_name":  "CONLANGING",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Students will work individually or in small groups to create artificial humanoid languages for fictional human cultures or SciFi worlds.  Students will implement language technologies for their languages.  In the course of creating the languages, students will learn about the building blocks of human language such as phones, phonemes, morphemes, and morphosyntactic constructions including their semantics and pragmatics.    Class instruction will focus specifically on variation among human languages so that the students can make conlangs that are not just naively Englishlike.   We will also touch on philosophical issues in philosophy of language and on realworld sociopolitical issues related to language policy.     Students will be required to use at least one of the following technologies  language documentation tools that are used for field linguistics and corpus annotation, automatic speech recognition, speech synthesis, morphological analysis, parsing, or machine translation.       Learning Objectives  1.  The building blocks phonemes, morphemes, etc. of language, how languages are built from them, and how they interact  2.  Metalinguistic awareness and knowledge about variation in human language   3.  Language, thought, and culture  how does language reflect thought and culture, and vice versa.   Why wouldnt Elvish be a good language for Klingons    4.  Language policy in the real world  For students who want to manipulate real languages.  5.  Historical linguistics and language change  for students who want to manipulate real languages or make families of related conlangs for fictional worlds.    6.  Practical experience with a language technology.  httptts.speech.cs.cmu.edu11823",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tts.speech.cs.cmu.edu/11-823",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

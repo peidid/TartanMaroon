@@ -1,0 +1,37 @@
+{
+        "code":  "76-738",
+        "name":  "The American Cinema",
+        "short_name":  "MEDIA/FILM STUDIES",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will focus on the American film industry during the 1970s and into the early 1980s. When Steven Spielbergs Jaws, understood as the first American blockbuster, was released in 1975 it radically changed the global distribution and marketing of film. Spielbergs film  like many blockbusters after it  was a mix of transgressive cinematic genres, advanced filmmaking techniques, and classical Hollywood narrative and form. While this class is focused on a national cinema our approach to the blockbuster will attend to this mix, which is the product of transnational and transhistorical economic and aesthetic forces. To that end we will screen films from Hollywoods Golden Age, other national cinemas, as well as genres associated with grindhouse and the avantgarde film.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

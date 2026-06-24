@@ -1,0 +1,37 @@
+{
+        "code":  "70-401",
+        "name":  "Management Game",
+        "short_name":  "MANAGEMENT GAME",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(70-122 [] at least D) and (70-391 [] at least D) and (70-381 [] at least D) and (70-371 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to integrate the managerial concepts and techniques studied earlier in the curriculum and to focus on elements of organizational structure and behavior. Student teams assume the role of top management of firms competing in an international economy simulated by the Carnegie Mellon University Management Game. Each team is responsible to a Board of Directors comprised of alumni of the MBA program and business masters students. Emphasis is placed on the development and implementation of sound organizational decision structures as well as the formulation of effective competitive strategies. The course is reserved for senioryear business majors and additional majors. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understand how business owners think and process manage a team of highpotential people solve unstructured dynamic problems deliver persuasive business presentations formulate a strategy for a complex business implement a strategy for a complex business learn to use the aspects learned in earlier classes in an integrated fashion to improve decision making in an organizational context.",
+                                                    "key_topics":  "Applied strategy formulation and implementation, general management, team decision making.",
+                                                    "prerequisite_knowledge":  "The core courses in the BA program form the prerequisite knowledge.",
+                                                    "assessment_structure":  "35% three oral exam-like evaluations; 35% the financial performance of the simulated company;15% peer assessments (3); 15% negotiated compensation for achieving agreed goals.",
+                                                    "relevance":  "The course is intended to give students the general manager\u0027s perspective; give them a leadership laboratory in which they can test and develop their team leadership skills; show how different areas of a business work together to create value; develop the skills needed to manage unstructured dynamic problems.",
+                                                    "learning_resources":  "The main learning tool is a computer simulation in which teams of students will compete with the goal of creating value for their owners. Each team will have a non-overlapping board of directors acting as a resource to guide the team.",
+                                                    "extra_time_commitment":  "There are frequent substantial out of class activities involving meetings with teammates, board members, and their professor. There are frequent assignments due evenings and weekends involving a high level of coordinated input from team members. This course is remote-only for Fall 2021 for ALL students"
+                                            }
+}

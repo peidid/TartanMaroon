@@ -1,0 +1,37 @@
+{
+        "code":  "85-370",
+        "name":  "Cognitive Neuroscience Research Methods",
+        "short_name":  "COG NEURO RM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is a handson laboratory course designed to foster basic skills in the empirical approaches used in cognitive neuroscience research. Students will learn how to evaluate which cognitive neuroscience method is best suited to a research question, basic experimental design and analysis, and how to formally present empirical results. The course will focus on functional MRI, but will also cover structural MRI diffusion imaging and EEG, and survey various other methods. Students will work with actual datasets using the current software used by cognitive neuroscience researchers.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "The course will focus on functional MRI, but will also cover structural MRI (diffusion imaging) and EEG, and survey various other methods.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "73-265",
+        "name":  "Economics and Data Science",
+        "short_name":  "ECON \u0026 DATA SCIENCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((15-259 [] at least D) or (36-247 [] at least D) or (36-225 [] at least D) or (21-325 [] at least D) or (36-200 [] at least D) or (70-207 [] at least D) or (36-201 [] at least D) or (36-202 [] at least D) or (36-207 [] at least D) or (36-217 [] at least D) or (36-218 [] at least D) or (36-219 [] at least D) or (36-220 [] at least D)) and ((73-102 [] at least D) or (73-104 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is at the intersection of economic analysis, computing and statistics. It develops foundational skills in these areas and provides students with handson experience in identifying, analyzing and solving realworld data challenges in economics and business. Students will learn the basics of database and data manipulation, how to visualize, present and interpret data related to economic and business activity by employing statistics and statistical analysis, machine learning, visualization techniques. Students will also be taught a programming language suitable for data scienceanalysis. Databases will include leading economic indicators emerging market country indicators bond and equity returns exchange rates stock options education and income by zip code sales data innovation diffusion experimental and survey data and many others. Applications will include analyzing the effectiveness of different Internet pricing strategies on firm sales, the impact of taking online classes on a workers earnings, the relationship between regional employment and trade policies constructing investment risk indices for emerging markets predicting employee productivity with machine learning tools assessing health sleep and exercise improvements associated with wearable technologies e.g. FitBit. Additionally, the course will provide students with communication skills to effectively describe their findings for technical and nontechnical audiences. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able to Develop competence in the statistical programming language R Develop competence in visualizing data and analyses Learn about various statistical methods used in economic analysis Develop communication skills to effectively describe their findings for technical and nontechnical audiences.",
+                                                    "key_topics":  "Visualizing Data; Working in R; Data Wrangling; Regression; Diagnostics and Inference",
+                                                    "prerequisite_knowledge":  "Univariate calculus; Introductory microeconomic knowledge (theory of the firm, consumer theory, game theory); Introductory data analytics (simple and multiple regression, analysis of variance methods and logistic regression)",
+                                                    "assessment_structure":  "Subject to change: participation, problem sets, visualization challenge, analysis presentation, final project, and quizzes",
+                                                    "relevance":  "This course is for students interested in the foundational skills in economic analysis, computing, and statistics. The course provides students with hands-on experience in identifying, analyzing, and using data to solve real-world problems in economics and business.",
+                                                    "learning_resources":  "Weekly office hours, lecture slides, lecture notes, Piazza, and texts/articles (made available on the course webpage).",
+                                                    "extra_time_commitment":  "During F21, 73-265 Lectures 1 and 2 will only be offered remotely. Remote recitation section B available by special permission only."
+                                            }
+}

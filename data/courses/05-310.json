@@ -1,0 +1,37 @@
+{
+        "code":  "05-310",
+        "name":  "User-Centered Research and Evaluation",
+        "short_name":  "USER-CENT RESEARCH",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides students with an overview of core user experience UX and humancomputer interaction HCI research methods. Leveraging designthinking processes, you will learn to plan and implement a mixedmethods approach for collecting information from users including observational methodologies involving fieldwork, interview techniques designed to elicit needs and motivations, and quantitative data from systems and users. You will learn to analyze quantitative and qualitative data in order to derive insights about participants behaviors, motivations, and unmet needs and then synthesize insights and envision new systems that fulfill these needs. Additionally, you will design and develop artifacts including conceptual designs or prototypes, as well as conduct evaluative research methods such as ThinkAloud Protocol or Experience Prototyping in order to assess conceptual or existing systems. The course culminates in a final presentation through which students learn to communicate research findings and insights to multiple stakeholders from executives to development team members.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

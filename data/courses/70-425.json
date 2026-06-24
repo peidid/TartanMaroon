@@ -1,0 +1,37 @@
+{
+        "code":  "70-425",
+        "name":  "Entrepreneurship for the Creative Industries",
+        "short_name":  "ENTRPRSHP CRTV INDSR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is an introductory course designed primarily for undergraduates in the College of Fine Arts who want to create new businesses, products, services, or thriving careers as independent artists. Students can expect to develop an entrepreneurial mindset, learn how creative firms and industries are structured, and build practical skills for finding, evaluating and putting entrepreneurial opportunities into action. We will analyze real world examples, forprofit and notforprofit, from film, art, architecture, fashion, music, media, theater, retail, and design. The class will explore the core functional areas critical to building entrepreneurial entities, including teams, ideation, marketing and sales, financial analysis, and funding. Interdisciplinary teams will generate ideas and explore their potential as viable businesses or sustainable notforprofits.  Lectures, guest speakers, case studies, and exercises will also be integrated.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

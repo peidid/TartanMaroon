@@ -1,0 +1,37 @@
+{
+        "code":  "66-122",
+        "name":  "DC Grand Challenge First-Year Seminar: Beyond Earth",
+        "short_name":  "DC FIRST-YR SEMINAR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The aim in the course is to foster in students a planetary perspective, to see Earth in its context of the cosmos and to see humans in their relation to real or possible forms of life in the universe. The obsession with outer space is found among scientists, business people and politicians, in deed and story, in film and even computer games. If we are to fully appreciate the potentials of space, we must also consider the search for intelligent life in its scientific and societal aspects, and investigate how we could adapt our systems of communication to reach species across distances that may be physically insurmountable. This interdisciplinary course will be taught by scholars from distinct cultural and linguistic backgrounds. Course materials will be taken from scientific literature, the history of science, and science fiction. We will explore scientific writing and reasoning, the space race between global powers, space travel and colonization, and the promise and pitfalls of interspecies and interspace communication. A planetary perspective, once achieved, can change the way one sees other inhabitants of this planet  as partners in survival in a universe which sets enormous odds against it, or as unwelcome intruders grasping for scant resources within this thin epidermis of soil, air, and water which surrounds Earth and makes our lives possible.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Basic verbal and written communication practice basic introduction to interdisciplinary perspectives basic introduction to collaboration and teamwork.",
+                                                    "key_topics":  "Grand Challenge Interdisciplinary First-Year Seminars in Dietrich College are courses that explore a pervasive societal problem with first-year students. These courses are often taught by interdisciplinary faculty teams, and occasionally by individual instructors with guest faculty from different disciplines. Faculty teams attend to topics ranging from social and economic inequality to racism to artificial intelligence to food production through a variety of disciplinary lenses, exposing students to the methods and forms of argumentation in respective disciplines. These courses often include field trips, guest speakers and community building activities in the college and in collaboration with other colleges at CMU. Students build relationships with their faculty team and classmates through collaborative inquiry on socially salient topics and practice communication skills.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Students will be expected to read, write and participate in group seminar conversations.",
+                                                    "relevance":  "Students will engage in collaborative framing of a societal problem. They will also gain exposure to a variety of disciplines and their respective approaches to analyzing and proposing possible solutions to the topics presented.",
+                                                    "learning_resources":  "Learning resources will vary from one seminar to the next but will incorporate texts, visual materials, data sets, etc.",
+                                                    "extra_time_commitment":  "Supplemental field trips and guest lectures in addition to class time."
+                                            }
+}

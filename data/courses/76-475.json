@@ -1,0 +1,37 @@
+{
+        "code":  "76-475",
+        "name":  "Law, Performance, and Identity",
+        "short_name":  "LAW PERFORM \u0026 IDENT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Although rhetoric and law have long been closely associated, the modern professionalization of law has often promoted the idea that legal discourse is not rhetorical but a rigorously defined technical discourse that can be applied free of social, cultural, or political considerations. This view of legal discourse is disputed by critics who point out the figurative aspects of legal language, the relevance of character, emotion, and narrative in legal communication, and the ways in which law protects social structures of power such as race, class, and gender privilege. The course broadly examines the fraught relationship between rhetoric and law by considering the ways in which a variety of legal discourses serve to construct and reinforce identities, with a particular focus on the ways in which legal systems are portrayed to reflect the ideals of democracy to suit particular foreign relations goals. We begin by studying the ways in which Cold War foreign policy goals influenced desegregation and civil rights discourse in the United States, then we turn to the ways in which the prosecutions of deposed authoritarian rulers in various regions of the globe have been orchestrated to persuade global audiences that emerging democracies observe the rule of law for purposes of garnering international support. Alongside primary sources of legal discourse, we will study a selection of interdisciplinary scholarship about the relationship between rhetoric and law. Students write a twostage research paper on a topic of their choosing regarding the relationship between legal discourse and the construction of identity. Please note Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Identify and evaluate major theories of classical speech genres in the Europeanrhetorical tradition identify and analyze the performative and pedagogical properties of legal discourse produce and support a rhetorical analysis of the relationship between identity and the performative or pedagogical qualities of particular artifacts of legal discourse and develop skills of critical analysis, research, and writing",
+                                                    "key_topics":  "The course broadly examines the relationship between rhetoric and law by considering the ways in which a variety of legal discourses serve to construct and reinforce identities, with a particular focus on the ways in which legal systems are portrayed to reflect the ideals of democracy to suit particular foreign relations goals.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Perusall annotations to readings and replies to annotations; one oral presentation of a case study in class; a paper combining rhetorical analysis and engagement with scholarship regarding the rhetoric of law, preceded by an abstract and narrative bibliography outlining the paper; an oral presentation of the final paper; a short take-home final examination; and attendance and participation",
+                                                    "relevance":  "The course is particularly relevant to students interested in rhetoric, law, identity, and global studies.",
+                                                    "learning_resources":  "Varies",
+                                                    "extra_time_commitment":  "Only the reading and writing assignments"
+                                            }
+}

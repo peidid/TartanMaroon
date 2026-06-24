@@ -1,0 +1,37 @@
+{
+        "code":  "76-863",
+        "name":  "Contemporary Rhetorical Theory",
+        "short_name":  "CNTMPRY RHETRCL THRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course offers an introduction to various contemporary theorists whose works are frequently studied and employed by scholars in our field, as well as a systematic and historically informed study of how rhetorical inquiry frames research questions and devises a conceptual course of study. Among the issues we will want to tackle are a the demise of rhetoric and its subsequent contemporary revival, with the role played by modernity and postmodernity in this process b the relation between contemporary rhetorical theory and its tradition c rhetoric as a theory of verbal action. The foci of the course will be major figures in the field, as well as more controversial representatives of contemporary rhetorical theory. Students will write three papers a review of the main journals in the field, a research proposal, and a research paper addressing a question of significant relevance for rhetoricians on the contemporary arena.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course wll introduce students to the key theories, concepts, and debates in the field of rhetoric.",
+                                                    "key_topics":  "political action; power; solidarity; change",
+                                                    "prerequisite_knowledge":  "No prior knowledge necessary but an ability to read complex theoretical texts is strongly recommended.",
+                                                    "assessment_structure":  "journal analysis; research proposal; research paper",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "All readings will be available in Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

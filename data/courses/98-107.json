@@ -1,0 +1,37 @@
+{
+        "code":  "98-107",
+        "name":  "Student Taught Courses (StuCo): Coffeeology - Just What Are You Drinking",
+        "short_name":  "STUCO: COFFEEOLOGY",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Even though coffee is probably many students favorite goto source of caffeine, how much do they really know about what is going on behind the cup Where is their coffee coming from, how is it produced, and is that blend of coffee they swear by really the best one This course is designed to help students answer these questions and more about coffee. There will be a 35 fee to cover the cost of the coffee tastings.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "cmu.edu/stuco",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

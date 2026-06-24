@@ -1,0 +1,54 @@
+{
+        "code":  "19-365",
+        "name":  "Water Technology Innovation and Policy",
+        "short_name":  "WATER TECH INV \u0026 POL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(06-100 [] at least D) or (12-100 [] at least D) or (19-201 [] at least D) or (19-101 [] at least D)"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "27-216",
+                                                "id":  6142,
+                                                "name":  "Transport in Materials",
+                                                "units":  9.0
+                                        },
+                                        {
+                                                "code":  "06-323",
+                                                "id":  6620,
+                                                "name":  "Heat and Mass Transfer",
+                                                "units":  9.0
+                                        },
+                                        {
+                                                "code":  "24-322",
+                                                "id":  6973,
+                                                "name":  "Heat Transfer",
+                                                "units":  10.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Innovation in water technologies is necessary to confront profound water resource challenges facing countries around the world. Students successfully completing this course will be able to discuss the factors and conditions that drive innovation in the water sector. Students will begin by describing and classifying the historical drivers for innovation in water treatment, including technical, economic, and regulatory drivers. After an introduction to the fundamental principles of water treatment technologies, students will identify present day technology shortcomings and distill these into discrete design objectives. Students will then formulate and answer quantitative and qualitative questions that respond to these design objectives by leveraging their knowledge of engineering fundamentals, regulatory tools, and pricing policies. Comparing their own solutions with those proposed in the peerreviewed academic literature in engineering and the social sciences, students will evaluate the technical feasibility, usability, and social desirability of proposed water innovations in developed and developing countries and summarize their findings in policy briefs.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

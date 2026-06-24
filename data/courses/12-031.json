@@ -1,0 +1,37 @@
+{
+        "code":  "12-031",
+        "name":  "IDeATe, Special Topics:Sustainability in the Textile and Fashion Industry",
+        "short_name":  "IDEAT ST: SUST TXT",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This interdisciplinary course provides an overview of sustainability in the textile and fashion industry. The course functions both an introduction to the textile and fashion industry for a general audience, as well as a critical introduction to historical context thinking environmental, social and economic impacts and quantitative analysis in understanding impacts over textile and fashion life cycle processes. These life cycle processes are relevant to all practitioners who use materials or are interested in textiles and fashion. The structure of the course will include slide lectures, readings, discussions, and group projects to engage analysis to support design and creation within sustainable textile and fashion industry. The course will begin by introducing students to basic concepts of sustainability, processes in the textile and fashion industry and a method to quantify environmental and economic impacts. Then, students will apply the knowledge they learn from the class to a series of group research projects that quantitatively and qualitatively evaluate the sustainability of textile products. Emphasis is on both quantitative and qualitative analysis of sustainability. Example software such as spreadsheets and Life Cycle Assessment programs are used in assignments.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

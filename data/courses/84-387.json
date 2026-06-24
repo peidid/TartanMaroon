@@ -1,0 +1,37 @@
+{
+        "code":  "84-387",
+        "name":  "Remote Systems and the Cyber Domain in Conflict",
+        "short_name":  "REMOTE SYSTEMS CYBER",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "For most of human history, warfare took place facetoface or in close proximity using weapons like rocks, swords, spears, bow and arrows, and firearms. The development of technologies like missiles, drones,  the internet have changed the character of warfare by enabling actors to use lethal force  cause disruption thousands of miles away from the battlefield. Technological advancements have arguably even led to the creation of an entirely humanmade domain of warfare the cyber domain that is distinct from the land, sea, air  space domains. This course will analyze the impact of drones  the cyber domain on international conflict. We will study the historical origins of these technologies, why  how they have spread, their use  effectiveness on the battlefield, ethical questions surrounding their use,  whether arms control is possible. How is the information revolution in computing similar  different from prior revolutions in military affairs Are drones and the cyber domain transforming conflict by giving the offense a significant advantage over the defense, or is their offensive and destructive potential exaggerated Is coercion possible in cyberspace, or does the attribution problem impede deterrence Might drones actually reduce the risks of escalation in interstate conflict by removing the desire for revenge if a pilot is killed How has the internet been weaponized to enable economic warfare and election interference Might cyber espionage undermine the United States military advantage, and should the US ban TikTok Do drones decrease or increase terrorism Is remote warfare  the use of lethal autonomous weapons systems sometimes referred to as killer robots inherently unethical These are just a handful of the questions we will explore in this class. By the end of the course, students will have a grasp of the history of the information revolution  many of the key debates  theories in this field.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Articulate key debates and questions related to the role of remote systems and cyber tools in the domain of international conflict and make a reasoned argument for one side of a debate or another. 2. Analyze key policy questions related to remote systems and the cyber domain in international conflict and make specific, implementable policy recommendations based on a reasoned consideration of the medium and longterm historical dynamics associated with an issue.3. Explain the historical development of the technologies underlying remote systems and the cyber domain in conflict, as well as how they have been used.4. Describe alternate perspectives on whether arms control is possible, the ethics of conducting warfare from a distance, etc. and formulate personal viewpoints.5. Apply political science theories to explain the factors that impact the spread of these technologies 6. Evaluate the effectiveness of these technologies and the scale of their impact on international politics 7.Hone writing, research, speaking, and analytical skills that are valuable for any career.",
+                                                    "key_topics":  "Cybersecurity, National Security, information-age conflict, internet technology, drones, missiles",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "The key things students will be graded on include in-class participation, semi-regular reading quizzes, an in-class presentation, a written policy memo, and a final (take-home) essay",
+                                                    "relevance":  "DC GenEd: Contextual Thinking\n\nFrom the ubiquitous use of drones by the United States to combat terrorism and in the Russia-Ukraine War to the emergence of cyber as a new domain in warfare akin to the air, land, or sea domain, the topics we will discuss in this class are of immense relevance to international politics in the current age. Students that take this course will be better able to assess the advantages, limitations, and risks that various technologies pose to international security, as well as understand key foreign policy debates happening in Washington and around the world.",
+                                                    "learning_resources":  "All readings for class will be made available for free to students on Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

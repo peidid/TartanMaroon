@@ -1,0 +1,37 @@
+{
+        "code":  "76-365",
+        "name":  "Beginning Poetry Workshop",
+        "short_name":  "BEG POETRY WKSHP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((76-102 [] at least D) or (76-101 [] at least D) or (76-106 [] at least D) or (76-107 [] at least D) or (76-108 [] at least D)) and (76-265 [] at least B)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this workshop, well explore the building blocks of poetry, as participants develop their eye and ear as poetry readers, and practice different poetic techniques in their writing. Students will read the work of contemporary poets,  attend poetry readings, respond to writing prompts, and read and respond to each others work. Through our reading, discussions, and creative exercises, well examine the role of line, line break, shape, sound, silence, rhythm and form in poetry, with an eye toward how craft choices communicate on the page and how they reflect the world of the poet.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course will help students learn the language of poetic craft and critique, help with creative selfexpression, and deepen critical reading and creative and critical thinking skills.",
+                                                    "key_topics":  "readings in contemporary poetry and short craft essays, examination of craft techniques, group workshop, class discussions",
+                                                    "prerequisite_knowledge":  "Students should have taken 76265 Introduction to Writing Poetry (formerly titled 76265 Survey of Forms: Poetry) or have a background in studying poetry with a knowledge of basic poetic concepts",
+                                                    "assessment_structure":  "Creative writing assignments, class participation, writing portfolio.",
+                                                    "relevance":  "Students interested in creative writing will have a chance to develop their craft while learning about poetic techniques and critique.",
+                                                    "learning_resources":  "Readings will be provided through Canvas",
+                                                    "extra_time_commitment":  "There will be 1-2 poetry readings outside of class time that students will be required to attend"
+                                            }
+}

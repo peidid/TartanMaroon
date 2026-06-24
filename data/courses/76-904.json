@@ -1,0 +1,37 @@
+{
+        "code":  "76-904",
+        "name":  "ESL Practicum I",
+        "short_name":  "ESL PRACTICUM I",
+        "units":  3.0,
+        "min_units":  0.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Teaching writing to multilingual students poses a distinct set of challenges. This practicum offers firsttime instructors of 76100 a forum to discuss the course and its assignments. It will also present a range of teaching, feedback, and grading techniques to help instructors discover their own best classroom practices and address issues that multilingual writers face. Topics covered will include error correction, peer review, scaffolding, and designing class materials and rubrics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

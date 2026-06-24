@@ -1,0 +1,42 @@
+{
+        "code":  "33-152",
+        "name":  "Matter and Interactions II",
+        "short_name":  "MATTER \u0026 INTER II",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((33-151 [] at least D) and (21-122 [] at least D)) or ((21-122 [] at least D) and (33-131 [] at least D))"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-259",
+                                                "id":  442,
+                                                "name":  "Calculus in Three Dimensions",
+                                                "units":  10.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "A more challenging alternative to 33142, Physics II for Engineering and Physics Students. There is an emphasis on atomiclevel description and analysis of matter and its electric and magnetic interactions.  Topics include Coulombs law, polarization, electric field, plasmas, field of charge distributions, microscopic analysis of resistor and capacitor circuits, potential, macroscopic analysis of circuits, Gauss law, magnetic field, atomic model of magnetism, Amperes law, magnetic force, relativistic issues, magnetic induction with emphasis on nonCoulomb electric field, Maxwells equations, electromagnetic radiation including its production and its effects on matter, reradiation, interference.  There will also be computer modeling, visualization and desktop experiments.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The students will learn to study, both qualitatively and quantitatively, electrical and magnetic phenomena, waves, nature of light, and instruments using electricity and magnetism.",
+                                                    "key_topics":  "This course covers introductory topics in electricity and magnetism.",
+                                                    "prerequisite_knowledge":  "Knowledge of mechanics is needed. Knowledge of calculus is required. 21-259 is a co-requisite.",
+                                                    "assessment_structure":  "Homework, quizzes, exams.",
+                                                    "relevance":  "The students will learn to study, both qualitatively and quantitatively, electrical and magnetic phenomena, waves, nature of light, and instruments using electricity and magnetism.",
+                                                    "learning_resources":  "Textbook, online resources.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

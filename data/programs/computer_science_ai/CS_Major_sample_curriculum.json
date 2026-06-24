@@ -1,0 +1,207 @@
+[
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "15-112: Fundamentals of Programming and Computer Science"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "07-129: Freshmen Immigration Course"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "21-120: Differential and Integral Calculus"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "21-108: Introduction to Mathematical Concepts"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "76-100: Reading and Writing in an Academic Context"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "99-101: Computing@Carnegie Mellon"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "15-122: Principles of Imperative Computation"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "21-122: Integration and Approximation"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "21-127: Concepts of Mathematics"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "76-101: Interpretation and Argument"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: Science Elective"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "15-150: Principles of Functional Programming"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "21-241: Matrices and Linear Transformations"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "76-270: Writing for the Professions"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "15-XXX: CS Elective"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: Science Elective"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "15-210: Parallel and Sequential Data Structures and Algorithms"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "15-251: Great Theoretical Ideas in Computer Science"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "36-218: Probability Theory for Computer Scientists"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: General Education Elective"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: General Education Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "15-451: Algorithm Design and Analysis"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "15-213: Introduction to Computer Systems"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "21-259: Calculus in Three Dimensions"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: Science Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: Minor / Concentration Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "15-XXX: CS Constrained Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "15-XXX: CS Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: General Education Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: Minor / Concentration Elective"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: Minor / Concentration Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "15-XXX: CS Constrained Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: Minor / Concentration Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: Minor / Concentration Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: Science Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: General Education Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "15-XXX: CS Constrained Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "15-XXX: CS Constrained Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: Minor / Concentration Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: Minor / Concentration Elective"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: General Education Elective"
+  }
+]

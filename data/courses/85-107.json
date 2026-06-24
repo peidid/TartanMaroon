@@ -1,0 +1,37 @@
+{
+        "code":  "85-107",
+        "name":  "The Psychology of Video Games",
+        "short_name":  "PSYCH OF VIDEO GAMES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will explore how the features of video game design and use relate to characteristics of human psychology.  We will discuss design and use issues such as microtransactions, online gaming communities, and rewardscoring, and try to understand how these features are or are not well suited to the human mind, with a particular focus on learning, memory, attention, and perception.  Student presence will sometimes be required but many course sessions will be asynchronous.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students should finish this course with an understanding of how aspects of video game design are suited or not to human cognition, and how human cognition can be shaped by experience with video games.",
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "No prior knowledge necessary... although it\u0027s probably helpful to have played at least one video game at some point in your life.",
+                                                    "assessment_structure":  "Assignments, projects, and exams",
+                                                    "relevance":  "Students will finish this course understanding more about two important features of the world: video games, and human minds. Students with an interest in either of these domains will gain knowledge that will help them use these tools more effectively in the future.",
+                                                    "learning_resources":  "Multiple webpages, including some sample video games!",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "79-230",
+        "name":  "The Arab-Israeli Conflict and Peace Process Through 1948 to Present",
+        "short_name":  "ARAB-ISRAELI THR1948",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The course begins with the origins of both Zionism as an intellectual, European movement and of Arab and then Palestinian Arab claims for sovereignty in the early 20th century. The course interrogates not only the histories of ideologies that led to revolution and violence in the modern history of Palestine and Palestinians and of Zionism and Israel, but also the very notions of conflict and peace. It examines ideas of state and nation as well as practices of Ottoman and then British imperialism and Zionist settler colonialism in the territory that became Palestine, then Eretz Israel, and now Israel and the occupied Palestinian territories. Throughout the semester, students will explore how these ideas and practices are linked to the development of violence, armed struggle and a myriad of nationalist and religiousnationalist ideologies as they came to be understood by Palestinian Arabs, Zionist settlers, Palestinian citizens of Israel, Islamists, and Israeli religiousnational groups. Students are tasked with considering the historical social, political, cultural, and religious implications of these discourses and practices. We will make use of documentary and other primary sources and texts, including poems, excerpts from literature, memoirs, film footage, posters, and other forms of media. By the end of the semester, students will be able to analyze and discuss the historical significance of the multifaceted ideologies and motivations held by actors involved in the armed struggle movements in Palestine and Israel, and the shifting nature of nationalisms as dependent upon locations, time periods, and understandings of history and politics. This course meets the Dietrich Gen Ed Intercultural and Global Inquiry requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will identify the historical origins of contemporary revolts, violence, conflict, and war, as well as chart the changing demographics of Palestine and later, Israel. They will be able to analyze the historical significance of multifaceted ideologies and motivations to the historical actors involved in the armed struggle movements in Palestine and Israel, and the shifting nature of nationalisms and sociopolitical movements as dependent upon particular locations, time periods, and understandings of history and politics. Students will be able to engage critically with readings, draw upon theoretical frameworks, and understand a plurality of historiographical debates. This will ensure they have the skills and knowledge to articulate, in writing and in discussions, wideranging reflections upon the meaningful reasons for and the implications of ideologies and their link to armed struggle and violence.",
+                                                    "key_topics":  "The class is generally chronological but also theoretical and thematic. Within each weekly topic, we will focus on discourses and active practices of national identity, colonialism and anti-colonialism, and armed struggle, and the implications of these on notions of conflict/peace over the course of a century.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Primary source document analysis, material culture/object analysis, a written essay, and participation in in-class discussions.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Intercultural and Global Inquiry\n\nStudents will understand and be able to critically respond to and explore the backgrounds, issues, personalities, and forces contributing to events in Palestine, Israel, and the wider Middle East in the contemporary era.",
+                                                    "learning_resources":  "There is no set text, but readings will include excerpts of textbooks/monographs/edited volumes, and academic articles and essays alongside documentaries, primary source documents and objects. All learning resources will be posted on Canvas and/or available through the CMU library or open-access online.",
+                                                    "extra_time_commitment":  "Students are encouraged, but not obliged, to attend university-sponsored events and external/internal speakers on the histories and current realities in Palestine/Israel both at CMU and the University of Pittsburgh."
+                                            }
+}

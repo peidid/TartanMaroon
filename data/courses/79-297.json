@@ -1,0 +1,37 @@
+{
+        "code":  "79-297",
+        "name":  "Technology and Work",
+        "short_name":  "TECHNOLOGY AND WORK",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In recent years, conversations about the relationship between technology and work seem to have been conducted with particular fervor claims of revolutionary ease and freedom sit sidebyside with dystopian visions of exploitation, surveillance, and alienation. Will technological development lead to a new sharing economy or widespread deskilling Will it bring general prosperity or enrich the few at the expense of the many  These concerns  though especially apparent today  are by no means new.  In this course, we will examine their history, focusing in particular on North America and Europe in the past two centuries. We will examine the ways in which new technologies  from the assembly line to the washing machine to the personal computer  transformed what it meant to work, and how workers, their families, and the companies who employed them reacted to these changes. Our historical actors will include famous figures like Henry Ford, but also unnamed women, children, people with disabilities, and racial and ethnic minorities. Throughout, we will pay attention to who benefitted, who was harmed, and what broader economic, cultural, or social purposes these technologies were designed to serve.  This course fulfills Dietrich Colleges Contextual Thinking general education requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "At the conclusion of the course, students should be able to draw on knowledge about historical case studies to critically evaluate contemporary discourse about technology and work.",
+                                                    "key_topics":  "This course will examine the history of the relationship between technology and work, focusing in particular on North America and Europe in the past two centuries. We will examine the ways in which new technologies - from the assembly line to the washing\nmachine to the personal computer - transformed what it meant to work, and how workers, their families, and the companies who employed them reacted to these changes. We will pay attention to who benefited, who was harmed, and what broader economic, cultural, or social purposes these technologies were designed to serve.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "There will be daily reading, weekly responses, in-class discussion, and three papers.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Contextual Thinking\n\nAll students will develop skills in historical reading, writing, and analysis, and will benefit from from the course\u0027s contextualization of contemporary problems. For history majors, directed writing assignments will prepare them for advanced work in other courses.",
+                                                    "learning_resources":  "Students will read and discuss both primary and secondary historical texts.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

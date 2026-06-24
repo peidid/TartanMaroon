@@ -1,0 +1,37 @@
+{
+        "code":  "33-115",
+        "name":  "Physics for Future Presidents",
+        "short_name":  "PHYC FTR PRESIDENTS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Countless topics of social and political importance are intimately related to science in general and physics in particular. Examples include energy production, global warming, radioactivity, terrorism, and space travel. This course aims to provide key bits of knowledge based on which such issues can be discussed in a meaningful way, i.e., on the level of arguments and not just vague beliefs. We will cover an unusually wide range of topics, including energy, heat, gravity, atoms, radioactivity, chain reactions, electricity, magnetism, waves, light, weather, and climate. The course is open for all students at CMU.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The students will gain an enhanced understanding of a very wide range of things in nature from the largest to the smallest. Using this knowledge, students will be able to make informed decisions relating to science and technology in modern society.",
+                                                    "key_topics":  "This course covers the physics behind numerous natural phenomena and the science and technologies created by the humans.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is required.",
+                                                    "assessment_structure":  "Homework, quizzes, exams, project, presentation.",
+                                                    "relevance":  "Students will learn about a range of scientific topics and concepts, and how they relate to modern technology and society.",
+                                                    "learning_resources":  "Textbook, newspaper and magazine articles, online sources of knowledge.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

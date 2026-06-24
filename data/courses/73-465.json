@@ -1,0 +1,37 @@
+{
+        "code":  "73-465",
+        "name":  "Technology Strategy",
+        "short_name":  "TECHNOLOGY STRATEGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about business strategy for technologyintensive industries.   Examples of such industries are computer hardware and software, media and entertainment, telecommunications and ecommerce. We will explore the unique economic circumstances facing firms in these industries and identify strategies that enable firms to succeed given these circumstances. You will learn to analyze pricing strategies including versioning and bundling product standardization decisions managing product complements exploiting network effects managing platform competition.  This course will help you understand the unique economic characteristics seen in todays technologyintensive markets and how they impact the strategic interactions among firms and consumers. We will study, for example Why firms in the IT industry give away their best products for free. Why makers of video gaming consoles subsidize end users but tax game developers while computer operating system makers subsidize software developers but overcharge end users. Why Sony won the BluRay format war against HDDVD which was sponsored by a whole array of companies. In order to understand how firms strategically interact with consumers in technologyintensive industries this course will use a combination of simple but rigorous analytical models, emerging theories, and formal case studies.  Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

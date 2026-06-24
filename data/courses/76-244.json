@@ -1,0 +1,37 @@
+{
+        "code":  "76-244",
+        "name":  "Immigrant Fictions",
+        "short_name":  "IMMIGRANT FICTIONS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Contemporary writers offer vibrant portrayals of questions around identity and belonging that accompany migration and immigration to the United States.  Their works show how displaced people and their children reinvent themselves, even as they look back to other homelands.  This contemporary literature course combines fiction, poetry, drama and scholarly nonfiction readings to examine the experiences of the transnational movement of people to the United States, including international students, refugees, and documented and undocumented migrants and their families.  We will consider not only the experience of personal migration, but also the global social, economic and political processes that structure that movement.  Possible fiction readings draws from Asian American studies, Latinx studies, and African American studies, and might include Jhumpa Lahiri, Valerie Luiselli, Chimamanda Adichie, Christina Garcia, Juno Daz, Lisa Ko, Cathy Park Hong, and Edwidge Danticat.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "familiarity with ethnic American literature, experience analyzing, discussing and writing about literature",
+                                                    "key_topics":  "Contemporary writers offer vibrant portrayals of questions around identity and belonging that accompany migration and immigration to the United States. Their works show how displaced people and their children reinvent themselves, even as they look back to other homelands. This contemporary literature course combines fiction, poetry, drama and scholarly non-fiction readings to examine the experiences of the transnational movement of people to the United States, including international students, refugees, and documented and undocumented migrants and their families. We will consider not only the experience of personal migration, but also the global social, economic and political processes that structure that movement. Possible fiction readings draws from Asian American studies, Latinx studies, and African American studies, and might include Jhumpa Lahiri, Valerie Luiselli, Chimamanda Adichie, Christina Garcia, Juno Díaz, Lisa Ko, Cathy Park Hong, and Edwidge Danticat.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "regular responses, presentation, literary interpretation papers",
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

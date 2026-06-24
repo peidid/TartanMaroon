@@ -1,0 +1,37 @@
+{
+        "code":  "70-373",
+        "name":  "Sustainable Operations",
+        "short_name":  "SUST OPS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-100 [] at least D) or (70-106 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores and defines sustainability in general, and sustainable operations in particular. The course investigates how companies can evaluate and implement sustainability measures, and different motivations for firms to engage or invest in sustainable efforts. Sustainable operations is approached from the value chain perspective, by identifying opportunities for sustainable actions and policies at different phases in the product life cycle. These phases range from research and development to the point where products are discarded by the consumer, for potential reuse or recycling. Quantitative operations models and techniques will be used to analyze and evaluate the viability of these sustainable opportunities. This course may use thirdparty course material that is not available for individual purchase from the publisher. If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided. The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 Identify and discuss motivations for firms to engage in sustainability initiatives. 2 Discuss sustainable initiatives at various stages of the supply chain.3 Evaluate the eects of sustainability initiatives in a logistics and supply chain setting.",
+                                                    "key_topics":  "Triple Bottom Line (3BL), Life Cycle Assessment, Carbon Disclosure, Remanufacturing, Material Choice and Sustainable Product Design, Logistics, Product Differentiation, Closed-Loop Supply Chains, LEED, and ISO.",
+                                                    "prerequisite_knowledge":  "basic business principles and excel",
+                                                    "assessment_structure":  "This course will use cases, assignments, and a final project (in groups) to support the material discussed in class. An in-class, open book, open notes, individual exam will be given on the date of the last scheduled lecture.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "readings provided through Canvas. No assigned textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

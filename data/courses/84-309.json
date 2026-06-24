@@ -1,0 +1,37 @@
+{
+        "code":  "84-309",
+        "name":  "American Political Divides and Great Debates",
+        "short_name":  "AMER POL DIVIDES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores political polarization in the United States. Its not just learning about the extent of political polarization its about active engagement in analyzing some of the most contentious issues facing the nation today, such as the 2nd Amendment, abortion rights, crime, and immigration policy. Throughout the semester, students will participate in a variety of learning activities, including critical readings, indepth discussions, and live debates. These components are designed to foster a deep understanding of the multifaceted nature of American political divides. Students will be challenged to explore and argue from diverse viewpoints, broadening their perspectives and cultivating empathy for opposing arguments. This course provides students with an opportunity to deeply engage with the current political climate, delve into the roots of American political divides, and develop essential skills for civic engagement and discourse. Its perfect for students interested in political science, history, law, social justice, and anyone seeking a deeper comprehension of the complex political landscape of the United States and its implications for justice and injustice in society.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students will have a deepened understanding of the complex forces driving political polarization. They will be equipped to critically analyze media narratives, engage in constructive political discussions, and explore avenues for fostering greater unity within diverse societies.",
+                                                    "key_topics":  "voting rights, access to healthcare, racial discrimination, environmental inequalities, and economic disparity",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Participation and Engagement, Short Weekly Reflective Essays on Readings, Ongoing AI-Powered Debate Simulation, Debate Participation, Final Individual Research Project",
+                                                    "relevance":  "Dietrich College Gen Ed: Perspectives on Justice and Injustice",
+                                                    "learning_resources":  "All resources will be provided via Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

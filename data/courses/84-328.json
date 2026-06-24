@@ -1,0 +1,37 @@
+{
+        "code":  "84-328",
+        "name":  "Military Strategy and Doctrine",
+        "short_name":  "MILITARY STRATEGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will survey how the causes, conduct, and termination of warfare have changed over time. While the focus of the course is primarily on major warfare between states, we will also cover the use of military power in civil wars, insurgencies, and proxy wars. The first part of the course addresses why wars occur and what leaders hope to achieve using military power. We will cover the merits and limitations of different explanations for why war occurs and different ethical issues in the use of force, including just war theory and protection of civilians. The second part of the course addresses the sources of warfighting effectiveness, war outcomes, and war termination and will cover a range of material and nonmaterial factors. The final section of the course will cover how recent military, technological, social, and political changes influence what can be achieved through military power and implications for military strategy and doctrine. By the end of the course, students will have a general grasp of the major analytic approaches to understanding the occurrence and dynamics of war and will have the tools to think critically about the use of military force.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal for this course is to help students 1. understand historical causes and recent trends in major military conflicts2. identify existing theoretical approaches that have been applied to the study of major military conflicts to address questions on their causes, dynamics, and outcomes3. be able to evaluate the utility of different approaches to studying the above topics and apply these approaches to current and historical military campaigns4. articulate the factors that may change how future military campaigns begin, evolve, and terminate",
+                                                    "key_topics":  "War, military strategy, interventions",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "in-class examinations and presentations",
+                                                    "relevance":  "This course covers explanations for and empirical patterns of the use of military force between major powers and in other states. Students will evaluate arguments about the causes of the use of military force, why certain uses of force achieve political aims, and why conflicts terminate in order to think critically about the enduringly important issue of major military conflict.",
+                                                    "learning_resources":  "Group discussions, course texts, and in-class lectures",
+                                                    "extra_time_commitment":  null
+                                            }
+}

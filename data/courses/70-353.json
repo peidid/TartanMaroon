@@ -1,0 +1,37 @@
+{
+        "code":  "70-353",
+        "name":  "Financial Regulation in the Digital Age",
+        "short_name":  "FIN REG IN DIGTL AGE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-120 [] at least D) or (21-112 [] at least D)) and ((21-259 [] at least D) or (21-256 [] at least D) or (21-269 [] at least D) or (21-268 [] at least D)) and (73-230 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The course will address the foundations of regulation why regulate from various perspectives within the context of a market economy, highlighting the sources of market failure such as externalities, adverse selection, and natural monopoly and potential remedies such as taxes and fees, disclosure, price regulation, guarantees. The conflicting goals among regulators and why we have multiple regulators and their impact on the meaning of regulation will be considered along with regulatory competitionarbitrage. Portions of the course will tackle relatively broad questions such as Why regulate What is the law of unintended consequences What is the objective of a policy advocate Are regulators and regulatory policies a systemic risk Are our markets rigged How can regulators enhance the predictability and credibility of their policies How costly were government guarantees during the financial crisis Should we bar insider trading Should regulations be determined and motivated based upon costbenefit analysis How can we evaluate the success or failure of particular regulations and whether they have achieved their objectives How does the DoddFrank Act promote financial stability What basic aspects of the financial crisis did DoddFrank not address Lecture, 3 hours. Minimum grade standard of C applies only to economics courses. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

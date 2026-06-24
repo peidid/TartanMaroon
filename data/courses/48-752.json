@@ -1,0 +1,37 @@
+{
+        "code":  "48-752",
+        "name":  "Zero Energy Housing",
+        "short_name":  "ZERO ENERGY HOUSING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Are you interested in designing or renovating the highperformance multifamily housing of the future Would it surprise you to know that despite numerous successful singlefamily projects, only a limited number of successful multistory, multifamily zero examples exist Creating multifamily housing that reaches net zero or carbon neutral goals is challenging since occupant behavior can influence the outcome as much as building design and construction. Yet multifamily housing is an essential typology to address rapid development and urbanization. Take on the challenge of creating high performance housing for our net zero future by exploring the technical and social demands of multifamily zero energy design or renovation. 48752 is a graduate level course designed to support that goal. Through lectures, outside research, discussion, and a final applied project, youll explore the design approaches, codes, policy, technology, and energy infrastructure options that can help you achieve the housing performance we know is essential for a sustainable future.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "soa.cmu.edu",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

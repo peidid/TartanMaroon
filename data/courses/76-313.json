@@ -1,0 +1,37 @@
+{
+        "code":  "76-313",
+        "name":  "Creative Visual Storytelling in Film Production",
+        "short_name":  "CRTV VIS STY IN FLM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Visual storytelling cuts to the heart of the filmmaking process, combining all elements of the craft to engage the viewer.  Every picture is comprised of a story, visuals, and, sometimes, sounds.  This class is about learning how to understand and control timebased images to better tell your story.  We will learn essential skills for becoming a creative technological storyteller  how to think visually and aurally.  Fundamental focus will be on understanding the basic visual components using space, tone, line, shape, color, movement and rhythm and how they are used to visually tell a story, define characters, communicate moods, emotions, thoughts and ideas.  We often are not consciously aware of them within a film but are critical in establishing the relationship between story structure and visual structure.  Through readings, film analysis, creative brainstorming, assignments and individual critiques this class will guide each student into translating their creative vision into a short final film.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "PrimaryCourseObjectives1. Understand basic principles of film grammar and cinematic techniques and how they areused to tell effective visual stories.2. Demonstrate how camera dynamics, cinematic continuity and editing technique work togetherin order to achieve dramatic results.3. Apply an informed vision of how the dynamics of visual storytelling work across all mediasuch as video games, the web and interactive entertainment.SecondaryCourseObjectives1. Analyze How images are constructed.2. Meaning How images create meaning.3. Impact How images affect us on a personal level.4. Influence How they are intricately embedded in cultural and ideological frameworks.",
+                                                    "key_topics":  "Filmmaking. Story Structure. Visual Structure. Interactive Narrative. Interactive Documentaries. Visual Components.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will work either individually or in teams to write, produce, shoot and edit several visual story assignments.\n\nEach assignment is designed to actualize key components in the creative and production process. By the end of the semester the students will have completed a final video for presentation.",
+                                                    "relevance":  "This course is part of the FIlm Major in the English Department.",
+                                                    "learning_resources":  "Lectures, web pages, case studies, handouts and guest filmmakers will be used during the course of the semester",
+                                                    "extra_time_commitment":  "Yes, students will be required to work on some assignments outside of class as well their final video productions."
+                                            }
+}

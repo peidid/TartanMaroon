@@ -1,0 +1,37 @@
+{
+        "code":  "16-311",
+        "name":  "Introduction to Robotics",
+        "short_name":  "INTRO TO ROBOTICS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(18-202 [] at least C) or (21-241 [] at least C) or (21-260 [] at least C) or (24-311 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course presents an overview of robotics in practice and research with topics including vision, machine learning, motion planning, mobile mechanisms, kinematics, inverse kinematics, and sensors. In course projects, students construct LEGO robots which are driven by a microcontroller, with each project reinforcing the basic principles developed in lectures. Students usually work in teams of three an electrical engineer, a mechanical engineer, and a computer scientist. Groups are typically selfformed except for the first lab.  This course will also expose students to some of the contemporary happenings in robotics, including current robotics research, applications, robot contests and robots in the news.  Students registering for this course must register for both MonWed mornings and Tuesday afternoon sections.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/16311/www/current/",
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is to expose students to the broad field of robotics. In addition to the technical topics and construction experiences, described above, students will learn how to work in groups of three where the other members of the group on a different major. This forces the students to learn how to speak and interpret other technical languages.",
+                                                    "key_topics":  "Vision, controls, machine learning, motion planning, localization, kinematics, non-Holonomic constraints, design",
+                                                    "prerequisite_knowledge":  "Linear algebra, programming in C plus plus, calculus in three dimensions",
+                                                    "assessment_structure":  "The course has a midterm and final exam, written homework\u0027s, and weekly labs where students, working in groups of three, have to build and program a robot that encodes the principles that were taught in lecture the previous week.",
+                                                    "relevance":  "This course provides an overview of the robotics field to undergraduates. It stresses both the fundamentals and the construction aspects of Robotics",
+                                                    "learning_resources":  "The course has a website with detailed documentation, lecture notes, and suggestions on how to do the assignments. Typically, the course of tracks undergraduates from previous years to help serve as teaching assistants",
+                                                    "extra_time_commitment":  "The course has three hours of lecture, and additional one and a half hours of recitation, which is usually dedicated to the students demonstrating their labs."
+                                            }
+}

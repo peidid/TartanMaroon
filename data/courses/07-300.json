@@ -1,0 +1,37 @@
+{
+        "code":  "07-300",
+        "name":  "Research and Innovation in Computer Science",
+        "short_name":  "RSRCH \u0026 INNOV IN CS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least C) or (76-102 [] at least C) or ((76-106 [] at least C) and (76-107 [] at least C)) or ((76-106 [] at least C) and (76-108 [] at least C)) or ((76-107 [] at least C) and (76-108 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This Fall course is the first part of a twocourse sequence that is designed to help prepare students to invent the future stateoftheart in the field of computer science. Course topics will include the following an overview of important things to know about how research and innovation works in the field of computer science a survey of the current cutting edge of computer science research, both here at Carnegie Mellon and elsewhere critical thinking skills when reading research publications that disagree with each other strategies for coping with openended problems and technical communication skills for computer scientists. Students will also match up with a faculty mentor for a potential Technology Innovation Project to be performed in the Spring, put together a detailed plan of attack for that project, and start to get up to speed including background reading, etc.. This course can be used to satisfy the Technical Communications requirement for the CS major.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "80-310",
+        "name":  "Formal Logic",
+        "short_name":  "FORMAL LOGIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(80-210 [] at least D) or (15-251 [] at least D) or (21-127 [] at least D) or (80-211 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Among the most significant developments in modern logic is the formal analysis of the notions of provability and logical consequence for the logic of relations and quantification, known as firstorder logic. These notions are related by the soundness and completeness theorems a logical formula is provable if and only if it is true under every interpretation. This course provides a formal specification of the syntax and semantics of firstorder logic and then proves the soundness and completeness theorems. Other topics may include basic model theory, intuitionistic, modal, and higherorder logics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To comprehend different logical formalisms. To understand the difference between proofs and models, and the deep connections between them. To formalize intuitions and analyze real problems using logical tools and methods. To probe and critically assess the underlying assumptions of standard logics.",
+                                                    "key_topics":  "Classical propositional and predicate logic, including soundness and completeness.",
+                                                    "prerequisite_knowledge":  "At least one of 80-210, 80-211, 21-127, or 15-251, or consent of the instructor.",
+                                                    "assessment_structure":  "Problem sets together with a number of short tests and quizzes throughout the semester. No final exam.",
+                                                    "relevance":  "This course covers the foundations of mathematical logic and is relevant in that way to virtually all work in mathematics, computer science, and really all formal reasoning.",
+                                                    "learning_resources":  "Course notes",
+                                                    "extra_time_commitment":  null
+                                            }
+}

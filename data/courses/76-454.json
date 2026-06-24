@@ -1,0 +1,37 @@
+{
+        "code":  "76-454",
+        "name":  "Rise of the Blockbuster",
+        "short_name":  "BLOCKBUSTER",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The term blockbuster has been a part of the American film industry for over sixty years, but, like pornography, its extremely difficult to define from a critical standpoint.  For most of the viewing public the we know it when we see it definition seems to suffice.  In an academic sense, however, such vagueness is problematic.  This course will explore the idea of the blockbuster over time and across cultural boundaries.  What is the origin of the concept  What is the structural impact of the blockbuster on the film industry  How does the meaning of the term change from genre to genre  Is it a genre in and of itself  How does a blockbuster reinforce our cultural conceptions  How might the concept change in the future  What does all of this tell us about ourselves              This course will draw examples from across the history of film in order to develop a holistic understanding of what the term might encompass from a variety of perspectives.  By thoroughly discussing a wide selection of texts we will be able to better understand the ways in which the blockbuster has influenced the film industry, how the concept has both manifested itself and changed over time, and how it has shaped our cultural perspectives. Please note Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "82-115",
+        "name":  "Beginning Arabic for Oral Communication",
+        "short_name":  "BGNG ARBC ORAL COMM",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "ARABIC FOR ORAL COMMUNICATION is designed for students who desire to learn how to orally communicate in Arabic or who have taken Arabic for Global Exchange. This course does not teach how to read or write Arabic.  It offers students the opportunity to engage in speaking and listening activities and complete a variety of related oral practice assignments in and outside of class, using a spoken Arabic that would be widely understood anywhere in the Arab World. The conversation topics will be greetings, selfintroduction, hobbies, proper terms of address in casual and professional settings, and describing feelings and places.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "It offers students the opportunity to engage in conversation that expands on the linguistic topics listed above, using a spoken Arabic that would be widely understood anywhere in the Arab World.",
+                                                    "key_topics":  "(see course description)",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Attendance and participation, homework, conversation meetings, 1 in-class written evaluation, 1 in-class presentation, and 2 cultural activities.",
+                                                    "relevance":  "This course offers functional Arabic to students who may be traveling to the Arab World for internship or work. Or, if they just want to learn about to speak Arabic. The course contributes to such goals of the Department of Modern Languages as Communication, Collaboration, and Cultural Knowledge.",
+                                                    "learning_resources":  "Instructor\u0027s PowerPoints which include audio clips, and short videos.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

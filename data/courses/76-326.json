@@ -1,0 +1,37 @@
+{
+        "code":  "76-326",
+        "name":  "Contemporary Global Fiction",
+        "short_name":  "CONT GLOBAL FICTION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, students will read, interpret, discuss and write about novels and short stories written in English in the past ten years by writers originally from Europe, Africa, South Asia, East Asia and the Caribbean. While these works represent the large stories like economic globalization, migration, and ecological change, they are crafted around the small stories of love, longing, friendship and family. We will talk about both kinds of narratives, tracing the entanglements of one in the other.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "general knowledge of global issuesfamiliarity with contemporary literature",
+                                                    "key_topics":  "global, fiction, Africa, Asia, Caribbean, race, globalization, colonialism, gender",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "regular low-stakes response papers\n\nliterary interpretation papers",
+                                                    "relevance":  "expands global and historical awareness and reflection",
+                                                    "learning_resources":  "Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

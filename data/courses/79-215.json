@@ -1,0 +1,37 @@
+{
+        "code":  "79-215",
+        "name":  "Environmental Justice from Conservation to Climate Change",
+        "short_name":  "ENVIRONMENT JUSTICE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What is environmental justice Who are environmental justice activists, what do they believe, and how do they act This course will explore these questions by reading, discussing, and comparing the biographies of famous activists e.g. Rachel Carson, Chico Mendes, Ken SaroWiwa, Wen Bo, Berta Cceres, and Greta Thunberg and notsofamous, everyday people in order to understand how and why they have struggled against disproportionate exposure to pollution, government or corporate usurpation of life sustaining resources, or the loss of a home due to climate change. Course readings and discussions will use historical examples to understand connections between social problems such as racism and environmental problems such as climate change. We will evaluate how social identities, political ideologies, and ecological contexts have influenced the ideas and actions of environmental justice activists. Class discussions, short, written responses to readings, and a final project will encourage students to engage in critical analysis of environmental justice and selfreflect on their individual and collective responsibilities. This course meets the Dietrich Gen Ed Perspectives on Justice and Injustice requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Introduce the idea of environmental justice by tracing its historical roots and assessing its influence on environmental activism around the world today.Analyze, via historical examples, how sociocultural and ecological forces interact to shape lived experiences.Compare and assess how environmental injustices manifest in living and working spaces in different geographicalcultural contexts.Articulate, via writing and speaking, ethical obligations and stances supported by evidence, personal experience, and empathy.Acquire digital literacy by using online sources to research a contemporary environmental justice activist.",
+                                                    "key_topics":  "Environmental justice issues, such as loss of biocultural resources/sovereignty, material wealth and health disparities, unequal exposures to hazardous (health-harming) conditions (air and water pollution) and amenities (e.g, green spaces, recreational facilities, etc.), denial of political rights/power, among others.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Class participation, weekly reading responses, periodic in-class exercises, and final project essay.",
+                                                    "relevance":  "Dietrich Gen Ed: Special Seminars - Perspectives on Justice and Injustice",
+                                                    "learning_resources":  "Most resources will be provided via Canvas, with the exception of one or two low-priced books.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

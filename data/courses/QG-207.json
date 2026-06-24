@@ -1,0 +1,37 @@
+{
+        "code":  "QG-207",
+        "name":  "Introduction to Moder Standard Arabic Heritage",
+        "short_name":  "INTR MOD STND ARAB\\",
+        "units":  18.0,
+        "min_units":  18.0,
+        "max_units":  18.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "CrossRegistration Course  See the course catalog from the host institution.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

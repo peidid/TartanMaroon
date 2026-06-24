@@ -1,0 +1,37 @@
+{
+        "code":  "98-284",
+        "name":  "Student Taught Courses (StuCo): Intro to 3D Game Development in Unity",
+        "short_name":  "STUCO: GAME DEV 101",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Do you love video games Have you ever wondered how some of your favorite video games are made Introduction to Game Development in Unity 3D is a comprehensive course that takes you from a beginner to developing a full 3D game in Unity. This StuCo provides a foundation in the tools, techniques, and methods for creating and successfully using Unity 3D in a production environment. Topics include Idea Creation, Interface Navigation, Scene SetUp, Game Objects, Scripting, Animation, Physics, AI, and Overall Design. Design encompasses topics such as Lighting, UI, Textures, and Audio.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

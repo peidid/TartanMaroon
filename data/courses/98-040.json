@@ -1,0 +1,37 @@
+{
+        "code":  "98-040",
+        "name":  "Student Taught Courses (StuCo): Sew Sustainable",
+        "short_name":  "STUCO: SEWSUSTAIN",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of this course is to teach students the sewing basics required for maintenance, repair, and alteration of clothing and accessories. Sewing is a valuable life skill that can enhance the fit and style of your clothes, fix a wardrobe malfunction, and save you money. Mending will help you reduce your environmental impact by lowering your waste and consumption. Hand sewing and machine sewing will be covered, as will darning techniques for holes of various size, shape, and material. Each class will include an introduction to a new technique, and time for students to practice that technique on a piece of scrap fabric, or a piece of clothing brought from home.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will feel comfortable completing basic sewing projects, and have a strong understanding of sewing methods and terminology, enabling them to research and complete a variety of projects throughout their lives.",
+                                                    "key_topics":  "Course will cover hand sewing (basic stitches, embroidery, buttons, fixing rips), machine sewing (alterations, sewing woven vs knits), and darning.",
+                                                    "prerequisite_knowledge":  "None!",
+                                                    "assessment_structure":  "Students will complete skill samples as well as a midterm mend and a final project. Students will be graded on completion and adherence to the requirements.",
+                                                    "relevance":  "Anyone can benefit from this class. It is perhaps more relevant to environmentally or budget conscious students.",
+                                                    "learning_resources":  "Website with links to instructional videos if they need a reminder of what they learned in class.",
+                                                    "extra_time_commitment":  "Completing the skill samples if they don\u0027t finish in class, completing midterm and final mends outside of class."
+                                            }
+}

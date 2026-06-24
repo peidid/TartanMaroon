@@ -1,0 +1,37 @@
+{
+        "code":  "79-160",
+        "name":  "Introduction to the History of Science",
+        "short_name":  "INTRO HIST OF SCIENC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an introduction to the history of modern science in Europe and North America, from the Enlightenment to the midtwentieth century. Our goal is to understand scientific theories and practices on their own terms and as products of their own contexts, rather than as a progression of developments moving inevitably toward the present. The course seeks to explore both how and why science has become the dominant way of knowing about the natural world, as well as how scientific activity intersects with the history of religion, war, commerce, and the state. The course also introduces students to the history of science as a standalone discipline, and in particular to the similarities and differences with other objects of historical inquiry art, politics, etc..  This course fulfills Dietrich Colleges Humanities general education requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Recognize that knowledge of the past, even seemingly simple facts such as what constitutes water, or who discovered oxygen, are in fact the product of widely accepted arguments by historians.Situate scientific activity, personae, and theories in historical context and place current developments in science in historical perspective.Make historical claims based on provided primary sources, formulate an argument about competing accounts of the same historical event and make judgments about the use of evidence and argument.Coherently and convincingly communicate how and why science changes, as well as analyze the variety of places and practices through which scientific activity takes place at any given time.",
+                                                    "key_topics":  "The history of science will be covered through the reading of secondary and primary sources, including Darwin, Einstein, Joule, Laplace, Lovelace, McClintock, and Paley.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is required.",
+                                                    "assessment_structure":  "Class participation and discussion, 2-3 papers, with presentations.",
+                                                    "relevance":  "This course fulfills Dietrich College\u0027s \"Humanities\" general education requirement. (For Dietrich\u0027s GenEd program prior to 2021, this course fulfills the \"Reflecting\" requirement.)\n\nStudents will be able to place current developments in science in historical perspective.",
+                                                    "learning_resources":  "Books and other readings, widely available via Canvas or the library.",
+                                                    "extra_time_commitment":  "None, though there may be optional field trips scheduled on students\u0027 own time."
+                                            }
+}

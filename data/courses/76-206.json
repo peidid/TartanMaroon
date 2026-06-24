@@ -1,0 +1,37 @@
+{
+        "code":  "76-206",
+        "name":  "Intro to Creative Writing",
+        "short_name":  "INTRO CREATIVE WRTNG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course we will explore how stories work and why we tell them. Using screenplays, short fiction and personal essays, we will analyze how narratives function and how, upon reflection, narratives often function in very similar ways no matter what the genre. Storytelling has a shape. It dominates the way all stories are told and can be traced back in history to the very beginning of the recorded word. We will study traditional structure in screenplays and contemporary prose pieces, and consider stories from fairy tales to serialized television shows. These master texts will be used to guide the students as they write and develop their own stories.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Experience in writing in a variety of genres.\nThrough close study of published and produced work, students show gain an understanding of how stories work and how theyre told. This should help them in their own writing. They will perfect their creative writing skills and gain techniques to help them produce their own narratives.",
+                                                    "key_topics":  "Creative Writing, screenplays, fiction, personal essay",
+                                                    "prerequisite_knowledge":  "Basic writing skills",
+                                                    "assessment_structure":  "Writing assignments, final portfolios",
+                                                    "relevance":  "The course offers students a change to write and to analyze material like fairy tales and contemporary films and video games.",
+                                                    "learning_resources":  "Books",
+                                                    "extra_time_commitment":  "Maybe some visits to museums, readings by visiting writers"
+                                            }
+}

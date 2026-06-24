@@ -1,0 +1,37 @@
+{
+        "code":  "99-359",
+        "name":  "IDeATe: 3D Modeling and 3D Printing",
+        "short_name":  "IDEATE: 3D MOD/PRINT",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "PLEASE NOTE The specific meeting dates for the A1 section of this micro course are Sundays Sep 21, Sep 28, Oct 5. The specific meeting dates for the A2 section of this micro course are Saturdays Nov 1, Nov 8, Nov 15. This workshop is a handson introduction to the expansive world of 3D printing. 3D printing is a popular and versatile technology for quickly prototyping ideas. Students learn prototyping basics and the Fusion360 CAD software to create their own unique projects.  Computercontrolled manufacturing process is driven by CAD design. The class time will explore the capabilities of 3D modeling and their transformation into a printable format. No technical experience is required, although basic knowledge of digital media creation, such as vector drawings, is helpful.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Basic proficiency and navigation of CAD software 3D Printing Cloud Application",
+                                                    "key_topics":  "Students will: learn how to create CAD (computer aided design) 3d models or DXF (drawing Interchange format) files for 3d printing and Laser cutting; learn how to set up files for physical execution; learn about different additive manufacturing techniques",
+                                                    "prerequisite_knowledge":  "Students do not need any Prerequisite knowledge to take this course. We start from the beginning of navigating our CAD program (Fusion360), and go over the basics of different 3d modeling functions",
+                                                    "assessment_structure":  "Assignments, homework and in class discussion",
+                                                    "relevance":  "This course enables student access of equipment that will assist them in the rapid prototyping process. 3d Printer \u0026 parts washer",
+                                                    "learning_resources":  "Students will have access to a recording of each class, as well as video tutorials of CAD techniques and tutorials.",
+                                                    "extra_time_commitment":  "Homework"
+                                            }
+}

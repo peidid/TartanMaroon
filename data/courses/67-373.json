@@ -1,0 +1,37 @@
+{
+        "code":  "67-373",
+        "name":  "Information Systems Consulting Project",
+        "short_name":  "IS CONSULTING PROJ",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "67-272 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Information Systems IS Consulting Project is a junior level teambased course that focuses on working as a team to build a solution to meet the needs of a client. With your teammates, you will work with an actual client to design, build, and deliver an information system solution while following a disciplined software project life cycle approach. By terms end, your team must provide a sustainable solution that fits the clients objectives, organization constraints and capabilities",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Course goals include 1 Identify, research, evaluate and recommend appropriate right sized solutions to meet sponsors articulated requirements. 2 Design, develop and deliver an appropriate solution that adapts tools, techniques, technologies, environments and methods in order to achieve project goals. 3 Apply skills in key phases of a typical, rapid system development lifecycle articulation of project vision and requirements systems analysis and detailed design systems implementation and testing and documentation. 4 Coordinate and collaborate effectively as a team member on a small software development project to build principles of effective teamwork, problem solving, and professional communication. 5 Apply practical project management techniques to a real project of significant importance.",
+                                                    "key_topics":  "To help build skills in all areas of \u0027people, process, and technology\u0027 you will work in a engagement with a community partner. Each project team will propose, define, design and implement a working information system or application with the project client. Teams should act as consultants working \u0027with\u0027 and not \u0027for\u0027 their project clients. Successful teams never assume ownership of a client\u0027s project. Rather, they work hard to build sustainable, maintainable solutions and partner capacity. You will gather your client\u0027s articulated requirements and you will seek to understand and address their unspoken requirements.\nThroughout the semester you will work to deliver and integrate a working solution to your client\u0027s satisfaction into their organization. It will be accompanied by documentation, training and support materials. Because of our short time frame and absolute deadline, you must employ careful and skillful project management throughout. You must deliver your solution on time; extensions beyond the semester are not possible.",
+                                                    "prerequisite_knowledge":  "Students require design and development skills with database and web applications.",
+                                                    "assessment_structure":  "Grades in this course are determined by student performance in several areas: homework assignments (15%); project proposal (20%); final report and project implementation (25%); exam (5%); weekly sprint reports (15%); final presentation (5%); client evaluation (10%); and professionalism (5%).",
+                                                    "relevance":  "This is a required core-course for all Information Systems majors.",
+                                                    "learning_resources":  "Students use Canvas to access course materials.",
+                                                    "extra_time_commitment":  "The course deliverables are spread throughout the semester and does not require additional time commitments outside of the standard expectations for a 12-unit course load. Students may be required to travel to local client sites - transportation and schedules will be arranged as needed."
+                                            }
+}

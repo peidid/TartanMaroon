@@ -1,0 +1,37 @@
+{
+        "code":  "84-104",
+        "name":  "Decision Processes in American Political Institutions",
+        "short_name":  "DEC PROC AMER POL IN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is an interdisciplinary introduction to the study of politics and government in the United States. It familiarizes the student with the basic structures and processes of American government, but moves beyond the purely descriptive into the realm of the analytical. The main theoretical tools are spatial models of political decisionmaking, and models of collective action problems. The position taken in this course is that understanding American philosophical ideas about authority, power, and freedom is as central to demystifying the U.S. form of democracy as is understanding how decisionmaking institutions function. Thus, on one side, this course looks at how American political thought is infused into political institutions and society. On the other side, it investigates institutional arrangements using rationalistic theories. In addition, scientific writings at the intersection of psychology and economics are used to probe the possibility of gaining explanatory leverage on U.S. politics from the perspective of behavioral decisionmaking theories.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The primary objective of this course is to equip students with introductory tools to evaluate contemporary U.S. politics from theoretical, historical, and philosophical as opposed to ideologicaland partisan perspectives. By the end of the course students should be able toArticulate how decisions are made on behalf of U.S. citizens by the federal governmentIdentify major theoretical approaches to studying American governmentEvaluate the different types, and the relative strength, of evidence used by the competingstudies of governmental and decisionmaking processesDraw connections between different disciplinary approaches, including politics, history, law, economics, sociology, and psychologyRead, critically assess, and articulate complex methodological approaches to the study of American government.",
+                                                    "key_topics":  "Institutions of American government as seen through history, law, psychology, sociology, and economics",
+                                                    "prerequisite_knowledge":  "no prior knowledge required",
+                                                    "assessment_structure":  "In class examinations (three brief exams, one midterm and one final).",
+                                                    "relevance":  "Dietrich GenEd after Fall 2021: Disciplinary Perspectives - Social Sciences\nDietrich GenEd prior to Fall 2021: Deciding\n\n\nStudents will understand the complexity and design of American federal political institutions. Students will gain an appreciation for institutional design, process, and the structure of decision-making.",
+                                                    "learning_resources":  "There are two core textbooks for the class. Those, plus in-class lectures, are the core of the course.",
+                                                    "extra_time_commitment":  "None are required, but Institute for Politics and Strategy (IPS) events provide opportunities for extra credit."
+                                            }
+}

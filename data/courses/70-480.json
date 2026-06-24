@@ -1,0 +1,42 @@
+{
+        "code":  "70-480",
+        "name":  "International Marketing",
+        "short_name":  "INTERNTNL MARKETING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "70-381",
+                                                "id":  5717,
+                                                "name":  "Marketing I",
+                                                "units":  9.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to provide students with a basic understanding of global marketing opportunities, key issues, and strategies. It introduces the main characteristics of international markets and addresses the impact of global environmental factors economic, social, legal, and cultural on marketing decisions such as market entry, product development, pricing, promotion, and distribution.  The objective of the course is to help students acquire knowledge of major international marketing concepts and develop crosscultural sensitivities and skills that would enable them to identify, analyze, and solve international marketing problems. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

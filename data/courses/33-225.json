@@ -1,0 +1,37 @@
+{
+        "code":  "33-225",
+        "name":  "Quantum Physics and Structure of Matter",
+        "short_name":  "QUANTM PHY STRUC MAT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(33-107 [] at least D) or (33-132 [] at least D) or (33-122 [] at least D) or (33-142 [] at least D) or (33-152 [] at least D) or (33-112 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course introduces the basic theory used to describe the microscopic world of electrons, atoms, and photons. The duality between wavelike and particlelike phenomena is introduced along with the deBroglie relations which link them. We develop a wave description appropriate for quanta which are partially localized and discuss the interpretation of these wavefunctions. The wave equation of quantum mechanics is developed and applied to the hydrogen atom from which we extrapolate the structure of the Periodic Table. Other materialsrelated applications are developed, for example, Boltzmann and quantum statistics and properties of electrons in crystals. This course is intended primarily for nonphysics majors who have not taken 33211.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Introductory Physics, Calculus",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

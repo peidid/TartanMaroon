@@ -1,0 +1,37 @@
+{
+        "code":  "70-257",
+        "name":  "Optimization for Business",
+        "short_name":  "OPTI FOR BUSNS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(21-259 [] at least D) or (21-254 [] at least D) or (21-256 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a mathematical foundation for the application of optimization techniques to business problems, as well as the practical implementation of these methods. Mathematical optimization techniques have been applied for decades in the context of logistics, supply chain management, and strategic planning, with great success. In this course, the most important methods and techniques underlying mathematical optimization are studied. These include linear programming, integer programming, and nonlinear programming as basic mathematical methodologies. Based on these, we also consider methodologies for particular problem classes such as network models and traveling salesman problems. During the course we will emphasize mathematical modeling, that is, creating a mathematical description that reflects a given practical problem described in words. Motivated by these mathematical models, we then discuss the necessary mathematical techniques for finding optimal solutions. Lastly, we consider the solution of these problems using optimization software, i.e., we represent the mathematical models in Excel and use Excel Solver to compute an optimal solution. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Recognize the applicability and potential or optimization techniques for a given business problem create a sound mathematical model capturing realworld challenges understand the basic methodology for solving linear programming, integer programming, and nonlinear programming models represent a mathematical optimization model in Excel Solver and interpret and report the solution.",
+                                                    "key_topics":  "Mathematical optimization; Mathematical; Analytics; optimization software.",
+                                                    "prerequisite_knowledge":  "21256 or 21259",
+                                                    "assessment_structure":  "Weekly homework assignments; mid-term exam; final exam",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Sildes and notes posted\nTextbook is Operations Research by Winston",
+                                                    "extra_time_commitment":  null
+                                            }
+}

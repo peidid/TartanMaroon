@@ -1,0 +1,54 @@
+{
+        "code":  "15-122",
+        "name":  "Principles of Imperative Computation",
+        "short_name":  "PRIN IMPRTV COMPTATN",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "15-112 [] at least C"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-128",
+                                                "id":  2621,
+                                                "name":  "Mathematical Concepts and Proofs",
+                                                "units":  12.0
+                                        },
+                                        {
+                                                "code":  "21-127",
+                                                "id":  2625,
+                                                "name":  "Concepts of Mathematics",
+                                                "units":  12.0
+                                        },
+                                        {
+                                                "code":  "15-151",
+                                                "id":  5064,
+                                                "name":  "Mathematical Foundations for Computer Science",
+                                                "units":  12.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "For students with a basic understanding of programming variables, expressions, loops, arrays, functions. Teaches imperative programming and methods for ensuring the correctness of programs.  Students will learn the process and concepts needed to go from highlevel descriptions of algorithms to correct imperative implementations, with specific application to basic data structures and algorithms.  Much of the course will be conducted in a subset of C amenable to verification, with a transition to full C near the end. This course prepares students for 15213 and 15210.  NOTE students must achieve a C or better in order to use  this course to satisfy the prerequisite for any subsequent Computer  Science course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cs.cmu.edu/~15122/home.shtml",
+        "custom_fields":  {
+                                                    "goals":  "Write imperative that is correct by designLearn about some fundamental concepts in Computer Science abstraction, correctness, complexity, modularityLearn about a few basic data structures. Develop experience writing code in C",
+                                                    "key_topics":  "Reasoning about code: contracts, invariants, interfaces\nBasic Data Structures and Algorithms: Hash Tables, BST, Linked Lists, Graphs\nLearn C programming language\nBit Manipulation\nComplexity Analysis\nMemory",
+                                                    "prerequisite_knowledge":  "Basic programming knowledge (variables, expressions, loops, arrays, functions)",
+                                                    "assessment_structure":  "24 HW assignments (45%), Labs and Quizzes (5%), 2 Midterms (25%), Final (25%)",
+                                                    "relevance":  "For students with a basic understanding of programming and a desire to learn more advanced CS topics.",
+                                                    "learning_resources":  "Piazza, Gradescope, Autolab, online lecture notes (no textbook), C0 programming language and documentation, C programming language",
+                                                    "extra_time_commitment":  null
+                                            }
+}

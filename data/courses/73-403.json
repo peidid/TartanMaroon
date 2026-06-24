@@ -1,0 +1,37 @@
+{
+        "code":  "73-403",
+        "name":  "Study Aboard Upper Level Economics Elective",
+        "short_name":  "SDY AB UP LVL ECO EL",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  18.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This number holds a place for upper level economics elective study abroad transfer credit courses so that these courses can be used in the academic audit system.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "See host institutions syllabus",
+                                                    "key_topics":  "This number \"holds\" a place for upper level economics elective study abroad transfer credit courses so that these courses can be used in the academic audit system.",
+                                                    "prerequisite_knowledge":  "Intermediate-level microeconomics or intermediate-level macroeconomics",
+                                                    "assessment_structure":  "See host institution\u0027s syllabus",
+                                                    "relevance":  "The Undergraduate Economics Program encourages students to enrich their undergraduate experience by studying abroad. Studying abroad provides students with not only more awareness of cultural literacies, but further enhancement of their education by providing them with the opportunity to compare and contrast different economies and regimes. Many students consider their study abroad experience to be a watershed moment in their studies. With a bit of careful planning, study abroad can be worked into most any economics student\u0027s four-year schedule.",
+                                                    "learning_resources":  "See host institution\u0027s syllabus",
+                                                    "extra_time_commitment":  null
+                                            }
+}

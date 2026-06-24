@@ -1,0 +1,37 @@
+{
+        "code":  "21-292",
+        "name":  "Operations Research I",
+        "short_name":  "OPERATIONS RSCH I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(21-122 [] at least D) and ((21-241 [] at least D) or (21-240 [] at least D) or (21-242 [] at least D)) and ((21-228 [] at least D) or (15-251 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Operations research offers a scientific approach to decision making, most commonly involving the allocation of scarce resources. This course develops some of the fundamental methods used. Linear programming the simplex method and its linear algebra foundations, duality, postoptimality and sensitivity analysis the transportation problem the critical path method nonlinear programming methods.  Three 50 minute lectures, one 50 minute recitation",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Linear algebra, differential and integral calculus",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

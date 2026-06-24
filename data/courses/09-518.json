@@ -1,0 +1,37 @@
+{
+        "code":  "09-518",
+        "name":  "Bioorganic Chemistry: Nucleic Acids and Carbohydrates",
+        "short_name":  "BIOORGANIC CHEMISTRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((03-121 [] at least D) or (03-151 [] at least D)) and ((09-220 [] at least D) or (09-218 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will introduce students to new developments in chemistry and biology, with emphasis on the synthesis, structural and functional aspects of nucleic acids and carbohydrates, and their applications in chemistry, biology and medicine. Later in the course, students will have the opportunity to explore cuttingedge research in this exciting new field that bridges chemistry with biology. Students will be required to keep abreast of the current literature. In addition to standard homework assignments and examinations, students will have the opportunity to work in teams to tackle contemporary problems at the forefront of chemistry and biology. The difference between the 09518 9unit and 09718 12unit is that the latter is a graduate level course. Students signed up for 09718 will be required to turn in an original research proposal at the end of the course, in addition to all the other assignments. Graduate Course 12 units, 09718 3 hrs. lec.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

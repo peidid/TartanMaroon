@@ -1,0 +1,37 @@
+{
+        "code":  "79-280",
+        "name":  "Coffee and Capitalism",
+        "short_name":  "COFFEE \u0026 CAPITALISM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What role has coffee played in connecting people and places to capitalist markets and consumer cultures What are the economic, social, and environmental consequences of these connections How did espresso change from an ethnic drink to something served at McDonalds Why do college students and professors hang out in coffee shops This course will answer these questions and more by using coffee to learn about the history of capitalism, and capitalism to understand the history of coffee. We will follow the spread of coffee and capitalism across the globe, with excursions to places where people grow coffee Ethiopia, Yemen, Indonesia, Brazil, and Costa Rica, and also where they drink coffee Seattle, Tokyo, Seoul, New York, and Berlin. In the process, we will confront global problems linked to economic inequality, trade, gender relations, and environmental degradation. Course meetings will combine interactive lecture, group discussions, and minipresentations. Assignments will include journal responses, ethnographic observations, and writing a short script that tells a story about coffee and capitalism.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Course goals include 1 providing students with basic knowledge about coffee botany, cultivation, marketing, processing, and drinking 2 helping students appreciate the diverse cultural rituals and tastes associated with coffeedrinking and 3 helping to historicize the abstract concept of capitalism.",
+                                                    "key_topics":  "This course will explain the role that coffee has played in connecting people and places to capitalist markets and consumer cultures, and how markets have influenced coffee cultures.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is required; experience with academic reading and writing helpful.",
+                                                    "assessment_structure":  "There will be extensive reading and analytical writing, in addition to group discussions and mini-presentations.",
+                                                    "relevance":  "This course will help students to understand economic and cultural processes of globalization by studying one of the most important internationally traded commodities.",
+                                                    "learning_resources":  "Students will be required to read/watch/listen to materials made available via Canvas, and purchase one book, \"Coffee: A Comprehensive Guide\" (2013).",
+                                                    "extra_time_commitment":  "Three visits to a place where coffee is consumed in order to make observations. Students will earn participation credit for doing these activities."
+                                            }
+}

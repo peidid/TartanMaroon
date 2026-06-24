@@ -1,0 +1,37 @@
+{
+        "code":  "70-471",
+        "name":  "Supply Chain Management",
+        "short_name":  "SUPPLY CHAIN MGMT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-371 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will discuss basic issues in supply chain management to answer how a company should design its supply chain and how a company should administer its operations policy to satisfy the companys business strategy. We will also examine how firms interact with other entities within the supply chain, and how one can turn the systemnetwork of entities across the supply chain to its own advantage by capturing economic surplus effectively. Special attention will be paid to analyzing the strengths and weaknesses of supply chains from a strategic, qualitative level. At the same time, we will also learn how to make effective tradeoffs in operational decisions from a tactical, quantitative level. This course may use thirdparty course material that is not available for individual purchase from the publisher. If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided. The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Identify a specific companys supply chain strategy Analyze the supply chain strategys pros and cons Develop a a supply chain strategy design requirement to satisfy the needs of a companys business strategy. Administer various supply chain management processes in practice such as demand forecasting, aggregate resource allocation, production planning, inventory management, distribution and logistics management, global supply chain operations, and risk management. Understand the various levers and strategies that affect bargaining and incentive mechanisms in supply chain relationships.",
+                                                    "key_topics":  "Supply chain strategies and design requirements; Demand forecasting algorithms; Aggregate resource allocation decisions; Production planning decisions; Principles of inventory management; Distribution and logistics management; Coordination of incentives in supply chains; Global supply chains; Risk management in supply chains; Bargaining power and value capture; Supply chain finance; Sustainability as a supply chain management tool",
+                                                    "prerequisite_knowledge":  "It is helpful to have completed the Operations Management core course. Familiarity with Excel is also a plus. Additional business courses, such as accounting, finance, and marketing are also helpful.",
+                                                    "assessment_structure":  "Homework assignments\nBusiness case reading assignments\nMid-term and final exams\nAttendance and participation",
+                                                    "relevance":  "This course helps students develop a holistic understanding to the following questions: (i) what does it mean for a company to have a good supply chain? and (ii) how do you manage the day-to-day operations of a supply chain and do it well? This course is highly relevant for students wishing to pursue a career in operations and logistics, and also to a large extent for students interested in careers in general management or financial investment related areas.",
+                                                    "learning_resources":  "Lecture notes; case studies; optional textbooks; homework solutions; practice exams",
+                                                    "extra_time_commitment":  "Homework assignments; case reading assignments; exam review"
+                                            }
+}

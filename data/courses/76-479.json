@@ -1,0 +1,37 @@
+{
+        "code":  "76-479",
+        "name":  "Model Minorities? Race, Rhetoric, \u0026 Identity in Asian America",
+        "short_name":  "MODEL MINORITIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Asian American is a selfconscious political identity developed by panAsian ethnic groups in solidarity with one another in 1968. What does it mean now, 55 years later, to be Asian American How do Asian Americans fit into the differentially racialized landscape of the U.S., and how, in turn, are Asian American identities and experiences shaped and expressed in culture How does the political and activist history of Asian America inform social movements today And how do rhetorical scholars engage Asian American communities, identifying both varied processes of racialization, and patterns of counterdiscourses in which Asian Americans speak against the mainstream images that have circumscribed their subjectivities This course brings together Asian American studies and Asian American rhetoric with a focus on the study of culture, examining the currents of global and domestic power that have shaped Asian American experience, the movements and communities that have acted in solidarity among and against those forces, and the communicative practices that both shape and are shaped by Asian Americans. By the end of the course, students will be well versed in significant topics and theories in Asian American studies and Asian American rhetoric, and will produce a final paper analyzing a topic, issue, policy, movement, or historicalcultural artifact that speaks to, or illustrates a new nuance about, Asian America. This course is for juniors and seniors.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 Develop a conceptual vocabulary for thinking through, and talking about, Asian American issues, as well as a facility with important topics in Asian American studies and Asian American rhetoric 2 Understand how Asian America and diverse Asian American experiences have been shaped by historical, political, social, and cultural processes 3 Conduct original research on a topic related to Asian American studies andor rhetoric that aligns with their academic interests and goals",
+                                                    "key_topics":  "Asian American studies, Asian American rhetorics, ethnic studies, race, ethnicity, rhetoric, theory and criticism, activism",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Participation, discussion posts, short paper(s), final paper",
+                                                    "relevance":  "This course provides significant insights and context for current Asian American issues. As it is concerned with relationships between power and racialized populations, it is highly relevant to anyone interested in the study of race in the contemporary U.S. cultural and social landscape; it is also an important course for graduate students seeking to be trained in rhetorics of race and ethnic studies.",
+                                                    "learning_resources":  "All required readings will be available on Canvas, with additional suggestions for further reading provided by the instructor",
+                                                    "extra_time_commitment":  "Regular Canvas discussion posts are required."
+                                            }
+}

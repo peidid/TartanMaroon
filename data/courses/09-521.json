@@ -1,0 +1,37 @@
+{
+        "code":  "09-521",
+        "name":  "Metals in Biology: Function and Reactivity",
+        "short_name":  "METALS IN BIOLOGY",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "((09-344 [] at least D) or (09-345 [] at least D) or (09-214 [] at least D) or (09-347 [] at least D)) and (09-348 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Metal ions play important roles in many biological processes, including photosynthesis, respiration, global nitrogen cycle, carbon cycle, antibiotics biosynthesis, gene regulation, biosignal sensing, and DNARNA repair, just to name a few. Usually, metal ions are embedded in protein scaffold to form active centers of proteins in order to catalyze a broad array of chemical transformations, which are essential in supporting the biological processes mentioned above. These metal containing proteins, or metalloproteins, account for half of all proteins discovered so far. In this course, the relation between the chemical reactivity and the structure of metalloproteins will be discussed in detail. The main focus is to illustrate the geometric and electronic structure of metal centers and their interactions with the protein environment in governing the chemical reactivity of metalloproteins. The applications of these principles in designing biomimeticbioinspried inorganic catalysts and in engineering metalloproteins bearing novel chemical reactivity will also be discussed. The basic principles of the frequently utilized physical methods in this research area will also be introduced, which include optical absorption spectroscopy, Infrared IR and Raman spectroscopies, Mssbauer spectroscopy, electron paramagnetic resonance EPR, Xray absorption and diffraction techniques.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

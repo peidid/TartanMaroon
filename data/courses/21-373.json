@@ -1,0 +1,42 @@
+{
+        "code":  "21-373",
+        "name":  "Algebraic Structures",
+        "short_name":  "ALGEBRAIC STRUCTURES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-127 [] at least D) or (21-128 [] at least D) or (15-151 [] at least D)) and ((21-242 [] at least D) or (21-241 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-237",
+                                            "id":  684,
+                                            "name":  "Mathematical Studies Algebra I",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "Groups Homomorphisms. Subgroups, cosets, Lagranges theorem. Conjugation. Normal subgroups, quotient groups, first isomorphism theorem. Group actions, Cauchys Theorem. Dihedral and alternating groups. The second and third isomorphism theorems. Rings  Subrings, ideals, quotient rings, first isomorphism theorem. Polynomial rings. Prime and maximal ideals, prime and irreducible elements. PIDs and UFDs. Noetherian domains. Gauss lemma. Eisenstein criterion. Fields  Field of fractions of an integral domain. Finite fields. Applications to coding theory, cryptography, number theory.  Three 50 minute lectures",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Discrete mathematics and proofs",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

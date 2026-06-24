@@ -1,0 +1,37 @@
+{
+        "code":  "76-842",
+        "name":  "Black Lives in Pre-1900 Britain",
+        "short_name":  "BLCK LIVES PRE 1900",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course engages with Black voices writing from, to, about, and against PreModern Britain, from abolitionists to actors to royalty. We explore topics including racial philosophy, the transatlantic slave trade, revolution, abolition, imperialism, and popular culture, from both contemporary and modern sources. Our texts and conversations trace how the lives and experiences of individuals like Ignatius Sancho, Sarah Baartman, Ira Aldridge, and Alemayehu Tewodros presage those of a modern global Black diaspora.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students will have 1.\nAnalyzed and contextualized key pieces of primary and secondary literature, as well as their modern, transatlantic legacies2.\nPracticed thinking, speaking, and writing about race, gender, class in a critical and thoughtful manner3.\nLearned to interpret multiple forms of media, including literature, art, and drama4.\nWorked with different critical methodologies for example, archival work, historical contextualization of media, multimodal analysis",
+                                                    "key_topics":  "gender, race, British history, Black British history",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "weekly discussion post, two papers, a presentation, and engagement",
+                                                    "relevance":  "Students will be introduced to Black British history from 1500 to 1900, through a variety of perspectives and texts, including poetry, plays, autobiographies, letters, illustrations, portraits, novels, ballads, and more.",
+                                                    "learning_resources":  "Readings and films will be available via Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

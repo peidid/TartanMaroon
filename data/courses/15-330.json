@@ -1,0 +1,37 @@
+{
+        "code":  "15-330",
+        "name":  "Introduction to Computer Security",
+        "short_name":  "INTROD COMPTR SECRTY",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "15-213 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Security is becoming one of the core requirements in the design of critical systems. This course will introduce students to the introlevel fundamental knowledge of computer security and applied cryptography. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking and wireless security, and applied cryptography. Students will also learn the fundamental methodology for how to design and analyze security critical systems.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.andrew.cmu.edu/course/18-330/",
+        "custom_fields":  {
+                                                    "goals":  "After completing the course, students will be able toDevelop formal and informal threat models for modern systems.Justify fundamental security principles and apply them to the analysis of novel situations.Identify common security vulnerabilities, develop exploits against them, and assess the tradeoffs of possible defenses.Explain common techniques used to construct secure systems and evaluate their effectiveness against a range of attacks.Select the appropriate cryptographic primitive to achieve a desired security property, perform basic cryptographic proofs, and evaluate the security of cryptographic protocols.Argue for and against laws and public policy that intersect with computer security.Incorporate human factors into the evaluation of the security of a system.",
+                                                    "key_topics":  "This course introduces students to the fundamentals of computer security, and is structured into four broad sections: Software Security, Cryptography, System/Network Security, and Human Factors.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "We translate your final class percentage into a letter grade as follows:\n\n89.5 - 100: A\n79.5 - 89.4: B\n69.5 - 79.4: C\n59.5 - 69.4: D\n\u003c 59.5: F\nThe total points possible are allocated as follows:\n\n30% Homework\n30% Exam 1\n30% Exam 2\n5% Class Participation\n5% Recitation Participation\nNote that there are three exams: we will drop your lowest exam score.",
+                                                    "relevance":  "This course is the first step in both the SCS Security \u0026 Privacy concentration and the ECE Security \u0026 Privacy concentration. These concentrations are designed to expose students to the key facets of and concerns about computer security and privacy that drive practice, research, and legislation. On completing the curriculum, students will be prepared to continue developing their interests in security or privacy through graduate study; to be informed participants in public and other processes that shape how organizations and society develop to meet new challenges related to computer security or privacy; and to take jobs in security or privacy that will provide further training in applicable areas.",
+                                                    "learning_resources":  "Piazza; Most lectures will be accompanied by required and optional readings. The former provide additional detail on the lecture topic, and so they should be helpful for the associated homeworks and exams. Optional readings provide further depth and/or explanation, but material in optional readings will not be required for homeworks or exams.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

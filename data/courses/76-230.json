@@ -1,0 +1,37 @@
+{
+        "code":  "76-230",
+        "name":  "Literature \u0026 Culture in the 19th Century",
+        "short_name":  "LIT \u0026 CULT 19TH C.",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Fall 2023 Literature  Social Change  From the French Revolution to the beginning of the twentieth century, literature began to play an explosive role in the forces of political transition and the struggle for social justice. This course studies novels, poetry and prose in relation to both political and industrial revolutions during the rise of empire and capitalism and the road to climate change. We will study apocalyptic novels like Mary Shelleys The Last Man and novels of empire like Jane Eyre and its retelling in Wide Sargasso Sea poetry about living in revolutionary times by Wordsworth and Phillis Wheatley Peters and anticapitalist antislavery writing such as Ottobah Cugoanos Thoughts and Sentiments on the Evil of Slavery.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Fall 2023 understand how literature and the forces of social change interact, will help students considering an English major learn how it approaches social issues",
+                                                    "key_topics":  "Fall 2023: protest, visual arts, literature, Victorian, romantic, inequality, social justice, empire, race, gender",
+                                                    "prerequisite_knowledge":  "Fall 2023: none",
+                                                    "assessment_structure":  "Oral presentations, short writing assignments, pariticpation",
+                                                    "relevance":  "Fall 2023: will teach non-majors the landscape of literary and cultural history, will prepare those who want to become English majors for what literary study is like",
+                                                    "learning_resources":  "Fall 2023: 1 or 2 novels to purchase; other readings available on Canvas or Persuall",
+                                                    "extra_time_commitment":  null
+                                            }
+}

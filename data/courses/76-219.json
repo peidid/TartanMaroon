@@ -1,0 +1,37 @@
+{
+        "code":  "76-219",
+        "name":  "Law \u0026 Blame",
+        "short_name":  "LAW \u0026 BLAME",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, youll explore how language is used to accuse, defend, and attribute responsibility in legal cases and how these rhetorical strategies intersect with larger societal issues of justice and injustice. The study of these questions is not only valuable for understanding the legal process, participating in it, or writing about it, but the practice of attributing responsibility is common in many social and institutional contexts beyond law, even in daily conversation. By examining a variety of legal trialsranging from highprofile criminal cases to routine accidentsyoull learn about the linguistic as well as the social, cultural, and political dimensions of accountability discourse, including how systemic inequalities related to race, class, gender, sexuality, and other identities shape attributions of responsibility. In discussionintensive sessions and through a series of writing assignments, youll not only develop your own strategies for advocating for or against responsibility in particular cases but youll cultivate the critical tools necessary to craft and evaluate rhetorical approaches to attributions of responsibility among professional peers, while reflecting on relevant conceptions of justice. Whether your interest is in law, politics, culture, or ethics, this course equips you with tools to analyze realworld legal cases, assess their broader impact on justice through the lens of inequity and conflict, and actively participate in debates about attributions of blame across legal, business, and everyday contexts.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The course is designed as a combined seminar and workshop in the production of arguments attributing responsibility for harm. By the end of the semester, students will be able toIdentify, evaluate, and apply common topics of debate regarding attributions of responsibility for harmful actionsAssess the rhetorical, historical, cultural, ethical, and philosophical dimensions of attributions of responsibilityCompare and contrast the strengths and limitations of the various disciplinary perspectives along with their implications and consequencesAnalyze the impact of systematic and structural inequalities involving race, class, gender, sexual orientation, religion, and national origin on the prosecution and outcome of casesDevelop and support rhetorical analyses of attributions of responsibility in specific casesDevelop and support an argument advocating or disputing responsibility for harm in a specific caseRead texts for detail and anomaly, attending closely to both the denotative and connotative meanings of language andOrganize data into appropriate frameworks for interpretation.",
+                                                    "key_topics":  "The rhetorical strategies used to attribute responsibility to specific individuals or institutions or dispute such claims, examined through the lens of legal cases and how the legal system manages such disputes. Examples may include the Boston Marathon bombing case, the Lindbergh kidnapping, Patty Hearst, O.J. Simpson, etc.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will engage in class discussion, produce written responses to readings, reply to peer responses, deliver two oral presentations, write one short paper analyzing a claim of responsibility in a specific case and one short paper advocating or disputing responsibility in a specific case, and combine rhetorical analysis with a recommended approach to advocacy in a final project.",
+                                                    "relevance":  "Dietrich GenEd prior to Fall 2021: Communicating\n\nDietrich GenEd after Fall 2021: Perspectives on Justice and Injustice\n\n\n\nThe course is not only valuable for understanding the legal process, participating in it, or writing about it, but the practice of attributing responsibility is common in many social and institutional contexts beyond law, even in daily conversation. The course asks fundamental questions about culture, ethics, and politics surrounding accountability issues and studies basic principles of rhetoric, linguistics, and writing about past events in many contexts.",
+                                                    "learning_resources":  "All assigned readings for the course are electronically available on Canvas and in Perusall, which is available through Canvas.\nOptional reference materials are available in Hunt Library, with most held as reference works unavailable for check out from the library so they should always be on the shelf when not in use.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

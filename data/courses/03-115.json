@@ -1,0 +1,54 @@
+{
+        "code":  "03-115",
+        "name":  "Phage Genomics Research",
+        "short_name":  "PHAGE GENOMICS RSRCH",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "03-151",
+                                                "id":  2131,
+                                                "name":  "Honors Modern Biology",
+                                                "units":  10.0
+                                        },
+                                        {
+                                                "code":  "03-121",
+                                                "id":  6108,
+                                                "name":  "Modern Biology",
+                                                "units":  9.0
+                                        },
+                                        {
+                                                "code":  "03-110",
+                                                "id":  7345,
+                                                "name":  "General Biology",
+                                                "units":  9.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will provide an introduction to biological investigation through a research project in bacteriophage genomics. Genomics combines experimental and computational approaches for largescale analysis of the biological information contained in DNA sequences. The ability to analyze the complete DNA of any organism has revolutionized modern genetics and is influencing many areas of biology and medicine. The most abundant biological entities are bacteriophages viruses that infect bacteria. Their enormous diversity and number make bacteriophages important models for the study of gene structure, function and regulation, population genetics and evolution. In addition they are the source of important tools in biotechnology. The research goals of this course will be to identify new bacteriophage species and incorporate them into a comparative genomic study to better understand the genetic organization and evolution of these organisms. While accomplishing these goals students will develop an understanding of the research process, including the ability to design experiments and interpret novel data.    Fall semester Samples will be collected in the field. From these samples students will identify and purify bacteriophages. The bacteriophages will be characterized structurally by electron microscopy, and their DNA will be purified and sequenced.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/bio/undergrad/courses/index.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

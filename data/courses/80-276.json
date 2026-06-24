@@ -1,0 +1,37 @@
+{
+        "code":  "80-276",
+        "name":  "Philosophy of Religion",
+        "short_name":  "PHILOSOPHY OF RELGN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Historically and crossculturally, philosophy tends to emerge as an effort to understand religion.  Whether or not one is a believer, religion can be viewed as a stress test of the concepts we bring to our understanding of the mundane world.  Can we know that there is an infinite being behind mundane reality  What can we comprehend about such a being  Is morality prior to or subject to that beings will  Can such a being be innocent of our wrongdoing   If there is such a being, are we responsible for anything    All of those questions depend as much on what we mean by possibility, freedom and responsibility as they do on the truth of religion.  In this class, we fearlessly confront those questions and, in the Carnegie Mellon spirit, we relate each philosophical reading to relevant issues in science and logic.   Since the philosophy of religion literature focuses primarily on a JudeoChristian context, the class begins with a short survey of the religious contexts of ancient Greece, Hinduism, and Budhism to provide points of reference from which to question JudeoChristian presuppositions.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Learn what the standard arguments for and against religion are, what their logical, and how they relate to the broader scientific culture. More generally, learn how to creatively analyze arguments and how to deal with abstraction.",
+                                                    "key_topics":  "We begin with a short survey of non-Western religions. Then we survey the standard arguments for and against religious belief, with relevant additions from logic and science. We examine in detail the Ontological, Cosmological, Design, Historical, and Mystical arguments for belief and the Argument from Evil against it. We will also look at related topics such as modal logic, Intelligent design, self-organizing systems, and cosmology.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Three short papers and daily written reading assignments.",
+                                                    "relevance":  "Dietrich GenEd prior to 2021: Reflecting",
+                                                    "learning_resources":  "Philosophy journal articles, power point lectures, and books. Most materials are downloadable from the syllabus. There is time to order the texts online after the course begins.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

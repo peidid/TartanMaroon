@@ -1,0 +1,37 @@
+{
+        "code":  "84-310",
+        "name":  "Policy in a Global Economy 1: International Trade and Trade Policy",
+        "short_name":  "INTL TRADE POLICY",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Across the globe, the longstanding consensus in favor of open trade and investment policies is being called into question.  Trade wars are spreading and becoming more intense.  Protectionism and industrial policies are being embraced by developed and developing countries alike.  Are these shifts appropriate  Will they lead to greater prosperity or make prosperity harder to achieve  This course will give students the tools to answer these questions.  It will focus on the economics of international trade and immigration, providing students with the skills needed to assess trade, industrial, and immigration policies.  We will also study the politics of trade and immigration and the roots of the current backlash against globalization.  We will study the connection between trade and economic development.  We will analyze the rise of trade wars, trade sanctions, and the growing connection between trade policy and considerations of national security.  We will also examine policy options for mitigating the costs and more equally distributing the benefits of international trade.  Finally, we will consider the implications of climate change for international trade and trade policy.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Understand fundamental economic models of trade and industrial policy. 2. Understand fundamental economic models of immigration. 3. Evaluate current trade and immigration policy debates based on scientific evidence.",
+                                                    "key_topics":  "Trade policy, trade wars, protectionism, immigration, trade and national security, trade and inequality, trade and climate change",
+                                                    "prerequisite_knowledge":  "None. Students may benefit from having taken a prior course in basic microeconomics, but all the necessary tools and conceptual frameworks will be taught in class.",
+                                                    "assessment_structure":  "Student grades will be based on class participation, homework assignments, a midterm, and a final exam.",
+                                                    "relevance":  "Debates over trade policy, industrial policy, and immigration policy lie at the forefront of political fault lines across the world. What does science have to say about these critical issues? This class will provide the answer to that question.",
+                                                    "learning_resources":  "All readings will be in Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

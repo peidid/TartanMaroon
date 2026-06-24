@@ -1,0 +1,37 @@
+{
+        "code":  "80-316",
+        "name":  "Logic and AI",
+        "short_name":  "LOGIC AND AI",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(80-610 [] at least D) or (80-310 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, we will study logical systems that are relevant to, and motivated by, research in artificial intelligence. We will see how key ideas and advances in logic have found and continue to find natural applications in AI. More generally, we will see how logic and AI can benefit, and historically have benefited, from each other. A central aim of this course is to understand how logical languages of varying expressive power can be put to use in AI as a tool for representation and reasoning. Some of the topics that we will be focusing on are 1 nonmonotonic and default logics, 2 modal logics for reasoning about knowledgebelief, temporal structures, and computation, 3 probabilistic logics and the relation between logic and probability, 4 logics of graphical causal models and counterfactuals, as well as 5 elements of probabilistic programming and computable probability theory.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

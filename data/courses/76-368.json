@@ -1,0 +1,37 @@
+{
+        "code":  "76-368",
+        "name":  "Role Playing Game Writing Workshop",
+        "short_name":  "RPG WRITING WORKSHOP",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(76-269 [] at least C) or (76-260 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Role playing games RPGs are a vibrant and viable popular medium for interactive storytelling. This workshop builds upon dramatic theory DNA existing in plays, TV and film. Gameplay is performance. The skills developed when creating any timebound media transfer well to games but must be seen through a different lens  the lens of the player. To do so, we first examine and dissect both RPG story and game design using pencil and paper examples seeking an understanding of both game systems as well as narrative best practices. In class we focus our examination on the most popular existing intellectual property The Lord of the Rings. Students who desire admittance to this class should be at least somewhat familiar with that world to succeed in the class. Each student works on a fourperson team to create an original RPG campaignstyle adventure for an already existing story world. The final product is a portfolioquality set of dramatic scenes, epic tabletop encounters, and character sketches. This is not an RPG design course.  Any level of writing experience is welcome, BUT experience playing RPGs  either tabletop or video game  is a must. Experience as a GM for an RPG is a big plus, and applicants who possess such experience should be sure to let the instructor know in advance.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "How to write creatively in a team environment. How to work within an established fictional setting to produce an original work that feels like it belongs in that setting. How to structure and deliver an interactive story experience. How to craft an emotionally compelling story from a usercentric pointofview. How to create the standard set of paperwork deliverables expected by the game industry. How to become better writers, regardless of their previous experience.",
+                                                    "key_topics":  "The class will first examine and dissect pencil and paper RPG design as well as the fundamentals of Dramatic form seeking an understanding of both as well as storytelling \u0027best practices.\u0027 Once the groundwork has been laid, the class will be divided into four-person writing teams. Then, teams analyze what makes that IP \u0027tick,\u0027 followed by pitching a campaign story. The students proceed to flesh out the original story, deliver a full treatment, followed by Act breakdowns, mission arcs, character descriptions, stat blocks, encounter descriptions, maps, and lastly traditional scripted dialogue as well as interactive dialogue for select scenes.",
+                                                    "prerequisite_knowledge":  "Some writing experience. Familiarity with the LOTR franchise is a plus. Tabletop RPG play experience is a must.",
+                                                    "assessment_structure":  "Students will be assessed on assignments, team communication, in-class participation and attendance.",
+                                                    "relevance":  "Students will learn how to create interactive stories, taking advantage of the nature of the RPG medium, while working within the medium\u0027s constraints.",
+                                                    "learning_resources":  "Besides the required texts, students will need access to a general word processor as well as a script-writing program, flowcharting software, InDesign or some other page layout program.",
+                                                    "extra_time_commitment":  "Students will be required to work on their group assignments outside the regularly scheduled course times"
+                                            }
+}

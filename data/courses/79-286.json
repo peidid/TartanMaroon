@@ -1,0 +1,37 @@
+{
+        "code":  "79-286",
+        "name":  "Movers and Shakers in the Arab World",
+        "short_name":  "MOVERS \u0026 SHKRS ARAB",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Through an exploration of the legacy and contributions of key Arab figures from the 19 th century Arab Renaissance Nahda to the present day, this course aims to provide students with a historical overview and understanding of key issues that continue to engage Arab thought. We will explore how these key Arab figures impacted narratives, reshaped issues, and effected political, social, economic, and cultural change that continues to this day. The course will focus on figures from different domains, including thinkers, writers, poets, politicians, and artists, and we will study how these figures embodied hopes and aspirations or not, and advanced their causes. The course will involve relevant written and audiovisual materials from different media sources and literary texts as appropriate.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Explore of the legacy and contributions of key Arab figures from ArabNahda to the present day to gain a historical overview and understandingof key issues that continue to engage Arab thought. Examine how key Arab figures impacted narratives, reshaped issues, andeffected political, social, economic, and cultural change that continues tothis day. Enhance students appreciation of the discussed issues from a humanisticperspective, and enhance their intercultural understanding. Develop students abilities to argue, debate, and present persuasivearguments in writing and in speech. Develop students analytical abilities and critical thinking.",
+                                                    "key_topics":  "Through an exploration of the legacy and contributions of key Arab figures from\nthe 19 th century (Arab Renaissance: \"Nahda\") to the present day, this course aims\nto provide students with a historical overview and understanding of key issues\nthat continue to engage Arab thought. We will explore how these key Arab figures\nimpacted narratives, reshaped issues, and effected political, social, economic, and\ncultural change that continues to this day. The course will focus on figures from\ndifferent domains, including thinkers, writers, poets, politicians, and artists, and\nwe will study how these figures embodied hopes and aspirations (or not), and\nadvanced their causes. The course will involve relevant written and audiovisual\nmaterials from different media sources and literary texts (as appropriate).",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Effective daily participation\n¿ Assignments/Quizzes\n¿ Presentation and holding a class discussion\n¿ One exam\n¿ Final research paper",
+                                                    "relevance":  "Through the study of key Arab figures, the course aims to provide students with a\nhistorical overview or key events in the Arab region since Nahda to better\nunderstand political, cultural, and social transformation and development, and to\nenhance students\u0027 knowledge and understanding of issues that currently engage\nArab thought, communities, and cultures within increasingly changing\ncommunities. It aims to help students better understand and appreciate issues\nthat impact Arab and Arabic-speaking communities not only to better understand\nsome key events in Arab history and present-day times, but also to develop a\nhumanistic understanding of issues to enhance intercultural understanding.",
+                                                    "learning_resources":  "Academic articles and books (e.g., \"Women Awakening in Egypt\", \u0026quot;Gendering War Talk,\"\n\u0026quot;Huda Shaarawi\",\" Islam and Democracy From Tahtawi to Ghannouchi\", \"Debating\nOrientalism\", \"Imagining Palestine: Cultures of Exile and National Identity\"\n¿ Online journals\n¿ Documentaries\n¿ News Channels",
+                                                    "extra_time_commitment":  "No. Students are expected to spend about 6-7.5 hours on coursed work per week."
+                                            }
+}

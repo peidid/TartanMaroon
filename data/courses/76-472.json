@@ -1,0 +1,37 @@
+{
+        "code":  "76-472",
+        "name":  "Topics in Journalism: Storytelling in a Digital Age",
+        "short_name":  "TPCS IN JOURNALISM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-372 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Advanced Journalism students will learn how to plan and execute longform news feature stories from the ground up, starting with recognizing a promising idea, organizing a solid proposal then ultimately producing a publicationready report that is both accurate and compelling.  We will focus on four types of feature stories over the course of the semester a trend story, a profile, an explanatory report and a datadriven investigative story.  Each will require strong news judgment and solid writing skills, plus the ability to adapt as some story leads unexpectedly come to a dead end while promising other angles rise to the surface. Dont be surprised if the final product is notably different than the original idea thats often the path of the most successful reports.  While each student is responsible for his or her work, class sessions will be highly collaborative as ideas and strategies are critiqued with an eye toward helping all students achieve their best work.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is to not only improve students research and writing skills but to also give them more confidence in their writing and greater awareness of the different genres of feature writing.",
+                                                    "key_topics":  "Course will involve researching and producing quality long-form news feature articles in four genres: a trend story, a profile, an explanatory report and a data-driven investigative story.",
+                                                    "prerequisite_knowledge":  "Students should have mastered basic grammar rules and have a familiarity with AP writing style. Previous news writing experience that includes published work is recommended but not necessarily required.",
+                                                    "assessment_structure":  "Students will be assessed primarily on the basis of four major reports produced during the semester, as well as factors such as class participation. As the class meets only once a week, attendance is required unless the instructor is notified ahead of time.",
+                                                    "relevance":  "This course will help students develop and hone skills in researching and writing longer news reports. While this is primarily a journalistic endeavor, it is expected these skills will benefit students who may be interested in related careers such as public relations, advertising, legislative research, think tanks, grant writing or working for a non-profit organization.",
+                                                    "learning_resources":  "There will be assorted web-based readings throughout the semester as well as case studies. Texts will include writings on the craft of journalism and compelling storytelling.",
+                                                    "extra_time_commitment":  "As a rule the class will meet once a week on Thursday evenings although occasions for alternative or additional sessions may arise as news or other events require."
+                                            }
+}

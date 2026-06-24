@@ -1,0 +1,37 @@
+{
+        "code":  "82-323",
+        "name":  "Germany, Austria and Switzerland in the 20th Century",
+        "short_name":  "GER AUS SWZRLND 20 C",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "82-222 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course advances proficiency in communicative and grammatical skills in the German language and knowledge of Germanspeaking cultures through the study of important events, trends, and people of the twentieth century in Germany, Austria, and Switzerland. Examples will be drawn from literature, newspapers, television, film and other sources. Students will be expected to complete assignments that demonstrate the ability to express critical judgments in both written and oral form, documented through readings and personal research. The course includes a review of the most troublesome points of German grammar.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The first goal of this course is to expand your knowledge of the twentiethcentury Germanspeaking world, particularly Germany, Austria, and Switzerland. Identify and describe cultural identities, practices, products, and phenomena in Germany, Austria, and Switzerland during the twentieth century.Analyze how cultural practices construct and define the different worldviews that become visible therein and how worldviews impact approaches to lived reality.Demonstrate their crosscultural awareness through contrasting and comparing the specifics of German, Swiss, and Austrian cultural phenomena to those in their home culture. Critically engage with issues surrounding multiculturalism and minorities and their impact on national identities and stereotypes.The second goal of the course is to improve your German in all skill areas reading comprehension, written expression, listening comprehension, and speaking. The third goal of the course is to review and consolidate your knowledge of German grammar. We will focus particularly on reading, writing, speaking, and grammar this semester.",
+                                                    "key_topics":  "World War I, The Weimar Republic, Nazi Germany and World War II, the divided and reunited Germany, the German Democratic Republic, Switzerland, multicultural and multiethnic issues in the contemporary German-speaking world",
+                                                    "prerequisite_knowledge":  "82-222, placement, or permission of instructor",
+                                                    "assessment_structure":  "Class Discussion, Two Tests (on both course content and language skill building) Three Essays, and One Final Presentation of the Student\u0027s Choice",
+                                                    "relevance":  "DC: Intercultural and Global Inquiry\n\nThis course will focus on social causation, the development of political and cultural history, how politics affects culture, and how societal expectations affect politics",
+                                                    "learning_resources":  "All resources provided via Canvas, such as readings from cultural history; the Kanopy database for films, etc.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

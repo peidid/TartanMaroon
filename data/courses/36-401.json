@@ -1,0 +1,37 @@
+{
+        "code":  "36-401",
+        "name":  "Modern Regression",
+        "short_name":  "MODERN REGRESSION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((36-218 [] at least B) or (36-226 [] at least C) or (36-326 [] at least C) or (36-236 [] at least C) or (15-259 [] at least B)) and ((21-242 [] at least D) or (21-240 [] at least D) or (21-241 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to the real world of statistics and data analysis using linear regression modeling. We will explore real data sets, examine various models for the data, assess the validity of their assumptions, and determine which conclusions we can make if any. We will use the R programming language to implement our analyses and produce graphs and tables of results. Data analysis is a bit of an art there may be several valid approaches. We will strongly emphasize the importance of critical thinking about the data and the question of interest. Our overall goal is to use data and a basic set of modeling tools to answer substantive questions, and to present the results in a scientific report.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to select relevant models for a problem, fit linear models in R, evaluate their suitability for the given data, and interpret the results in context in a written report",
+                                                    "key_topics":  "Linear regression, analysis of variance, statistical inference for regression, model selection, regression modeling in R, nonparametric regression, classification",
+                                                    "prerequisite_knowledge":  "Basic probability; statistical inference; matrix algebra; basic programming experience, ideally in R, is desirable",
+                                                    "assessment_structure":  "Weekly homework, data analysis reports, and midterm exams",
+                                                    "relevance":  "Linear regression is widely used in practice to answer research questions using data, and to make predictions for new observations",
+                                                    "learning_resources":  "Lecture notes, textbooks, and some free online resources",
+                                                    "extra_time_commitment":  "No (except homework)"
+                                            }
+}

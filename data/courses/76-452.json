@@ -1,0 +1,37 @@
+{
+        "code":  "76-452",
+        "name":  "Generations and Culture",
+        "short_name":  "GENERATIONS LIT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We frequently hear about generationsthe Millennials and their multitasking, Gen X and their minivans, and the Baby Boomers and their selfsatisfactionbut generations have usually been ignored in cultural studies. Yet generations have significant impact on cultural tastes, consumer choices, and political views, as a good deal of research shows, and identity, alongside other factors such as race, class, gender, sexuality, ethnicity, and abledness. This course will study the theory of generations, as well as novels and films that tell us about generations. Please note firstyear students are prohibited from registering for this course. Sophomore students require instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

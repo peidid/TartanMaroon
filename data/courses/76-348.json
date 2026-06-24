@@ -1,0 +1,37 @@
+{
+        "code":  "76-348",
+        "name":  "Adaptation: Fiction to Film",
+        "short_name":  "ADAPT: FCTN TO FILM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Were going to examine and explore how films and novels tell their stories. Well look at the different literary devices novels use and how these techniques change when they are adapted for film.  Novels and films will include  Brokeback Mountain, Emma, Clueless, The Virigin Suicides, Normal People, Kiss of the Spider Woman, and The Unbearable Lightness of Being. For the final project, students will work on their own film adaptarions.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "Novels, Films",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Short response papers and a final project",
+                                                    "relevance":  "Students interested in film and fiction will benefit learning more about narrative structure.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

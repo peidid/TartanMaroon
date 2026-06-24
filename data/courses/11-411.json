@@ -1,0 +1,37 @@
+{
+        "code":  "11-411",
+        "name":  "Natural Language Processing",
+        "short_name":  "NATRL LNGUAG PRCSSNG",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "15-122 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about a variety of ways to represent human languages like English and Chinese as computational systems, and how to exploit those representations to write programs that do neat stuff with text and speech data, like translation, summarization, extracting information, question answering, natural interfaces to databases, and conversational agents. This field is called Natural Language Processing or Computational Linguistics, and it is extremely multidisciplinary. This course will therefore include some ideas central to Machine Learning and to Linguistics.  Well cover computational treatments of words, sounds, sentences, meanings, and conversations. Well see how probabilities and realworld text data can help. Well see how different levels interact in stateoftheart approaches to applications like translation and information extraction.  From a software engineering perspective, there will be an emphasis on rapid prototyping, a useful skill in many other areas of Computer Science.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "After successfully completing this course, students will have gained the following knowl edge and skills. Basic, terminology, concepts and applications of natural language processing. Major challenges and issues in computational processing of language. An understanding of the various representational structures used in the processing of natural language, How statistical models are used in modeling aspects of language and how they are implemented and used in processing language. Machine learning techniques used in all aspects of natural language processing and hpw to implement machine learning approaches for natural language processing tasks. How recent teachniques and approaches such as embeddings, encoderdecoder models, and transformerbased systems work. The conceptual and technical basis of large language models. Building nontrivial prototype natural language processing systems.",
+                                                    "key_topics":  "Course Overview ¿ Introduction to NLP 2. Course Project Overview\n3. Naive Bayes and Document Classification 4. Logistic Regression - Inference\n5. Logistic Regression - Training\n6. Feed-Forward Neural Networks and Backpropagation 7. Neural Language Models\n8. Vector Semantics and Embeddings\n9. Sequence Labeling, RNNs\n10. Encoder/Decoder Architectures, Self-Attention and Transformers 11. Transformer Language Models: BERT, finetuning\n12. NN Toolkits\n13. Text-in-text-out and prompting; GPT, GPT2, GPT-3, LLaMa 2 14. Reinforcement Learning with Human Feedback and ChatGPT 15. Reference and Co-reference resolution\n16. Machine Translation\n17. Natural-Language Inference and Reasoning over Texts 18. Chatbots and Task-oriented Chatbots\n19. QA and Multilingual QA\n20. Humor Detection/Toxic Speech Detection\n21. Fact Checking / Fake News Detection 22. Speech Recognition and Synthesis\n23. Multi-lingual NLP.",
+                                                    "prerequisite_knowledge":  "Strong programming skills (in Python)\nA course in data structures and algorithms (or equivalent experience)\nA basic knowledge of probability theory and linear algebra",
+                                                    "assessment_structure":  "Exams, Quizzes, Homeworks",
+                                                    "relevance":  "CS Constrained Elective",
+                                                    "learning_resources":  "Online book",
+                                                    "extra_time_commitment":  null
+                                            }
+}

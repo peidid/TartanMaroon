@@ -1,0 +1,48 @@
+{
+        "code":  "15-381",
+        "name":  "Artificial Intelligence: Representation and Problem Solving",
+        "short_name":  "AI RPRSNTN \u0026 PRB SLV",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C)"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-122",
+                                                "id":  2628,
+                                                "name":  "Integration and Approximation",
+                                                "units":  10.0
+                                        },
+                                        {
+                                                "code":  "21-241",
+                                                "id":  3972,
+                                                "name":  "Matrices and Linear Transformations",
+                                                "units":  11.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about the theory and practice of Artificial Intelligence. We will study modern techniques for computers to represent taskrelevant information and make intelligent i.e. satisficing or optimal decisions towards the achievement of goals. The search and problem solving methods are applicable throughout a large range of industrial, civil, medical, financial, robotic, and information systems.  We will investigate questions about AI systems such as how to represent knowledge, how to effectively generate appropriate sequences of actions and how to search among alternatives to find optimal or nearoptimal solutions.  We will also explore how to deal with uncertainty in the world, how to learn from experience, and how to learn decision rules from data.  We expect that by the end of the course students will have a thorough understanding of the algorithmic foundations of AI, how probability and AI are closely interrelated, and how automated agents learn.  We also expect students to acquire a strong appreciation of the bigpicture aspects of developing fully autonomous intelligent agents.  Other lectures will introduce additional aspects of AI, including natural language processing, webbased search engines, industrial applications, autonomous robotics, and economicgametheoretic decision making.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

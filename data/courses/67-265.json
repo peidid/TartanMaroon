@@ -1,0 +1,37 @@
+{
+        "code":  "67-265",
+        "name":  "Design Fundamentals: Shaping Interactions and Experiences",
+        "short_name":  "DESIGN FUNDAMENTAL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course offers handson experience based on theoretical grounding linked to fundamental design practices. The first fundamental idea is stakeholders need an interesting and organized pretask environment as a precursor to engaging with a task. A pretask environment is one that invites stakeholders to engage with and stay in a designed space because they can see that they will enjoy performing tasks that meet their goals. This useful, usable, and desirable task environment is developed by exploring compositional guidelines, color theory, and basic typography. With pretask knowledge in hand, students explore meaningmaking that emerges through the synthesis of image, word, and typeface as they design and prototype interactive solutions to problems that real users face, employing user studies and usability evaluations to create effective solutions.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Learn about and value how humans interact with information both in terms of content and composition.Understand, analyze, and create compositions that help users effectively perform tasks.Apply knowledge concerning composition, color, typography, imagetexttype meaningmaking, and basic user studies to solve specific problems.",
+                                                    "key_topics":  "Basic visual composition, color theory, typography, meaning making, and human-centered design",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students are assessed through exercises, a project, homework, participation, and a test at the semester\u0027s mid-point.",
+                                                    "relevance":  "Any student who wants to learn how to design effective communication in online environments will find this course relevant to their major and/or personal goals.",
+                                                    "learning_resources":  "Students use Canvas to access course materials, and all required and suggested texts are available as free, unlimited access e-books through CMU\u0027s library. Please refer to the syllabus for titles.",
+                                                    "extra_time_commitment":  "Design solutions sometimes come quickly and at other times require more thought. Overall, the expectations of a nine-unit class should suffice."
+                                            }
+}

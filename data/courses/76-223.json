@@ -1,0 +1,37 @@
+{
+        "code":  "76-223",
+        "name":  "Contemporary Black Literature",
+        "short_name":  "BLACK STUDIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will take a transatlantic approach to what constitutes blackness as well as black literature and expression from the turn of the 20th century until the present. We will investigate the relationship between poetic forms and expressions of social and selfrepresentation. However, this class will primarily focus on prose works novels, memoirs and nonfiction essays that span a multitude of genres from mystery to literary and science fiction. Authors include W.E.B. Dubois, Zora Neale Hurston, James Baldwin, Zadie Smith, Claude McKay, Amiri Baraka, Franz Fanon, Marlon James, Edouard Glissant, Nnedi Okorafor, Merle Collins and Jamaica Kincaid to name a few.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

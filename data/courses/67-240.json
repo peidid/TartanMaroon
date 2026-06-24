@@ -1,0 +1,37 @@
+{
+        "code":  "67-240",
+        "name":  "Mobile Web Design \u0026 Development",
+        "short_name":  "MOBILE WEB DES \u0026 DEV",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-104 [] at least C) or (02-120 [] at least C) or (15-112 [] at least C) or (15-110 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Mobile Web Design and Development course provides a solid web design and development foundation focusing on responsive, usercentered design, and clientside components. Throughout the course, students work with HTML5, CSS3, Twitter Bootstrap, and JavaScript, and learn how the various web components function together. The course utilizes a handson approach to guide students through learning and understanding the design and development process. In this course, students work on inclass activities, individual assignments and a group project with a client using the current standards and best practices of web design and development. This course is primarily designed for students with minimal technical experience. By the end of the course, students will be able to plan, design, and implement a basic functioning mobile website app.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Upon successful completion of the course, students should be able to Design and develop responsive mobile web sites apps using HTML5, CSS3, JavaScript and Bootstrap while respecting effective web design principles.Conduct the necessary research to inform the design and development process. Focus on usercentered design through all the stages of the process. Build and refine desktop and mobile site wireframes. Incorporate technology and business trends in the mobile web arena Implement mobile first and responsive web design principles and be able to use them practically. Explore a real world problem. Listen to a clients needs and translate them into designs. Refine the design through an iterative process and develop a solution prototype, which leads to a solution.",
+                                                    "key_topics":  "Responsive design, mobile design, web design, user-centered design, user research, user experience, user testing, user interaction, client-side components including HTML5, CSS3, JavaScript, Bootstrap, working with a client, design and development process.",
+                                                    "prerequisite_knowledge":  "Programming skill as demonstrated by 15-110, 15-112 or 15-104",
+                                                    "assessment_structure":  "(a) Participation, discussion and reflection; (b) individual assignments and in-class activities; (c) quizzes and exams; and (d) a group project.",
+                                                    "relevance":  "DC: Computational Thinking\n\nThis course would be relevant for anyone with media and web design interests. This course would be appropriate to better utilize web applications.",
+                                                    "learning_resources":  "Students use Canvas to access course materials, and all required and suggested texts are available as free, unlimited access e-books through CMU\u0027s library. Please refer to the syllabus for titles. All of the software used in the course is either free or licensed by the university.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

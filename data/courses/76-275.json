@@ -1,0 +1,37 @@
+{
+        "code":  "76-275",
+        "name":  "Introduction to Critical Writing",
+        "short_name":  "INTRO CRITCAL WRIT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course was formerly titled Critical Writing Workshop. The goal of this course is to sharpen your ability to read and write about literary and other imaginative works. Critical reading and writing mean gathering and evaluating language and images to form an interpretation of a print, visual, or other media text. To that end, you will learn analytical keywords and terms from literary and cultural theory and how to apply them to texts and other objects. The focus will be on theories of race, gender and empire and how they inform literary texts and our reading of them. Our courses method for critical writing instruction will be to workshop drafts of your essays. To that end, you will write four short interpretive papers in the course. You will also gain practice at oral presentation, peerreview and critique.  Since this is a writing workshop and our time for reading will be somewhat limited, we will read a several shorter literary texts in a range of genres fiction, drama, poetry while we consider questions of form. The communication and analytic skills you acquire in this class will transfer to your work in a wide range of academic disciplines and professional contexts.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The communication and analytic skills you acquire in this class will transfer to your work in a wide range of academic disciplines and professional contexts.",
+                                                    "key_topics":  "Writing, Critical Thinking Skills, Literary Analysis, Cultural Studies",
+                                                    "prerequisite_knowledge":  "Nothing.",
+                                                    "assessment_structure":  "Writing assignments, discussion, presentation",
+                                                    "relevance":  "Required for the L\u0026C major and minor. Also, it is a good toe in the water experience for anyone interested in the English department.",
+                                                    "learning_resources":  "Readings and visual materials will be available in pdf form or through a link on Canvas. They will also be required to purchase novels.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

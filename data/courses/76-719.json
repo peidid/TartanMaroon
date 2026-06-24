@@ -1,0 +1,37 @@
+{
+        "code":  "76-719",
+        "name":  "Environmental Rhetoric",
+        "short_name":  "ENVIRONMNTL RHETORIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Should you take a hike or seize the mic Environmental rhetoric combines commitment with contention We start by exploring its multiple discourses, from Muirs vision of conservation, to Leopolds introduction of ecology, to Carsons call for public action, to contemporary scientific research and competing public discussions. To uncover their hidden logic, we study rhetorical strategies first, for analyzing arguments over issues such as wolves, clean water, or sustainable design, and then for communicating risk in the face of climate change, fracking, as well as wind power.  In response, this course will prepare you to act as a researchbased rhetorical consultant for a group of your choice, analyzing the issues and arguments it faces, in order to propose a rhetorically effective response, supported by your own imaginative prototype of a brochure, web page, press release.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  "To be a more effective problem analyst, writer, and consultant, especially on environmental issues. To have extensive knowledge of critical environmental issues, ones you may face as a professional and a citizen. See the world around you with fresh eyes.",
+                                                    "key_topics":  "From nature writing to activist environmental writing and video (John Muir to Al Gore to Bill McKibben) and journalism (from Union of Concerned Scientists to the New Yorker). Research on communicating risk. Rhetorical strategies for analysis and persuasion. Writing a consulting report.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "To be a more effective problem analyst, writer, and consultant, especially on environmental issues. To have extensive knowledge of critical environmental issues, ones you may face as a professional and a citizen. See the world around you with fresh eyes.",
+                                                    "relevance":  "It is of course a pressing social issue for this whole generation. It will speak to people interested in public issues, professional writing in multiple forms, the \u0027environment\u0027 as well as Nature. It is designed to teach writing skills and evaluate competing arguments/",
+                                                    "learning_resources":  "texts, films, web sources, prior papers",
+                                                    "extra_time_commitment":  null
+                                            }
+}

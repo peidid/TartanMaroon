@@ -1,0 +1,37 @@
+{
+        "code":  "70-160",
+        "name":  "Graphic Media Management",
+        "short_name":  "GRAPHIC MEDIA MGMT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course covers fundamental topics related to graphic media. Modern graphic techniques are studied in context of the historical developments that underlie them. The greatest emphasis is placed on the current graphic processes, but studying their historical development gives the learner better understanding of their applications today, as well as a sense of the direction in which technology can be expected to move in the future. Information from this course can provide professionals in all industries with tactical advantages in choosing among graphic media options when allocating their media budgets. This course is designed to equip students with a measure of graphic literacy, which refers to the skills and knowledge needed to produce graphic documents that enhance the communication aims of the author. Graphic literacy is an invaluable skill for success in the communication age wherein most professionals are engaged in some aspect of producing graphic documents. Topics of investigation include traditional printing methods, typography, color reproduction, digital photography, digital cinema, papermaking, electronic paper, graphic displays, inks  coatings, finishing techniques, document security, electrophotographic printing, inkjet printing, large format printing, and holography. Open to undergraduates of all class years. No prerequisites.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

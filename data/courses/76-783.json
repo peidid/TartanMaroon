@@ -1,0 +1,37 @@
+{
+        "code":  "76-783",
+        "name":  "Nazi and Resistance Culture",
+        "short_name":  "NAZI RESISTANCE CLT",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How could the land of Goethe and Beethoven also have produced Hitler and the Holocaust This is a question that has frequently been posed about Germany. Germany has arguably been the dominant country in Western musical development since the sixteenth century it has also witnessed an extraordinary flowering of literature, philosophy, and the visual arts. This course, conducted in English, will explore what happened to German culture from 1933 to 1945. In particular, it will examine the Nazi assault on modern or degenerate art and the artistic response of the German and foreign resistance to Nazi tyranny. Arts explored will include literature, film, music, and the visual arts. We will read from the works of a variety of writers, including don von Horvath, Anna Seghers, Bertolt Brecht, Adolf Hitler, Albert Speer, Hanns Johst, Joseph Goebbels, and Paul Celan. Film will also play a major role in the course, and students will be required to view outside of class and discuss at least seven Naziera films, including Veit Harlans infamous antiSemitic Jud S and the Nazi film Hitlerjunge Quex Hitler Youth Quex, about a brave Hitler Youth martyr.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will be required to write a term paper, to complete all required readings and film viewings, to participate actively in classroom discussion, and to take two tests.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

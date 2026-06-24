@@ -1,0 +1,37 @@
+{
+        "code":  "79-282",
+        "name":  "Europe and the World Since 1800",
+        "short_name":  "EURPE WRLD SNCE 1800",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will introduce students to topics of historical and contemporary relevance in European society and culture from the nineteenth century to the present.  We shall focus especially on Europes place in shaping debates of major international importanceboth new and oldabout topics such as colonialism migration religious, ethnic, and national identity Islamophobia and antisemitism. Throughout we will pay special attention to the situation of inhabitants. past and the present, who have been considered outsiders or others in European society. In addition to class lectures, students will view films and listen to music related to the main themes of the course, in addition to reading and discussing historical texts.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Become familiar with the main events of European history in the last two centuriesAnalyze the role of imperialism and colonialism in shaping national historiesExplain the process of silencing the past and its consequences to the present dayAnalyze the ways in which images and stereotypes of Jews, Muslims, Black Europeans, Asian Europeans, and immigrants have served various political purposesUnderstand the forces that have shaped the lives of these European others and their relationships with other Europeans",
+                                                    "key_topics":  "European history 1800-2000\nEuropean imperialism\nNationalism\nMinorities in Europe\nImmigration\nRacism, anti-Semitism, and Islamophobia\nSocial, economic, and cultural change",
+                                                    "prerequisite_knowledge":  "No specialized knowledge",
+                                                    "assessment_structure":  "Participation in class (discussions, primary source workshops, activities); completion of readings; short written assignments; a paper and a final project",
+                                                    "relevance":  "Understanding how Europe has been shaped by its interactions with the rest of the world, and with people from the rest of the world, helps students make sense of debates about nationalism, immigration, multiculturalism, and the legacy of imperialism in Europe today.",
+                                                    "learning_resources":  "E-books through the Library; primary and secondary source readings via Canvas",
+                                                    "extra_time_commitment":  "None scheduled"
+                                            }
+}

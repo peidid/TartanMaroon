@@ -1,0 +1,37 @@
+{
+        "code":  "69-159",
+        "name":  "Water Fitness",
+        "short_name":  "WATER FITNESS",
+        "units":  2.0,
+        "min_units":  2.0,
+        "max_units":  2.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Discover a great way to effectively train and smoothly blend excitement and fun with directional changes and multidimensional movement while working your heart, toning your muscles, and strengthening your core.  Repeated bouts of exercise with intermittent rest periods challenging even the deepest muscle layers in your body.  Participants are in either shallow or deep water.  NO SWIMMING SKILLS REQUIRED  Buoyancy and resistance equipment supplied.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

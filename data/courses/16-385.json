@@ -1,0 +1,37 @@
+{
+        "code":  "16-385",
+        "name":  "Computer Vision",
+        "short_name":  "COMPUTER VISION",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((18-202 [] at least C) and (15-122 [] at least C)) or ((21-241 [] at least C) and (21-259 [] at least C) and (15-122 [] at least C)) or ((21-241 [] at least C) and (21-256 [] at least C) and (15-122 [] at least C)) or ((21-241 [] at least C) and (24-282 [] at least C) and (15-122 [] at least C)) or ((21-241 [] at least C) and (21-254 [] at least C) and (15-122 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a comprehensive introduction to computer vision. Major topics include image processing, detection and recognition, geometrybased and physicsbased vision, sensing and perception, and video analysis. Students will learn basic concepts of computer vision as well as hands on experience to solve reallife vision problems. This course is for undergraduate students only.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cs.cmu.edu/~16385/",
+        "custom_fields":  {
+                                                    "goals":  "Students will learn basic concepts of computer vision as well as hands on experience to solve reallife vision problems. By the end of the course, students should be able to implement simple but effective pipelines for image processing, geometric calibration, stereo and photometric stereo, classification and recogntion, and motion tracking.",
+                                                    "key_topics":  "This course provides a comprehensive introduction to computer vision. Major topics include image processing, detection and recognition, geometry-based and physics-based vision and video analysis.",
+                                                    "prerequisite_knowledge":  "Familiarity with theoretical and numerical linear algebra, calculus, basic probability, and programming.",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "Course should be relevant to all CS majors, ECE majors, Biomedical Engineering majors, as well as anyone broadly interested in artificial intelligence, autonomous sensing, and visual computing.",
+                                                    "learning_resources":  "Online textbook, course notes and slides.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-750",
+        "name":  "Critical Theories about Literature",
+        "short_name":  "CRIT THEOR ABT LIT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course studies the longdebated problem of how readers or spectators respond to texts in print, performances, film, or painting from ancient rhetoric and tragedy to contemporary mass culture.We will read in a range of critical theories, from thinkers like Aristotle, Plato, and Longinus to recent theorists in poststructuralism, gender studies, Marxism, and affect theory. How have such critics and theorists thought about the nature of the text and of representationor the relation of authorship to reading, ideas, and affects What techniques of analyzing literary texts have such theories stimulated Two papers and vigorous inclass discussion will be required.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  "To prepare them for more advanced study in literature, culture, and critical ideas",
+                                                    "key_topics":  "interpretation, authorship, reader response theory, text and context, historicism, gender theory, narrative",
+                                                    "prerequisite_knowledge":  "Some knowledge of literature, the arts, or interdisciplinary cultural analysis",
+                                                    "assessment_structure":  "Two critical conference-style papers, short profiles of critics and theorists, in-class presentations, Google Docs",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Google Docs, Canvas discussions",
+                                                    "extra_time_commitment":  null
+                                            }
+}

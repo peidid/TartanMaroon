@@ -1,0 +1,37 @@
+{
+        "code":  "98-367",
+        "name":  "Student Taught Courses(StuCo): PPAP: Paradoxical Perception Amongst People",
+        "short_name":  "PERCEPT AMONG PEOPLE",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of this course is to recognize and be aware that mindsets are variable and can be altered understanding and mindfulness can be selfinduced with the right philosophy and thought process. Motivational philosophy in which human perception of items and occurrences is discovereddiscussed. Themes will vary from week to week roughly, covering topics to do with psychology, philosophy, and ethics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

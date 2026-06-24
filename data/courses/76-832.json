@@ -1,0 +1,37 @@
+{
+        "code":  "76-832",
+        "name":  "Introduction to Archival Studies",
+        "short_name":  "INTRO TO ARCHV STUD",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This mini introduces students to both theoretical and practical approaches to archival work for literary and cultural studies. On the theoretical side, we consider how archives are constructed, imagined, used, and critiqued. What is an archive What can it do and not do How does technology shape archival work On the practical side, we learn how to enter archives as researchers, including how to safely and efficiently work with primary source material. Class activities may include visiting archivesmuseums, guest speakers from the libraries, and working on research grantfellowship applications.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is to provide theoretical and practical experience with archival work. Students will leave with a theoretical background as well as hands on experience using archives.",
+                                                    "key_topics":  "archival work, book history, theory, methodology",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Reading responses, a presentation, and a short paper",
+                                                    "relevance":  "This course supports graduate students as they begin to conduct their own research in archives.",
+                                                    "learning_resources":  "All materials will be available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

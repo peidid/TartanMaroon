@@ -1,0 +1,37 @@
+{
+        "code":  "03-728",
+        "name":  "Genome Editing Biotechnology",
+        "short_name":  "GENOME EDIT BIOTECH",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(03-220 [] at least D) or (03-621 [] at least D) or (03-221 [] at least D) or (03-709 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How can we create genetically engineered cells, animals, plants, and even humans  This course will focus on the technologies that enable genome modification, with an emphasis on the recently developed CRISPRCas9 system.  Specific topics will include an introduction to CRISPR technology and its history DNA double strand break repair Off target effects Gene regulator CRISPRs Alternate technologies Ethics of modifying our genomes Applications  cell screening Applications  organism engineering Applications  antiHIV and immunotherapy Overview of Gene therapy.  Student inclass presentations will cover latebreaking topics and specific areas of student interest.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "A.Describe the fundamental aspects of genome editingB.Discuss the major ways in which the technology has been appliedC.Discuss the use of genome editing principles to new biomedical problemsD.Identify significant recent research reported in peerreviewed literature",
+                                                    "key_topics":  "In this course we will explore the fundamental biological mechanisms of genome editing and the CRISPR system. We will also discuss technical issues that arise in use of this technology and how researchers are attempting to improve the technology. Additionally, applications of this technology to disease modeling, germ-line engineering, cell based engineering, and disease therapy will be explored.",
+                                                    "prerequisite_knowledge":  "Background course work in biology, genetics, and biochemistry.",
+                                                    "assessment_structure":  "Weekly homework assignments on associated readings, about 3 quizzes, and a mini-project. A portion of the grade will come from class attendance and participation in small and large group discussions about the assigned readings.",
+                                                    "relevance":  "Students will gain fundamental knowledge of genome editing techniques, the current research being conducted in the field, as well as applications of the technologies.",
+                                                    "learning_resources":  "Students will be assigned multiple papers that will be discussed during class",
+                                                    "extra_time_commitment":  "A large amount of the time will be spent outside of class reading the assigned weekly papers and answering associated homework questions in preparation for the class discussions each week."
+                                            }
+}

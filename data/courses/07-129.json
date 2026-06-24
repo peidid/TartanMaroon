@@ -1,0 +1,37 @@
+{
+        "code":  "07-129",
+        "name":  "Freshmen Immigration Course",
+        "short_name":  "FRESHMEN IMMIGRATION",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Freshman Immigration Course is taken by firstsemester Computer Science majors on the Doha campus. The course is designed to acquaint incoming majors with computer science at CMU. Talks range from historical perspectives in the field to descriptions of the cutting edge research being conducted in the School of Computer Science. Enrollment is limited to SCS Freshmen ONLY.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

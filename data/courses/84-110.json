@@ -1,0 +1,37 @@
+{
+        "code":  "84-110",
+        "name":  "The Economics of Politics and Technology",
+        "short_name":  "ECON POLITICS \u0026 TECH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a broad introduction to economic analysis for political scientists. The first part of the course will cover the principles of microeconomics, public choice theory, and the economics of technological change. The next segment of the course will apply these tools to build an understanding of macroeconomics and international finance and trade. The final portion of the course will focus on the application of these principles to recent global trade disruptions, technology competition, and policy responses aimed at developing resilient supply chains. The role of technology, innovation, and technology policy will be emphasized across all course topics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Gain or sharpen the ability to critically analyze political and technological questions using foundational economic concepts and theories.Gain practical research expertise and substantive knowledge of global economic systems.",
+                                                    "key_topics":  "Principles of Microeconomics; Public Choice Theory; Economics of Technological Change; Macroeconomics; International Finance and Trade; Technology Competition",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Combination of attendance, quizzes, several short writing assignments, and one longer writing assignment.",
+                                                    "relevance":  "The course will provide students with the cognitive and analytical skills essential for understanding political and technological phenomena",
+                                                    "learning_resources":  "Most readings will be available on Canvas, through CMU library, or otherwise free online.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

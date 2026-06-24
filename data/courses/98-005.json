@@ -1,0 +1,37 @@
+{
+        "code":  "98-005",
+        "name":  "Student Taught Courses (StuCo): Introduction to True Crime",
+        "short_name":  "STUCO: TRUE CRIME",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to provide students with an introduction to true crime. This includes analyses of various cases as well as interrogation techniques and the process that the criminal justice system goes through from start to finish. Students will familiarize themselves with the technologies and personnel used to solve a case and how different techniques are used against suspects. Students should be aware that the course covers some sensitive topics that may be triggering for some individuals, such as mental health, police brutality, selfharm, abuse, etc.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal is to provide the students with the ability to make educated inferences about true crime, especially in future cases that may arise.",
+                                                    "key_topics":  "Case analysis of famous cases, interrogation techniques, polygraph uses.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will be assessed via in-class worksheets as well as the midterm and final already discussed. The course project also will be used in assessment to determine how the material covered in the course has improved the student\u0027s ability to engage more fully with true crime cases.",
+                                                    "relevance":  "The course is relevant to the targeted student populations in that it will enhance their ability to engage intellectually with the entertainment they already enjoy.",
+                                                    "learning_resources":  "The internet will be the main resource for students, as there are countless true crime videos and articles out there. This content, however, will be selected to be featured as part of the course content. We will also provide writeups on any of more technical content we cover such as personnel in following a criminal case and how polygraphs work.",
+                                                    "extra_time_commitment":  "Outside of class, there will be a weekly video to watch or article to read that will be topic of the next class session. These videos will likely be between one to two hours. There may also be optional supplemental information highlighted that would be available for students. Finally, the course project will need to be completed outside of class. This course project, though, should be entertaining to the student, and a few hours of work are expected to be done as the student must choose a true crime case and engage with it via analysis and commentary."
+                                            }
+}

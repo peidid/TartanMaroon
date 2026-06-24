@@ -1,0 +1,202 @@
+[
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "21-111: Calculus I"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "70-106: Business Science"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "70-122: Introduction to Accounting"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "76-100: Reading and Writing in an Academic Context"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "70-110: Business Computing"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Fall",
+    "Course": "99-101: C@CM (online)"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "21-120: Differential and Integral Calculus"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "70-207: Probability and Statistics for Business Applications"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "73-102: Principles of Microeconomics"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "76-101: Interpretation and Argument"
+  },
+  {
+    "Year": "First-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: Breadth Course"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "21-256: Multivariate Analysis"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "70-208: Regression Analysis"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "70-340: Business Communication"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "73-103: Principles of Macroeconomics"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: University Core/Minor Course"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "70-257: Optimization for Business"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "70-3XX: Finance, Marketing, Operations Management or Organizational Behavior"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "73-230: Intermediate Microeconomics"
+  },
+  {
+    "Year": "Second-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: University Core/Minor Course"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "70-3XX: Finance, Marketing, Operations Management or Organizational Behavior"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "70-3XX: Finance, Marketing, Operations Management or Organizational Behavior"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "70-3XX: Finance, Marketing, Operations Management or Organizational Behavior"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "70-XXX: Concentration Course"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: Breadth/Minor/Elective Course"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "70-201: Professional & Service Projects"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "70-332: Business, Society and Ethics"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "70-345: Business Presentations"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "70-XXX: Concentration Course"
+  },
+  {
+    "Year": "Third-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: Breadth/Minor/Elective Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "70-XXX: Concentration Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: University Core/Minor Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: University Core/Minor Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: University Core/Minor Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Fall",
+    "Course": "XX-XXX: University Core/Minor Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "70-401: Management Game"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "70-XXX: Concentration Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "70-XXX: Concentration Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: University Core/Minor/Concentration Course"
+  },
+  {
+    "Year": "Fourth-Year",
+    "Semester": "Spring",
+    "Course": "XX-XXX: University Core/Minor Course"
+  }
+]

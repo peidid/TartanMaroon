@@ -1,0 +1,42 @@
+{
+        "code":  "67-317",
+        "name":  "Mobile Web Development and Usability Testing",
+        "short_name":  "MBL WB DVL USBY TSTG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((15-121 [] at least D) or (15-122 [] at least D)) and (67-272 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "67-315",
+                                                    "id":  1055,
+                                                    "name":  "A Web For Everyone",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Designing for mobile web applications enables businesses to harness the explosive growth and new opportunities on the mobile internet, besides enabling innovation in many ways. This course emphasizes a mobile first approach to responsive web design, development, and user experience. Students gain a deep understanding of the mobile web development process, the grammar of building mobile web sites, emerging web standards, and stateoftheart mobile usability testing methods. They gain firsthand exposure to developing with HTML5 and CSS3 and applying heuristic methods and testing tools such as Morae and Tobii eye tracker, to achieve an enhanced mobile user experience.  Recent reports state that 80 percent of mobile websites in the US get traffic from other regions of the world. The course will address the need for facilitating a global user experience, through independent student projects that target a global or social theme and deliver a complete solution involving design, development, and usability testing of a localized and responsive web site.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

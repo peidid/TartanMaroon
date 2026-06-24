@@ -1,0 +1,37 @@
+{
+        "code":  "80-348",
+        "name":  "Health, Human Rights, and International Development",
+        "short_name":  "HLTH DVLPT INT RIGHT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Approximately 767 million people, or more than 10 of the worlds population, live in a condition the World Bank refers to as extreme poverty.  Those who live in extreme poverty frequently lack effective access to proper nutrition, adequate shelter, safe drinking water, and sanitation.  As a result, they also bear the greatest burdens of famine and epidemic disease and frequently face social and political conditions of unrest and systematic oppression.  This course aims to introduce students to the problem of global public health and its intersection with claims of human rights.  We will focus on theoretical accounts of human rights and questions arising from them What constitutes a human right, and on what basis or bases might the existence of human rights be defended  If human rights exist, whose responsibility is it to see that they are defendedprovidednot violated, and why What is the relationship between health deficits and human rights deficits, and what would a human right to health look like  Are global institutions such as the protection of strong intellectual property rights consistent with respect for a human right to health",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students are expected to come away from the course with a strong understanding of human rights theory, global health inequalities, how global health inequalities are related to global institutions of trade and finance, and how to parcel out responsibility for addressing healthrelated human rights. In addition, this course aims to help students strengthen their skills in analytic reading, interpretation, and writing. Assignments are therefore structured to emphasize writing and analysis rather than exams. The course will be conducted as a seminar more below and is intended to be discussion rather than lecturebased.",
+                                                    "key_topics":  "Human rights theory, responsibility for injustice, global public health ethics, global pharmaceutical development, intellectual property rights, international clinical research, transnational surrogacy",
+                                                    "prerequisite_knowledge":  "No prior knowledge is necessary, but a previous class in philosophy would be helpful",
+                                                    "assessment_structure":  "Roughly bi-weekly short writing assignments; a term paper draft; a peer review of a colleague\u0027s draft; a revision of the term paper",
+                                                    "relevance":  "Dietrich GenEd prior to 2021: Deciding\n\nNo prior knowledge is necessary, but a previous class in philosophy would be helpful.",
+                                                    "learning_resources":  "All readings are provided by the instructor.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

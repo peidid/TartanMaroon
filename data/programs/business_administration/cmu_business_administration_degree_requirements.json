@@ -1,0 +1,695 @@
+{
+  "program": {
+    "title": "BS in Business Administration",
+    "school": "Qatar Business Administration",
+    "university": "Carnegie Mellon University",
+    "degree": "BS",
+    "audit_version": "EY2024+ Doha BS in Business Administration",
+    "visibility": "PUBLIC",
+    "last_published": "July 23, 2024",
+    "published_by": "Jarrin Nevel",
+    "applies_to_students": 66,
+    "manually_applied_to_students": 1,
+    "entry_year": {
+      "start": 2024,
+      "end": null,
+      "description": "2024 and later"
+    },
+    "campus": "Doha"
+  },
+  "program_requirements": {
+    "total_units_required": 364,
+    "double_counting_rules": {
+      "general": "Courses may double count without any limit with other programs unless specified otherwise",
+      "concentration": "Courses that count towards Concentration: 0"
+    },
+    "mode_average_units": 9
+  },
+  "requirements": {
+    "business_foundations": {
+      "mode_average_units": 9,
+      "max_transfer_courses": 1,
+      "mathematics": {
+        "mode_average_units": 9,
+        "calculus": {
+          "mode_average_units": 10,
+          "choose_one_from": [
+            {
+              "code": "21-112",
+              "title": "Integral Calculus"
+            },
+            {
+              "code": "21-120",
+              "title": "Differential and Integral Calculus"
+            }
+          ]
+        },
+        "multivariate_analysis": {
+          "mode_average_units": 9,
+          "choose_one_from": [
+            {
+              "code": "21-256",
+              "title": "Multivariate Analysis"
+            },
+            {
+              "code": "21-259",
+              "title": "Calculus in Three Dimensions"
+            }
+          ]
+        },
+        "models_of_optimization": {
+          "mode_average_units": 9,
+          "choose_one_from": [
+            {
+              "code": "70-257",
+              "title": "Optimization for Business"
+            },
+            {
+              "code": "21-257",
+              "title": "Models and Methods for Optimization"
+            },
+            {
+              "code": "21-292",
+              "title": "Operations Research I"
+            }
+          ]
+        }
+      },
+      "economics": {
+        "mode_average_units": 9,
+        "microeconomics": {
+          "mode_average_units": 9,
+          "choose_one_from": [
+            {
+              "code": "73-102",
+              "title": "Principles of Microeconomics"
+            },
+            {
+              "code": "73-104",
+              "title": "Principles of Microeconomics Accelerated"
+            },
+            {
+              "code": "73-103",
+              "title": "Principles of Macroeconomics"
+            }
+          ]
+        },
+        "intermediate_micro_or_macro": {
+          "mode_average_units": 9,
+          "choose_one_from": [
+            {
+              "code": "73-230",
+              "title": "Intermediate Microeconomics"
+            },
+            {
+              "code": "73-240",
+              "title": "Intermediate Macroeconomics"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "mode_average_units": 9,
+        "probability_stats_for_business": {
+          "mode_average_units": 9,
+          "choose_one_from": [
+            {
+              "code": "70-207",
+              "title": "Probability and Statistics for Business Applications"
+            },
+            {
+              "code": "36-200",
+              "title": "Reasoning with Data"
+            }
+          ]
+        },
+        "regression_analysis": {
+          "mode_average_units": 9,
+          "choose_one_from": [
+            {
+              "code": "70-208",
+              "title": "Regression Analysis"
+            },
+            {
+              "code": "36-202",
+              "title": "Methods for Statistics & Data Science"
+            }
+          ]
+        }
+      }
+    },
+    "business_core": {
+      "mode_average_units": 9,
+      "max_transfer_courses": 1,
+      "required_courses": [
+        {
+          "code": "70-106",
+          "title": "Business Science"
+        },
+        {
+          "code": "70-110",
+          "title": "Business Computing"
+        },
+        {
+          "code": "70-122",
+          "title": "Introduction to Accounting"
+        },
+        {
+          "code": "70-311",
+          "title": "Organizational Behavior"
+        },
+        {
+          "code": "70-332",
+          "title": "Business, Society and Ethics"
+        },
+        {
+          "code": "70-340",
+          "title": "Business Communications"
+        },
+        {
+          "code": "70-345",
+          "title": "Business Presentations"
+        },
+        {
+          "code": "70-371",
+          "title": "Operations Management"
+        },
+        {
+          "code": "70-381",
+          "title": "Marketing I"
+        },
+        {
+          "code": "70-391",
+          "title": "Finance"
+        }
+      ]
+    },
+    "business_leadership_endeavor": {
+      "mode_average_units": 3,
+      "required_courses": [
+        {
+          "code": "70-104",
+          "title": "Business Leadership Endeavor I"
+        },
+        {
+          "code": "70-204",
+          "title": "Business Leadership Endeavor II"
+        },
+        {
+          "code": "70-304",
+          "title": "Business Leadership Endeavor III"
+        }
+      ]
+    },
+    "management_game_consulting_project": {
+      "mode_average_units": 12,
+      "required_courses": [
+        {
+          "code": "70-401",
+          "title": "Management Game"
+        },
+        {
+          "code": "70-447",
+          "title": "Client Consulting Project: Strategic Management of the Enterprise"
+        }
+      ]
+    },
+    "concentration": {
+      "mode_average_units": 9,
+      "choose_one_concentration": true,
+      "no_double_counting": "Courses may not double count with other requirements unless specified otherwise",
+      "concentrations": {
+        "accounting": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "course": {
+              "code": "70-424",
+              "title": "Corporate Financial and Sustainability Reporting"
+            }
+          },
+          "three_area_electives": {
+            "courses_required": 3,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "70-422",
+                "title": "Managerial Accounting"
+              },
+              {
+                "code": "70-427",
+                "title": "Modern Banks: Strategy and Regulation"
+              },
+              {
+                "code": "70-428",
+                "title": "Financial Statement Analysis"
+              },
+              {
+                "code": "70-498",
+                "title": "Business Language Analytics: Mining Financial Texts and Graphs"
+              }
+            ]
+          }
+        },
+        "business_analytics_and_technologies": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "choose_one_from": [
+              {
+                "code": "70-374",
+                "title": "Data Mining & Business Analytics"
+              },
+              {
+                "code": "70-467",
+                "title": "Machine Learning for Business Analytics"
+              }
+            ]
+          },
+          "three_area_electives": {
+            "courses_required": 3,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "70-374",
+                "title": "Data Mining & Business Analytics"
+              },
+              {
+                "code": "70-387",
+                "title": "Strategy for High-Tech Products and Services"
+              },
+              {
+                "code": "70-455",
+                "title": "Data Management Fundamentals"
+              },
+              {
+                "code": "70-458",
+                "title": "Advanced Data Management"
+              },
+              {
+                "code": "70-460",
+                "title": "Mathematical Models for Consulting"
+              },
+              {
+                "code": "70-467",
+                "title": "Machine Learning for Business Analytics"
+              },
+              {
+                "code": "70-469",
+                "title": "End to End Business Analytics"
+              },
+              {
+                "code": "70-498",
+                "title": "Business Language Analytics: Mining Financial Texts and Graphs"
+              },
+              {
+                "code": "73-366",
+                "title": "Designing the Digital Economy"
+              },
+              {
+                "code": "73-374",
+                "title": "Econometrics II"
+              }
+            ]
+          }
+        },
+        "entrepreneurship": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "70-415",
+                "title": "Introduction to Entrepreneurship"
+              },
+              {
+                "code": "70-416",
+                "title": "New Venture Creation"
+              }
+            ]
+          },
+          "two_area_electives": {
+            "courses_required": 2,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "49-300",
+                "title": "Integrated Product Conceptualization"
+              },
+              {
+                "code": "70-395",
+                "title": "Funding Entrepreneurial Ventures"
+              },
+              {
+                "code": "70-438",
+                "title": "Commercialization and Innovation"
+              },
+              {
+                "code": "70-443",
+                "title": "Digital Marketing and Social Media Strategy"
+              },
+              {
+                "code": "70-496",
+                "title": "Venture Capital"
+              }
+            ]
+          },
+          "independent_study": {
+            "mode_average_units": 3,
+            "special_permission_required": true,
+            "course": {
+              "code": "70-509",
+              "title": "Independent Study in Entrepreneurship"
+            }
+          }
+        },
+        "finance": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "70-492",
+                "title": "Investment Analysis"
+              },
+              {
+                "code": "70-495",
+                "title": "Corporate Finance"
+              }
+            ]
+          },
+          "two_area_electives": {
+            "courses_required": 2,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "70-337",
+                "title": "Business of Blockchain"
+              },
+              {
+                "code": "70-353",
+                "title": "Financial Regulation in the Digital Age"
+              },
+              {
+                "code": "70-398",
+                "title": "International Finance"
+              },
+              {
+                "code": "70-484",
+                "title": "Data Science for Finance"
+              },
+              {
+                "code": "70-490",
+                "title": "Big Data in Finance and Machine Learning"
+              },
+              {
+                "code": "70-493",
+                "title": "Valuation and Financial Modeling"
+              },
+              {
+                "code": "70-497",
+                "title": "Derivative Securities"
+              },
+              {
+                "code": "70-498",
+                "title": "Business Language Analytics: Mining Financial Texts and Graphs"
+              },
+              {
+                "code": "70-491",
+                "title": "Private Equity"
+              },
+              {
+                "code": "70-496",
+                "title": "Venture Capital"
+              },
+              {
+                "code": "73-338",
+                "title": "Financial Crises and Risk"
+              }
+            ]
+          }
+        },
+        "global_economics_and_business": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "course": {
+              "code": "73-265",
+              "title": "Economics and Data Science"
+            }
+          },
+          "choose_one": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "73-347",
+                "title": "Game Theory Applications for Economics and Business"
+              },
+              {
+                "code": "73-421",
+                "title": "Emerging Markets"
+              }
+            ]
+          },
+          "two_area_electives": {
+            "courses_required": 2,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "70-398",
+                "title": "International Finance"
+              },
+              {
+                "code": "73-338",
+                "title": "Financial Crises and Risk"
+              },
+              {
+                "code": "73-341",
+                "title": "Managing through Incentives"
+              },
+              {
+                "code": "73-365",
+                "title": "Firms, Market Structures, and Strategy"
+              },
+              {
+                "code": "73-366",
+                "title": "Designing the Digital Economy"
+              },
+              {
+                "code": "73-372",
+                "title": "International Money and Finance"
+              },
+              {
+                "code": "73-427",
+                "title": "Sustainability, Energy, and Environmental Economics"
+              }
+            ]
+          }
+        },
+        "marketing_management": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "course": {
+              "code": "70-481",
+              "title": "Marketing Research"
+            }
+          },
+          "three_area_electives": {
+            "courses_required": 3,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "70-385",
+                "title": "Consumer Behavior"
+              },
+              {
+                "code": "70-387",
+                "title": "Strategy for High-Tech Products and Services"
+              },
+              {
+                "code": "70-443",
+                "title": "Digital Marketing and Social Media Strategy"
+              },
+              {
+                "code": "70-482",
+                "title": "Pricing Strategy"
+              },
+              {
+                "code": "70-483",
+                "title": "Advertising and Marketing Communications"
+              },
+              {
+                "code": "70-485",
+                "title": "Brand Management"
+              }
+            ]
+          }
+        },
+        "operations_management": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "70-460",
+                "title": "Mathematical Models for Consulting"
+              },
+              {
+                "code": "70-471",
+                "title": "Supply Chain Management"
+              }
+            ]
+          },
+          "two_area_electives": {
+            "courses_required": 2,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "70-373",
+                "title": "Sustainable Operations"
+              },
+              {
+                "code": "70-422",
+                "title": "Managerial Accounting"
+              },
+              {
+                "code": "70-447",
+                "title": "Client Consulting Project: Strategic Management of the Enterprise"
+              },
+              {
+                "code": "70-474",
+                "title": "Quality Management and Productivity"
+              },
+              {
+                "code": "70-476",
+                "title": "Service Operations Management"
+              },
+              {
+                "code": "70-477",
+                "title": "Real Options: Creating Value Beyond NPV"
+              },
+              {
+                "code": "70-493",
+                "title": "Valuation and Financial Modeling"
+              }
+            ]
+          },
+          "choose_one_additional": {
+            "mode_average_units": 9,
+            "courses": [
+              {
+                "code": "70-462",
+                "title": "Uncertainty and Risk Modeling"
+              },
+              {
+                "code": "70-453",
+                "title": "Business Technology for Consulting"
+              }
+            ]
+          }
+        },
+        "strategic_management": {
+          "mode_average_units": 9,
+          "required_courses": {
+            "mode_average_units": 9,
+            "choose_one_from": [
+              {
+                "code": "70-437",
+                "title": "Strategic Management and Innovation"
+              },
+              {
+                "code": "70-465",
+                "title": "Technology Strategy"
+              }
+            ]
+          },
+          "three_area_electives": {
+            "courses_required": 3,
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "70-341",
+                "title": "Team Dynamics and Leadership"
+              },
+              {
+                "code": "70-342",
+                "title": "Managing Across Cultures"
+              },
+              {
+                "code": "70-385",
+                "title": "Consumer Behavior"
+              },
+              {
+                "code": "70-387",
+                "title": "Strategy for High-Tech Products and Services"
+              },
+              {
+                "code": "70-424",
+                "title": "Corporate Financial and Sustainability Reporting"
+              },
+              {
+                "code": "70-437",
+                "title": "Strategic Management and Innovation"
+              },
+              {
+                "code": "70-440",
+                "title": "Corporate Strategy"
+              },
+              {
+                "code": "70-465",
+                "title": "Technology Strategy"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "business_electives": {
+      "mode_average_units": 9,
+      "units_required": 18,
+      "max_transfer_courses": 1,
+      "included_courses": [
+        "21-270",
+        "70-001",
+        "70-002"
+      ],
+      "included_ranges": [
+        "70-210 to 70-498",
+        "73-300 to 73-499"
+      ],
+      "excluded_courses": [
+        "70-050",
+        "70-051",
+        "70-499"
+      ],
+      "excluded_patterns": [
+        "70-5**"
+      ]
+    },
+    "core_at_cmu": {
+      "mode_average_units": 3,
+      "non_letter_grade_allowed": true,
+      "choose_one_from": [
+        {
+          "code": "99-101",
+          "title": "Core@CMU"
+        },
+        {
+          "code": "99-102",
+          "title": "Core@CMU"
+        }
+      ]
+    },
+    "general_requirements": {
+      "qatar_business_administration_degree_check": {
+        "mode_average_units": 9,
+        "double_counting_allowed": "unlimited",
+        "requirements": [
+          "QPA",
+          "Total Units"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "84-267",
+        "name":  "Data Science for Political Science",
+        "short_name":  "DATA SCIENCE POLISCI",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "36-200 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course develops foundational skills in data science and quantitative analysis. The course provides students with handson experience in using and analyzing data to answer questions in international relations and political science. Students will learn how to wrangle, clean, or create data to test hypotheses, and how to summarize and visualize data effectively. They will also learn the fundamentals of applied bivariate and multivariate regression analysis, including model specification, estimation, and overall fit assessment, as well as the assumptions of regression analysis and their implications.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

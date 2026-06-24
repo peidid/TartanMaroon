@@ -1,0 +1,37 @@
+{
+        "code":  "76-423",
+        "name":  "Transnational Feminisms",
+        "short_name":  "TRANSNATIONAL FEM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How do controversial practices related to women become touchstones that draw women together across cultures or, conversely, push them into separate cultural and political spheres This course introduces the challenges transnational feminism has posed to Western notions of feminism. To explore these contestations, we will look at a series of controversies that have generated global debates about the status of women and issues like consent, freedom, and equality. We will look specifically at the close connections made between womens practices and elements of tradition, including religion. We will be reading a range of positions represented in different types of writing across genre, including scholarly writing, legal cases, media debates, films and literature.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "students will complicate ideas of Western feminism through a global, transnational and historical approach",
+                                                    "key_topics":  "feminism, global studies, gender",
+                                                    "prerequisite_knowledge":  "This course assumes some familiarity with reading theory from humanities and social science",
+                                                    "assessment_structure":  "regular discussion posts, long seminar paper, oral presentation",
+                                                    "relevance":  "this course is targeted to students interested in further discussions of feminism in a global context",
+                                                    "learning_resources":  "online texts and texts for purchase",
+                                                    "extra_time_commitment":  "individual meetings"
+                                            }
+}

@@ -1,0 +1,42 @@
+{
+        "code":  "02-510",
+        "name":  "Computational Genomics",
+        "short_name":  "COMPUTATNL GENOMICS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) and ((15-259 [] at least D) or (36-225 [] at least D) or (36-235 [] at least D) or (36-218 [] at least D))"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "10-315",
+                                                "id":  9508,
+                                                "name":  "Introduction to Machine Learning (SCS Majors)",
+                                                "units":  12.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Dramatic advances in experimental technology and computational analysis are fundamentally transforming the basic nature and goal of biological research. The emergence of new frontiers in biology, such as evolutionary genomics and systems biology is demanding new methodologies that can confront quantitative issues of substantial computational and mathematical sophistication.  From the computational side this course focuses on modern machine learning methodologies for computational problems in molecular biology and genetics, including probabilistic modeling, inference and learning algorithms, data integration, time series analysis, active learning, etc. This course counts as a CSD Applications elective",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "In this course we will discuss classical approaches and latest methodological advances in the context of the following biological problems 1 sequence analysis, focusing on gene finding and motifs detection, 2 analysis of high throughput molecular data, such as gene expression data, including normalization, clustering, pattern recognition and classification, 3 molecular and regulatory evolution, focusing on phylogenetic inference and regulatory network evolution, 4 population genetics, focusing on how genomes within a population evolve through recombination, mutation, and selection to create various structures in modern genomes and 5 systems biology, concerning how to combine diverse data types to make mechanistic inferences about biological processes.",
+                                                    "key_topics":  "Key topics include:\n-Sequence alignment\n-High-throughput sequencing data analysis\n-Analysis of gene expression data\n-Epigenetics and genome organization\n-Single cell data analysis\n-Complex biological networks\n-Application to specific biological processes and diseases",
+                                                    "prerequisite_knowledge":  "Students should have an understanding of machine learning methods, probabilistic modeling, and programming",
+                                                    "assessment_structure":  "* Homework assignments (40%)\n* Midterm exam (30%)\n* Project (25%)\n* Class participation (5%)",
+                                                    "relevance":  "Undergraduate students in the computational biology major and minor.",
+                                                    "learning_resources":  "Piazza, Autolab",
+                                                    "extra_time_commitment":  null
+                                            }
+}

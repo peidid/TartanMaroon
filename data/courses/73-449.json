@@ -1,0 +1,37 @@
+{
+        "code":  "73-449",
+        "name":  "Social, Economic and Information Networks",
+        "short_name":  "SOC ECON \u0026 INFO NTWK",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-230 [] at least C) and ((36-201 [] at least D) or (36-220 [] at least D) or (36-217 [] at least D) or (36-225 [] at least D) or (70-207 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Interaction is a fundamental part of social science firms market products to consumers, people share opinions and information with their friends, workers collaborate on projects, agents form alliances and coalitions. In this course, we will use the emerging field of social networks to put structure on this diverse mass of connections. Using a mixture of theoretical, empirical, and computational methods, we will learn about the structure and function of social networks. We will look at how an individuals position in a social network reflects her role in the community. We will learn to identify tastemakers and trendsetters by looking at how information moves through our increasingly connected society. We will consider how our own position in the social network affects our behavior, opinions, and outcomes. And we will explore where social networks come from, and what affects their structure. The material in this course will be interdisciplinary, drawn from the fields of math, computer science, physics, sociology, political science, and economics. By the end of the course, you will have the tools and knowledge needed to analyze social networks on your own. The course is capped with a project where you will use your skills to answer your own questions. Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses..",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

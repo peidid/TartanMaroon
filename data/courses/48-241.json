@@ -1,0 +1,37 @@
+{
+        "code":  "48-241",
+        "name":  "Modern Architecture: History \u0026 Theory",
+        "short_name":  "MOD HIS ARCH \u0026 THRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course investigates the history of a wide range of buildings, architecture, cities, landscapes and theory across the 20th century around the world.  The content is organized around 5 major themes decolonization, climate change, technology, social justice and theory.  We explore major movements and monuments of the EuroAmerican avantgarde and socalled heroes of modernism, but also diverse responses to modernity, including popular, tropical, vernacular, indigenous, and even antiarchitecture around the world. We ask critical questions about the modern canon, the changing nature of history and theory, the biases embedded in terms like modernism, progress, NonWestern, and even architecture. We interrogate the deep legacies of colonialism, globalization, extractivism, and capitalism in which modern architecture so actively participated. The work includes weekly critical reflections on the readings and lectures, as well as a semesterlong research project investigating NonCanonical buildings from the Global South from three distinct eras in the 20thcentury.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "soa.cmu.edu",
+        "custom_fields":  {
+                                                    "goals":  "Understand, distinguish, and discuss a diverse range of modernities and conceptions of modern architecture around the world and across time.",
+                                                    "key_topics":  "Modern architecture \u0026 theory, including styles, but more importantly the ideas behind WHY buildings looked and performed as they did.",
+                                                    "prerequisite_knowledge":  "None. A curiosity about history.",
+                                                    "assessment_structure":  "Daily surveys and often pop-quizzes, weekly critical reflections, and a semester-long research project on non-canonical architecture in the Global South.",
+                                                    "relevance":  "It is requried for all Architecture undergrads to gain background in modern architecture; it is open to anyone on campus interested in the topic.",
+                                                    "learning_resources":  "Canvas webpage gives access to all readings; there is no required textbook.",
+                                                    "extra_time_commitment":  "None other than homework."
+                                            }
+}

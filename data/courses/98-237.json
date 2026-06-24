@@ -1,0 +1,34 @@
+{
+        "code":  "98-237",
+        "name":  "Student Taught Courses (StuCo): How to Get More Out of Life: Manage Your Energy",
+        "short_name":  "STUCO: MNG YR ENRGY",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "While the number of hours in a day is fixed, the quantity and quality of energy we have is not.  In this course, you will learn how managing your energy, not your time, is the key to health, happiness, and high performance.  Especially at Carnegie Mellon, you can\u0027t work flat out all the time.  Instead, you need to balance energy expenditure with intermittent energy renewal.  The end goal of this class is helping you become more energized, connected, focused and present - in your personal, professional and academic life.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

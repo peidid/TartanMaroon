@@ -1,0 +1,37 @@
+{
+        "code":  "15-051",
+        "name":  "Discrete Math Primer",
+        "short_name":  "DISCRETE MATH PRIMER",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "DMP is an online course that introduces students to three foundational topics in mathematics logic, sets and functions.  The course differs from traditional counterparts in its strong and consistent emphasis on computational aspects.  This approach is particularly suitable for students who are interested in the computational universe, and not just in classical mathematics.  Each of the three modules in DMP ends in a checkpoint, an assessment that helps students evaluate their understanding of the material.  Incoming undergraduate computer science majors are encouraged to take this online course prior to arrival on campus. Additionally, high school students contemplating a computer science or mathematics major may find this course useful.    The course uses Carnegie Mellons OLI system as a delivery platform.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Prepare students for theory track in CS curriculum",
+                                                    "key_topics":  "Introduces students to three foundational topics in mathematics: logic, sets and functions.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "This course is for matriculating Computer Science majors",
+                                                    "learning_resources":  "OLI, Piazza",
+                                                    "extra_time_commitment":  null
+                                            }
+}

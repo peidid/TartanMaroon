@@ -1,0 +1,37 @@
+{
+        "code":  "98-152",
+        "name":  "Student Taught Course: Sense and Sustainability",
+        "short_name":  "STUCO:SUSTAINABILITY",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The state of our planet can be daunting, but there is so much that we can do as individuals to preserve our planet. The first step is to understand the vast expanse of information out there about the various facets of environmentalism and sustainability. This course is meant to provide a comprehensive overview of all things environmental, so that we can understand and take action for ourselves and future generations.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

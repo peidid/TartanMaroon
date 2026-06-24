@@ -1,0 +1,37 @@
+{
+        "code":  "79-237",
+        "name":  "Comparative Slavery",
+        "short_name":  "COMPARATIVE SLAVERY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will examines the pervasive, worldspanning institution of human slavery. Although the time frame this course deals with is  broad   from the rise of complex societies in the ancient world to slaverylike labor systems in the modern era  this class will focus more thoroughly on a few case studies, especially slavery in the Middle East and subSaharan Africa, the US, and the Caribbean. These disparate examples will be related to a number of core themes, including race, class, family, gender, religion, national identity and underdevelopment.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The overall goals of the course are for students to learn toExpose students to slavery as a global phenomenonClear up many misconceptions students in the Gulf have about Arab slaveryImprove student research and writing skillsAugment student documentary analysis skills",
+                                                    "key_topics":  "This course will examine the pervasive, world-spanning institution of human slavery. Although the time frame this course deals with is broad - from the rise of complex societies in the ancient world to slavery-like labor systems in the modern era - this class will focus more thoroughly on a few case studies, especially slavery in the Middle East and sub-Saharan Africa, the US, and the Caribbean. These disparate examples will be related to a number of core themes, including race, class, family, gender, religion, national identity and underdevelopment. This course will be co-taught on CMU\u0027s Pittsburgh and Qatar campuses",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "* Short Assignments (eight total)\n\n* Research Paper\n\n* Final Exam\n\n* Class Participation",
+                                                    "relevance":  "University students will better understand the comparative history of enslavement in the Islamic and Atlantic worlds.",
+                                                    "learning_resources":  "Students will read chapters from a variety of primary and secondary sources.",
+                                                    "extra_time_commitment":  "Pittsburgh students will visit the \"From Slavery to Freedom\" exhibit at the Senator John Heinz History Center."
+                                            }
+}

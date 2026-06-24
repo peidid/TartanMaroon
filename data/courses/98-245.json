@@ -1,0 +1,34 @@
+{
+        "code":  "98-245",
+        "name":  "Student Taught Courses (StuCo): Strike the Earth: Art \u0026 Sci of Dwarf Fortress",
+        "short_name":  "STUCO: DWRF FORTRESS",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will be focused on teaching the basics of Dwarf Fortress, a free computer game legendary for its rewarding depth and complexity, as well as for its impenetrability to beginners.  Dwarf Fortress is the creation of one developer, Tarn Adams, who has declared it his life\u0027s work.  It has been under development since 2002, and is approximately one-third complete as of the current version.  Though its following is still relatively small, Dwarf Fortress has seen wider exposure via numerous news features, as well as being exhibited in the Metropolitan Museum of Art.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

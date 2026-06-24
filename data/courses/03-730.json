@@ -1,0 +1,37 @@
+{
+        "code":  "03-730",
+        "name":  "Advanced Genetics",
+        "short_name":  "ADVANCED GENETICS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((03-330 [] at least B) or (03-220 [] at least B) or (03-221 [] at least B)) and ((03-742 [] at least D) or (03-442 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course considers selected current topics in molecular genetics at an advanced level. Emphasis is on classroom discussion of research papers. Topics are subject to change yearly. Examples of past topics include nucleocytoplasmic trafficking of RNA in yeast, genome imprinting in mammals, molecular genetics of learning and memory in Drosophila, viral genomics, using yeast as a model system to study the molecular basis of human neurodegenerative diseases, and CRISPRCas9 genome editing.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Learn how one can identify important problems, which ones can be solved with existing tools of molecular genetics and genomics, how one develops new genetic tools as needed, and how to solve the problems with creative thinking.Describe the fundamental aspects of genome editing and discuss the major ways in which the technology has been appliedDiscuss the use of genome editing principles to new biomedical problems and identify significant recent research reported in peerreviewed literature",
+                                                    "key_topics":  "In the first half of this course, we will discuss examples of creative problem solving, using model organisms, including the simple eukaryote Saccharomyces cerevisiae, to investigate the molecular basis of neurodegenerative diseases in humans. We will strive to understand genetic principles underlying the contemporary genomic approaches to identify and characterize biological pathways dysfunctional in these diseases. In the second half of this course, we will explore the fundamental biological mechanisms of genome editing and the CRISPR system. We will also discuss technical issues that arise in use of this technology and how researchers are attempting to improve the technology. Additionally, applications of this technology to disease modeling, germ-line engineering, cell-based engineering, and disease therapy will be explored.",
+                                                    "prerequisite_knowledge":  "Background course work in biology, molecular genetics, and biochemistry\n\nPrerequisites:\n(03330 or 03220 or 03221) and (03742 or 03442)\nMinimum Grades:\nB in 03330, B in 03220, B in 03221, D in 03742, D in 03442",
+                                                    "assessment_structure":  "Weekly homework assignments on associated readings, about 3 quizzes, and a mini project in the second half of the course. A significant portion of the grade will come from class attendance and participation in small and large group discussions about the assigned readings.",
+                                                    "relevance":  "Students will gain fundamental knowledge of contemporary genomics and genetic approaches to understand molecules dysfunctional in human diseases. Second, students will gain knowledge of genome editing techniques, the current research being conducted in the field, as well as applications of the technologies.",
+                                                    "learning_resources":  "Students will be assigned multiple papers that will be discussed during class",
+                                                    "extra_time_commitment":  "A large amount of the time will be spent outside of class reading the assigned weekly papers and answering associated homework questions in preparation for the class discussions each week."
+                                            }
+}

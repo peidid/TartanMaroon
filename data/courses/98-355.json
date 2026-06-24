@@ -1,0 +1,37 @@
+{
+        "code":  "98-355",
+        "name":  "Student Taught Courses(StuCo): Conversational Arabic for Non-Native Speakers",
+        "short_name":  "CONVERS\u0027TL ARABIC",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is a course that will teach nonnative Arabic speakers the basics to how to talk in Arabic. Classical Arabic will be taught as it is the main dialect and the root to all of the different dialects. Some exposure to other dialects will be present and students are expected to conduct small talks at the end of the course. You must have no prior knowledge of the language to be enrolled in this course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

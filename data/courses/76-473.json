@@ -1,0 +1,37 @@
+{
+        "code":  "76-473",
+        "name":  "Rhetoric \u0026 the Construction of Race",
+        "short_name":  "RHET \u0026 CONSTRU RACE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In their seminal book on race, Michael Omi and Howard Winant write that race is socially constructed and historically fluid. This course takes their assertion seriously by examining the role of communicative practices in constructing race, from discourses around the NFL national anthem protests to dominant discussions around transnational and transracial adoption. Well look for common themes in the discourse around certain events and practices, asking why certain ideas or tropes are used and repeated, and what historical, social, cultural, and political associations inform these tropes that help them to perpetuate racial stereotypes in popular culture without overtly claiming racism. Students will practice thinking critically about everyday cultural narratives, and produce a final paper identifying the work one such set of narratives does to shape reality and create, reinforce, or perpetuate the construction of racial meanings.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Read, interpret, and evaluate scholarship on race in rhetorical studies and similar fields. Discuss some of the key concepts and issues in studies of race in rhetoric. Identify and discuss everyday narratives that contribute to systemic racism and racist hierarchies. Analyze the content and authority of these everyday narratives through a criticalrhetorical lens. Produce a piece of scholarly writing that makes an original argument supported by evidence. Verbally present summaries of academic arguments graduate students. Lead productive and engaging discussions graduate students.",
+                                                    "key_topics":  "Scholarship on race in rhetoric and communication, history, sociology, and more; academic writing",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Reading responses, short papers, final paper, participation, and a presentation",
+                                                    "relevance":  "This course will provide graduate students and upper level undergraduate students exposure to key literature and topics in academic studies of race in the humanities, and in particular, racial rhetorical criticism. It is designed as a foundational course for students hoping to study issues around race.",
+                                                    "learning_resources":  "All readings and materials will be available on Canvas",
+                                                    "extra_time_commitment":  "Potential requirement to watch one short film from home."
+                                            }
+}

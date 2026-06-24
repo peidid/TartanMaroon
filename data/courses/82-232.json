@@ -1,0 +1,37 @@
+{
+        "code":  "82-232",
+        "name":  "Intermediate Chinese II",
+        "short_name":  "INTERMED CHINESE II",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "82-231 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course aims to increase your proficiency in all four language skills reading, writing, speaking, and listening comprehension. You will get practice in speaking and listening through classroom discussions of the readings as well as group discussions of general topics. In addition to this, we will have a thorough grammar review. Overall, there will be a pronounced emphasis on increasing your awareness of different worldviews. We will contrast and compare different Germanspeaking countries with one another and the diverse cultures that they harbor, as well as your own countries with their cultural and historical idiosyncrasies. Last but not least, we will explore and analyze the cultural context within which various institutions exist and within which cultural norms are constructed.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Student will be able to increase their existing vocabulary significantly and apply their expanded vocabulary effectively in a conversation, presentation or in writingreview and expand their grammatical knowledge and apply it to essay assignments and in classroom conversationsdemonstrate their writing skills through multiple individual blog entries describe cultural practices, products, and phenomena in the Germanspeaking world by researching relevant topics of their own choosing and by reporting back on their findings in the classroom and in their essaysidentify the different worldviews that become visible in these cultural practices and phenomena and how they impact approaches to and interpretations of lived reality compare and contrast different cultures in the Germanspeaking world and their own culture through critical analysis of their differences in the classroom and in their essays.develop a strong sense of community among their peers and in the classroom that will help them thrive and experiment with the language in a nonthreatening way.",
+                                                    "key_topics":  "Chinese language, communication, further pragmatic skill development in speaking, reading, writing, and listening, and cultural knowledge of China.",
+                                                    "prerequisite_knowledge":  "Prerequisite: 82-231 or permission of the instructor.",
+                                                    "assessment_structure":  "5 essays of various lengths, 5 presentations based on those essays, 5 chats with peers, 25 grammar exercises, 5 vocabulary texts, 5 content quizzes",
+                                                    "relevance":  "Dietrich GenEd Prior to Fall 2021: Communicating\nDietrich GenEd After Fall 2021: Intercultural and Global Inquiry\n\nThis course aims to increase students\u0027 proficiency in all four language skills: reading, writing, speaking, and listening comprehension. In addition, it fosters critical thinking and intercultural awareness.",
+                                                    "learning_resources":  "Chinese Link, 2nd Edition Level II/Part 2, including course online resources, student manual workbook and classroom hand-outs.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

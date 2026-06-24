@@ -1,0 +1,37 @@
+{
+        "code":  "03-365",
+        "name":  "Neural Correlates of Learning and Memory",
+        "short_name":  "NEURAL CORR. LRN MEM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-161 [] at least D) or (03-320 [] at least D) or (03-240 [] at least D) or (85-219 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will examine the biological substrates of learning, memory, and behavioral adaptation. The focus will be on addressing how neural circuits change during new skill acquisition and adapt to variations in the environment.  An introduction to experiencedependent changes in neural structure and function, in addition to behavioral learning paradigms, will be provided.  Then we will consider the ways in which specific changes in biological substrates give rise to the emergent properties that drive behavioral adaptation, followed by in depth coverage of deciphering which biological substrates constitute a lasting memory trace. Finally, the concept of agedependent learning will be examined.   Concepts and specific examples will come through reading of primary literature and selected readings from advanced texts.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understand how neural activity relates to behavior, learning, and memory.",
+                                                    "key_topics":  "This course covers learning and memory in humans and animal models, and considers how the modulation of specific cellular proteins gives rise to complex behavioral functions and adaptation.",
+                                                    "prerequisite_knowledge":  "One or more of the following courses (or an equivalent) should have been completed with a B or higher:\nMolecules to Mind, Cellular Neuroscience, Systems Neuroscience, Brain to Behavior",
+                                                    "assessment_structure":  "Grades will be determined by attendance, quizzes, scientific paper discussions, two in-class exams, one oral presentation, and the final exam.",
+                                                    "relevance":  "Students will gain a fundamental understanding of the biological basis for learning as well as memory formation and maintenance.",
+                                                    "learning_resources":  "In-class lectures and discussions are based on the text book: The Neurobiology of Learning and Memory by Jerry Rudy, and scientific papers. The text book is optional, and is on reserve at the library. Students will be required to read scientific papers; all required reading materials will be available on Canvas.",
+                                                    "extra_time_commitment":  "There will be an optional review session approximately 1 week before all in-class exams."
+                                            }
+}

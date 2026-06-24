@@ -1,0 +1,37 @@
+{
+        "code":  "76-252",
+        "name":  "Literature \u0026 Digital Culture",
+        "short_name":  "LIT \u0026 DIGITAL CULTUR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will study points of encounter between digital technologies and literature. With an eye on questions pertaining to the ontology of literature and literary meaning, we will survey the various digital tools and resources that have transformed practices of reading, writing, and critical response in the 21st century. At the same time, we will also explore the benefits of applying a humanitiesbased analysis to the digital age. Marshaling techniques from media studies, cultural studies, literary studies, and the digital humanities, we will address pressing questions about the increasingly prominent role of the digital in our daily lives. What threats does computerization pose to literary discourse How can we leverage the tremendous potential of new technologies to promote creativity, inclusivity, and mutual understanding What and how does literature mean in a digital age To complement our collective investigation, students will complete smallstakes, entrylevel assignments that introduce digital affordances for engaging with literary texts. No previous experience with the digital humanities is necessary to participate. Technological neophytes, seasoned programmers, and persons at all skill levels inbetween are all very welcome to participate. This course meets the Dietrich College Reflecting Gen Ed requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

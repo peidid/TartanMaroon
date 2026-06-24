@@ -1,0 +1,37 @@
+{
+        "code":  "76-356",
+        "name":  "Oral Communication",
+        "short_name":  "ORAL COMM",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Oral presentations are essential to professional success. Yet many people find themselves growing weak in the knees at the thought of presenting in front of a group. They read off of notes, speak too fast, or pepper their speech with nervous filler words such as um or you know.  If this describes you, consider taking Oral Communication. This class is intended for students who want to boost their confidence in presenting in front of others. You will learn strategies for structuring the content of a presentation, designing effective presentation slides, and controlling your voice and body language to produce a smooth, confidentsounding oral delivery. You will also learn communication strategies to help you in interviews and other less formal communication situations. We will begin with giving short informal presentations and gradually increase the stakes as your confidence improves. You will have weekly opportunities to practice and improve your skills. We will also find opportunities to practice in a variety of physical settings so you can envision yourself as a calm, confident speaker no matter your surroundings. Because this course is based upon practice in front of an audience, attendance is mandatory. In addition to attendance, grades in the course will be based on improvement and effort in order to encourage students to focus on their development rather than on final outcomes. Please note that in terms of time commitment, a 4.5 unit mini is equivalent in weekly workload to a 9 unit full semester course. The mini is half the credits because it requires the same workload but only for half the semester.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "70-398",
+        "name":  "International Finance",
+        "short_name":  "INTERNATNL FINANCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-391 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "International Finance is an elective course designed to give students the opportunity to analyze realworld problems in international capital markets. Topics covered include exchange rate determination and quoting, international parity relations, foreign exchange hedging strategies using forwards and options, foreign exchange exposure management, international bond market, currency swap market, global equity market, international portfolio risk assessment and performance measurement. Students develop problem solving and communication skills with presentations and critical discussions of case studies.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understanding exchange rate dynamics Valuing and employing FX derivatives measuring exchange rate exposure using derivatives to hedge exchange rate risk understanding international equity and fixed income markets international capital budgeting calculating the cost of capital of multinational firms.",
+                                                    "key_topics":  "FX spot and forward market; currency futures; real exchange rate, purchasing power parity; uncovered interest rate parity; currency carry trade; hedging exchange rate exposure; Libor; currency and FX swaps, international portfolio choice; international cost of capital; cross-border valuation.",
+                                                    "prerequisite_knowledge":  "See course prerequisite",
+                                                    "assessment_structure":  "One midterm exam, a final, and homework problems.",
+                                                    "relevance":  "Students will gain knowledge about capital markets, risk management, and corporate finance in an international context.",
+                                                    "learning_resources":  "Lecture slides and accompanying material available on canvas. Recommend textbook: International Financial Management (2nd Edition), by Geert J Bekaert and Robert J. Hodrick",
+                                                    "extra_time_commitment":  null
+                                            }
+}

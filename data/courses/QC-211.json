@@ -1,0 +1,42 @@
+{
+        "code":  "QC-211",
+        "name":  "Introduction to Experimental Organic Chemistry (Lab)",
+        "short_name":  "INTRO EXPERM ORG CHM",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "09-217 [] at least D"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "09-218",
+                                                "id":  5319,
+                                                "name":  "Organic Chemistry II",
+                                                "units":  9.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "CrossRegistration Course  See the course catalog from the host institution.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

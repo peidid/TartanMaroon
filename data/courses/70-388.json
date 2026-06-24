@@ -1,0 +1,37 @@
+{
+        "code":  "70-388",
+        "name":  "Islamic Finance",
+        "short_name":  "ISLAMIC FIN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to introduce students to the basics of Islamic Finance.  The course will start with an analysis of the Shariah rules that define Islamic Finance.  Students will then look at the main investment structures and map these against the traditional conventional banking products.  The course wraps up with a critique of complex project finance structures through a Shariah compliance lens to identify the gaps between theory and practice.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, the student should be able to1 Understand Sharia rules and rationale involving Islamic finance,2 Discuss the evolution of Islamic Finance and riba,3 Identify the main Islamic banking structures being used by financial institutions,4 Map conventional banking transaction structures against their corresponding Islamic financeones, and5 Identify the gaps between theory and practice through a critique of complex Islamic Financetransactions.",
+                                                    "key_topics":  "Sharia compliant finance, Riba (interest), Conventional Banking, Islamic Banking, Islamic finance\ntransactions",
+                                                    "prerequisite_knowledge":  "Accounting",
+                                                    "assessment_structure":  "Grading will include in-class quizzes, and tests, and small team projects",
+                                                    "relevance":  "This course will be of interest to students looking to work in an economy with Islamic banks. Outside Islamic banking jobs, the course will also benefit future finance managers and entrepreneurs who are looking to use Sharia compliant financial structures. The course should count towards the Finance concentration",
+                                                    "learning_resources":  "Students will be provided with a text book and other reading materials (cases, articles, papers\netc.) and the class structure will include lectures, discussions, as well as case discussions.",
+                                                    "extra_time_commitment":  "6 hours/week outside 3 hours of class"
+                                            }
+}

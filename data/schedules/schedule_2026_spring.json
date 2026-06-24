@@ -1,0 +1,1588 @@
+{
+  "semester": {
+    "term": "Spring",
+    "year": 2026,
+    "academic_year": "2025-2026",
+    "start_date": "2026-01-06",
+    "end_date": "2026-04-23"
+  },
+  "total_courses": 127,
+  "offerings": [
+    {
+      "course_code": "02-250",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3046",
+          "instructor": "TBA_SCS CB_1",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "03-117",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "17:30",
+          "location": "3025",
+          "instructor": "Younis",
+          "capacity": 12
+        }
+      ]
+    },
+    {
+      "course_code": "03-129",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "3048",
+          "instructor": "Affara",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "03-202",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "3046",
+          "instructor": "Younis",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "03-220",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "3046",
+          "instructor": "Majeed, Younis",
+          "capacity": 25
+        },
+        {
+          "section": "2",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "3046",
+          "instructor": "Majeed, Younis",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "03-240",
+      "sections": [
+        {
+          "section": "2",
+          "days": ["Sun", "Tue", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "3046",
+          "instructor": "Bouaouina",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "03-344",
+      "sections": [
+        {
+          "section": "2",
+          "days": ["Sun"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "3204",
+          "instructor": "Naik",
+          "capacity": 20
+        },
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "location": "3025",
+          "instructor": "Naik",
+          "capacity": 20
+        }
+      ]
+    },
+    {
+      "course_code": "03-355",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "3178",
+          "instructor": "Bouaouina",
+          "capacity": 12
+        }
+      ]
+    },
+    {
+      "course_code": "03-363",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "2049",
+          "instructor": "Affara",
+          "capacity": 15
+        }
+      ]
+    },
+    {
+      "course_code": "03-390",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "2051",
+          "instructor": "Majeed",
+          "capacity": 15
+        }
+      ]
+    },
+    {
+      "course_code": "03-412",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3046",
+          "instructor": "Majeed",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "03-444",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "3044",
+          "instructor": "Naik",
+          "capacity": 12
+        }
+      ]
+    },
+    {
+      "course_code": "05-391",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1030",
+          "instructor": "Melniczuk",
+          "capacity": 40
+        }
+      ]
+    },
+    {
+      "course_code": "07-280",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1030",
+          "instructor": "Salameh, Di Caro",
+          "capacity": 40
+        }
+      ]
+    },
+    {
+      "course_code": "09-106",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "3048",
+          "instructor": "Murshid",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "09-122",
+      "sections": [
+        {
+          "section": "1",
+          "days": ["Mon"],
+          "start_time": "14:30",
+          "end_time": "15:20",
+          "location": "2049",
+          "instructor": "Faulkner",
+          "capacity": 12
+        },
+        {
+          "section": "W",
+          "days": ["Wed"],
+          "start_time": "14:30",
+          "end_time": "17:00",
+          "location": "2198",
+          "instructor": "Faulkner",
+          "capacity": 8
+        }
+      ]
+    },
+    {
+      "course_code": "09-218",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "3046",
+          "instructor": "Faulkner",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "15-110",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3048",
+          "instructor": "Melniczuk",
+          "capacity": 30
+        }
+      ]
+    },
+    {
+      "course_code": "15-112",
+      "sections": [
+        {
+          "section": "3",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "2152",
+          "instructor": "Gedawy",
+          "capacity": 44
+        },
+        {
+          "section": "W",
+          "days": ["Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1185",
+          "instructor": "Gedawy",
+          "capacity": 44,
+          "notes": "Recitation"
+        }
+      ]
+    },
+    {
+      "course_code": "15-122",
+      "sections": [
+        {
+          "section": "3",
+          "days": ["Sun", "Tue"],
+          "start_time": "16:00",
+          "end_time": "17:15",
+          "location": "2152",
+          "instructor": "Hammoud",
+          "capacity": 40
+        },
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "2152",
+          "instructor": "Hammoud",
+          "capacity": 40,
+          "notes": "Recitation"
+        }
+      ]
+    },
+    {
+      "course_code": "15-210",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "3069",
+          "instructor": "Salameh, Kapoutsis",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "15-251",
+      "sections": [
+        {
+          "section": "2",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "2052",
+          "instructor": "Kapoutsis",
+          "capacity": 35
+        },
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "2052",
+          "instructor": "Kapoutsis",
+          "capacity": 35,
+          "notes": "Recitation"
+        }
+      ]
+    },
+    {
+      "course_code": "15-288",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1199",
+          "instructor": "Di Caro",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "15-316",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "1190",
+          "instructor": "Riley",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "15-441",
+      "sections": [
+        {
+          "section": "1",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1199",
+          "instructor": "Harras",
+          "capacity": 32
+        },
+        {
+          "section": "W",
+          "days": ["Thu"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "1199",
+          "instructor": "Harras",
+          "capacity": 32,
+          "notes": "Recitation"
+        }
+      ]
+    },
+    {
+      "course_code": "17-437",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1199",
+          "instructor": "Feo Flushing",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "21-112",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "2152",
+          "instructor": "Demirkoparan",
+          "capacity": 35
+        }
+      ]
+    },
+    {
+      "course_code": "21-122",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "2152",
+          "instructor": "Weston",
+          "capacity": 30
+        }
+      ]
+    },
+    {
+      "course_code": "21-127",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+          "start_time": "14:30",
+          "end_time": "15:20",
+          "location": "2152",
+          "instructor": "Khare",
+          "capacity": 30
+        }
+      ]
+    },
+    {
+      "course_code": "21-256",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "3069",
+          "instructor": "El Hajj",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "21-355",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1213",
+          "instructor": "El Hajj",
+          "capacity": 15
+        }
+      ]
+    },
+    {
+      "course_code": "21-441",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1030",
+          "instructor": "Khare",
+          "capacity": 15
+        }
+      ]
+    },
+    {
+      "course_code": "21-484",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1030",
+          "instructor": "Weston",
+          "capacity": 15
+        }
+      ]
+    },
+    {
+      "course_code": "33-100",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Wed"],
+          "start_time": "13:30",
+          "end_time": "16:30",
+          "location": "1048",
+          "instructor": "Zayed",
+          "capacity": 6
+        }
+      ]
+    },
+    {
+      "course_code": "33-104",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "13:30",
+          "end_time": "16:30",
+          "location": "1048",
+          "instructor": "Zayed",
+          "capacity": 15
+        }
+      ]
+    },
+    {
+      "course_code": "33-122",
+      "sections": [
+        {
+          "section": "2",
+          "days": ["Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "2052",
+          "instructor": "Zayed",
+          "capacity": 15
+        },
+        {
+          "section": "W",
+          "days": ["Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "3204",
+          "instructor": "Zayed",
+          "capacity": 15
+        }
+      ]
+    },
+    {
+      "course_code": "36-202",
+      "sections": [
+        {
+          "section": "2",
+          "days": ["Sun", "Tue"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "2035",
+          "instructor": "Park",
+          "capacity": 40
+        },
+        {
+          "section": "W",
+          "days": ["Thu"],
+          "start_time": "14:30",
+          "end_time": "15:20",
+          "location": "2035",
+          "instructor": "Park",
+          "capacity": 40,
+          "notes": "Recitation"
+        }
+      ]
+    },
+    {
+      "course_code": "36-218",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "3069",
+          "instructor": "Yilma",
+          "capacity": 40
+        }
+      ]
+    },
+    {
+      "course_code": "66-182",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "2052",
+          "instructor": "Nair, Liginlal",
+          "capacity": 34
+        }
+      ]
+    },
+    {
+      "course_code": "66-236",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1031",
+          "instructor": "Sever",
+          "capacity": 21
+        }
+      ]
+    },
+    {
+      "course_code": "67-250",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1032",
+          "instructor": "Aoun",
+          "capacity": 22
+        },
+        {
+          "section": "X",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1032",
+          "instructor": "Aoun",
+          "capacity": 20
+        }
+      ]
+    },
+    {
+      "course_code": "67-272",
+      "sections": [
+        {
+          "section": "4",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "3035",
+          "instructor": "Mohanty, Bouamor",
+          "capacity": 35
+        },
+        {
+          "section": "W",
+          "days": ["Thu"],
+          "start_time": "08:30",
+          "end_time": "10:20",
+          "location": "2049",
+          "instructor": "Bouamor",
+          "capacity": 15,
+          "notes": "Lab section"
+        },
+        {
+          "section": "X",
+          "days": ["Thu"],
+          "start_time": "10:30",
+          "end_time": "12:20",
+          "location": "2049",
+          "instructor": "Mohanty",
+          "capacity": 15,
+          "notes": "Lab section"
+        }
+      ]
+    },
+    {
+      "course_code": "67-301",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3178",
+          "instructor": "Aazam",
+          "capacity": 22
+        }
+      ]
+    },
+    {
+      "course_code": "67-352",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1190",
+          "instructor": "Vatanasakdakul",
+          "capacity": 22
+        }
+      ]
+    },
+    {
+      "course_code": "67-357",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1032",
+          "instructor": "Liginlal",
+          "capacity": 22
+        }
+      ]
+    },
+    {
+      "course_code": "67-364",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "3044",
+          "instructor": "Bouamor",
+          "capacity": 22
+        }
+      ]
+    },
+    {
+      "course_code": "67-373",
+      "sections": [
+        {
+          "section": "2",
+          "days": ["Sun"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1064",
+          "instructor": "Huang, Liginlal, Aazam",
+          "capacity": 30
+        },
+        {
+          "section": "W",
+          "days": ["Mon"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "2049",
+          "instructor": "Liginlal",
+          "capacity": 9,
+          "notes": "Project section"
+        },
+        {
+          "section": "X",
+          "days": ["Mon"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "3044",
+          "instructor": "Aazam",
+          "capacity": 9,
+          "notes": "Project section"
+        },
+        {
+          "section": "Y",
+          "days": ["Mon"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "3204",
+          "instructor": "Huang",
+          "capacity": 9,
+          "notes": "Project section"
+        }
+      ]
+    },
+    {
+      "course_code": "67-425",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "3178",
+          "instructor": "Vatanasakdakul",
+          "capacity": 22
+        }
+      ]
+    },
+    {
+      "course_code": "67-426",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "3204",
+          "instructor": "Bouamor",
+          "capacity": 22
+        }
+      ]
+    },
+    {
+      "course_code": "67-427",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "3044",
+          "instructor": "Mohanty",
+          "capacity": 22
+        }
+      ]
+    },
+    {
+      "course_code": "70-106",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3069",
+          "instructor": "Farooqi",
+          "capacity": 45
+        }
+      ]
+    },
+    {
+      "course_code": "70-122",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1064",
+          "instructor": "Akguc",
+          "capacity": 34
+        }
+      ]
+    },
+    {
+      "course_code": "70-208",
+      "sections": [
+        {
+          "section": "2",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1213",
+          "instructor": "Park",
+          "capacity": 45
+        },
+        {
+          "section": "W",
+          "days": ["Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "3069",
+          "instructor": "Park",
+          "capacity": 45,
+          "notes": "Recitation"
+        }
+      ]
+    },
+    {
+      "course_code": "70-257",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Mon", "Tue", "Wed"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "1064",
+          "instructor": "Yilma",
+          "capacity": 45
+        }
+      ]
+    },
+    {
+      "course_code": "70-311",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1031",
+          "instructor": "Haan",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "70-332",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1031",
+          "instructor": "Bassford",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "70-342",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3178",
+          "instructor": "Haan",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-345",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1213",
+          "instructor": "Mcginnis",
+          "capacity": 21
+        },
+        {
+          "section": "X",
+          "days": ["Tue", "Thu"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1064",
+          "instructor": "Mcginnis",
+          "capacity": 21
+        }
+      ]
+    },
+    {
+      "course_code": "70-371",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1213",
+          "instructor": "Adeinat",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "70-374",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1032",
+          "instructor": "Safak",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-381",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "1199",
+          "instructor": "Sharma",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "70-385",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "3178",
+          "instructor": "Sharma",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-387",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1190",
+          "instructor": "Fadlallah",
+          "capacity": 28
+        }
+      ]
+    },
+    {
+      "course_code": "70-391",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "2052",
+          "instructor": "Farooqi",
+          "capacity": 32
+        }
+      ]
+    },
+    {
+      "course_code": "70-395",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "3178",
+          "instructor": "Hakim",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-401",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "1064",
+          "instructor": "Fadlallah",
+          "capacity": 42
+        }
+      ]
+    },
+    {
+      "course_code": "70-416",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3204",
+          "instructor": "Hakim",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-441",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "1032",
+          "instructor": "Safak",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-460",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "3204",
+          "instructor": "Adeinat",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-492",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "3178",
+          "instructor": "Akguc",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "70-495",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "16:00",
+          "end_time": "17:15",
+          "location": "2051",
+          "instructor": "Farooqi",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "73-102",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "1202",
+          "instructor": "Indaco",
+          "capacity": 38
+        }
+      ]
+    },
+    {
+      "course_code": "73-103",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "2052",
+          "instructor": "Castano Zuluaga",
+          "capacity": 24
+        }
+      ]
+    },
+    {
+      "course_code": "73-354",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "2049",
+          "instructor": "Indaco",
+          "capacity": 16
+        }
+      ]
+    },
+    {
+      "course_code": "73-421",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "2049",
+          "instructor": "Castano Zuluaga",
+          "capacity": 16
+        }
+      ]
+    },
+    {
+      "course_code": "76-101",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "3048",
+          "instructor": "Squires",
+          "capacity": 16
+        },
+        {
+          "section": "X",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "3204",
+          "instructor": "Queen",
+          "capacity": 16
+        },
+        {
+          "section": "Y",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "3044",
+          "instructor": "Gomez Laich",
+          "capacity": 16
+        },
+        {
+          "section": "Z",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "08:45",
+          "end_time": "09:35",
+          "location": "2051",
+          "instructor": "Pessoa",
+          "capacity": 16
+        },
+        {
+          "section": "WW",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "3048",
+          "instructor": "Mitchell",
+          "capacity": 16
+        },
+        {
+          "section": "XX",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "3044",
+          "instructor": "Queen",
+          "capacity": 16
+        },
+        {
+          "section": "YY",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "location": "2051",
+          "instructor": "Reynolds",
+          "capacity": 16
+        }
+      ]
+    },
+    {
+      "course_code": "76-239",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3044",
+          "instructor": "Squires",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "76-270",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "2051",
+          "instructor": "Mitchell",
+          "capacity": 18
+        },
+        {
+          "section": "X",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "2051",
+          "instructor": "Pessoa",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "76-327",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "2051",
+          "instructor": "Dreher",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "76-328",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3204",
+          "instructor": "Gomez Laich",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "79-104",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:20",
+          "location": "1190",
+          "instructor": "Nair",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "79-232",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1190",
+          "instructor": "Reilly",
+          "capacity": 20
+        }
+      ]
+    },
+    {
+      "course_code": "79-361",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "3048",
+          "instructor": "Nair",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "79-393",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "1031",
+          "instructor": "Reilly",
+          "capacity": 20
+        }
+      ]
+    },
+    {
+      "course_code": "80-130",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "3048",
+          "instructor": "Bassford",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "82-102",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "3204",
+          "instructor": "Moufid",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "82-112",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "3178",
+          "instructor": "Moufid",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "82-142",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "1051",
+          "instructor": "Helin",
+          "capacity": 8
+        }
+      ]
+    },
+    {
+      "course_code": "82-241",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue", "Thu"],
+          "start_time": "14:30",
+          "end_time": "15:20",
+          "location": "3044",
+          "instructor": "Helin",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "82-289",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "2049",
+          "instructor": "Helin",
+          "capacity": 16
+        }
+      ]
+    },
+    {
+      "course_code": "82-412",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "11:30",
+          "end_time": "12:45",
+          "location": "2051",
+          "instructor": "Moufid",
+          "capacity": 18
+        }
+      ]
+    },
+    {
+      "course_code": "85-110",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "1213",
+          "instructor": "Crittenden",
+          "capacity": 66
+        }
+      ]
+    },
+    {
+      "course_code": "85-150",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1213",
+          "instructor": "Belanger",
+          "capacity": 50
+        }
+      ]
+    },
+    {
+      "course_code": "85-310",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "14:30",
+          "end_time": "15:45",
+          "location": "2049",
+          "instructor": "Belanger",
+          "capacity": 16
+        }
+      ]
+    },
+    {
+      "course_code": "85-370",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Mon", "Wed"],
+          "start_time": "08:30",
+          "end_time": "09:45",
+          "location": "1031",
+          "instructor": "Bruder",
+          "capacity": 25
+        }
+      ]
+    },
+    {
+      "course_code": "85-458",
+      "sections": [
+        {
+          "section": "W",
+          "days": ["Sun", "Tue"],
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "location": "2147",
+          "instructor": "Crittenden",
+          "capacity": 40
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "generated_from": "Spring2026.csv",
+    "generated_date": "2026-01-16",
+    "source": "CMU-Q Schedule Data"
+  }
+}

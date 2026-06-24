@@ -1,0 +1,37 @@
+{
+        "code":  "80-341",
+        "name":  "Computers, Society and Ethics",
+        "short_name":  "COMPTRS SOCIETY ETHC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores many of the social and ethical issues that have emerged in the wake of the significant advances that we have witnessed in computer science and information technology IT. Computers and communications technologies have had an increasing impact on the whole of society and have raised new and difficult ethical questions. In turn, these ethical issues have spurred the need for a consideration of new policies and regulations. In this new world of IT, some are concerned about the protection of their privacy while others find problems of censorship and, more generally, restrictions on information access to be their main focus as a problematic social issue. This course will address these and other issues such as questions of free speech, surveillance in the workplace, intellectual property and copyright, information acquisition and ethics and the Internet.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

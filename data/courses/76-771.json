@@ -1,0 +1,37 @@
+{
+        "code":  "76-771",
+        "name":  "Teamwork for Innovators",
+        "short_name":  "TEAMWORK INNOVATORS",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Academic teams, campus organizations, workplaces are all dynamic activity systems, organized and driven by institutional habits and rules, by roles, status and power, and by the material and conceptual tools we draw on.   Yet as we have all observed, these Rules, Roles and Tools often operate in contradictory ways, even in conflict with one another.  Effective team leaders are able to recognize these contradictions and draw a writing group, a project team, a social organization or a workplace into what is called an expansive transformation.  That is, to innovate new ways of working together.  In this course, you will learn how to become more effective not only as a team member, but also a project leader, and even group consultant in your college work and workplace.  Looking at films, case studies, research, and your own experience, we will learn how to analyze how teams of all sorts are working, to communicate more effectively across different expectations and values, and to collaboratively innovate new ways of working together.   Your final project will let you document your ability to be a knowledgeable team leader and effective collaborator.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

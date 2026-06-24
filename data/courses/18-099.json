@@ -1,0 +1,37 @@
+{
+        "code":  "18-099",
+        "name":  "Special Topics: Mobile App Design \u0026 Development",
+        "short_name":  "MBL APP DSGN \u0026 DEVEL",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(18-090 [] at least D) or (15-104 [] at least D) or (62-150 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "[IDeATe collaborative course IDeATe is partnering with YinzCam to develop and offer a studio course on mobile app design and development. The course will leverage the extensive expertise of YinzCam on mobileapp development in the sports and entertainment space, both for realtime and asynchronous enrichment of the fan experience and the stadium experience. However, the lessons learned will apply to mobileapp development broadly. Issues covered will include crossplatform development, mobile video, streaming media, realtime content delivery, along with best practices in serverside cloud management for largescale mobileapp deployment. Please note that this course is for students to take as one of their IDeATe concentrationminor options and will NOT fulfill a CITECE requirement. Open to juniors and seniors. DC and MCS students should take the course after completing another IDeATe collaborative course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

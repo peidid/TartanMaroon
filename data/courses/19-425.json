@@ -1,0 +1,37 @@
+{
+        "code":  "19-425",
+        "name":  "Sustainable Energy for the Developing World",
+        "short_name":  "SUST ENER DEV WORLD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the current state of the energy system in developing countries and the challenges these countries will face in sustainably meeting their energy needs in the 21st century. The following are examples of questions and issues we will cover throughout the semester.      What is the current status of the energy system in the    developing world      What is the role of energy in supporting economic growth and alleviating poverty      What are the future energy needs of developing countries      What are the challenges developing countries will face as they buildimprove their energy systems      What technologies are available to meet the energy challenges in the developing world",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://cmu.box.com/s/zjvqn8ne12sjwqmtvev2w49s78ij5sm5",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "This course examines the current state of the energy system in developing countries and the challenges these countries will face in sustainably meeting their energy needs in the 21st century.",
+                                                    "prerequisite_knowledge":  "prior knowledge of basic energy concepts and the relationship between energy and sustainability would be useful. Previous knowledge of engineering economics and some basic data analysis would also be helpful.",
+                                                    "assessment_structure":  "19- 425 - 9 Units: The course grade will be based on participation in the class discussions, regular assignments, the final project, and a final exam. Regular assignments will consist of brief analysis exercises and short essays.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "There is no required textbook for this class",
+                                                    "extra_time_commitment":  null
+                                            }
+}

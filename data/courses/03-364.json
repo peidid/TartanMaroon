@@ -1,0 +1,37 @@
+{
+        "code":  "03-364",
+        "name":  "Developmental Neuroscience",
+        "short_name":  "DVLMTL NEUROSCIENCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-240 [] at least D) or (03-363 [] at least D) or (03-362 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the principles that govern the developmental assembly of a complex nervous system. Topics range from the earliest steps of induction of neural tissue and birth of neurons to the plasticity within developing circuits and the development of behavior. By the end of this course students should be able to describe the major steps in neural development and to interpret key experiments using vertebrate and invertebrate models have helped to elucidate these steps.  This course is taught on the University of Pittsburgh campus by faculty from Carnegie Mellon and Pitt.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

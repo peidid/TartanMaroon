@@ -1,0 +1,37 @@
+{
+        "code":  "76-327",
+        "name":  "Equity \u0026 Communication: Strategies for Institutional Change",
+        "short_name":  "EQUITY \u0026 COMM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Communication is always embedded in power relationships with unstated social rules that govern who is able to say what when. But communication also offers us a tool for rewriting oppressive social scripts. In this class, we will look both at inequities built into our communication and strategies for overturning these inequities. The focus will be on practical actions that you can take to improve your school, workplace, or extracurricular groups. Our readings will come from diverse sources and fields, including sociolinguistics, psychology, education, organizational communication, and writing studies. While our readings might occasionally depress or enrage you, the overall focus of the course will be optimistic, challenging you to imagine solutions to the problems we discuss.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To learn concrete strategies for change and rhetorical strategies for arguing in favor of that change",
+                                                    "key_topics":  "race, gender, disability, language, intersectionality, professional communication",
+                                                    "prerequisite_knowledge":  "A willingness to read texts from a variety of fields and disciplines",
+                                                    "assessment_structure":  "take home essay exams,informal presentations, a final project on a topic of the student\u0027s choosing, short, informal responses",
+                                                    "relevance":  "This class focuses on specific strategies that can be implemented in workplaces, schools, and other institutions to make their practices more equitable. The content should be relevant to students in rhetoric, professional writing, gender studies, and those who want to make change in their institutions.",
+                                                    "learning_resources":  "course website, PDFs of course readings, podcasts and videos",
+                                                    "extra_time_commitment":  "The time required to read and complete assignments."
+                                            }
+}

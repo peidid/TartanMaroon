@@ -1,0 +1,48 @@
+{
+        "code":  "21-127",
+        "name":  "Concepts of Mathematics",
+        "short_name":  "CONCEPTS OF MATHMTCS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(02-120 [] at least C) or (15-112 [] at least C) or (21-108 [] at least C) or (21-112 [] at least C) or (21-120 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-128",
+                                            "id":  2621,
+                                            "name":  "Mathematical Concepts and Proofs",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "15-151",
+                                            "id":  5064,
+                                            "name":  "Mathematical Foundations for Computer Science",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "This course introduces the basic concepts, ideas and tools involved in doing mathematics. As such, its main focus is on presenting informal logic, and the methods of mathematical proof. These subjects are closely related to the application of mathematics in many areas, particularly computer science. Topics discussed include a basic introduction to elementary number theory, induction, the algebra of sets, relations, equivalence relations, congruences, partitions, and functions, including injections, surjections, and bijections.  A basic introduction to the real numbers, rational and irrational numbers.  Supremum and infimum of a set.  Three 50 minute lectures, two 50 minute recitations",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "No prior knowledge required",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Free textbook sometimes used: https://infinitedescent.xyz/",
+                                                    "extra_time_commitment":  null
+                                            }
+}

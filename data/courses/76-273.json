@@ -1,0 +1,37 @@
+{
+        "code":  "76-273",
+        "name":  "Presenting a Public Self",
+        "short_name":  "PRESENTING A PUBLIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Presenting your work and ambitions in public forums is a skill that you will be expected to demonstrate as you emerge from undergraduate studies and prepare to enter the commercial sector, graduatelevel academic work or professional education in business, medicine or law. While such expectations exist, practice in this genre of writing, particularly in the personal statement, is not always readily available in existing coursework. Presenting a Public Self will introduce methods for developing and practicing your ability to communicate individual proficiencies and aspirations in written form, while bringing you in contact with a body of published work by public intellectual figures from the U.S. and other territories whose writing demonstrates an intertwining of personal narrative and public, professional identity, to engage readers of all stripes.   Throughout the term you will practice writing in the public yet personal vein through assignments like selfportrait essay, to cultivate a firstperson voice, an oped essay, to practice balance in argument from the position of a burgeoning expert in your disciplinary area, and a personal statement, where you will learn to combine articulation of a personal narrative and professional competency to argue why you are a strong candidate for a particular opportunity. Reading selections for the semester will include work produced by your peers, as well as published writers whose work combines personal and professional spheres, ranging from texts like Paul John Eakins Living Autobiographically to Mary Catherine Batesons Composing a Life to Spencer Nadlers The Language of Cells A Doctor and his Patients, amongst others.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

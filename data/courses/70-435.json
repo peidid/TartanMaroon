@@ -1,0 +1,34 @@
+{
+        "code":  "70-435",
+        "name":  "International Retailing",
+        "short_name":  "INTERNATIONAL RETLG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-381 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the strategic role of retailing in the distribution of consumer goods and services. Students will learn why consumer insight and superior execution are critical factors for building retail brands that will be successful in the future for international retailers. The main objective of this course is to familiarize students with the decisions involved in running a retail firm and the concepts and principles for making those decisions in different markets.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "18-334",
+        "name":  "Network Security",
+        "short_name":  "NETWORK SECURITY",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(18-330 [] at least C) or (15-330 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Some of todays most damaging attacks on computer systems involve exploitation of network infrastructure, either as the target of attack or as a vehicle to advance attacks on end systems. This course provides an indepth study of network attack techniques and methods to defend against them. The course will cover topics spanning five broad themes 1 infrastructure topics such as firewalls, network intrusion detection, secure routing protocols, and recent advances such as softwaredefined networking 2network attacks such as denial of service DoS and distributed denialofservice DDoS attacks, worm and virus propagation 3analysis and inference topics such as network forensics and attack economics 4 user related topics such as authentication, anonymity and censorship resilience and 5 new technologies related to nextgeneration networks, and cellular and wireless networks.  Students in 18334 will share lectures and homeworks with students in 18731. However, 18731 will have additional requirements not shared by 18334, including the requirement to produce scribe notes and to practice and demonstrate the ability to read and summarize scientific papers on the topics covered by the course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

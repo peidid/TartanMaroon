@@ -1,0 +1,66 @@
+{
+        "code":  "67-262",
+        "name":  "Database Design and Development",
+        "short_name":  "DTABASE DSGN/DEV",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-112 [] at least D) or (02-120 [] at least D) or (15-122 [] at least D) or (15-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "67-372",
+                                                    "id":  293,
+                                                    "name":  "Principles of Database Systems",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "67-311",
+                                                    "id":  1058,
+                                                    "name":  "Database Design and Implementation",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "90-812",
+                                                    "id":  1388,
+                                                    "name":  "Python Programming I",
+                                                    "units":  6.0
+                                            },
+                                            {
+                                                    "code":  "70-455",
+                                                    "id":  1438,
+                                                    "name":  "Data Management Fundamentals",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "95-880",
+                                                    "id":  2298,
+                                                    "name":  "Python for Developers",
+                                                    "units":  6.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Data driven decision making is a core process of organizations. In this class students will study the principles of database management systems, their design, and development. Recent alternatives to the classical relational model will also be examined.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Upon successful completion of this course, students will have achieved thefollowing learning objectives.o Given an organizational need, identify the data needed to meet that needo Build an ER data model and implement it with SQLo Manipulate and extract information from a database using SQLo Understand advanced database concepts and alternatives to the classicrelational model",
+                                                    "key_topics":  "Relational database model, database design, Structured Query Language (SQL), Programming interfaces, Database transactions, integrity constraints, security. Non-relational database models",
+                                                    "prerequisite_knowledge":  "Programming skill as demonstrated by successful completion of 15-112 or higher. Sophomore status or higher.",
+                                                    "assessment_structure":  "Labs-10; Attendance \u0026 Quizzes-5; Assignments-15; Project-20; Exam 1-15; Exam 2-15; Final Exam-20",
+                                                    "relevance":  "Prerequisite for 67-272",
+                                                    "learning_resources":  "All required and suggested texts are available as free, unlimited access e-books through CMU\u0027s library. Please refer to the syllabus for titles.",
+                                                    "extra_time_commitment":  "Students should plan for occasional extra time commitment before key due dates. Careful planning and time management will reduce the need for extra time commitment."
+                                            }
+}

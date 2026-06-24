@@ -1,0 +1,37 @@
+{
+        "code":  "76-262",
+        "name":  "Survey of Forms: Nonfiction",
+        "short_name":  "SURVEY FORMS: NONFIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "According to The National Endowment for the Arts, creative nonfiction is factual prose that is also literary. Memoir, the essay, and literary journalism are just three kinds of writing that fit into this very broad, very vital genre. While creative nonfiction often borrows techniques from fiction, such as narrative, scene, dialogue, and point of view, creative nonfiction is based on actual events, characters and places. What distinguishes creative nonfiction from journalism is that it conveys more than barebones facts and that language, analysis and narrative voice are integral parts of each piece. In this course, students will have the chance to read widely within the genre. Exercises and writing assignments will give students the chance to write their own pieces, so that by the end of the semester, everyone will have written four different kinds of creative nonfiction.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

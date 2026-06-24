@@ -1,0 +1,37 @@
+{
+        "code":  "99-250",
+        "name":  "Seminar for Peer Mentors",
+        "short_name":  "SEMINAR PEER MENTOR",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides onthejob training to students recently hired into Learning Support peer mentoring positions at the Student Academic Success Center. In this course, students will receive training and practice with the various skills required for their positions e.g., active listening, creating sessions plans and reports, etc.. They will gain awareness of various campus units and resources e.g., CaPS, Office of Disability Resources and identify when and how to direct students to these resources. Additionally, students will explore the diversity of learners that they may encounter in their peer mentor positions, and they will practice inclusive mentoring strategies that help these students develop as selfdirected learners. Students will have a chance to reflect on their own learning experiences and consider how their experiences might compare to those of other students. This seminarstyle course will feature various instructional strategies, including guest speakers, small and fullgroup discussion, case studies, and a variety of other active learning strategies. Students will complete an array of assignments, including positionspecific documents, reflections, and peer observationshadowing.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/acadev/studentjobs/",
+        "custom_fields":  {
+                                                    "goals":  "Upon completion of this course, students should be able to1.Identify campus units and resources e.g., CaPS, Office of Disability Resources, etc. where they can direct students when needed.2.Recognize learning support services at the Student Academic Success Center and discuss when and how to refer students to these services.3.Reflect upon their own experiences as learners and consider how these experiences compare to those of other students.4.Demonstrate skills associated with their respective peer mentor positions e.g., implementing collaborative learning techniques.",
+                                                    "key_topics":  "CMUS 99-250 Seminar in Peer Tutoring is a special-admittance class that is certified by the College Reading and Learning Association (CRLA) thru 2022. The course introduces the techniques and strategies that aspiring tutors and teachers can use to promote independent learning on the part of their students. We start from the roles and responsibilities of a Peer Tutor and progress to an enhanced understanding of the learning and teaching theory that inform Peer Tutoring and teaching in general.",
+                                                    "prerequisite_knowledge":  "CMUS 99-250 is a special-admittance-only course. Students must fill out an on-line application and successfully complete the interview process to be enrolled in the course. Potential enrollees are required to have a minimum 3.5 cumulative GPA and an \u0027A\u0027 in any course they wish to tutor. Beyond these minimum qualifications, we seek individuals who have excellent communication, organizational, and time management skills.",
+                                                    "assessment_structure":  "Attendance and active participation are paramount to successfully completing the course. This is a discussion-based class that relies on its attendees to share their experiences, questions, and concerns so that we can brainstorm solutions to some of the issues that occur with tutoring at Carnegie Mellon University. Students must also complete their practicum requirement to be successful in the course.",
+                                                    "relevance":  "CMUS 99-250 Seminar in Peer Tutoring trains highly qualified undergraduate students to serve as Peer Tutors for both the university\u0027s introductory level math, science, and engineering courses as well as other classes across all departments and majors.",
+                                                    "learning_resources":  "The instructor and experienced Peer Tutors are the primary learning resources for the course. The instructor will also provide access to a textbook and supplemental readings/handouts as the semester progresses.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

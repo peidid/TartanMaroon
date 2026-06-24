@@ -1,0 +1,34 @@
+{
+        "code":  "98-267",
+        "name":  "Student Taught Courses (StuCo): Jamaican Entertainment",
+        "short_name":  "STUCO: JAMAICAN ENT",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is meant to examine the entertainment industry in Jamaica. The first-half of the semester will first examine the cultural aspects of the industry, such as the origins and types of: dance, food, music, and dialect. Given this background, the second-half of the semester will dive into event planning and management in the context of this culture; such as marketing, budgeting and finances.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

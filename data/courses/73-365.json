@@ -1,0 +1,37 @@
+{
+        "code":  "73-365",
+        "name":  "Firms, Market Structures, and Strategy",
+        "short_name":  "FRMS MARKET STRC STR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-269 [] at least D) or (21-268 [] at least D) or (21-254 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is concerned with the economic analysis of industrial markets that are not perfectly competitive. The effects of imperfect competition on firms decisions pricing, location, advertising, research and development, among others are reviewed. Implications of these effects in terms of public policy are also discussed from a variety of perspectives. Finally, applications to actual markets are considered.  Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

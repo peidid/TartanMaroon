@@ -1,0 +1,37 @@
+{
+        "code":  "82-142",
+        "name":  "Elementary Spanish II",
+        "short_name":  "ELEM SPANISH II",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(82-143 [] at least D) or (82-141 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Elementary Spanish II is the second class for beginning students, emphasizing the development of communicative language and cultural competence. Students will work towards improving their writing, reading, listening and speaking abilities in Spanish, such that they become comfortable working with a variety of topics from Spanishspeaking cultural areas. Students will develop basic interactional and routine public communication patterns, frequently working in groups and pairs, and utilizing technologies that enhance learning opportunities and promote skill development. This course also provides extracurricular opportunities to interact with members of the Spanishspeaking community. Four hours of inclass instruction per week are required. A student with prior experience in Spanish must take the placement exam.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will develop basic interactional and routine public communication patterns, frequently working in groups and pairs, and utilizing technologies that enhance learning opportunities and promote skill development. This course also provides extracurricular opportunities to interact with members of the Spanishspeaking community.",
+                                                    "key_topics":  "Second part of a two-semester course sequence for beginning students, emphasizing the development of communicative language and cultural competence.",
+                                                    "prerequisite_knowledge":  "82-141/82-143 or some writing, reading, listening and speaking abilities at the elementary level in Spanish, as determined by placing test. A student with prior experience in Spanish must take the placement exam",
+                                                    "assessment_structure":  "Assignments, exams, final, presentation, project, etc? Written and oral quizzes and exams, assignments, final project and presentation, final exam.",
+                                                    "relevance":  "Students will work towards improving their writing, reading, listening and speaking abilities in Spanish, such that they become comfortable working with a variety of topics from Spanish-speaking cultural areas.",
+                                                    "learning_resources":  "The textbook (available in hard copy and digital editions) includes an online component featuring interactive resources (audio, video, etc.). Additional resources are shared via CANVAS.",
+                                                    "extra_time_commitment":  "3.5 hours of in-class instruction per week are required. Students are expected to complete 2-2.5 hours of work per class hour. Some of the assignments involve brief meetings with assistants or occasionally attending events."
+                                            }
+}

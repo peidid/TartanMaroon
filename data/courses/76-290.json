@@ -1,0 +1,37 @@
+{
+        "code":  "76-290",
+        "name":  "Literature \u0026 Culture in the 20th Century",
+        "short_name":  "LIT \u0026 CULT IN 20TH C",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester and instructor. For example Spring 2020 Black Fiction This course will take a transatlantic approach to what constitutes black literature and artistic expression from the nineteenth until the early twentyfirst century. We will investigate how black authors use literature and other mediums of expression for social, political and selfpresentation. Our primary focus will be on fiction with some memoir, poetry and nonfiction essays thrown into the mix. We will cover canonical black writers of the diaspora as well as key literary periods and movements. Along with these more conventional ways of accounting for literary history we will look at the way gender, sexuality, trans national belonging, ideology and political economy shape the reception, aesthetics and context of black writing. Authors covered in this course include Fredrick Douglass, Nella Larson, Audre Lorde, Ralph Ellison, Melvin Tolson, Percival Everett, Merle Collins, Claudia Rankine and Tayari Jones to name a few.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

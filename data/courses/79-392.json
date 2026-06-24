@@ -1,0 +1,37 @@
+{
+        "code":  "79-392",
+        "name":  "Europe and the Islamic World",
+        "short_name":  "EUROPE ISLAMIC WORLD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Europe and the Islamic World explores the complex relationship between Christian Europe and Islamic civilization, from the conquest of the Byzantine Levant to modernday Islamic immigration into Europe. The course will focus on a few landmark events in EuropeanIslamic relations, such as the crusades, as well as various intellectual models describing EuropeanIslamic relations over time. The course will also focus on developing research, writing, and documentary analysis skills relevant to the study of history.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course will increase student understanding of our shared historical past as well as ongoing modern political controversies, such as the French head scarf laws and European immigration policies. It will also increase student skills in documentary analysis and argumentative writing.",
+                                                    "key_topics":  "This course will examine the relationship between the Islamic world and Europe from the time of the Prophet to the modern era, focusing on both Islamic contributions to European culture and on past and present conflicts between the Islamic East and Christian west.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will be graded on short essays, a term paper, class participation, and a final exam (either live or take-home)",
+                                                    "relevance":  "Students will gain knowledge that will help them better understand some ongoing international controversies and social problems revolving around European/Islamic interactions.",
+                                                    "learning_resources":  "Students are encouraged to make use the ARC for assistance in their essay writing",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,54 @@
+{
+        "code":  "03-252",
+        "name":  "Introduction to Computational Cell Biology",
+        "short_name":  "INT CMPTNL CELL BLGY",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(03-151 [] at least D) or (03-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "03-250",
+                                                    "id":  1004,
+                                                    "name":  "Introduction to Computational Biology",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "02-252",
+                                                    "id":  1782,
+                                                    "name":  "Introduction to Computational Cell Biology",
+                                                    "units":  6.0
+                                            },
+                                            {
+                                                    "code":  "02-250",
+                                                    "id":  1783,
+                                                    "name":  "Introduction to Computational Biology",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course presents an overview of important modeling and image analysis applications of computers to solve problems in cell biology.  Along with 03251, it makes up one half of the full Introduction to Computational Biology, 03250, although either half can be taken individually.  Major topics covered are computer models of population dynamics, biochemical kinetics, cell pathways, neuron behavior, and stochastic simulations. The imaging component includes basics of machine vision, morphological image analysis, image classification and imagederived models. It includes homeworks requiring use or modification of Matlab scripts. Lectures and examinations are joint with 02252 but recitations are separate.  Recitations for this course are intended primarily for biological sciences or biomedical engineering majors at the undergraduate or graduate level who have had little or no prior experience with computer science or programming. Students may not take both 0325202252 and 0325002250 for credit.  Prerequisite 03121 or permission of the instructor.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

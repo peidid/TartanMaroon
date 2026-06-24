@@ -1,0 +1,37 @@
+{
+        "code":  "82-234",
+        "name":  "Environment and Society in Modern Chinese Literature and Visual Culture",
+        "short_name":  "ENV SOC MDRN CH LIT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "As the worlds biggest greenhouse emitter, China is facing enormous environmental problems and challenges, including deforestation, air pollution, soil erosion, and environmental diseases. At various historical moments, Chinese and East Asian environmental problems are deeply intertwined with class, gender, ethnic, and other political and cultural issues. What is the most compelling narrative strategy to represent the complexity of Chinese and East Asian environmental problems From a global perspective, how unique are Chinese and East Asian environmental issues How should we understand Chinas rise from an environmental perspective This undergrad seminar covers the most important topics and texts in both environmental humanities and modern Chinese literature and culture. We will also explore Chinese environmental imaginations and realities from East Asian, comparative, global, as well as interdisciplinary perspectives. Thematically, this seminar focuses on deforestation, chemical pollution, climate change, ethnicity, toxic waste, and the extinction of species. With a focus on the Peoples Republic of China and its most recent development, the readings include literature, film, popular culture, environmental history, and new media.We will also read important theories as analytical tools by Rob Nixon, Karen Thornber, Ursula Heise, Dipesh Chakrabarty, Anna Tsing, William Cronon, etc. The undergrad seminar will examine a vast range of topics in literary and visual expressions. Each thematic topic is paired with a key concept in environmental humanities so that students can situate their study within the scholarship of environmental humanities. We will understand Chinese environmental literature from an intertextual and interdisciplinary perspective.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Frame East Asian environmental problems in a cultural and historical contextExplore US and global environmental issues from a comparative and planetary perspectiveAnalyze modern Chinese literaturevisual culture in the most cuttingedge works from environmental humanities Collaborate with other students to increase knowledge and understanding from their own distinctive cultural backgrounds Communicate effectively in class discussion and writing",
+                                                    "key_topics":  "Chinese literature and visual culture; environmental humanities; environmentalism; environmental justice; ecocriticism; environmental history",
+                                                    "prerequisite_knowledge":  "None\nAll materials have English translations; No Chinese language required. Class discussions in English.",
+                                                    "assessment_structure":  "Discussion posts; 1 group presentation; 1 discussion leadership, 1 final paper or creative project",
+                                                    "relevance":  "DC: Contextual Thinking\nThis course promotes not only an understanding of contemporary Chinese literature and visual culture, but also a rich understanding of environmentalism as it crosses national boundaries and it operates in global spaces.",
+                                                    "learning_resources":  "science fiction; prize-winning documentaries and film (one on Netflix); posters; scientific journals; other materials posted on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

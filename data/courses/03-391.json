@@ -1,0 +1,37 @@
+{
+        "code":  "03-391",
+        "name":  "Microbiology",
+        "short_name":  "MICROBIOLOGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-232 [] at least D) or (03-231 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The course provides introductory level microbial science and molecular biology that is aimed for students from all disciplines of natural science.  It covers microbiology, genetics, genomics, as well as bacterial, fungal, and protozoan pathogenesis. Topics include the human microbiome, genome sequencing, gene transfer across species, virulence, and drug resistance.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Demonstrate good knowledge of microbiology, genetics, genomics and pathogenesis.2. Demonstrate familiarity with techniques in microbiology.3. Gain experience reading and discussing scientific literature.",
+                                                    "key_topics":  "Microbes in human health and disease.",
+                                                    "prerequisite_knowledge":  "Genetics",
+                                                    "assessment_structure":  "Class discussions, mid-term exam, and final presentation.",
+                                                    "relevance":  "The field of Microbiology and Infectious Disease addresses critical questions in human health and ethics. One goal of this course is to develop the background and knowledge base to have scholarly and collegial discussions about research developments in this field.",
+                                                    "learning_resources":  "in class material and assigned manuscripts and reviews.",
+                                                    "extra_time_commitment":  "reading in preparation for class discussions."
+                                            }
+}

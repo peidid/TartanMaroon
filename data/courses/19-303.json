@@ -1,0 +1,37 @@
+{
+        "code":  "19-303",
+        "name":  "Cryptocurrencies, Blockchains and Applications",
+        "short_name":  "CRYPTO BLO APP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Note Previously offered as 19355. Cryptocurrencies such as Bitcoin have gained large popularity in recent years, in no small part due to the fantastic potential applications they could facilitate. This course will first provide an overview of the technological mechanisms behind cryptocurrencies and distributed consensus and distributed ledgers blockchains, introducing along the way the necessary cryptographic tools. It will then focus on more advanced blockchain applications, such as smart contracts, that is, contracts written as code. Finally, the course will also introduce some of the legal and policy questions surrounding cryptocurrencies. Prerequisites Introduction to Computer Systems or equivalent strongly recommended",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "Cryptocurrencies, Blockchains, Distributed Ledgers, Cryptography, Regulation, Smart Contracts",
+                                                    "prerequisite_knowledge":  "Prior programming course (e.g., 15-123) is helpful.",
+                                                    "assessment_structure":  "One in-class midterm exam, one final exam, three or four assignments, random quizzes. The twelve unit version (mandatory for graduate students) also features a semester-long project.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Required text: Bitcoin and Cryptocurrency Technologies, by Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder.\nPublisher: Princeton University Press (2016), Princeton, NJ, ISBN: 0691171696.\nAlso available for free online at: http://bitcoinbook.cs.princeton.edu/",
+                                                    "extra_time_commitment":  null
+                                            }
+}

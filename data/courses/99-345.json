@@ -1,0 +1,37 @@
+{
+        "code":  "99-345",
+        "name":  "Global Health: Clean Water and Sanitation",
+        "short_name":  "GLOB HLTH SANITATION",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "NEW weekend mini course proposed jointly with CMU and the University of Pittsburgh to be held on CMUs campus the weekend of February 2325, 2018.  With each global health crisis, the interconnectedness of populations around the globe becomes more pronounced. Diseases not only affect the health of communities, but they have a profound impact on political, economic, and social stability within countries and regions. This course engages the interdisciplinary nature of global health by approaching the issue through the lens of the Sustainable Development Goals SDG developed by the United Nations. The SDGs range in focus from good health and wellbeing to gender equality to clean water and sanitation to affordable, clean energy. By engaging the ways that health has a stake in these goals, the course will bring the expertise of faculty from the University of Pittsburgh and CMU to understand and address the issue surrounding global health from a myriad of perspectives and avenues. With a projectbased focus, the course will assist students in engaging and impacting their local community though a global issue.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

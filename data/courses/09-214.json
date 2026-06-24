@@ -1,0 +1,37 @@
+{
+        "code":  "09-214",
+        "name":  "Physical Chemistry",
+        "short_name":  "PHYSICAL CHEMISTRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(09-106 [] at least D) and ((21-124 [] at least D) or (21-122 [] at least D)) and ((33-121 [] at least D) or (33-111 [] at least D) or (33-141 [] at least D) or (33-106 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is a onesemester course intended primarily for students majoring in Biological Sciences, students pursuing a B.A. degree program in Chemistry, and students in the B.S.A.program with a concentration in chemistry. The course focuses on thermodynamics, transport and reaction rates and their application to chemical and biological systems. Emphasis is given to attaining a good fundamental understanding of entropy and free energy. This is more a concepts than skills building course. Topics include applications of thermodynamics to chemical and biochemical equilibria, electrochemistry, solutions, and chemical kinetics. 3 hrs. lec.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

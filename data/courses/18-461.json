@@ -1,0 +1,66 @@
+{
+        "code":  "18-461",
+        "name":  "Introduction to Machine Learning for Engineers",
+        "short_name":  "INT MCH LRNG FOR ENG",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(18-202 [] at least C) and (21-127 [] at least C) and (15-122 [] at least C) and ((36-218 [] at least C) or (36-225 [] at least C) or (36-219 [] at least C) or (21-325 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "10-401",
+                                                    "id":  404,
+                                                    "name":  "Introduction to Machine Learning (Undergrad)",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "10-701",
+                                                    "id":  1334,
+                                                    "name":  "Introduction to Machine Learning",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "10-601",
+                                                    "id":  3754,
+                                                    "name":  "Introduction to Machine Learning",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "10-315",
+                                                    "id":  9508,
+                                                    "name":  "Introduction to Machine Learning (SCS Majors)",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "10-301",
+                                                    "id":  9565,
+                                                    "name":  "Introduction to Machine Learning",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an introduction to machine learning with a special focus on engineering applications. The course starts with a mathematical background required for machine learning and covers approaches for supervised learning linear models, kernel methods, decision trees, neural networks and unsupervised learning clustering, dimensionality reduction, as well as theoretical foundations of machine learning learning theory, optimization. Evaluation will consist of mathematical problem sets and programming projects targeting realworld engineering applications.  This course is crosslisted with 18661. ECE graduate students will be prioritized for 18661, and ECE undergraduate students will be prioritized for 18461. Although students in 18461 will share lectures with students in 18661, students in 18461 will receive distinct homework assignments, distinct programming projects, and distinct exams from the ones given to students in 18661. Specifically, the homework assignments, programming projects, and exams that are given to the 18661 students will be more challenging than those given to the 18461 students.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Enable students to apply existing machine learning techniques, and develop new ones, to solve engineering problems. Introduce students to the mathematical theory behind basic machine learning and statistical pattern recognition techniques.",
+                                                    "key_topics":  "Supervised learning techniques (linear and logistic regression, support vector machines, naive Bayes, nearest neighbors, decision trees, neural networks), unsupervised learning techniques (clustering, expectation maximization, dimensionality reduction), fundamentals of learning theory (optimization, risk). Time permitting, advanced topics like hidden Markov models, online learning, and reinforcement learning.",
+                                                    "prerequisite_knowledge":  "Undergraduate-level knowledge of linear algebra, multivariable calculus, probability, and statistics. Python programming. Basic knowledge of optimization (e.g., convexity, duality) and random processes is desirable but not required.",
+                                                    "assessment_structure":  "Bi-weekly homeworks (including mathematical problems and programming assignments), a midterm exam, and a final exam.",
+                                                    "relevance":  "This is a foundational course for advanced topics in machine learning and data analysis. Students will study tools to identify patterns, make decisions, and learn from data.",
+                                                    "learning_resources":  "Course website, course Piazza, assigned online readings.",
+                                                    "extra_time_commitment":  "No extra commitments, aside from time required to complete homework assignments, study for exams, and review material presented in lecture and recitation."
+                                            }
+}

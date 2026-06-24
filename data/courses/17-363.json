@@ -1,0 +1,37 @@
+{
+        "code":  "17-363",
+        "name":  "Programming Language Pragmatics",
+        "short_name":  "PROG LANGUAGE PRAGMA",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-150 [] at least C) and ((15-251 [] at least C) or (21-228 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a broad and pragmatic foundation in the most basic tool of the programmer programming languages.  It starts with the fundamentals of syntax, parsing, and binding, the core structural concepts in programming languages.  The course will then cover program semantics and type systems, and students will learn to relate them with a type soundness theorem.  Finally, a coverage of intermediate optimization and code generation offers the opportunity to discuss both producing efficient code and reasoning about the correctness of program transformations.  Assignments involve a combination of toolassisted formal reasoning and proofs about programming languages, and implementing these language constructs in a compiler.  This course fulfills the Logic  Languages constrained elective of the B.S. in Computer Science.  Students with substantial math and programming experience who have not satisfied the specific prerequisites can contact the instructor for permission to enroll.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cs.cmu.edu/~aldrich/courses/17-363/",
+        "custom_fields":  {
+                                                    "goals":  "After finishing the course, each student will be able toCriticize a language design with respect to programming language principles.Implement lexical analysis, parsing, typechecking, and code generation for a basic compiler.Describe the semantics of language constructs clearly and formally, and reason about programs using those constructs.Formally express key properties of programming languages and compilers, including type safety and transformation correctness, and explain the significance of those properties.Write rigorous proofs of those programming language properties that can be checked by a proof assistant.Discuss the impact of common language features on language implementation.",
+                                                    "key_topics":  "syntax, lexical analysis, parsing, binding, program semantics, type systems and soundness, intermediate optimization, code generation, and tool-assisted formal reasoning about language constructs.",
+                                                    "prerequisite_knowledge":  "Programming maturity and knowledge of reasoning about programs equivalent to passing 15-150, and mathematical maturity equivalent to passing either 15-251 or 21-228. Students with substantial math and programming experience who have not satisfied the specific prerequisites can contact the instructor for permission to enroll.",
+                                                    "assessment_structure":  "theory and programming assignments (25% each), two exams (20%), a final project (25%), and participation (5%). Participation will be assessed by completing in-class exercises.",
+                                                    "relevance":  "Programming languages are the most fundamental tool of programmers. This course will teach you about the conceptual and mathematical foundations of programming languages, and how those foundations impact practical properties of the language such as type and memory safety. You will learn about compiler implementation and the interaction between features of the language and how it is implemented. Overall, the course will prepare you not only to make principled choices in languages you might design, but also to select languages appropriate for your task and use them more effectively.",
+                                                    "learning_resources":  "The course textbook will be Programming Language Pragmatics, Fourth Edition, by Michael L. Scott. In addition, the instructor will provide supplementary notes with new material to be published in the Fifth Edition of the text by Scott and Aldrich.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

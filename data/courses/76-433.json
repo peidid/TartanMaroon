@@ -1,0 +1,37 @@
+{
+        "code":  "76-433",
+        "name":  "Love: A Cultural Introduction",
+        "short_name":  "LOVE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-101 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is a course about the literary and cultural history of love.   We will focus on romantic love, with an emphasis on how ideas about love have been a dynamic part of our social, political and economic world. Some of the questions to be addressed include  How, historically, did the idea of love become coupled with freedom  How did romantic love come to be considered the epitome of selffulfillment and what are the contradictions in that idea  How has the idea of romantic love been mobilized on behalf of things like the state, the nation, capitalism or revolution   How do types of love function as a measure of belonging or deviance  How does the discourse of love enter different kinds of institutional arrangements, such as marriage or state citizenship  As a way to explore these questions, this course focuses on literature, reading canonical and noncanonical texts through philosophy, history, anthropology, sociology and law.  Students will immerse themselves in an interdisciplinary range of material as they read, discuss and write about these representations.  We will roam through cultural theory of affect, psychoanalytic notions of love, historical constructions of marriage, and feminist discussions of love and sexuality.  The emphasis will be on EuroAmerican narrative traditions, but the final part of the course will include a contemporary global comparative context.  Literary readings might include William Shakespeare, Jane Austen, Charlotte Bronte, James Baldwin, Toni Morrison, Arundhati Roy and Jeanette Winterson.  This course is an advanced undergraduateonly English course with intensive reading. Note Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "critical understanding of love",
+                                                    "key_topics":  "love, romance, fiction, culture",
+                                                    "prerequisite_knowledge":  "advanced undergrad English course",
+                                                    "assessment_structure":  "assessed in this course: assignments, exams, final, presentation, project, etc.?\nshort regular responses, presentation and longer papers",
+                                                    "relevance":  "of wide general interest",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

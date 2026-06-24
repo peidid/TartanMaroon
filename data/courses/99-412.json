@@ -1,0 +1,37 @@
+{
+        "code":  "99-412",
+        "name":  "Summer Internship",
+        "short_name":  "SUMMER INTRNSHP",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course allows students to engage in experiential learning that integrates knowledge and theories from their academic discipline within a relevant professional context. This should include a meaningful project at the internship site where practical application and skills development occurs relevant to the students major. The internship can be at an internal CMU or external site. Students will need to complete a proposal and supervisor agreement form to be eligible for this tuitionfree 1unit course. Students are responsible for finding internships. In addition to the time spent at the internship site, students will be expected to write a short paper explaining the application of knowledge and theories as well as skills developed at the internship site as they relate to professional career goals. This course can be repeated, but students must work on new projects w and provide a new paper for each time it is taken. The course is not eligible for CPT for international students please contact the Office for International Education for more information.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

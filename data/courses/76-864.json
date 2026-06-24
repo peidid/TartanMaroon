@@ -1,0 +1,37 @@
+{
+        "code":  "76-864",
+        "name":  "Creative Nonfiction Workshop",
+        "short_name":  "CRTV NONFICT WKSHP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Narrative Medicine looks at the intersection of writing and healing. How does narrative help heal the mind, and how are the mind and body inextricably linked The couse will introduce you to several books and essays centered around the theme of wellness and illness and how these modes of being are represented and shaped by culture. You will write your own personal essays on these topics along with a final research paper. A great class for anyone interested in the power of storytelling in our own lives.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will improve writing,reading, and verbal skills. Students will find a sense of community, and an encouraging space to develop their own creativity.\nStudents will create a portfolio of their own writing.\nStudents will create a portfolio of their own writing.",
+                                                    "key_topics":  "Meaning-making. How language shapes the self and the world. How language is there for us to sculpt and revise our lives, our culture.\n\n\n\nIdentity, race, economics, spirituality",
+                                                    "prerequisite_knowledge":  "Students should be serious about writing and have significant writing experience.",
+                                                    "assessment_structure":  "Their own writing, and responses to readings. final project, critiqued in class.",
+                                                    "relevance":  "Readings chosen with an eye on the time we are living through now, with an eye on representing a wide range of humans, especially those on the margins.",
+                                                    "learning_resources":  "books and uploaded files",
+                                                    "extra_time_commitment":  "lots of time will be required for reading and writing outside of class"
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-375",
+        "name":  "Magazine Writing",
+        "short_name":  "MAGAZINE WRITING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-260 [] at least D) or (76-262 [] at least D) or (76-372 [] at least D) or (76-271 [] at least D) or (76-272 [] at least D) or (76-270 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course well be reading lots of great nonfiction, some of which has appeared in magazines during the past few years. Well look at how excellent nonfiction for magazines has to employ a strong narrative voice, and the techniques of storytelling. Students will be asked to research and write their own articles, based on a variety of assignments. The class will be conducted as a discussion, and demands participation from each class member.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

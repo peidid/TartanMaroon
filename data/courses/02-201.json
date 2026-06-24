@@ -1,0 +1,37 @@
+{
+        "code":  "02-201",
+        "name":  "Programming for Scientists",
+        "short_name":  "PRGRMMING SCIENTISTS",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Provides a practical introduction to programming for students with little or no prior programming experience who are interested in science. Fundamental scientific algorithms will be introduced, and extensive programming assignments will be based on analytical tasks that might be faced by scientists, such as parsing,  simulation, and optimization.  Principles of good software engineering will also be stressed. The course will introduce students to the Go programming language, an industrysupported, modern programming language, the syntax of which will be covered in depth. Other assignments will be given in other programming languages such as Python and Java to highlight the commonalities and differences between languages. No prior programming experience is assumed, and no biology background is needed. Analytical skills and mathematical maturity are required. Course not open to CS majors.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

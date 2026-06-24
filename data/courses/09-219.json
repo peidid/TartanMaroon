@@ -1,0 +1,37 @@
+{
+        "code":  "09-219",
+        "name":  "Modern Organic Chemistry",
+        "short_name":  "MODERN ORGANIC CHEM",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "(09-106 [] at least D) or (09-107 [] at least A)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Traditional introductory organic chemistry courses present structure, reactivity, mechanisms and synthesis of organic compounds. Students taking 09219 will be exposed to the same topics, but presented in greater depth and broader context, with applications to allied fields such as 1 polymer and materials science, 2 environmental science and 3 biological sciences and medicine. This will be accomplished through an extra 50 minute lecture period, where more advanced topics and applications will be discussed. Topics will include computational chemistry, green chemistry, chiral separations, photochemistry, reaction kinetics, controlled radical polymerizations and petroleum cracking. Students who complete 09219 will have a strong foundation in organic chemistry as well as a sophisticated understanding of how organic chemistry is currently practiced. 4 hrs. lec., 1 hr. rec.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, you should be able toUnderstand the threedimensional structure of organic moleculesIdentify reactive sites in organic moleculesPropose reaction mechanisms using electron pushingUnderstand substitution, elimination, addition, and radical reactionsUse spectroscopic data to characterize molecular structurePropose the modification or synthesis of organic molecules using standard reactions",
+                                                    "key_topics":  "Bonding \u0026 Molecular Structure, Resonance and Intermolecular forces, Alkanes \u0026 functional groups, Acids \u0026 Bases, Infrared and Nuclear Magnetic Resonance Spectroscopy, Stereochemistry, Substitution and Elimination Reactions, Reactions of Alkenes and Alkynes, Rearrangements and Mechanism, Reactions of Alcohols, Alkyl Halides, Epoxides and Carbonyls, Radical Reactions, Total Synthesis",
+                                                    "prerequisite_knowledge":  "General Chemistry I and II (or permission of the instructor)",
+                                                    "assessment_structure":  "7 problem sets, with lowest score dropped (10 points each, 60 points). 3 one hour exams (100 points each), and one final (200 points) with lowest 100 points dropped (400 points total). In class exercises for extra credit (1-2 points each, 1-3 opportunities based on need)",
+                                                    "relevance":  "This course provides a critical introduction to the structure, bonding, and reactivity of carbon for students focusing their studies in chemical sciences. The reactivity of carbon provides the basis for understanding organic molecules in biochemistry, medicine (pharmacology), and engineering.",
+                                                    "learning_resources":  "Organic Chemistry (9th or 10th edition) by Solomons and Fryhle, Organic Chemistry as a 2nd Language, Molecular Visions model kit, Canvas website (https://canvas.cmu.edu/), Virtual textbook of Organic Chemistry (http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm), Organic Chemistry Portal (www.organic-chemistry.org), Tutorial videos available on Canvas",
+                                                    "extra_time_commitment":  "1 hour recitation per week. All exams are offered in class."
+                                            }
+}

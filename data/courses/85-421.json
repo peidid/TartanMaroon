@@ -1,0 +1,37 @@
+{
+        "code":  "85-421",
+        "name":  "Language and Thought",
+        "short_name":  "LANGUAGE \u0026 THOUGHT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(80-150 [] at least D) or (85-213 [] at least D) or (85-211 [] at least D) or (80-180 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course allows the student to explore ways in which the mind shapes language and language shapes the mind. Why are humans the only species with a full linguistic system Some of the questions to be explored are What kinds of mental abilities allow the child to learn language What are the cognitive abilities needed to support the production and comprehension of sentences in real time How do these abilities differ between people Are there universal limits on the ways in which languages differ Where do these limitations come from cognition in general or the specific language facility Why is it so hard to learn a second language Are there important links between language change and cultural change that point to links between language and culture",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The basic goal of the course is to understand the nature of language and how it relies on cognitive mechanics to express thought. This question can be unpacked into a series of more specific questions.1.\nWhat is unique about human language 2.\nWhat is unique about human thought3.\nWhat are the genetic, physiological, and social bases for language4.\nHow did language evolve 5.\nHow does the brain process language6.\nWhat causes language impairments7.\nHow do children learn language8.\nHow do people learn second languages9.\nAre there language universals10. How and why do languages change over time11. What are the relations between language and thought",
+                                                    "key_topics":  "language, language comprehension",
+                                                    "prerequisite_knowledge":  "For this course, it is helpful to have understanding of the major issues in Cognitive Psychology and some familiarity with the basics of linguistic analysis. Also, familiarity with second languages can be helpful.",
+                                                    "assessment_structure":  "Assessment is based on 11 short quizzes, 5 papers, and a final exam.",
+                                                    "relevance":  "Understanding the nature of human language and its relation to thought and communication is helpful for understanding related issues in perception, higher level cognition, reasoning, neural processing, learning, social interaction, and development.",
+                                                    "learning_resources":  "Resources include the textbook \"Language in Mind\", lectures, chapters, and materials from the TalkBank databases.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

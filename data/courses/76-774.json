@@ -1,0 +1,37 @@
+{
+        "code":  "76-774",
+        "name":  "Software Documentation",
+        "short_name":  "SOFTWR DOCMENTATION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course teaches theory, techniques, and best practices for creating software documentation. We will learn to plan, architect, write, and publish audienceappropriate user assistance, while applying concepts and approaches like minimalism, topicoriented authoring, singlesource publishing, content reuse, and metadata. Students will complete homework assignments and larger projects to reinforce principles and provide experience in all phases of the software documentation lifecycle. Readings and class discussion will bridge theory and practice.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  "Students will learn foundational theory and acquire prerequisite skills to participate in modern software development organizations.",
+                                                    "key_topics":  "Audience and task analysis, topic-oriented writing, structured authoring, markup languages, writing for content reuse, API documentation, XML, DITA",
+                                                    "prerequisite_knowledge":  "No prerequisites.",
+                                                    "assessment_structure":  "Students will be assessed primarily on the quality of their software documentation projects. There may be occasional quizzes and there will be a final exam.",
+                                                    "relevance":  "Most professionals interact with software all day, every day. Software documentation, whether for end-users, administrators, or developers, supports people in using software successfully.",
+                                                    "learning_resources":  "Reading assignments will be provided. The course will emphasize research-based practices for authoring and delivering audience-appropriate software documentation.",
+                                                    "extra_time_commitment":  "Readings and projects will be completed outside class time. There may be optional lab sessions."
+                                            }
+}

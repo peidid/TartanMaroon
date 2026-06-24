@@ -1,0 +1,37 @@
+{
+        "code":  "98-332",
+        "name":  "Student Taught Courses (StuCo): Introduction to Paper Crafting",
+        "short_name":  "STUCO: PPR CRAFTING",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Do you want to create beautiful paper bouquet without spending money at shops Do you want to give a trendy, dimensional, handmade card to your friend on holidays This class is an introduction to paper crafting that will satisfy  your wishes to be an amateur paper artist. Throughout the semester, we will mainly focus on paper quilling and will alternatively teach you about card making such as handmade popup cards, sometimes with holiday themes. Then, see how to incorporate your new quilled creations into lovely cards or amazing and creative projects. Note This is a projectbased class. Most of the projects we are doing are threedimensional. Students need to buy a basic quilling kit that costs approximately 20. Extra materials could be purchased based on needs.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

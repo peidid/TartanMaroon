@@ -1,0 +1,37 @@
+{
+        "code":  "03-744",
+        "name":  "Membrane Trafficking",
+        "short_name":  "MEMBRANE TRAFFICKING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-240 [] at least D) or (03-320 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "While the focus of this course is to analyze membraneprotein traffic along both the biosynthetic and endocyctic pathways, our general goal is to teach students how to read and interpret the literature. In particular, we emphasize the conclusions and discuss their validity. The course is updated each year to include topics in which new and interesting developments have occurred. Emphasis is placed on how membrane traffic is regulated and where applicable how it is disrupted or subverted during disease processes. The course is of general interest to students, fellows, and faculty interested in cell biology, immunology, neurobiology, pharmacology and virology.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Critical reading, oral communication",
+                                                    "key_topics":  "Membrane trafficking, signaling, cytoskeleton",
+                                                    "prerequisite_knowledge":  "Introductory cell biology, Introductory biochemistry\n\nPrerequisites:\n03320 or 03240\nMinimum Grades:\nD in 03320, D in 03240",
+                                                    "assessment_structure":  "Participation, oral presentation",
+                                                    "relevance":  "students will understand recent experimental approaches and findings in cell biology",
+                                                    "learning_resources":  "Primary literature",
+                                                    "extra_time_commitment":  null
+                                            }
+}

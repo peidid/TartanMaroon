@@ -1,0 +1,48 @@
+{
+        "code":  "09-103",
+        "name":  "Atoms, Molecules and Chemical Change",
+        "short_name":  "ATOMS MOL CHEM CHNG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "09-105",
+                                                    "id":  6595,
+                                                    "name":  "Introduction to Modern Chemistry I",
+                                                    "units":  10.0
+                                            },
+                                            {
+                                                    "code":  "09-106",
+                                                    "id":  6597,
+                                                    "name":  "Modern Chemistry II",
+                                                    "units":  10.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Atoms, Molecules and Chemical Change is a selfcontained onesemester introductory college chemistry course for students who have a highschool background in science and mathematics but who have decided not to major in a STEM field science, technology, engineering, or mathematics. Students will develop fundamental chemical knowledge in topics such as stoichiometry, atomic theory, molecular bonding and structure, chemical reactions, thermodynamics, and electrochemistry. This knowledge will be applied to a variety of topics, including biological, industrial, environmental, agricultural, and culinary applications, helping students to understand how chemistry affects environmental, social, political, and economic issues. Through this course, students will develop both qualitative understanding and quantitative skills in chemistry. Students with credit for 09105 or other more advanced chemistry courses are not permitted to enroll in this course.  3 hrs. lec., 1 hr. rec.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Develop basic principles of chemical knowledge, including solving problems.2. Build intuition for chemistry, at both macroscopic and molecular scales.3. Understand how chemical knowledge is developed by scientists.4. Apply chemical knowledge to situations of everyday concern.",
+                                                    "key_topics":  "Energy, nutrition, biochemistry, social impact of chemistry, societal influence on chemistry.",
+                                                    "prerequisite_knowledge":  "High-school physical science and math background.",
+                                                    "assessment_structure":  "Quizzes, Exams, In Class Exercises, Final Paper",
+                                                    "relevance":  "To develop great understanding of chemistry, an area of knowledge that allows humans to understand and change the material substances we use and encounter every day.",
+                                                    "learning_resources":  "Open Learning Initiative (OLI)",
+                                                    "extra_time_commitment":  null
+                                            }
+}

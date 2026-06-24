@@ -1,0 +1,37 @@
+{
+        "code":  "76-471",
+        "name":  "The Pittsburgh Review of Books",
+        "short_name":  "PGH REVIEW OF BOOKS",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "NOTE This course requires instructor permission. Please see the course URL to fill out an application for the course.Students are invited to join the staff of The Pittsburgh Review of Books, a new initiative to produce a public humanities periodical that is based in the city but that looks out toward the wider world. Inspired by publications like The Los Angeles Review of Books, The Baffler, N1, Aeon, and The New Inquiry, the PRB will be a Carnegie Mellon based publication featuring cultural and literary criticism, with a focus on issues of technology as they intersect with the humanities. The PRB is intended to be a new venue for intelligent writing and discourse by scholars writing for the general audience. Classes will be run as staff meetings and students will have the opportunity to not only gain editorial and writing experience, but to help set the tone for an important new publication.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://bit.ly/PghReviewQuestionnaire",
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to write and edit in a timely fashion, be able to elucidate an editorial vision, and have gained experience in the production of a publication.",
+                                                    "key_topics":  "The key subjects that will be covered in this course include editing, publishing, longform narrative journalism, and criticism written for a public readership.",
+                                                    "prerequisite_knowledge":  "Students should have a background in composition.",
+                                                    "assessment_structure":  "Students will primarily be evaluated based on class participation. Most class meetings will function as the equivalent of a staff meeting. As a practicum, assignments will be geared towards the production of the publication itself, though assignments may include pitching and writing stories designed for publication on the site.",
+                                                    "relevance":  "This course will help train students in editing and publication.",
+                                                    "learning_resources":  "Primarily assigned readings and websites.",
+                                                    "extra_time_commitment":  "As the class will be run as a staff meeting, there will definitely be time commitments required outside of class."
+                                            }
+}

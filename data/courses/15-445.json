@@ -1,0 +1,37 @@
+{
+        "code":  "15-445",
+        "name":  "Database Systems",
+        "short_name":  "DATABASE SYSTEMS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "15-213 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is on the design and implementation of database management systems. Topics include data models relational, document, keyvalue, storage models nary, decomposition, query languages SQL, stored procedures, storage architectures heaps, logstructured, indexing order preserving trees, hash tables, transaction processing ACID, concurrency control, recovery logging, checkpoints, query processing joins, sorting, aggregation, optimization, and parallel architectures multicore, distributed. Case studies on opensource and commercial database systems will be used to illustrate these techniques and tradeoffs. The course is appropriate for students with strong systems programming skills.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://15445.courses.cs.cmu.edu",
+        "custom_fields":  {
+                                                    "goals":  "Use relational algebra and relational calculus, to express database queries.Use SQL to interact with database management systems.Design appropriate database tables, using functional dependencies and normal forms.Implement a diskoriented database storage manager with table heaps and indexes.Understand, compare, and implement the major concurrency control algorithms.Implement database recovery algorithms and verify their correctness.Identify tradeoffs among database systems techniques and contrast distributedparallel alternatives for both online transaction processing and online analytical workloads.Interpret and comparatively criticize database system architectures.",
+                                                    "key_topics":  "data models (relational, document, key/value, storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed).",
+                                                    "prerequisite_knowledge":  "Systems Programming, C/C++",
+                                                    "assessment_structure":  "15% Homeworks, 45% Programming Projects, 20% Midterm Exam, 20% Final Exam, +10% Extra Credit (Optional)",
+                                                    "relevance":  "This course is for students interested in the design and implementation of database management systems. 15-445 is for undergraduates. Graduate students should enroll in 15-645.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

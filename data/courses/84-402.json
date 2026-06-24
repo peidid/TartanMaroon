@@ -1,0 +1,37 @@
+{
+        "code":  "84-402",
+        "name":  "Judicial Politics and Behavior",
+        "short_name":  "JUDCL POLTC \u0026 BEHVR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "84-104 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is a survey of research and insight into one of the most unique American government institutions the judiciary. Rather than exclusively reading case law as one would do in a Constitutional Law class, this course examines court structure, rules of law and, most importantly, judges as actors within an institutional setting. We will focus on how rules, norms, and expectations guide the decisions, actions, and range of options available to judges. Here we will study the nature of judicial decisionmaking and its antecedents, the organization of the judicial branch and its implications for behavior, and the strategic interactions both within courts and between the courts and the more political branches of government. The course will look at state and federal courts within the United States, supplemented with examples from international jurisdictions. Material from law, history, economics, political science, sociology, and psychology will be introduced throughout the semester. Although some of the literature uses empirical andor game theoretical models, students are not expected to have mastered these tools prior to taking the course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Evaluate the different types, and the relative strength, of evidence used by the competing studies of judicial behavior",
+                                                    "key_topics":  "US Supreme Court Decisionmaking; Law and Politics",
+                                                    "prerequisite_knowledge":  "DPAPI (84-104) helpful, but not required.",
+                                                    "assessment_structure":  "Heavy class participation element, final research paper, midterm exam, occasional quizzes.",
+                                                    "relevance":  "A deep dive into decision making on the High Court",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  "Lots of reading outside of class"
+                                            }
+}

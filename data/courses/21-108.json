@@ -1,0 +1,37 @@
+{
+        "code":  "21-108",
+        "name":  "Introduction to Mathematical Concepts",
+        "short_name":  "INTRO MATH CONCEPTS",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to the vocabulary necessary for understanding and proving mathematical statements.  The topics in this course include integers, rational numbers, polynomials, divisibility of numbers and polynomials, basic logic, sets, relations, functions, rule of sum, and rule of product.  Three 50 minute lectures, two 50 minute recitations",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  "Our goal is to introduce the vocabulary necessary for understanding and proving mathematical statements and prepare students for prooforiented mathematical courses. Students will learn to understand statements that involve integers, rational numbers, polynomials, divisibility of numbers and polynomials, basic logic, sets, relations, functions, rule of sum, and rule of product.",
+                                                    "key_topics":  "Natural numbers, integers, rational numbers, divisibility, the quadratic equation, the AGM inequality, polynomials, rational functions, polynomial division with remainder, polynomial factorization, basic logic, sets, relations, functions, rule of sum, and rule of product.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Homework assignments and quizzes.",
+                                                    "relevance":  "The course will provide students with the necessary tools for understanding and proving mathematical statements.",
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

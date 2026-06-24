@@ -1,0 +1,37 @@
+{
+        "code":  "70-439",
+        "name":  "Applied Data Science for Business",
+        "short_name":  "DATA SCI FOR BUS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The objective of this project class is to expose students to cuttingedge data science tools applied to a realworld problem. This project course fulfills several academic goals, by applying business analytics and leadership to an actual industrial application. These include   Team management Learn how to interact and engage with your team members, set goals, and manage the project.  Leadership The project contains different elements, such as coding, writing, and presenting, which allows students to take ownership and lead that part of the project.  Analytics The project contains several analytical components including data analysis and predictive modeling.   Product Management Learn how data and analytics can bring value to a new product.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

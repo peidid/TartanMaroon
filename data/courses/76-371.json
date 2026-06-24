@@ -1,0 +1,37 @@
+{
+        "code":  "76-371",
+        "name":  "Teamwork for Innovators",
+        "short_name":  "TEAMWORK INNOVATORS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Academic teams, campus organizations, workplaces are all dynamic activity systems, organized and driven by institutional habits and rules, by roles, status and power, and by the material and conceptual tools we draw on.   Yet as we have all observed, these Rules, Roles and Tools often operate in contradictory ways, even in conflict with one another.  Effective team leaders are able to recognize these contradictions and draw a writing group, a project team, a social organization or a workplace into what is called an expansive transformation.  That is, to innovate new ways of working together.  In this course, you will learn how to become more effective not only as a team member, but also a project leader, and even group consultant in your college work and workplace.  Looking at films, case studies, research, and your own experience, we will learn how to analyze how teams of all sorts are working, to communicate more effectively across different expectations and values, and to collaboratively innovate new ways of working together.   Your final project will let you document your ability to be a knowledgeable team leader and effective collaborator.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To not only improve their own practice, but be able to analyze how teams are working, document and effectively present their research, develop engaging instruction in new strategies based on research, and work as a team leader andor consultant on teamwork.",
+                                                    "key_topics":  "Recognizing common problems in Teamwork (including differences in discourse, identity \u0026 goals)\n\n\nProblem-solving strategies for planning, collaboration, managing conflict and using difference well\n\n\nFinding spaces for innovation within a team\u0027s social, cultural and cognitive activity system\n\n\nConducting research on team dynamics\n\n\nDeveloping imaginative strategy instructions\n\n\nBecoming a team leader or a consultant on teamwork",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "A mid term individual instructional document on a strategy and a final team Consulting Project plus an analytical reflection on ways they have applied their learning.",
+                                                    "relevance":  "Teamwork is often central to work in college , in organizations and professional work. Expected by not often taught.",
+                                                    "learning_resources":  "Texts, instructional web sites, case studies, films",
+                                                    "extra_time_commitment":  "Yes,\n\n\na few team meetings and contact with the team they choose to study."
+                                            }
+}

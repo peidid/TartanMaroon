@@ -1,0 +1,37 @@
+{
+        "code":  "70-453",
+        "name":  "Business Technology for Consulting",
+        "short_name":  "BUS TECH FOR CONSLTG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-110 [] at least D) or (70-451 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, you will learn to how to effectively lead and undertake information system analysis and design projects. In doing so you will develop your intellectual toolbox for business technologies consulting by learning to apply specific tools and techniques such as BPMN and Agile development methodologies. You will practice applying these techniques on a variety of case studies, examples, and a substantial semesterlong project. Beyond the concrete analysis and design techniques, you will develop a set of work practices and habits of thought that should serve you well in your consulting career. This will be a very handson course in which you will largely learn by doing. Most class sessions will include a combination of some presentation by the instructor, some discussion possibly of a case study, and exercises to practice working with the days tools and concepts. Homework assignments, inclass presentations, and a semesterlong term project are essential parts of the course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

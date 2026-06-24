@@ -1,0 +1,37 @@
+{
+        "code":  "76-294",
+        "name":  "Interpretive Practices: Introduction to Critical Reading",
+        "short_name":  "INTERPRETIVE PRACTCS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will introduce you to foundational theories and methods that form the practice of interpreting literary, poetic, cinematic, and other artistic modes of expression. We will start with an introduction to poetics through the works of Aristotle then move our way up through specific terms and theories of language, image and narrative as a system of communication and imaginative expression from Ferdinand Saussure to Roland Barthes and Hortense Spillers. I have organized our course around specific art works that I have paired with an interpretive reading practice andor term. We will read, watch or listen to the works of T.S. Eliot, Beyonc, Sergei Eisenstein, Kara Walker, Mary Shelley and Percival Everett to name a few.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

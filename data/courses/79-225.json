@@ -1,0 +1,37 @@
+{
+        "code":  "79-225",
+        "name":  "West African History in Film",
+        "short_name":  "WEST AFRCN HSTY FILM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "West Africa is a vibrant, diverse, and rich region, which has had the largest influence demographically, culturally, socially, and linguistically on the Americas. This course will examine West Africas history from the precolonial to the independence period. It will cover such topics as states vs. stateless societies, urbanization, transSaharan trade, Islamization, European interaction, the transAtlantic slave trade, colonialism, cash crops, missionaries, nationalism, and independence. Students will understand how this dynamic region changed over time as a result of internal factors, such as state formation, as well as external factors, interaction with Muslim and European traders. Students will also be exposed to the variety of sources used by historians to reconstruct West Africas rich history. The course will use historical films by some of West Africas most famous filmmakers, such as Ousman Sembene, to illustrate the diversity of the region and its historical change over time. Course includes two class meetings and mandatory film screenings on Wednesdays from 640930pm.  This course fulfills Dietrich Colleges Contextual Thinking general education requirement.  Note to CFA Students  If the filmshowing portion of this class conflicts with a theatrestage placement, please know that alternative screening times can be arranged on a casebycase basis.  If you have any questions or concerns, please contact the instructor directly.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The course is also designed to get students thinking critically about how historians select and interpret sources to construct and reconstruct history at these different levels.",
+                                                    "key_topics":  "Key topics to be covered include:\n\n*\tStates vs. stateless societies, urbanization, trans-Saharan trade, Islamization, European interaction, the trans-Atlantic slave\ntrade, colonialism, cash crops, missionaries, nationalism, and independence.\n\n*\tDynamism and change over time as a result of internal factors, such as state formation, as well as external factors, interaction with Muslim and European traders.\n\n*\tVariety of sources used by historians to reconstruct West Africa\u0027s rich history.",
+                                                    "prerequisite_knowledge":  "No prerequisite knowledge is required.",
+                                                    "assessment_structure":  "* Three 4-page papers.\n\n* Class Participation: Class attendance and contributions to class discussion, Small group meetings and presentations, Small group evaluations, attendance at 1 Africa-related event (we will attend as a class).\n\n* Journal Entry (about class Africa-related event).\n\n* Final Paper (8-page take home final exam).",
+                                                    "relevance":  "This course fulfills Dietrich College\u0027s \"Contextual Thinking\" general education requirement.\n\nThe course is designed to give students an understanding and appreciation of African history and culture from the « inside out ». It is centered on African language/ethnic groups, villages, and individuals as historical actors who daily made collective and personal decisions to pass down, innovate, and borrow practices, technology, spiritual systems, etc. in the face of changing (and sometimes cataclysmic) social, political, and economic realities",
+                                                    "learning_resources":  "Texts, both primary and secondary sources.",
+                                                    "extra_time_commitment":  "Attendance at one Africa-related event; we will attend as a class."
+                                            }
+}

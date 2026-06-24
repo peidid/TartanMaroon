@@ -1,0 +1,48 @@
+{
+        "code":  "10-315",
+        "name":  "Introduction to Machine Learning (SCS Majors)",
+        "short_name":  "MACHINE LEARNING",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) and ((21-127 [] at least C) or (21-128 [] at least C) or (15-151 [] at least C)) and ((36-217 [] at least C) or (36-225 [] at least C) or (15-259 [] at least C) or (21-325 [] at least C) or (15-359 [] at least C) or (36-218 [] at least C) or (36-219 [] at least C) or (36-235 [] at least C)) and ((21-240 [] at least C) or (21-241 [] at least C) or (21-242 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "18-461",
+                                                    "id":  8806,
+                                                    "name":  "Introduction to Machine Learning for Engineers",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-661",
+                                                    "id":  8815,
+                                                    "name":  "Introduction to Machine Learning for Engineers",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Machine learning is a subfield of computer science with the goal of exploring, studying, and developing learning systems, methods, and algorithms that can improve their performance with learning from data. This course is designed to give undergraduate students a onesemesterlong introduction to the main principles, algorithms, and applications of machine learning and is specifically designed for the SCS undergrad majors. After completing the course, students will be able to  select and apply an appropriate supervised learning algorithm for classification problems and understand its underlying assumptions e.g., naive Bayes, perceptron, support vector machine, logistic regression. select and apply an appropriate supervised learning algorithm for regression problems and understand its underlying assumptions e.g., linear regression, ridge regression. recognize different types of unsupervised learning problems, and select and apply appropriate algorithms e.g., clustering, linear and nonlinear dimensionality reduction. work with probabilities Bayes rule, conditioning, expectations, independence, linear algebra vector and matrix operations, eigenvectors, and calculus gradients to derive machine learning methods such as linear regression, naive Bayes, and principal components analysis. understand machine learning principles such as model selection, overfitting, and underfitting, and techniques such as crossvalidation and regularization. implement machine learning algorithms such as logistic regression via stochastic gradient descent, linear regression using a linear algebra toolbox, perceptron, or kmeans clustering. run appropriate supervised and unsupervised learning algorithms on real and synthetic data sets and interpret the results.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://goo.gl/mmR2eL",
+        "custom_fields":  {
+                                                    "goals":  "After completing the course, students will be able to Select and apply an appropriate supervised learning algorithm for classification problems and understand its underlying assumptions e.g., naive Bayes, support vector machine, logistic regression, neural networks. Select and apply an appropriate supervised learning algorithm for regression problems and understand its underlying assumptions e.g. linear regression, ridge regression. Recognize different types of unsupervised learning problems, and select and apply appropriate algorithms e.g., clustering, linear and nonlinear dimensionality reduction. Work with probabilities Bayes rule, conditioning, expectations, independence, linear algebra vector and matrix operations, eigenvectors, and calculus gradients to derive machine learning methods such as linear regression, naive Bayes, and principal components analysis. Understand machine learning principles such as model selection, overfitting, and underfitting, and techniques such as crossvalidation and regularization. Implement machine learning algorithms such as logistic regression via stochastic gradient descent, linear regression, or kmeans clustering. Run appropriate supervised and unsupervised learning algorithms on real and synthetic data sets and interpret the results.",
+                                                    "key_topics":  "This course covers the core concepts, theory, algorithms and applications of machine learning. We cover supervised learning topics such as classification (Naive Bayes, Logistic regression, Support Vector Machines, neural networks, decision trees, boosting) and regression (linear, nonlinear) as well as unsupervised learning (MLE, MAP, clustering, PCA, dimensionality reduction).",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Assessment includes midterm exam, final exam, homework assignments, and readings.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Resources for this course typically include one or more recommended textbooks and online readings. Some offerings of this course also include recitations or an online discussion board.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

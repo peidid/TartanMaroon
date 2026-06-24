@@ -1,0 +1,37 @@
+{
+        "code":  "79-304",
+        "name":  "History of Eugenics and Scientific Racism",
+        "short_name":  "HIS EUGEN \u0026 SCI RCSM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores the history and legacy of eugenics, the scientific field that sought not only to divide people into superior and inferior groups, but also to manage human reproduction efficiently by encouraging the production of superior babies and reducing or even eliminating the production of inferior ones. We will begin in the 19th century and follow the trajectory of eugenics, and its close cousin, scientific racism, to the present day. We will explore how and why eugenics and race science emerged and became dominant forces in public policy and politics around the world in the first half of the 20th century, underwriting immigration restriction, mass sterilization, and mass extermination campaigns in their most extreme form. We then examine the decline of eugenics and race science in the wake of the Holocaust and the emergence of human genetics in the 1950s. As we will see, however, eugenic ideals continue to live on today in science, medicine, popular culture, public policy, and politics. Throughout the semester, students will have the opportunity to investigate the complex relationship between science and society by identifying how society impacted the development of eugenic theories and research programs how eugenics in turn influenced social discourse and public policy how past ideas and theoretical frameworks about race and human inheritance have had remarkable endurance even when it seems like weve outgrown them and how scientific communities have often sought to move past embarrassing moments and research programs without fully confronting or abandoning the core principles that precipitated them. In the last few weeks of the course, we will ask what it might look like to meaningfully come to terms with the legacy of eugenics. This course meets the Dietrich Gen Ed Scientific Inquiry requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Scientific Inquiry",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

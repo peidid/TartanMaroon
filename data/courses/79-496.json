@@ -1,0 +1,37 @@
+{
+        "code":  "79-496",
+        "name":  "Chinese Language and Culture Before the Republic",
+        "short_name":  "CHINESE BEFORE REPUB",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "[Note students who have taken course number 79476, section A, Chinese Language and Culture, during the Fall 2021 Semester, may not enroll. With China as a growing political and economic power, understanding the country through its history and culture becomes necessary for students as responsible citizens of the world. This course is designed to help students, previously unexposed to Chinese culture and civilization, better understand Chinas past. By learning about the history of the Middle Kingdom, students will be exposed to the deep and fascinating foundation of Chinese civilization. We will not cover thousands of years of history, but discuss a chronological timeline of dynasties for reference. Areas of focus include the general knowledge of geography, religion, art, ancient lifestyles, and values. This course is conducted in English with no requirement of prior knowledge of Chinese language.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Deepen students knowledge on social, historical, political, and cultural themes of modern China 2. Improve problemsolving, and critical thinking skills through doing crosslinguistic, crosscultural, and comparative historical analysis 2. Develop independent research skills 4. For Chinese majorsminors Develop reading skills in Chinese by broadening topical domains of the language.",
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "12 reading journals, 4 discussion prompts,1 map quiz, 1 movie analysis, 1 mid-term test, 1 current event analysis and 1 final project(team work).",
+                                                    "relevance":  "This course enhances students\u0027 academic knowledge regarding the emergence of modern Chinese culture and its underlying socio-political context. It helps students develop critical thinking skills about China and Chinese society in a global age through research projects and intercultural discussions in class.",
+                                                    "learning_resources":  "A Bitter Revolution: China\u0027s Struggle with the Modern World(Textbook); other reading materials provided by the instructor.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,42 @@
+{
+        "code":  "36-309",
+        "name":  "Experimental Design for Behavioral \u0026 Social Sciences",
+        "short_name":  "EX DES BEHA SOC SCI",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-218 [] at least D) or (36-220 [] at least D) or (36-200 [] at least D) or (36-247 [] at least D) or (70-207 [] at least D) or (36-236 [] at least D) or (36-226 [] at least D) or (36-326 [] at least D) or (15-260 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "85-309",
+                                                    "id":  10064,
+                                                    "name":  "Statistical Concepts and Methods for Behavioral and Social Science",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on the statistical aspects of the design and analysis stages of planned experiments. The design stage focuses on determining how experimental factors are allocated, the sample size necessary to achieve adequate statistical power, and how subjectsvariables are measured. The analysis stage focuses on how data are collected and which statistical models are most appropriate to answer the research questions of interest. Although students will have to do some computer programming to implement these statistical techniques, the most important aspect of the course will be on interpreting analyses results e.g., whether a given analysis is appropriate, to what extent that analysis can answer research questions of interest, and the broader implications of an analysis within the context of the experiment. In addition to a weekly lecture, students will attend a computer lab once a week to get guidance and handson practice implementing statistical techniques we learn in class.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.stat.cmu.edu/academics/courselist",
+        "custom_fields":  {
+                                                    "goals":  "Given a particular research question, students will be able to characterize the type of experiment that can best answer that research question. For example, which subjects and experimental factors should be studied, and how should subjects be allocated to different experimental factors Furthermore, given a dataset produced by such an experiment, students will know how to conduct the appropriate statistical analysis to estimate effects of interest, quantify uncertainty in those estimates, and interpret these statistical results within the context of a particular research problem.",
+                                                    "key_topics":  "t-tests, ANOVA, regression and ANCOVA, power analysis, multiple hypothesis testing, and repeated measures analyses for randomized experiments, as well as various exploratory data analysis tools for experiments.",
+                                                    "prerequisite_knowledge":  "Some previous exposure to hypothesis testing, p-values, and confidence intervals is essential. Some previous exposure to regression is also helpful but not strictly necessary.",
+                                                    "assessment_structure":  "Weekly homework assignments and computer labs, two midterm exams, and a final exam.",
+                                                    "relevance":  "Students will learn how to design and analyze real experiments, which are ubiquitous in most fields of study. The course involves a lot of hands-on experience analyzing real data from many types of experiments, so students will walk away with a great deal of knowledge and experience under their belt after taking this course.",
+                                                    "learning_resources":  "Lecture slides, free textbook, computer labs, and case studies of real datasets.",
+                                                    "extra_time_commitment":  "None expected."
+                                            }
+}

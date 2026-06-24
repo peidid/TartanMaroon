@@ -1,0 +1,37 @@
+{
+        "code":  "79-208",
+        "name":  "Witchcraft and Witch-Hunting",
+        "short_name":  "WITCHCRAFT/WITCH-HUN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Between the late 15th and the early 18th centuries, many Europeans became convinced that their society was threatened by a conspiracy of diabolic witches. Although Western beliefs in witchcraft and devil worship dated back to antiquity, the 16th and 17th centuries witnessed the most intense campaign of witchhunting in all of Europes history. Before it was over, the Great European WitchHunt of the early modern era cost the lives of thousands across Europe and in its colonies. And although the witchhunts in early modern Europe and its colonies gradually came to an end, beliefs in witchcraft persist into the modern era and, in many parts of the world today, continue to generate campaigns of popular violence against alleged perpetrators. This course examines witchcraft beliefs and witchhunting in historical perspective in both their European and colonial contexts.  In addition to the early modern witchhunts, it will address modern witchcraft beliefs and consider witchhunting as a global problem today.  It will focus on the origin and rationale of witch beliefs, the factors driving the timing and intensity of witchhunts, and the patterns of accusations.  Throughout, we will examine the many historical and regional variations in witch beliefs and prosecutions and explore how they reflect major social and cultural issues such as the relationship between popular and elite culture religious change state formation gender and patriarchy and the rationalization of law, medicine, and science.  This course satisfies one of the elective requirements for the Religious Studies minor.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will gain an understanding of the historical significance of these issues and their influence upon current debates concerning religion, gender relations, social deviancy, policing, and torture theyll learn how to critically analyze historical texts and effectively communicate scholarly arguments in writing and discussion.",
+                                                    "key_topics":  "The history of beliefs in witchcraft \u0026 witch-hunting in early modern Europe and its colonies. The evolution of modern beliefs in witchcraft; witch-hunting as a global phenomenon today.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Participation in class discussion of assigned readings, midterm and final exams, and short written assignments.",
+                                                    "relevance":  "Students will understand the factors driving major campaigns of persecution both historically and in the modern era.",
+                                                    "learning_resources":  "Readings from primary and secondary historical sources, films and other visual sources.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

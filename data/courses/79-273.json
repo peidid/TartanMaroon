@@ -1,0 +1,37 @@
+{
+        "code":  "79-273",
+        "name":  "Jews and Muslims in History",
+        "short_name":  "JEWS\u0026 MUSLIMS IN HIS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What is the history of MuslimJewish interaction beyond the PalestinianIsraeli conflict and the images of violence in the Middle East that permeate the media The overarching goal of this course is to explore this question through close study of the history of Jews and Muslims who lived as neighbors, in cooperation as well as in conflict in the Middle East, North Africa and Europe, from the rise of Islam in the seventh century to the present day. Our sources will include works of scholarship, primary source texts such as religious queries and government documents, journalistic materials, memoirs, and films.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

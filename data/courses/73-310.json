@@ -1,0 +1,37 @@
+{
+        "code":  "73-310",
+        "name":  "Evolution of Economic Ideas and Analysis",
+        "short_name":  "EVLTN ECNMC IDS ANLY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-112 [] at least D) or (21-120 [] at least D)) and ((21-269 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-256 [] at least D)) and (73-100 [] at least C) and (73-230 [] at least C) and (73-240 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will be organized around the study of several central topics in the development of economics such as the invisible hand classical analysis of trade, value, and income distribution the marginalist revolution general equilibrium theory classical monetary economics Keynesian macroeconomics and recent trends in theory and empirical analysis.  Where possible, examination of the contemporary policy issues motivating major analytical developments will be included. Lecture, 3 hours. Minimum grade standard of C applies only to economics courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tepper.cmu.edu/prospective-students/course-page/73310/evolution-of-economic-issues-and-analys",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

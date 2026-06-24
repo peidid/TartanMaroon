@@ -1,0 +1,48 @@
+{
+        "code":  "03-251",
+        "name":  "Introduction to Computational Molecular Biology",
+        "short_name":  "INT CMPL MOLR BIOLGY",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(03-151 [] at least D) or (03-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "03-250",
+                                                    "id":  1004,
+                                                    "name":  "Introduction to Computational Biology",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "02-250",
+                                                    "id":  1783,
+                                                    "name":  "Introduction to Computational Biology",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This class provides a general introduction to computational tools for biology with specific emphasis on molecular biology and genomics. Along with 03252, it makes up one half of the full Introduction to Computational Biology, 03250, although either half can be taken individually. 03251 will examine important sources of biological data, how they are archived and made available to researchers, and what computational tools are available to use them effectively in research. In the process, it will cover basic concepts in statistics, mathematics, and computer science needed to effectively use these resources and understand their results. Specific topics to be covered include sequence data, searching and alignment, structural data, genome sequencing, genome analysis, genetic variation, gene and protein expression, and biological networks and pathways.  Lectures and examinations are joint with 02251 but recitations are separate.  Recitations for this course are intended primarily for biological sciences or biomedical engineering majors at the undergraduate or graduate level who have had little or no prior experience with computer science or programming. Students may not take both 0325102251 and 0325002250 for credit. Prerequisite 03121 or permission of the instructor.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

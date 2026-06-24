@@ -1,0 +1,37 @@
+{
+        "code":  "76-491",
+        "name":  "Rhetorical Analysis",
+        "short_name":  "RHETORICAL ANALYSIS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Students in this course will learn various approaches to analyzing discourse artifacts from a rhetorical point of view. Early in the course, students will identify an artifact or artifacts they wish to analyze. From there, students will be encouraged to explore their own methods of analysis based on two required books for the course and reviews of literature. For the midterm, students will create an annotated bibliography of five specimens of criticism taken from a single journal. For the final project student will first present and then hand in a polished 15 page piece of criticism based on one or some combination of methods. The presentation and final paper count 50 of the grade, with the midterm, class attendance, participation, and homework making up the final 25.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

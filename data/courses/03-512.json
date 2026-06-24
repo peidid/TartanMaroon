@@ -1,0 +1,37 @@
+{
+        "code":  "03-512",
+        "name":  "Computational Methods for Biological Modeling and Simulation",
+        "short_name":  "CPTL MTH BIO MDL SIM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((03-121 [] at least D) or (03-151 [] at least D)) and (15-122 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course covers a variety of computational methods important for modeling and simulation of biological systems. It is intended for graduates and advanced undergraduates with either biological or computational backgrounds who are interested in developing computer models and simulations of biological systems. The course will emphasize practical algorithms and algorithm design methods drawn from various disciplines of computer science and applied mathematics that are useful in biological applications. The general topics covered will be models for optimization problems, simulation and sampling, and parameter tuning. Course work will include problems sets with significant programming components and independent or group final projects.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "developing computer models and simulations of biological systems.",
+                                                    "key_topics":  "modeling and simulation of biological systems, models for optimization problems, simulation and sampling, and parameter tuning.",
+                                                    "prerequisite_knowledge":  "15110 or 02201 or 15112",
+                                                    "assessment_structure":  "problem sets with significant programming components and independent or group final projects.",
+                                                    "relevance":  "practical algorithms and algorithm design methods drawn from various disciplines of computer science and applied mathematics in biological applications.",
+                                                    "learning_resources":  "per Instructor",
+                                                    "extra_time_commitment":  null
+                                            }
+}

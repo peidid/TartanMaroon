@@ -1,0 +1,37 @@
+{
+        "code":  "79-248",
+        "name":  "U.S. Constitution \u0026 the Presidency",
+        "short_name":  "US CONST\u0026PRESIDENCY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores the changing role and powers of the American Presidency under the Constitution, from the founding era through the twentieth century. After absorbing drafting and ratification debates, we will focus on how particular presidents Washington, Lincoln, FDR, Nixon established or expanded the executive power and how particular conflicts the Civil War, the Court Packing plan, Watergate restructured or restricted the presidency. Readings will include the U.S. Constitution of course, selections from The Federalist Papers, and short books including Daniel Farbers Lincolns Constitution and Cass Sunsteins Impeachment A Citizens Guide. Grades will be based on three short papers, a final paper, and daily preparedness and participation in group discussion. This course meets the Dietrich Gen Ed Contextual Thinking requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To teach students to read critically and write analytically about the document that shapes all aspects of American life, and to increase their understanding of the changing role and powers of the president.",
+                                                    "key_topics":  "This course explores the changing role and powers of the American Presidency under the Constitution, from the founding era through the twentieth century. After absorbing drafting and ratification debates, we will focus on how particular presidents (Washington, Lincoln, FDR, Nixon) established or expanded the executive power and how particular conflicts (the Civil War, the \"Court Packing\" plan, Watergate) restructured or restricted the presidency. Readings will include the U.S. Constitution (of course), selections from The Federalist Papers, and three short books: Corey Brettschneider\u0027s The Oath and the Office: A Guide to the Constitution for Future Presidents, Daniel Farber\u0027s Lincoln\u0027s Constitution, and Cass Sunstein\u0027s Impeachment: A Citizen\u0027s Guide. Grades will be based on three short papers, a final paper, and daily preparedness and participation in group discussion.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Three short (5 pages) formal essays, one final paper (10 pages), occasional readings quizzes, and daily, informed participation in discussions.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Contextual Thinking\n\nA necessary foundation for education in American democracy.",
+                                                    "learning_resources":  "Books, articles and regular conversations with the professor.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "84-389",
+        "name":  "Terrorism and Insurgency",
+        "short_name":  "TERRORSM \u0026 INSURGNCY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an introduction to terrorism, insurgency, and civil war, covering the causes, dynamics, consequences, and policy responses to these forms of political violence. Insurgent and terrorist groups are some of the most important actors behind security challenges across the world. Definition of these phenomena can be as contentious as the question of which policies are most appropriate to prevent, manage, and resolve the conflicts in which they take part. The course will cover the historical evolution of these forms of violence as well as recent trends. The course will also focus on groups, methods, ideologies, and organizational structures, and will address the effectiveness of different policies over time at preventing and managing these forms of violence, and the role that these policies play in overall national strategy.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal for this course is to help students 1. understand the historical evolution and recent trends in terrorism, insurgency, and civil war.2. identify existing theoretical approaches that have been applied to the study of political violence to address questions on the causes, consequences, and management of terrorism, insurgency, and civil war.3. be able to evaluate the utility of different approaches to studying insurgency and terrorism and apply these approaches to evaluate historical cases of terrorism, insurgency, and civil war.4. articulate the factors that may influence future risks of terrorism, insurgency, and civil war",
+                                                    "key_topics":  "Insurgency, terrorism, civil war, political violence, foreign policy",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "5 Critical Response Memos, 2 News Item Summaries related to course material, 2 Reading Leader Sessions, 2 Critiques of LLM (Large Language Model) Essays, 1 Research Paper, with presentation",
+                                                    "relevance":  "DC GenEd: Contextual Thinking\n\nThis course covers some of the most common forms of political violence in recent years that have been central to US defense and foreign policymaking. Students will evaluate the range of causes, the future risks, and policy responses to terrorism, insurgency, and civil war.",
+                                                    "learning_resources":  "All course resources are provided via Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

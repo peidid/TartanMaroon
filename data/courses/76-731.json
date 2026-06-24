@@ -1,0 +1,37 @@
+{
+        "code":  "76-731",
+        "name":  "Dissenters and Believers:  Romantics, Revolution, and Religions",
+        "short_name":  "ROMANTICS REV RELIGN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the relation of Romantic writing to religion in the age of revolutions. We will read a number of Romanticage writersWilliam Blake, S. T. Coleridge, William Wordsworth, Edmund Burke, Monk Lewis, Percy Shelleyin relation to the most orthodox religious modes Anglican, Catholic, Lutheran, and Evangelical and the most heterodoxEnthusiasm, Rational Dissent, Unitarianism, Deism, Pantheism, or atheism. We will also distinguish between religions as formally institutionalized and religiositydefining religiosity as more diffused or displaced feelings, ideas and practices that are often not clearly marked as religious or related to any one institutional religion. Two papers are required.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

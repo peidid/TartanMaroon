@@ -1,0 +1,37 @@
+{
+        "code":  "05-452",
+        "name":  "Service Design",
+        "short_name":  "SERVICE DESIGN",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, we will collectively define and study services and product service systems, and learn the basics of designing them. We will do this through lectures, studio projects, and verbal and written exposition. Classwork will be done individually and in teams.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn the basics of how to model the current state of a service and how to envision and refine a new service offering that advances the service.",
+                                                    "key_topics":  "Students will learn the basics of how to envision new offerings for an established service.",
+                                                    "prerequisite_knowledge":  "Students should have good written and oral communication skills. Students should be effective at working on a team.",
+                                                    "assessment_structure":  "Students are assessed based on three assignments, a final presentation, and class participation.",
+                                                    "relevance":  "This course is relevant to any student who thinks they might one day work for a service and be asked to innovate this service. Today, almost all companies function as services.",
+                                                    "learning_resources":  "The class requires one text book. In addition, students will be assigned several articles to read.",
+                                                    "extra_time_commitment":  "Students will work on teams. They will need to find time outside of class to meet with team members. In addition, students will conduct fieldwork t understand the service they are trying to innovate. This will require scheduling interviews and make observations at the service."
+                                            }
+}

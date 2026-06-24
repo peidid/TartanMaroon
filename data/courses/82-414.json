@@ -1,0 +1,37 @@
+{
+        "code":  "82-414",
+        "name":  "Arabic for the Professions I",
+        "short_name":  "ARABIC PROFESN I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is offered only at Carnegie Mellons campus in Qatar. The aim of this course is to develop the students linguistic abilities in Modern Standard Arabic MSA for professional  purposes through reading articles and documents, writing summaries, reports, memos and emails, and giving oral presentations of projects.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1.Speak fluently and with ease in MSA on different business, Computer Science, Information Systems and Biological sciences topics. 2.Read articles and documents in MSA.3.Write summaries, reports, memos and emails in MSA on the above mentioned subjects.",
+                                                    "key_topics":  "Since the class includes students from the four different majors, readings shall cover topics related to them, i.e. stem cells for biological sciences, new Apps for Information System, Business plans for Business Administration and Artificial Intelligence for Computer Science.",
+                                                    "prerequisite_knowledge":  "Since the main aim of this course is to make the student able to discuss subject matters in her/his specialization in Arabic, it is advised to take this course after finishing first semester sophomore.",
+                                                    "assessment_structure":  "This course requires extensive readings with written assignments, multiple presentations and active in class participation. Attendance and punctuality will have a grade.",
+                                                    "relevance":  "students\u0027 Arabic linguistic abilities shall develop in Business, Computer Science, Information Systems and Biological sciences. This is carried out through reading, writing, and speaking.",
+                                                    "learning_resources":  "Due to the unavailability of a book, the instructor provides all material.",
+                                                    "extra_time_commitment":  "No extra time required"
+                                            }
+}

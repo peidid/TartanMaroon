@@ -1,0 +1,37 @@
+{
+        "code":  "70-051",
+        "name":  "Study Abroad",
+        "short_name":  "STUDY ABROAD",
+        "units":  0.0,
+        "min_units":  0.0,
+        "max_units":  0.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course serve as a Spring semester placeholder for undergraduate Business Administration students who study abroad fulltime. No course credit and no letter grade is associated with it. Special permission is required for this course to be used.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

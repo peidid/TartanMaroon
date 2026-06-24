@@ -1,0 +1,37 @@
+{
+        "code":  "98-179",
+        "name":  "Student Taught Courses (StuCo): Introduction to Japanese Mahjong",
+        "short_name":  "STUCO: INTRO MAHJONG",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Japanese Mahjong, also known as Riichi Mahjong, is a variation of Mahjong that had attracted worldwide popularity. Compared to most other variants, Japanese Mahjong emphasizes strategies and intellect over luck, making it very suitable as a competitive sport. This course introduces students to the rules and manners of Japanese Mahjong, as well as advanced strategies that would let you play like a pro. We will also set up a tournament toward the end of the semester, and the winner may get a prize No prior knowledge of Mahjong is required, but experienced players may also learn something new and get a chance to play competitively. We will provide Mahjong sets to play facetoface.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Upon completion of the course, students will be able to play with some of the popular rulesets of Japanese Mahjong, and apply some basic strategies in their play.",
+                                                    "key_topics":  "Basic rules of Japanese Mahjong, Basic strategies to play Japanese Mahjong, Tournament rules and etiquette.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "There will be weekly assignments on the content covered the prior week (rules and/or strategy). The midterm will be a group presentation on analyzing a hand of the group\u0027s choice using concepts of strategy taught in class. The final will be participating in a class tournament.",
+                                                    "relevance":  "There is a decently-sized community in the CMU community who are interested in playing Japanese Mahjong. This game is also the most popular board game in Japan, and we hope it will help students learn more about Japanese culture.",
+                                                    "learning_resources":  "Mahjong sets, slides, cheat sheets, and online resources will be included.",
+                                                    "extra_time_commitment":  "About 15 minutes every week to complete the weekly assignments. Students are also encouraged to play more mahjong on their own time to practice the content taught in class."
+                                            }
+}

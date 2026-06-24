@@ -1,0 +1,37 @@
+{
+        "code":  "03-161",
+        "name":  "Molecules to Mind",
+        "short_name":  "MOLECULES TO MIND",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a depthfirst approach to understanding neuroscience. We will begin with a clinical focus on neuroanatomy, introducing students to some basic neurological diagnostic techniques. We will then explore the biological basis of neuronal function and link the function of individual neurons to a broader context of neural systems. This will be done in the context of primary literature. Students who complete this course will therefore have an understanding of research methods and be prepared to evaluate scientific literature. The course will have a strong focus on the biological and cellular basis of neuronal excitability and also give students significant, in depth exposure to the function of synapses and their plasticity. Finally, the course will give students an in depth look at sensory andor motor systems by focusing on one system in particular.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To understand clinical and basic research approaches for investigating nervous system function from the molecular to systems level.",
+                                                    "key_topics":  "neurologic disease, neuroanatomy, neurophysiology, cellular and systems level organization and function of the nervous system.",
+                                                    "prerequisite_knowledge":  "NA",
+                                                    "assessment_structure":  "Homework, quizzes, and class activities (20%), 3 exams (Top 2 grades 20%, bottom grade 10%), final exam (20%), 1 paper (10%)",
+                                                    "relevance":  "introductory neuroscience",
+                                                    "learning_resources":  "Textbook and primary literature",
+                                                    "extra_time_commitment":  "NA"
+                                            }
+}

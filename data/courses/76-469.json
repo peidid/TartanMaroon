@@ -1,0 +1,37 @@
+{
+        "code":  "76-469",
+        "name":  "Screenwriting Workshop",
+        "short_name":  "SCREENWRITING WKSHP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-269 [] at least B"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This semester will begin with a review of the fundamentals of screenwriting, including character development, scene construction, dialogue, and story structure. Student work will include exercises that encourage writers to take creative risks with genre, tone, character, and structure. We will work on three major project in the c ourse. The first is a 5minute film, the second is an adaptation from another genresource, and the final project will be up to the student  either a fulllength or a 15 minutes script.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This semester will begin with a review of the fundamentals of screenwriting, including character development, scene construction, dialogue, and story structure. Students will then write screenplays for three short works, one of which will be collaborative. Well view a range of mainstream, personal, and experimental short narrative films as well as featurelength films.",
+                                                    "key_topics":  "screenplays, films.",
+                                                    "prerequisite_knowledge":  "Intro to Screenwriting",
+                                                    "assessment_structure":  "Students will write their own screenplays, serve as a peer editor for another student, and read and critique student and produced works.",
+                                                    "relevance":  "The class is geared to studentw who wish to continue to develop screenwriting skills.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  "Students need to watch feature-length films on their own."
+                                            }
+}

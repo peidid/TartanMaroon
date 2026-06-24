@@ -1,0 +1,60 @@
+{
+        "code":  "03-250",
+        "name":  "Introduction to Computational Biology",
+        "short_name":  "INTR COMPTNL BIOLGY",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((03-121 [] at least D) or (03-131 [] at least D) or (03-151 [] at least D)) and ((15-110 [] at least D) or (15-112 [] at least D) or (02-201 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "03-252",
+                                                    "id":  1002,
+                                                    "name":  "Introduction to Computational Cell Biology",
+                                                    "units":  6.0
+                                            },
+                                            {
+                                                    "code":  "03-251",
+                                                    "id":  1003,
+                                                    "name":  "Introduction to Computational Molecular Biology",
+                                                    "units":  6.0
+                                            },
+                                            {
+                                                    "code":  "02-252",
+                                                    "id":  1782,
+                                                    "name":  "Introduction to Computational Cell Biology",
+                                                    "units":  6.0
+                                            },
+                                            {
+                                                    "code":  "02-250",
+                                                    "id":  1783,
+                                                    "name":  "Introduction to Computational Biology",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This class provides a general introduction to computational tools for biology. The course is divided into two modules, which may be taken individually as courses 0325102251 and 0325202252. Module 1 covers computational molecular biologygenomics. It examines important sources of biological data, how they are archived and made available to researchers, and what computational tools are available to use them effectively in research. In the process, it covers basic concepts in statistics, mathematics, and computer science needed to effectively use these resources and understand their results. Specific topics covered include sequence data, searching and alignment, structural data, genome sequencing, genome analysis, genetic variation, gene and protein expression, and biological networks and pathways. Module 2 covers computational cell biology, including biological modeling and image analysis. It includes homeworks requiring use or modification of Matlab scripts. The modeling component includes computer models of population dynamics, biochemical kinetics, cell pathways, neuron behavior, and stochastic simulations. The imaging component includes basics of machine vision, morphological image analysis, image classification and imagederived models. Lectures and examinations are joint with 02250 but recitations are separate.  Recitations for this course are intended primarily for biological sciences or biomedical engineering majors at the undergraduate or graduate level who have had little or no prior experience with computer science or programming. Students may not take both 0325002250 and either 0325102251 or 0325202252 for credit.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

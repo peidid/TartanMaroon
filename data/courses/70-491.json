@@ -1,0 +1,37 @@
+{
+        "code":  "70-491",
+        "name":  "Private Equity",
+        "short_name":  "PRIVATE EQUITY",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "70-391 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course serves as an introduction to private equity, including its development as an industry, key participants, organizational structure, and common contract terms. The course will address how private equity investors create value, including financial, governance, and operational engineering, in addition to common exit strategies for investments. The course will also describe the leveraged buyout model for evaluating potential investment targets.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Describe the development of the private equity PE industry identify PE institutions, contracts, and practitioners, and specify interactions among them construct and apply the leveraged buyout model.",
+                                                    "key_topics":  "Private equity (PE) industry development; PE institutions, contracts, and practitioners; performance measurement; value creation; the leveraged buyout model.",
+                                                    "prerequisite_knowledge":  "Capital asset pricing model; cost of capital; free cash flow calculation; discounted cash flow valuation.",
+                                                    "assessment_structure":  "The course grade will be based on class participation, assignments, and an exam.",
+                                                    "relevance":  "This is an elective finance course in the Tepper School of Business\u0027s undergraduate program. It introduces key private equity (PE) institutions, structures, and participants. It also covers how PE investments are made and evaluated.",
+                                                    "learning_resources":  "Textbook; lecture notes; assignments.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

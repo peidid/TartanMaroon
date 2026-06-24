@@ -1,0 +1,48 @@
+{
+        "code":  "67-280",
+        "name":  "Special Topics: Information System Security",
+        "short_name":  "ST:INFO SYS SECURITY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(67-272 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "67-380",
+                                                    "id":  11217,
+                                                    "name":  "Information Systems Security",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "67-367",
+                                                    "id":  11561,
+                                                    "name":  "Information Warfare",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to information security from an information systems perspective.  The course will introduce the student to fundamental concepts in information system security, including operational issues, planning, and design.  Topics will include confidentiality, integrity, and availability risk access controls and access control frameworks security policies authentication strategies and issues auditing using cryptography security design issues controlling information flows malicious logic and applying security principles.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

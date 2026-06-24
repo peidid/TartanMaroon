@@ -1,0 +1,34 @@
+{
+        "code":  "98-280",
+        "name":  "Student Taught Courses (StuCo): Backgammon: Everything You Need to Know",
+        "short_name":  "STUCO: BACKGAMMON",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to take you through a journey to learn the art of Backgammon. We learn the history of the game, how to play the game, advanced techniques, and strategies, among many other things. The purpose of the course ultimately is to teach you to play backgammon well.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

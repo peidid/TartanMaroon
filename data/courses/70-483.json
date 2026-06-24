@@ -1,0 +1,37 @@
+{
+        "code":  "70-483",
+        "name":  "Advertising and Marketing Communications",
+        "short_name":  "ADVRTS \u0026 MARKET COMM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-381 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "It is critical that marketers understand the limitations of marcom tactics as well as how to best leverage and integrate marcom tactics for the strongest, most consistent and authentic brand voice in the targeted marketplace.  The entire IMC process is driven by the customer, and in the case of our discussions in this class, the consumer. The course is designed to help students understand the integrated marketing communications model, the strategy and tools of the marketing mix and what makes an iconic brand. The course is designed in five sections Part One focuses on understanding brands  iconic brands, terminology and types of branding. Part Two focuses on the understanding of consumer behavior  one of the, if not the most critical part of understanding marketing. Brands are built and defined in the minds of consumers. Part Three focuses on IMC and the framework used by brand management to develop strategy, and understand audience segmentation and brand positioning to drive IMC. Part Four focuses on understanding the IMC tactics available to marketers including advertising, social media and digital marketing, events and public relations. Part five concludes with the deeper study of an iconic brand. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The specific objectives of this course are toUnderstand the basis of consumer behavior, brand loyalty and buying habits Understand the integrated marketing communications model and the role it plays in marketing management today Emphasize the importance and development of an integrated marketing communications strategy, with the end goal of understanding, generating and delivering value to the consumer Understand and apply strategic positioning to drive consumer marketing communications mix and execution Highlight significant and emerging changes in consumer marketing, including technology, branding, and globalization and, Learn what it takes to build and successfully manage an iconic brand Ultimately, how to apply class learnings to actual marketing communications activities.",
+                                                    "key_topics":  "The course is designed to help students understand the integrated marketing communications model, the strategy and tools of the marketing mix and how to measure marketing communications\u0027 effectiveness. The course is designed in five sections: Part One focuses on the understanding of consumer behavior - one of the, if not the most, critical part of understanding marketing. Brands are built and defined in the minds of consumers. Part Two focuses on IMC and the framework used by brand management to develop strategy, and understand audience segmentation and brand positioning to drive IMC. Part Three focuses on understanding the IMC tactics available to marketers including advertising, social media and digital marketing, events and public relations. Part Four highlights what defines an Iconic Brand. Part five includes the development of a marketing plan.",
+                                                    "prerequisite_knowledge":  "See course prerequisite",
+                                                    "assessment_structure":  "Students will be assessed via numerous methods, including: case write-ups, group work, marketing plan development, peer grade and various papers.",
+                                                    "relevance":  "Students will gain a better understanding of the consumer and the consumer journey, marketing tools, how to build a marketing plan, and what it means to be an iconic brand. This will help prepare students for marketing-related internships and career post graduation.",
+                                                    "learning_resources":  "All materials will be included in a course packet that can be purchased at the bookstore.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

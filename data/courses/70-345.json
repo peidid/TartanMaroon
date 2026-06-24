@@ -1,0 +1,37 @@
+{
+        "code":  "70-345",
+        "name":  "Business Presentations",
+        "short_name":  "BUSINESS PRSNTATIONS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(73-270 [] at least D) or (70-340 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, students prepare, present, discuss, and critique different oral presentations currently practiced in business. Topics include developing your presence in a professional setting projecting credibility, professionalism, and authority and planning presentations to influence business audiences. Assignments and cases will cover informative and persuasive presentations, which will vary from term to term and may include talks such as product pitches, teamdriven strategic plans, and stateofthecompany addresses. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to successfully adapt their presentation styles and strategies to different business situations. This includes being able to understand and influence audience decisionmaking processes think strategically in different business scenarios project credibility, authority and professionalism, individually and as part of a team evaluate their own and others presentation skills and provide useful feedback continue refining their presentation skills beyond the class by using our framework in new professional contexts.",
+                                                    "key_topics":  "Developing presence in a professional setting; Planning presentations to influence business audiences; Projecting credibility, professionalism, and authority.",
+                                                    "prerequisite_knowledge":  "Some experience with basics of making slide decks is assumed. Understanding audience analysis and workplace conventions is helpful, although not necessary.",
+                                                    "assessment_structure":  "Graded assignments include presentations, both individual and in teams; peer feedback; self-assessments; and engagement with and participation in the class.",
+                                                    "relevance":  "Students will gain critical thinking and communication skills that will give them an advantage in interviews, meetings, and presentations in the workplace.",
+                                                    "learning_resources":  "Course page in Canvas contains all resources.",
+                                                    "extra_time_commitment":  "Students should expect to submit written work and plan and practice presentations every week."
+                                            }
+}

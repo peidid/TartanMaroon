@@ -1,0 +1,37 @@
+{
+        "code":  "03-620",
+        "name":  "Techniques in Electron Microscopy",
+        "short_name":  "TECH ELEC MICROSCOPY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to teach basic methods in transmission electron microscopy to graduate and undergraduate students.  Sophomores with an interest in electron microscopy are encouraged to enroll, and will have the option and opportunity to utilize their skills in various laboratories during their junior or senior year. The course will be offered once each year, during the spring semester. Course enrollment will be limited to 46 students. Preferential enrollment will be given to graduate students and undergraduate students who have demonstrated a need for this technique in their research. The class will include one hour of lecture and 4 hours of laboratory each week some additional laboratory time outside of the scheduled laboratory time is required. Students will learn basic methods in specimen preparation for both transmission and scanning electron microscopy fixation, embedding and ultramicrotomy, drying and metal coating and will be trained in the operation of both the Hitachi 7100 and 2460N electron microscopes. Lectures and laboratories during the last few weeks of the semester will introduce the students to special techniques e.g. immunoelectron microscopy , cryoultramicrotomy, freeze substitution, variable pressure SEM, etc. and will allow them to work with samples from their own research. Experimentation using living organisms andor their tissues, cells or molecules is an essential component of this course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "85-341",
+        "name":  "Hidden Assumptions in Psychology",
+        "short_name":  "HIDDEN ASSUMP PSY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((85-219 [] at least D) or (85-221 [] at least D) or (85-102 [] at least D) or (85-241 [] at least D) or (85-211 [] at least D) or (85-251 [] at least D) or (85-213 [] at least D)) and ((85-340 [] at least D) or (85-310 [] at least D) or (85-320 [] at least D) or (85-330 [] at least D) or (85-314 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Since psychology became a discipline, people have had ideas about what psychology is, what psychology should or should not do, and which psychological methods are considered rigorous. Over time, these ideas have become embedded in the ways we conduct psychological research. In this course, we will investigate some of the assumptions inherent in various subareas of psychology, including social psychology, developmental psychology, and research methods. Students in this seminar course will learn how to evaluate and critique psychological theories and research from different philosophical, historical, and cultural perspectives.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "investigate some of the assumptions inherent in various sub areas of psychology",
+                                                    "key_topics":  "Investigate some of the assumptions inherent in various subareas of psychology, including social psychology, developmental psychology, and research methods.",
+                                                    "prerequisite_knowledge":  "research methods, social psychology, developmental psychology",
+                                                    "assessment_structure":  "tba",
+                                                    "relevance":  "psychological methods",
+                                                    "learning_resources":  "tba",
+                                                    "extra_time_commitment":  null
+                                            }
+}

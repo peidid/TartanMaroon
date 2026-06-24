@@ -1,0 +1,37 @@
+{
+        "code":  "76-806",
+        "name":  "Introduction to Black Studies",
+        "short_name":  "INTRO BLACK STUDIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This seminar will take an interdisciplinary, historical and transnational approach to the field of Black Studies. We will focus on key figures, events, debates, terms, books, essays, and anthologies that anticipate as well as constitute the emergence of Black Studies as a discipline in the wake of Black student protests in the 1960s. Since this seminar is being offered in an English Department, we will spend a significant part of our seminar discussing the political, methodological and institutional impact of Black Studies on English Departments after 1968. In particular we will explore the fraught relationship between Black Studies and AfricanAmerican Studies as well as investigate the intertwined institutional history of these two fields throughout the late twentieth and into the twentyfirst century. We will undoubtedly read and read about figures like W.E.B Du Bois, Sylvia Wynter, Franz Fanon, C.L.R. James, Angela Davis, Molefi Kete Asante and Saidiya Hartman to name a few.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Exposure to a variety of research methods, expanded knowlege of academic fields and disciplines, written communication and analytical skills.",
+                                                    "key_topics":  "Literary History and Criticism, History of Social Movements, Writing, Critical Thiking Skills, Discussions of Race, Gender and Sexuality",
+                                                    "prerequisite_knowledge":  "Prior course work in literary studies.",
+                                                    "assessment_structure":  "Group and individual projects, presentations and writing assignments.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Readings and visual materials will be available in pdf form or through a link on Canvas. They will also be required to purchase books.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

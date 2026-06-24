@@ -1,0 +1,34 @@
+{
+        "code":  "98-233",
+        "name":  "Student Taught Courses (StuCo): Miyazaki: Anime Legend, His Life and Work",
+        "short_name":  "STUCO: MIYAZKI ANIME",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Hayao Miyazaki is Japan\u0027s, and perhaps the world\u0027s, greatest animation director of all time.  The entertaining plots, compelling characters, and breathtaking animation in his films have earned him international renown from critics, as well as public recognition within Japan.  In this course, we will examine the aesthetic, thematic, and historical characteristics of each of his films.  What social conflicts inspired his work?  Who were the bases of his characters?  Whom did he inspire?  Besides his films, we will also briefly examine his other works, including shorts and TV spots.  The course is open to all interested students, no previous knowledge of Miyazaki or anime is assumed.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-340",
+        "name":  "Hospitable Worlds: Migration and Settlement on Earth and in Space",
+        "short_name":  "HOSPITABLE WORLDS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Are you an artist, writer, designer, science major or film major who has ever thought about living on Mars Do you watch scifi movies and think, whoa, that looks cool, or no way, thats not how it would work Do you worry about climate change on planet Earth, and think about how to use your creativity to imagine a better future This class invites students in the visualliterary arts and the sciences to explore planetary hospitality. With each passing year, climate change makes our planet less hospitable for human life. As concerns about Earths climate grow and the costs of space travel shrink, there has been renewed interest in establishing settlements in outer space. The goal of this class is to explore both the diminishing hospitability of our planet and the prospects of hospitality on others. We will investigate these themes through a variety of media written, visual, auditory, etc. and use the questionsthemes of the course as inspiration for creating collaborative artistic productions incorporating art and media of all kinds sketches, poems, paintings, videos, music, etc..",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To deepen student understanding of how environmental changes and relocations affect human beings and thier capacity to thrive. To facilitate the creation of artistic productions to explore and express the understandings of these effects.",
+                                                    "key_topics":  "climate change, outer space, hospitality, creative production",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Low stakes creative productions, written reflections, class participation, presentations, attendance, and a final collaborative creative project.",
+                                                    "relevance":  "Students will have the opportunity to generate artistic productions structured by the course theme while deepening their understanding of how climate change and living in space impact human lives.",
+                                                    "learning_resources":  "Readings, inspirational artifacts, project workspace, and some material suport for artistic productions.",
+                                                    "extra_time_commitment":  "Studens will be expected to complete weekly low stakes artisitc productions and reflections for the first half of the semester. In the second half of the semester, students will be working collaborative on a final artistic production project both inside and outside of class."
+                                            }
+}

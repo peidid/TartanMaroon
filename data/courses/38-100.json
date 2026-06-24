@@ -1,0 +1,37 @@
+{
+        "code":  "38-100",
+        "name":  "CATALYST - MCS First-Year Seminar",
+        "short_name":  "CATALYST",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The CATALYST seminar will equip transfer students to MCS, as well as those students who did not successfully complete the EUREKA seminar, with foundational knowledge, skills and perspectives that will support their development as emerging scientists and scholars.  During the seminar, students will be presented with opportunities and experiences designed to help them frame how the MCS curriculum aspires to shape their evolving identities in the areas of scholar, person, professional and citizen, while also engendering a sense of excitement about science and scientific inquiry.  The seminar will offer information and strategies that are employed both by successful students and by successful scientists in optimizing their approach to work and life, with a key focus on areas such as cognitive learning skills, research, teamwork, goal setting, time management, community engagement, ethics, resources and assessment.  Additionally, the seminar will introduce students to the learning outcomes and requirements associated with the MCS core curriculum, with a particular emphasis on the selfdirected ENGAGE courses and the role of the MyCORE eportfolio system in documenting and framing student growth and development.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Identify the important traits and characteristics of successful scientists and mathematicians embolden their burgeoning excitement in the sciences. Understand the expectations associated with the selfdirected aspects of the CORE Curriculum. Initiate a process for recursive selfassessment to promote personal wellbeing, academic success, and ethical decision making. Develop strategies for leveraging personal strengths toward effective and successful team participation. Understand fundamentals of effective oral and written communication. Develop proficiency with MyCORE.",
+                                                    "key_topics":  "During the seminar, students will be presented with opportunities and experiences designed to help them frame how the MCS curriculum aspires to shape their evolving identities in the areas of scholar, person, professional and citizen, while also engendering a sense of excitement about science and scientific inquiry. The seminar will offer information and strategies that are employed both by successful students and by successful scientists in optimizing their approach to work and life, with a key focus on areas such as cognitive learning skills, research, teamwork, goal setting, time management, community engagement, ethics, resources and assessment.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Attendance: 10%. Online Participation: 10%. Homework Assignments: 50%. Final Project Presentation: 30%.",
+                                                    "relevance":  "The CATALYST seminar will equip transfer students to MCS, as well as those students who did not successfully complete the EUREKA seminar, with foundational knowledge, skills and perspectives that will support their development as emerging scientists and scholars.",
+                                                    "learning_resources":  "Canvas course site as well as CliftonStrengths assessment will be used to identify personal strengths for each students",
+                                                    "extra_time_commitment":  "There will be approximately 2 in-person meetings. Attendance for the rest of the course will be determined by online participation. See the syllabus for more details."
+                                            }
+}

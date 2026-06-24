@@ -1,0 +1,48 @@
+{
+        "code":  "06-100",
+        "name":  "Introduction to Chemical Engineering",
+        "short_name":  "INTRO TO CHEM ENGR",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-120",
+                                                "id":  2627,
+                                                "name":  "Differential and Integral Calculus",
+                                                "units":  10.0
+                                        },
+                                        {
+                                                "code":  "09-105",
+                                                "id":  6595,
+                                                "name":  "Introduction to Modern Chemistry I",
+                                                "units":  10.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We equip students with creative engineering problemsolving techniques and fundamental chemical engineering material balance skills. Lectures, laboratory experiments, and recitation sessions are designed to provide coordinated training and experience in data analysis, material property estimation for single and multiphase systems, basic process flowsheet, reactive and nonreactive mass balances, problem solving strategies and tools, and team dynamics. The course is targeted for CIT First Year students.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "We equip students with creative engineering problemsolving techniques and fundamental chemical engineering material balance skills. Lectures, laboratory experiments, and recitation sessions are designed to provide coordinated training and experience in data analysis, material property estimation for single and multiphase systems, basic process flowsheeting, reactive and nonreactive mass balances, problem solving strategies and tools, and team dynamics. The course is targeted for CIT freshmen.",
+                                                    "key_topics":  "Mass balances in chemical and biological processes, contemporary issues in Chemical Engineering, statistical analysis of experimental data",
+                                                    "prerequisite_knowledge":  "Basic chemistry, algebra, trigonometry",
+                                                    "assessment_structure":  "Exams and problem sets",
+                                                    "relevance":  "Concepts presented in lectures, homework, recitations, and lab activities",
+                                                    "learning_resources":  "Textbooks, web learning application",
+                                                    "extra_time_commitment":  "Recitation required; lab activities and team-based problem solving"
+                                            }
+}

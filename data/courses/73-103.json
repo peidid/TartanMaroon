@@ -1,0 +1,42 @@
+{
+        "code":  "73-103",
+        "name":  "Principles of Macroeconomics",
+        "short_name":  "PRINCPLES OF MACROEC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(73-102 [] at least D) or (73-104 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "73-015",
+                                            "id":  11104,
+                                            "name":  "Course Credit (Principles of Macroeconomics)",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "A onesemester course that teaches the fundamentals of macroeconomics. Students will learn how macroeconomic analysis can explain national economic activity and how government intervention might stabilize an economy.  Topics include defining and measuring national wealth, economic growth, credit markets, unemployment, interest rates, inflation, and the monetary system. Additional emphasis will be paid to  longterm economic development, political economy, financial crises and topics that are central to contemporary macroeconomic debates such as the impact of technological change, migration, and trade on the macroeconomy. Students will access macroeconomic databases, and then use basic statistics to describe and isolate empirical patterns in macrodata. Not open to students who have received credit for 73100. Lecture, 2 hours Recitation, 1 hour.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able to Understand the basics of macroeconomic measurement Calculate macroeconomic aggregates like GDP, CPI and GDP deflator and interpret movements in these variablesUse production functions to make sense of patterns of economic development and growth Analyze and explain patterns of unemployment and employment over time and across countries Elaborate the economic function of banks and of the government in regulating banks Describe the history, mission and functions of the Federal Reserve Bank Fed Understand the essential sources of inflation and the policy options available to the Fed in trying to contain inflation Explain the causes of economic fluctuations and the role of policy in stabilizing these fluctuations Assess patterns of international trade.",
+                                                    "key_topics":  "National Wealth and Measurement; Macroeconomics Data; Aggregate Incomes; Economics Growth; Robots, AI, and the Economy; Employment and Unemployment; Inequality and Migration; Credit Markets; Monetary System; Crypto-currency and Bitcoin; Short-run Fluctuations; Countercyclical Macroeconomic Policy\u0027 International Trade; Tax Reform",
+                                                    "prerequisite_knowledge":  "Supply and Demand; Elasticity (economic); (Micro)economic reasoning; Comfort with graphing linear functions and solving a system for one unknown is desirable.",
+                                                    "assessment_structure":  "Subject to change: homework assignments (10%), quizzes (20%), midsemester exams (40%), final exam (30%).",
+                                                    "relevance":  "We live in a world where vast economic differences exist across nations and within nations. Have you ever wondered why some countries are poor and some are rich, why some people earn more than others, why some households are taxed more than others, and what the heck is money? This course is for students interested in how economists model and measure national decision-making processes and measure these outcomes that impact one\u0027s wallet, business, and future.",
+                                                    "learning_resources":  "10+ weekly office hours, lecture slides, lecture notes, MobLabs (free to students in the class), Piazza, textbook and accompanying study guides, Academic Development tutoring, and current newspaper articles (made available on the course webpage).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

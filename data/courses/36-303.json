@@ -1,0 +1,37 @@
+{
+        "code":  "36-303",
+        "name":  "Sampling, Survey and Society",
+        "short_name":  "SAMPLING SURVEY SOC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-208 [] at least D) or (36-202 [] at least D) or (36-309 [] at least D) or (36-220 [] at least D) or (36-218 [] at least B) or (36-326 [] at least D) or (70-208 [] at least D) or (36-236 [] at least D) or (36-226 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will revolve around the role of sampling and sample surveys in the context of U.S. society and its institutions. We will examine the evolution of survey taking in the United States in the context of its economic, social and political uses. This will eventually lead to discussions about the accuracy and relevance of survey responses, especially in light of various kinds of nonsampling error. Students will be required to design, implement and analyze a survey sample.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The learning objectives are in syllabus.",
+                                                    "key_topics":  "The course uses the Total Survey Error paradigm, from, for example, Groves et al. Covers: Survey Design, including measurement issues (questions and questionnaires); sampling -- including frames and coverage/coverage error, sampling designs including SRS, stratified, clustered, and multi-stage designs; non-response and non-response error; analysis including theory and hand calculations for sample means and proportions under SRS, stratified, and equal-size cluster designs, use of the survey package in R for complex designs.",
+                                                    "prerequisite_knowledge":  "Basics of probability and inference, estimation of means and proportions and their variances. Ability to keep track of what\u0027s random and what\u0027s fixed. Properties of expected values and variances. The finite sample framework is new to most -- probably all -- of them. The class assumes they already know basic probability and statistics and things like how to show an estimator is unbiased.",
+                                                    "assessment_structure":  "Details in the syllabus. Individual homeworks, 2 in class exams, 2 group projects.",
+                                                    "relevance":  "There are a lot of jobs in survey statistics. It\u0027s also something consultants get asked to do. It\u0027s a nice resume differentiator. Also, the students get to propose a survey on a topic of their choosing, so they get to do background research and think through question design on that topic. I\u0027m often fascinated by what they choose.",
+                                                    "learning_resources":  "Canvas, posted readings, which include case studies. Next year, Groves et al will be a required text.",
+                                                    "extra_time_commitment":  "Students are expected to do their homework and their group projects, as well as reading and whatever studying they need. We do provide in class time for group work, but they\u0027re expected to work outside of class as well."
+                                            }
+}

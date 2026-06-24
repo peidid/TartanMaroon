@@ -1,0 +1,37 @@
+{
+        "code":  "76-489",
+        "name":  "Advanced Document \u0026 Information Design",
+        "short_name":  "ADVANCED DOC \u0026 INFO",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((76-101 [] at least D) or (76-102 [] at least D)) and (76-391 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course builds on the foundation of visual communication design introduced in 76391791 Document  Information Design, and provides students with opportunities to further develop and refine their skills. Students will work on a larger and more complex communication planning and information design problems. Class discussions and critiquing are essential parts of this course. Adobe Creative Studio InDesign, Photoshop, Illustrator will be used to complete the assignments. Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will further develop their information and document design skills, and gain deeper understanding of the design process for solving larger communication problems.",
+                                                    "key_topics":  "Communication Design, Communication Planning, Document Design, Information Design, Typography, Visual Design, Visual Communication",
+                                                    "prerequisite_knowledge":  "Basic Document \u0026 Information Design Skills (1 semester of basic visual design course)",
+                                                    "assessment_structure":  "A project with multiple milestones.",
+                                                    "relevance":  "This course targets PWs/TWs/MAPWs. While their primary focus is writing, it is critical for them to have a good understanding of document \u0026 information design as they are often required to work with visual/information designers, or they may need to manage designers and/or make decisions about larger document/information design problems later in their career.",
+                                                    "learning_resources":  "Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

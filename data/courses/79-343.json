@@ -1,0 +1,37 @@
+{
+        "code":  "79-343",
+        "name":  "Education, Democracy, and Civil Rights",
+        "short_name":  "EDU, DEM,\u0026 CIV RIGHT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What is the relationship between education and democracy By examining a series of case studies at the intersection of education and the civil rights movement, this course will prepare students to approach contemporary educational debates as historicallyinformed critical thinkers. The controversy surrounding charter schools, vouchers, the common core, and the role of standardized testing cannot be understood outside the long history of debates regarding the relationship between education and democracy. Are schools meant to perpetuate the status quo How did both traditional and more radical forms of education advance the struggle for civil rights What role have students played in advancing civil rights and democracy While exploring these questions, we will also partner with local high school students and teachers to bring our learning beyond the classroom.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the year, students will be able to...1 Abstract general models of educational change from specific historical cases 2 Critique the limitations of such models3 Assess competing explanations for the relationship between education and democracy4 Identify the strengths and weaknesses of historical sources5 Craft historical arguments via analytical, evidencebased writing 6 Communicate ideas clearly and persuasively via public speaking7 Assess the relationship between social change and major historical events and processes industrialization, urbanization, the Second World War, etc.8 Compare educational innovations across time and space9 Use historical cases to inform contemporary debates about education and democracy",
+                                                    "key_topics":  "the history of education and democracy, with a special focus on the civil rights movement",
+                                                    "prerequisite_knowledge":  "no prior knowledge required",
+                                                    "assessment_structure":  "Essays, oral presentations, in-class discussion",
+                                                    "relevance":  "By examining a series of case studies at the intersection of education and the civil rights movement, this course will prepare students to approach contemporary educational debates as historically-informed critical thinkers. Contemporary debates about charter schools, vouchers, the common core, and the role of standardized testing cannot be understood outside the long history of debates regarding the relationship between education and democracy.",
+                                                    "learning_resources":  "Books, articles, case studies",
+                                                    "extra_time_commitment":  "No, although there may be optional interactions with high school students that occur outside the scheduled course meeting time."
+                                            }
+}

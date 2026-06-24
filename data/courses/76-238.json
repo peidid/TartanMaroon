@@ -1,0 +1,37 @@
+{
+        "code":  "76-238",
+        "name":  "What Was the Hip-Hop Generation?",
+        "short_name":  "HIP HOP GENERATION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will attempt to answer a simply stated but not so simply answered question What is or was the hiphop generation Bakari Kitwana gives us a very broad but useful rubric to understand whom that generation was in his 2002 book, The HipHop Generation Young Blacks and the Crisis of AfricanAmerican Culture. For Kitwana it defines the first generation of AfricanAmerican youth that grew up in postsegregation America. While useful, Kitwanas definition is also quite provocative since many of the earliest practitioners and consumers of what would eventually be called hiphop were not all AfricanAmericans but Greeks, Puerto Ricans, Jews, Jamaicans, Germans, Trinidadians, Mexicans, etc..., many of whom lived in America but also encountered hiphop elsewhere on the planet. In our class we will take a broad, global perspective on the question of what iswas the hiphop generation through scholarly and popular works by Kitwana. Jeff Chang, Tricia Rose and many others.  Given the significant media studies components of this course our class will lean heavily on musical, cinematic and televisual sources. Not only will you watch early fictional films about hiphop like Wildstyle and Krush Groove but others like Matthieu Kassovitzs La Haine and Rick Famuyimas Brown Sugar which are influenced by hiphop culture. We will also watch music videos as well as listen to singles and select albums like Queen Latifahs All Hail the Queen, Kendrik Lamars To Pimp A Butterfly, Die Antwoords Tension as well as read memoirs such as JayZs Decoded.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

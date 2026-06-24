@@ -1,0 +1,42 @@
+{
+        "code":  "21-355",
+        "name":  "Principles of Real Analysis I",
+        "short_name":  "PRINCPL REAL ANLYS I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-127 [] at least D) or (21-128 [] at least D) or (15-151 [] at least D)) and (21-122 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-235",
+                                            "id":  683,
+                                            "name":  "Mathematical Studies Analysis I",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "This course provides a rigorous and proofbased treatment of functions of one real variable. The course presumes some mathematical sophistication including the ability to recognize, read, and write proofs. Topics include The Real Number System Field and order axioms, sups and infs, completeness. Real Sequences. BolzanoWeierstrass theorem. Topology of the Real Line Open sets, closed sets, compactness, HeineBorel Theorem. Continuity extreme and intermediate value theorems, uniform continuity. Differentiation chain rule, local extrema, meanvalue theorem, LHospitals rule, Taylors theorem. Riemann integration sufficient conditions for integrability, fundamental theorems of calculus. Three 50 minute lectures",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Proofs and integration and approximation",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

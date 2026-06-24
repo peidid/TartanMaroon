@@ -1,0 +1,37 @@
+{
+        "code":  "70-487",
+        "name":  "Customer Management Using Probability Models",
+        "short_name":  "CSTM MGMT USG PRB MD",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(70-381 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Forecasting is a critically important activity for all firms. This course provides simple but powerful models that use readily available purchasing data to capture underlying patterns in customer behavior. More importantly, learn how to use these models to provide accurate forecasts for what these customers will do in the future, as well as the right way to think about modeling customer activity. Using this way of thinking, it is possible to see that consistent behavioral patterns exist across different marketing channels e.g., offline, online and catalog and even across seemingly different domains e.g., grocery and music. The tools are very general in their applications and can also be used for various Decision Analysis applications that manufacturing managers and consultants as well as information technology professionals are often faced with.  Prerequisite 70381  Student Status Junior",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

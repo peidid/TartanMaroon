@@ -1,0 +1,37 @@
+{
+        "code":  "85-352",
+        "name":  "Evolutionary Psychology",
+        "short_name":  "EVOLUTNARY PSYCHOLGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(85-102 [] at least D) or (85-211 [] at least D) or (85-251 [] at least D) or (85-241 [] at least D) or (85-221 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will cover both the fundamentals of evolutionary psychology, including the theories of natural and sexual selection, with the overarching aim of providing an overview of the field at an advanced level. We will examine the relevance of evolutionary thinking to a range of psychological phenomena including problems of survival, longterm mating strategies, shortterm sexual strategies, parenting, kinship, cooperative alliances, aggression and warfare, conflict between the sexes, and prestige, status, and social dominance. We will also examine evolutionary approaches to sensation and perception, development, consciousness, cognition, language, and abnormal behavior. Juniors and Seniors  only or permission of instructor.  Pre req 85102, 85211, 85221, 85241 or 85251",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "33-120",
+        "name":  "Science and Science Fiction",
+        "short_name":  "SCI \u0026 SCIENCE FICTN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We will view and critique the science content in a selection of science fiction films, spanning more than 100 years of cinematic history, and from scifi TV shows from the past 50 years. Guided by selected readings from current scientific literature, and aided by orderofmagnitude estimates and careful calculations, we will ponder whether the films are showing things which may fall into one of the following categories Science fiction at the time of production, but currently possible, due to recent breakthroughs. Possible, in principle, but beyond our current technology. Impossible by any science we know. Topics to be covered include the future of the technological society, the physics of Star Trek, the nature of space and time, extraterrestrial intelligence, robotics and artificial intelligence, biotechnology and more.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "What is the nature of space and time? What is the universe made of? Can a machine become conscious? Are we alone in the universe? How can we solve our problems? What lies ahead?",
+                                                    "prerequisite_knowledge":  "High school algebra",
+                                                    "assessment_structure":  "Homework problems, short essays, quizzes, film critiques, final exam",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lectures, required textbook, assignments, short outside readings, films, quizzes and exam, opportunities for extra credit",
+                                                    "extra_time_commitment":  null
+                                            }
+}

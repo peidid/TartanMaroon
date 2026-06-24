@@ -1,0 +1,37 @@
+{
+        "code":  "76-833",
+        "name":  "Historicisms",
+        "short_name":  "HISTORICISMS",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  11.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What is a critical historicism What theories of history, texts, and social life have been driving literary and cultural scholarship since the late twentieth century What is the ongoing tension between historical accounts of literatureculture This course will introduce students to ways of thinking about how literary and cultural texts or genres can be studied historically, whether they were written in the early modern age or the twentieth century. We will especially explore controversies about methods of studying texts in historyabout historicism vs. presentism, the relation of text and context, periodization, longue dure, reception history, transhistorical meanings. Readings will include Walter Benjamin, Karl Marx, Michel Foucault, Jack Halberstam, Stephen Greenblatt, Judith Newton, Joan Scott and others.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

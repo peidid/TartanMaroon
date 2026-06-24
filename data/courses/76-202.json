@@ -1,0 +1,37 @@
+{
+        "code":  "76-202",
+        "name":  "Writing with Generative AI",
+        "short_name":  "WRTNG GENAI",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-102 [] at least D) or (76-101 [] at least D) or (76-108 [] at least D) or (76-107 [] at least D) or (76-106 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Generative AI GenAI tools and Large Language Models LLMs are transforming the landscape of professional, technical, and business communication.  This course provides students with an opportunity to explore and develop their understanding of and expertise in these technologies, their historical context, and their applications. Students will deploy critical thinking skills to evaluate AIs role in writing, addressing ethical considerations such as bias, plagiarism, and intellectual property rights, and throughout the course, students will engage in practical exercises in prompt engineering and AIhuman collaboration to gain experience in effectively using AI for brainstorming, research, drafting, editing, and presenting in professional contexts. Through case study analyses, class discussions, handson workshops, and lectures, all designed to support active learning and practical application, students can expect to engage a variety of GenAILLM tools with the writing process across various genres and professional contexts.  This course is essential for students as it equips them with the knowledge and skills to navigate the rapidly evolving landscape of AI in writing. By simultaneously fostering a critical and ethical awareness, students will be better prepared to leverage AI tools responsibly and effectively in their future careers.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students will be able toUtilize GenAI tools effectively to brainstorm, research, draft, edit, and present across a variety of professional, technical and business contexts and genres. Identify strategies for humanAI collaboration in writing and communication that do not replace their learning and growth as communicators.Differentiate between responsible vs irresponsible use of GenAI tools when writing.",
+                                                    "key_topics":  "Human-AI collaborative writing, prompt engineering, AI in professional and technical communication, critical digital/genAI literacy",
+                                                    "prerequisite_knowledge":  "FYW is a prerequisite for this course, and it assumes some rhetorical knowledge. No previous experience with GenAI tools is required, but would be helpful.",
+                                                    "assessment_structure":  "Assignments, quizzes, reflections, final project",
+                                                    "relevance":  "This course will give students hands-on, practical experience and strategies with incorporating GenAI tools into their workflows in ways that are aligned with the writing and communication expectations of current and future professional workplaces.",
+                                                    "learning_resources":  "GenAI tools, texts, case studies",
+                                                    "extra_time_commitment":  "Undergraduate students taking the course for 4.5 units are expected to spend about 6 hours per week on homework assignments."
+                                            }
+}

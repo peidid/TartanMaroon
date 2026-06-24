@@ -1,0 +1,37 @@
+{
+        "code":  "73-380",
+        "name":  "Strategy in Economics and Politics",
+        "short_name":  "STRAT ECON \u0026 POLITIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "If the superpowers want to avoid nuclear war, why is there an arms race  Why do corporations pay greenmail or use poison pills to avoid takeovers  There are many interesting situations like these in economics and politics, situations in which making the best decision requires one to consider how others will respond.  This course studies many such situations, including economic examples such as entry deterrence, takeover bids, and strikes and political examples such as the arms race and nuclear strategy, U.S. foreign policy, and elections.  The courses goal is to draw out the fundamental principles underlying strategic decisionmaking.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

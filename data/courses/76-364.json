@@ -1,0 +1,37 @@
+{
+        "code":  "76-364",
+        "name":  "Reading in Forms: Fiction",
+        "short_name":  "READING IN FORMS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What does it mean to feel at home  In this course, we will read and discuss fiction, memoir, and other creative work that centers on the search for home. Well expand the idea of home to include not only the desire for comfort in a particular place, but also for a feeling of home in ones body, family, or culture. Expect to read nine or ten books, to write a response paper for each class, and to do one inclass presentation, in which you will lead the discussion. Active participation in discussions is a major part of your course work.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be introduced to a range of creative works that will engage them as readers and thinkers and show those who wish to write some of the forms and styles writers have used to craft their work.",
+                                                    "key_topics":  "Narrative, family dynamics, identity, history.",
+                                                    "prerequisite_knowledge":  "A love of reading, thinking critically, and analyzing text.",
+                                                    "assessment_structure":  "Critical assessments of the reading, short analytical papers, rigorous in-class discourse.",
+                                                    "relevance":  "This course encourages students to do self-sorting while contextualizing not only the history of our society, but their individual places within it - the cultural connections, the forces and factors that have shaped them.",
+                                                    "learning_resources":  "A set of novels and supplemental critical essays, as well as film.",
+                                                    "extra_time_commitment":  "There will be one film to watch and a presentation by a visiting writer."
+                                            }
+}

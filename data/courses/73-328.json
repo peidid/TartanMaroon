@@ -1,0 +1,37 @@
+{
+        "code":  "73-328",
+        "name":  "Health Economics",
+        "short_name":  "HEALTH ECONOMICS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(21-120 [] at least D) and ((73-102 [] at least D) or (73-104 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will teach the student to use economic analysis to understand critical issues in health care and and health policy. We will address issues such as the following   1. What factors best explain the level and rate of growth of U.S. health expenditures   2. Does the recent high rate of growth of U.S. health care expenditures make U.S. firms less competitive in international markets   3. What are some of the likely consequences intended and unintended of the proposed reforms to Medicare   4. Can physicians induce demand for their services   5. What are the impacts of managed care on the health care system   6. Do strong affiliations between physicians and health plans hurt competition    Lecture, 3 hours.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

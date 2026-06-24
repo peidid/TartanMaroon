@@ -1,0 +1,34 @@
+{
+        "code":  "98-255",
+        "name":  "Student Taught Courses (StuCo): Cosplay 101",
+        "short_name":  "STUCO: COSPLAY 101",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will provide a foundation for obtaining the skills and mindset required for creating a cosplay out?t. Students will learn essential techniques such as using a sewing machine, determining materials, working with ?found objects? to create props and costumes, and other basic cosplay knowledge. By the end of the course students will be able to employ the knowledge learned in class to create a cosplay of their choosing!",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

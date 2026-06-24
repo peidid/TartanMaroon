@@ -1,0 +1,37 @@
+{
+        "code":  "38-110",
+        "name":  "ENGAGE in Service",
+        "short_name":  "ENGAGE IN SERVICE",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "ENGAGE in Service is a 1unit course 9 hours of work, minimum requirement for a passing grade designed to promote MCS students direct engagement with community development and service learning. To fulfill this requirement, students must engage in a minimum of 9 hours of work devoted to a nonprofit organization or organizations of their choice, 3 of which must have a direct benefit to the local Pittsburgh community. Students may complete the requirements anytime during their undergraduate years, but must register for the class during the semester that they intend to complete it, no later than their penultimate semester. Coursework includes documentation of service via completion of a form for each eligible activity that includes a time log, a description of the activity, the name and contact information for their supervisor and the supervisors signature. In addition, during the last semester of the projectcourse students will prepare a 12 page reflective paper on the lessons learned from their immersion in the organizations and its their work.  No pay or other compensation can be received, and, in special cases, students may petition for a waiver if they have completed another servicelearning course at Carnegie Mellon.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "It enables and encourages MCS students to have a deeper immersion in a nonprofit organization or its work, defining their subsequent community engagement and broadening their impact beyond Carnegie Mellon.",
+                                                    "key_topics":  "This course promotes objectives related to active citizenship, by requiring students to demonstrate their involvement in personally meaningful community service.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "The final reflection paper (2-4 pages) is to be completed after finishing at least 9 hours of service which has been documented during the semester. This is a Pass/No Pass Course",
+                                                    "relevance":  "This course was created to facilitate a deeper immersion into active and engaged citizenship in the community for all MCS students.",
+                                                    "learning_resources":  "MCS MyCORE Canvas Site\nInstructor will be available weekly during office hours or by appointment",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-232",
+        "name":  "Introduction to Black Literature",
+        "short_name":  "INTRO BLACK LIT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will take a transatlantic approach to what constitutes blackness as well as black literature and expression from the turn of the 20th century until the present. We will investigate the way authors and artists use literature and other mediums of expression for social and selfrepresentation. Our primary focus will be on prose works novels, memoirs and nonfiction essays that span a multitude of genres from mystery to literary and science fiction. There will also be sections of the course that focus other mediums such as visual art, comics, music, film and television. We will cover figures such as Fredrick Douglass, W.E.B. Dubois, Zora Neale Hurston, Langston Hughes, Claude McKay, Amiri Baraka, Franz Fanon, Toni Morrison, Merle Collins, Kyle Baker, Kara Walker and Beyonce to name a few.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

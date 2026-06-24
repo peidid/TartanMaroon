@@ -1,0 +1,37 @@
+{
+        "code":  "79-299",
+        "name":  "Jewish American History: From New Amsterdam to Pittsburgh",
+        "short_name":  "JEWISH AMER HIST",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will provide an opportunity for students to explore the history of the Jewish community in America including discussion on the history of antisemitism.  Considering that the worst instance of violence and murder of Jews occurred just a mile or so from our campus  in Pittsburgh in 2018, this is an important topic for us to look at.  We will also look at how the war in Gaza has affected American Jewry and the spike in antisemitism that has occurred.  We will explore the history of the Zionist movement and the relationship of American Jews to that movement both before and after the founding of the state of Israel. These are challenging, timely and important topics to consider.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To have a greater understanding of the Jewish experience in America including Jewrys response to the Holocaust to understand more about the roots of antiSemitism in history up to the present time, particularly in America and to explore the relationship of American Jewry over the years to the Zionist movement and then to the state of Israel.",
+                                                    "key_topics":  "In this mini course, we will cover the understanding of the Jewish immigrants who came to the United States from the 17th century through today; their background in Europe, the challenges they faced and the adjustments they made in America. We will explore anti-Semitism in American history culminating with the massacre in 2018 at the Tree of Life synagogue in Pittsburgh. We will also consider the history of the modern Zionist movement and its development in America. We will consider the U.S. relationship to Israel going back to the founding of the state in 1948 up to today.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "There will be tests, assignments, and a final examination.",
+                                                    "relevance":  "This course will encourage students to examine their own immigrant roots and appreciate the challenges their own ancestors had to face with the Jewish experience as backdrop. Since the issues of antisemitism and the US relationship with Israel are very much in the news today, this course will give students the opportunity to have some background on those issues for discussion.",
+                                                    "learning_resources":  "The instructor will provide readings online for discussion in class.",
+                                                    "extra_time_commitment":  "There are no anticipated extra-time commitments for this class."
+                                            }
+}

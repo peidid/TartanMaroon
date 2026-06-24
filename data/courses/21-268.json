@@ -1,0 +1,54 @@
+{
+        "code":  "21-268",
+        "name":  "Multidimensional Calculus",
+        "short_name":  "MULTIDIMNSL CALCULUS",
+        "units":  11.0,
+        "min_units":  11.0,
+        "max_units":  11.0,
+        "prereqs":  {
+                                        "text":  "(21-122 [] at least D) and ((21-241 [] at least D) or (21-242 [] at least D)) and ((15-151 [] at least D) or (21-127 [] at least D) or (21-128 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-259",
+                                            "id":  442,
+                                            "name":  "Calculus in Three Dimensions",
+                                            "units":  10.0
+                                    },
+                                    {
+                                            "code":  "21-269",
+                                            "id":  3718,
+                                            "name":  "Vector Analysis",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "21-266",
+                                            "id":  11385,
+                                            "name":  "Vector Calculus for Computer Scientists",
+                                            "units":  10.0
+                                    }
+                            ],
+        "long_desc":  "A serious introduction to multidimensional calculus that makes use of matrices and linear transformation. Results will be stated carefully and rigorously. Students will be expected to write some proofs however, some of the deeper results will be presented without proofs. Topics to be covered include functions of several variables, regions and domains, limits and continuity, partial derivatives, linearization and Jacobian matrices, chain rules, inverse and implicit functions, geometric applications, higher derivatives, Taylors theorem, optimization, vector fields, multiple integrals and change of variables, Leibnitzs rule, line integrals, Greens theorem, path independence and connectedness, conservative vector fields, surfaces and orientability, surface integrals, divergence theorem and Stokess theorem.    Three 50 minute lectures, two 50 minute recitations",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Linear algebra, differential and integral calculus",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

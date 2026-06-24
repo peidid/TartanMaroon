@@ -1,0 +1,42 @@
+{
+        "code":  "15-281",
+        "name":  "Artificial Intelligence: Representation and Problem Solving",
+        "short_name":  "AI RPRSNTN \u0026 PRB SLV",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) and ((18-202 [] at least C) or (21-241 [] at least C) or (21-240 [] at least C) or (21-254 [] at least C)) and ((21-127 [] at least C) or (21-128 [] at least C) or (15-151 [] at least C))"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-122",
+                                                "id":  2628,
+                                                "name":  "Integration and Approximation",
+                                                "units":  10.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about the theory and practice of Artificial Intelligence. We will study modern techniques for computers to represent taskrelevant information and make intelligent i.e. satisficing or optimal decisions towards the achievement of goals. The search and problem solving methods are applicable throughout a large range of industrial, civil, medical, financial, robotic, and information systems.  We will investigate questions about AI systems such as how to represent knowledge, how to effectively generate appropriate sequences of actions and how to search among alternatives to find optimal or nearoptimal solutions.  We will also explore how to deal with uncertainty in the world, how to learn from experience, and how to learn decision rules from data.  We expect that by the end of the course students will have a thorough understanding of the algorithmic foundations of AI, how probability and AI are closely interrelated, and how automated agents learn.  We also expect students to acquire a strong appreciation of the bigpicture aspects of developing fully autonomous intelligent agents.  Other lectures will introduce additional aspects of AI, including natural language processing, webbased search engines, industrial applications, autonomous robotics, and economicgametheoretic decision making.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cs.cmu.edu/~15281/",
+        "custom_fields":  {
+                                                    "goals":  "We expect that by the end of the course students will have a thorough understanding of the algorithmic foundations of AI, how probability and AI are closely interrelated, and how automated agents make decisions. We also expect students to acquire a strong appreciation of the bigpicture aspects of developing fully autonomous intelligent agents.",
+                                                    "key_topics":  "Throughout the course, we will discuss topics such as AI and Ethics and introduce applications related to AI for Social Good. Other lectures will introduce additional aspects of AI, including natural language processing, web-based search engines, industrial applications, autonomous robotics, and economic/game-theoretic decision-making.",
+                                                    "prerequisite_knowledge":  "The prequisites for this course are:\n15-122 Principles of Imperative Computation\n21-241 Matrices and Linear Transformations\n21-127 Concepts of Mathematics or 15-151 Mathematical Foundations of Computer Science.\n\nThe corequisite for this course is:\n21-122 Integration and Approximation\nFor this corequisite, you should either have completed it prior to starting 15-281 or have it on your schedule for Fall 2019.\n\nPlease see the instructors if you are unsure whether your background is suitable for the course.",
+                                                    "assessment_structure":  "Grades will be collected in Canvas.\nMidterms 15% (each), Final 30%, Programming homework 20%, Written homework 10%, Online homework 5%, Participation 5%",
+                                                    "relevance":  "This 15-281 course is for undergraduates.\n\n15-281 used to be 15-381 in previous semesters. This is not a significant change to the course, but rather a recognition that many students are able to complete the necessary prerequisites and are prepared to take this course in their second year.",
+                                                    "learning_resources":  "Artificial Intelligence: A Modern Approach, Third Edition (recommended), Piazza, Gradescope",
+                                                    "extra_time_commitment":  null
+                                            }
+}

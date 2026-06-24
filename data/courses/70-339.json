@@ -1,0 +1,37 @@
+{
+        "code":  "70-339",
+        "name":  "FinTech",
+        "short_name":  "FINTECH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-391 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The financial services industry is a leader in the use of information technology. Firms in banking, securities, investments, insurance and financial marketplaces are among the most information intensive and innovative users of technology. The course will examine the role and potential of technology in this industry. The course begins with a description of the financial markets, specifically equity, foreign exchange, and derivatives, and the systems that enable them. It considers exchanges, ECNs, ATSs Order Management Systems, Straight through Processing, Fix Protocol, and post trading clearance and settlement. It covers the design, evaluation and execution of popular trading strategies that are used by professionals in the various markets. There is increasing interest, in particular, on systematic trading strategies and execution systems because of their scalability and transparency. The course covers both Algorithmic and High Frequency Trading and analyzes issues regarding latency, scalability, and reliability. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "03-232",
+        "name":  "Biochemistry I",
+        "short_name":  "BIOCHEMISTRY I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(09-105 [] at least D) or (06-223 [] at least D) or (06-221 [] at least D) or (09-107 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an introduction to the application of biochemistry to biotechnology. The functional properties of amino acids, nucleotides, lipids, and sugars are presented. This is followed by a discussion of the structural and thermodynamic aspects of the organization of these molecules into higherorder structures, such as proteins, nucleic acids, and membranes. The kinetics and thermodynamics of proteinligand interactions are discussed for noncooperative, cooperative, and allosteric binding events. The use of mechanistic and kinetic information in enzyme characterization and drug discovery are discussed. Topics pertinent to biotechnology include antibody production and use, energy production in biochemical systems, expression of recombinant proteins, and methods of protein purification and characterization. The course is an alternate to 03231.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To gain knowledge of the structure and properties of biopolymers proteins and nucleic acids and apply that knowledge to solving problems related to biochemistry.",
+                                                    "key_topics":  "Fundamentals of Biochemistry with applications to biotechnology. Topics include protein structure, enzymology, drug design, metabolism, and genetic engineering.",
+                                                    "prerequisite_knowledge":  "Introductory biology at the high school level, introductory chemistry. Students with no background in organic chemistry should complete additional work prior to, or at the beginning of, the course. Please contact the instructor for access to this material.",
+                                                    "assessment_structure":  "Weekly problem sets and online quizzes, three in-class exams, and a comprehensive final exam.",
+                                                    "relevance":  "Students will gain an fundamental knowledge of biotechnology and the process of drug discovery.",
+                                                    "learning_resources":  "Extensive on-line notes accompanied with active learning activities, lecture handouts and completed lecture notes, active learning in recitations, previous exams with solution keys. Optional textbook.",
+                                                    "extra_time_commitment":  "Students are encouraged to prepare for each lecture by reading on-line material prior to class."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "79-288",
+        "name":  "Bananas, Baseball, and Borders: Latin America and the United States",
+        "short_name":  "HIS LATIN AMER-U.S.",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will examine the tumultuous and paradoxical relationship between Latin America and the United States from the time of independence to the present, with an emphasis on Mexico, Central America, and the Caribbean during the Cold War 19451989 and its aftermath 1990spresent. We will literally talk about bananas, baseball and borders the title also alludes to the key dimensions of the relationship we will study economic, cultural, and geopolitical. We will learn about the actions of U.S. and Latin American government leaders and diplomats along with many other kinds of people including activists, artists, and journalists athletes, movie stars, and scientists and migrant workers, tourists, and drug traffickers. Mondays and Wednesdays will feature interactive lectures, videos and inclass activities Fridays will be entirely devoted to studentdriven discussion. Evaluation will be based on participation two written analysis of historical documents, and a final reflection. This course meets the Dietrich Gen Ed Intercultural and Global Inquiry requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal is to educate students about the international and transnational dimensions of history and also strengthen analytical reading and writing skills.",
+                                                    "key_topics":  "The course will cover the history of the cultural, economic, geopolitical, and social, relationships among nations in the Americas with a particular emphasis on the Cold War and post-Cold War eras.",
+                                                    "prerequisite_knowledge":  "Students do not have to have any prior content knowledge to be successful. Strong reading and writing skills will be important.",
+                                                    "assessment_structure":  "There will be weekly reading, and short writing assignments, mini-presentations, and a final research project.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Intercultural and Global Inquiry\n\nThis course will help students to understand the historical context for many things in our daily lives, ranging from musical forms like reggaeton to foods like bananas to the political contexts that compel people to migrate from Central America to the United States and Canada.",
+                                                    "learning_resources":  "Students will access most materials for the course via Canvas. One or two books may be assigned.",
+                                                    "extra_time_commitment":  "There are no extra time commitments planned."
+                                            }
+}

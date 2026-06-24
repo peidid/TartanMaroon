@@ -1,0 +1,37 @@
+{
+        "code":  "73-348",
+        "name":  "Behavioral Economics",
+        "short_name":  "BEHAVIORAL ECONOMCS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((36-200 [] at least D) or (36-225 [] at least D) or (36-217 [] at least D) or (70-207 [] at least D) or (36-207 [] at least D)) and (21-120 [] at least D) and ((73-100 [] at least D) or (73-104 [] at least D) or (73-102 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course introduces students to behavioral economics which is a subfield of economics that incorporates insights from other social sciences, such as psychology, into economic models and aims to explain the anomalies challenging some of the classical economic models.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "At the end of this document you will find a tentative schedule for the semester, that willalmost surely change as we progress. That said, the underlying objectives of the course willremainLearn about the field of Behavioral Economics and its major findings.Read and present finding from original research in Behavioral Economics.Compare the findings from Behavioral Economics to traditional Economic theory.Examine the generality of these results and their application to managerial and policydecision makingAcquire practical skills for making better decisions.",
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "introductory microeconomics and introductory probability and statistics.",
+                                                    "assessment_structure":  "Weekly office hours, lecture slides, lecture notes, projects, Piazza, textbook and accompanying study guides, and articles/texts (made available on the course webpage).",
+                                                    "relevance":  "This course is intended to give future managers, consultants, and policy makers an introduction to the insights and applications of behavioral economics. Behavioral economics is the interdisciplinary study of how people make decisions. It draws together research from psychology, economics, political science, and management to address topics including heuristics and biases in inference and prediction, risk perceptions and attitudes, and the roles of group and emotional processes in decision making. This behavioral approach is different than the traditional approach of how people \"should \" make decisions. The should aspect is often the content of classic economic theory. Studying how people actually make decisions is the province of Behavioral Economics and Behavioral Decision Research. Once we understand how people make decisions, we can help people make better decisions",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

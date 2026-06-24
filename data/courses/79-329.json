@@ -1,0 +1,37 @@
+{
+        "code":  "79-329",
+        "name":  "LGBTQ+ History",
+        "short_name":  "LGBTQ+ HISTORY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This class introduces and discusses LGBTQ history over time, drawing cases and readings from a number of cultures and timeframes.  It introduces students to the concept of sexuality as an area of historical inquiry as well as introducing students to the methods and the questions that have engaged historians in this area.  This introductory course is designed for all interested students and nonmajors alike, as well as those contemplating a Gender Studies minor.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the class, students should be able to distinguish the varying ways that sexuality is conceptualized at different places and times, both in the west and globally. As well, they will be introduced to the manner in which historians analyze the impact of sexuality on cultures and political thought.",
+                                                    "key_topics":  "The course will look as the role that same sex behaviors have variously played in varying cultural contexts as well as those issues that inform current debates. Social, political and cultural formulations of sexualities will be examined over time and with several different cultures.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Students will be required to complete a series of precis that summarize reading and lectures. Additionally, they will be required to complete three papers over the course of the term.",
+                                                    "relevance":  "Students will engage with sexuality as a field of scholarly inquiry and introduce them to larger issues of historical analysis.",
+                                                    "learning_resources":  "These resources will be determined.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-359",
+        "name":  "User Experience Methods for Documents",
+        "short_name":  "USR EXPRIENCE MTHDS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((76-270 [] at least D) and (76-390 [] at least D)) or ((76-271 [] at least D) and (76-390 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will be useful for any student who is interested in learning more about user experience methods that are widely used in professions such as designingwriting for new media, technical writing, science and healthcare communication, public media relations, policy and nonprofit communication. You will deepen your mastery of the following research skills associated with planning and testing documents interviewing in context, retrospective interviewing, focus groups, surveys, and thinkaloud usability testing of documents. In addition to specific research methods and skills, we will cover issues that pertain to all research methods How many people do I need to include in my study How should I select them Are my results valid Is what I think Im finding out reliable What are the ethical issues in my study We will use a combination of lecture, discussion, exercises and projects to achieve these objectives.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understand and have practiced various methods relevant to document UX research Understand basic ethical issues surrounding document research Understand and demonstrate data analysis techniques and reporting on data in document research Become familiar with the research underlying various UX research methods and apply it in your own practice and reflection Increase your ability to reflect upon and improve your own practice",
+                                                    "key_topics":  "Empirical research methods\n\n\n\nQualitative \u0026 quantitative methods\n\n\n\nInterviewing\n\n\n\nFocus groups\n\n\n\nSurveys\n\n\n\nDocument testing\n\n\n\n\n\nPlus-minus method",
+                                                    "prerequisite_knowledge":  "UG: 76270 or 76271 Intro to Prof \u0026 Tech Writing and Style.",
+                                                    "assessment_structure":  "Assignments/projects",
+                                                    "relevance":  "The methods taught in this course are widely used in the professional and technical writing professions.",
+                                                    "learning_resources":  "Readings",
+                                                    "extra_time_commitment":  "This is a 9 unit course. As such, expect to spend about 9 hours/week (depending on the week) on the course, with about 6.5 hours/week outside class. Some work will require arranging meeting times with others."
+                                            }
+}

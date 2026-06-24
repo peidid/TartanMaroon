@@ -1,0 +1,37 @@
+{
+        "code":  "03-451",
+        "name":  "Advanced Developmental Biology and Human Health",
+        "short_name":  "ADV DEV BIO HUM HLTH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((03-240 [] at least B) or (03-320 [] at least B) or (03-709 [] at least B)) and ((03-220 [] at least B) or (03-330 [] at least B) or (03-621 [] at least B))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will examine current research in developmental biology, focusing on areas that have important biomedical implications. The course will examine stem cell biology, cellular reprogramming, cell signaling pathways, tissue morphogenesis, and geneticdevelopmental mechanisms of birth defects and human diseases. Emphasis will be placed on the critical reading of recent, original research papers and classroom discussion, with supporting lectures by faculty.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Emphasis is placed on the critical reading of recent, original research papers and classroom discussion, with supporting lectures by faculty. The course is intended to help students accomplish the following goals1 To gain expertise in reading and critically analyzing primary scientific literature2 To gain experience in designing and analyzing original scientific experiments 3 To gain expertise in oral presentation and writing 4 To gain specific knowledge in selected areas of research in developmental biology with important implications for human health.",
+                                                    "key_topics":  "This course examines current research topics in developmental biology, focusing on areas that have important biomedical implications, such as stem cell biology, cellular reprogramming, cell signaling pathways, tissue morphogenesis, and genetic/developmental mechanisms of birth defects and human disease.",
+                                                    "prerequisite_knowledge":  "A strong background in molecular biology, cell biology, and genetics, and at least an introduction to developmental biology.",
+                                                    "assessment_structure":  "Participation in class discussion- 50%, Homework- 25%, Main paper presentation- 20%, Paper introduction presentation- 5%.",
+                                                    "relevance":  "Developmental processes are essential for human reproduction, while mis-regulation of these processes underlies birth defects and a vast number of human diseases. Modern research in developmental biology is setting the stage for many promising biomedical technologies.",
+                                                    "learning_resources":  "Students are provided with PDF files of current research papers in developmental biology.",
+                                                    "extra_time_commitment":  "Students are expected to regularly spend approximately 6 hrs/week outside of class reading assigned papers and answering homework questions. Additional time (approximately 8-10 hours total) will be required as the students prepare their main paper presentation."
+                                            }
+}

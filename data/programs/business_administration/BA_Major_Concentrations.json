@@ -1,0 +1,82 @@
+[
+    {
+        "Concentration Name":"Business Analytics and Technology",
+        "Concentration Description":"This concentration equips you with the tools and techniques to extract actionable insights from complex data, supporting strategic decision-making across diverse business contexts. You’ll learn to build models, manage large datasets, and apply advanced analytics—ranging from predictive machine learning to natural-language processing of financial text.",
+        "Career Paths":"Here are some of the key career paths you will be well prepared for after completing the Business Analytics concentration: Data Scientist, Business Analyst / Analytics Translator, Analytics Consultant, Quantitative Analyst / Risk Analyst, Product Manager, Analytics Platforms.",
+        "Concentration Course Requirements":"Complete at least one from section A list, and complete at least 3 from section B list.",
+        "Concentration Course Requirements Section A":"70-374 Data Mining & Business Analytics, 70-467 Machine Learning for Business Analytics (not offered in Qatar)",
+        "Concentration Course Requirements Section B":"70-374 Data Mining & Business Analytics, 70-387 Strategy for High-Tech Products & Services, 70-455 Data Management Fundamentals (not offered in Qatar), 70-458 Advanced Data Management (not offered in Qatar), 70-460 Mathematical Models for Consulting, 70-467 Machine Learning for Business Analytics (not offered in Qatar), 70-469 End to End Business Analytics, 70-498 Business Language Analytics: Mining Financial Texts and Graphs (not offered in Qatar), 73-366 Designing the Digital Economy (not offered in Qatar), 73-374 Econometrics II (not offered in Qatar)",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    },
+    {
+        "Concentration Name":"Entrepreneurship",
+        "Concentration Description":"Special note for Tech Entrepreneurship Minor: If you choose this minor, you cannot do this concentration. This concentration immerses you in the process of identifying opportunities, designing viable business models, securing funding, and scaling new ventures—equipping you with the practical skills and strategic mindset needed to launch and lead startups in any market.",
+        "Career Paths":"Corporate Innovation Manager, Business Development Manager, Startup Founder / Co-Founder, Venture Capital Analyst / Associate, Innovation & Strategy Consultant",
+        "Concentration Course Requirements":"Complete both courses in section A, then complete at least 2 courses from section B.",
+        "Concentration Course Requirements Section A":"70-415 Introduction to Entrepreneurship, 70-416 New Venture Creation",
+        "Concentration Course Requirements Section B":"70-395 Funding Entrepreneurial Ventures, 70-409 Innovation and Entrepreneurship in Emerging Markets, 70-438 Commercialization and Innovation (not offered in Qatar), 70-443 Digital Marketing and Social Media Strategy, 49-300 Integrated Product Conceptualization (not offered in Qatar)",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    },
+    {
+        "Concentration Name":"Finance",
+        "Concentration Description":"This concentration builds deep expertise in investment analysis, corporate financial strategy, and advanced valuation techniques—preparing you for strategic roles in banking, asset management, and financial consulting. This concentration equips you with both the theoretical foundations and hands-on modeling skills to excel in high-impact roles across investment banking, asset management, corporate finance, and fintech innovation.",
+        "Career Paths":"Investment Banking Analyst / Associate, Equity Research Analyst, Asset / Portfolio Manager, Private Equity / Venture Capital Associate, Risk Manager / Quantitative Risk Analyst",
+        "Concentration Course Requirements":"Complete both courses in section A, then complete at least 2 courses from section B.",
+        "Concentration Course Requirements Section A":"70-492 Investment Analysis, 70-495 Corporate Finance",
+        "Concentration Course Requirements Section B":"70-337 Business of Blockchain (not offered in Qatar), 70-353 Financial Regulation in the Digital Age (not offered in Qatar), 70-388 Islamic Finance, 70-398 International Finance (not offered in Qatar), 70-484 Data Science for Finance (not offered in Qatar), 70-493 Valuation and Financial Modeling, 70-497 Derivative Securities (not offered in Qatar), 70-498 Business Language Analytics: Mining Financial Texts and Graphs (not offered in Qatar)",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    },
+    {
+        "Concentration Name":"Global Economics and Business",
+        "Concentration Description":"If you choose this concentration, Econ courses you take will not count towards your Econ minor. This concentration blends rigorous economic theory with cutting-edge data-science techniques, preparing you to analyze complex economic phenomena, design policy interventions, and drive data-informed decisions in both public and private sectors. This concentration positions you to become a versatile economist or data scientist—ready to tackle challenges in government agencies, international organizations, consulting firms, fintech, and beyond.",
+        "Career Paths":"Quantitative Economist / Research Economist, Strategy & Analytics Consultant, Financial Economist / Risk Analyst, Emerging Markets Specialist.",
+        "Concentration Course Requirements":"Completion of the first course in section A is mandatory, then you have to choose 1 from the two remaining courses in section A. You must complete at least 2 courses from section B.",
+        "Concentration Course Requirements Section A":"73-265 Economics and Data Science, 73-347 Game Theory Applications for Economics and Business (not offered in Qatar), 73-421 Emerging Markets",
+        "Concentration Course Requirements Section B":"73-341 Within the Firm: Managing through Incentives (not offered in Qatar), 73-354 Sports Economics, 73-365 Firms, Market Structures, and Strategy (not offered in Qatar), 73-366 Designing the Digital Economy (not offered in Qatar), 73-369 Islamic Economics, 73-427 Sustainability, Energy, and Environmental Economics (not offered in Qatar), 70-398 International Finance (not offered in Qatar)",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    },
+    {
+        "Concentration Name":"Islamic Business Management",
+        "Concentration Description":"This concentration integrates the ethical and regulatory frameworks of Islamic finance and economics with modern management practices—preparing you to lead organizations in Muslim-majority contexts and global markets where Sharia-compliant principles are essential. This concentration prepares you for leadership roles in Islamic banks, family-owned conglomerates, social-impact ventures, and multinational firms operating in Muslim-majority markets—equipping you with both deep domain knowledge and practical managerial skills.",
+        "Career Paths":"Islamic Bank Relationship Manager, Islamic Wealth / Asset Manager, Corporate Finance Analyst (Islamic Finance)",
+        "Concentration Course Requirements":"Completion of all courses in section A is mandatory. Then, complete at least 2 courses from section B.",
+        "Concentration Course Requirements Section A":"70-388 Islamic Finance, 73-369 Islamic Economics",
+        "Concentration Course Requirements Section B":"70-342 Managing Across Cultures, 70-409 Innovation and Entrepreneurship in Emerging Markets, 70-492 Investment Analysis or 70-495 Corporate Finance, 73-421 Emerging Markets",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    },
+    {
+        "Concentration Name":"Marketing Management",
+        "Concentration Description":"This concentration equips you with the analytical frameworks and strategic tools to understand customer needs, craft compelling value propositions, and execute integrated marketing programs across traditional and digital channels. This concentration prepares you for leadership roles in brand management, digital marketing, market research, and product strategy—arming you with both the analytical rigor and creative mindset that modern marketers demand.",
+        "Career Paths":"Market Research Analyst, Brand Manager / Product Manager, Digital Marketing Manager, Consumer Insights Manager, Pricing Strategy Analyst, High-Tech Product Marketing Manager",
+        "Concentration Course Requirements":"Complete the one course in section A. Then take at least 3 courses from the section B.",
+        "Concentration Course Requirements Section A":"70-481 Marketing Research",
+        "Concentration Course Requirements Section B":"70-385 Consumer Behavior, 70-387 Strategy for High-Tech Products & Services, 70-443 Digital Marketing and Social Media Strategy, 70-482 Pricing Strategy (not offered in Qatar), 70-483 Advertising and Marketing Communications (not offered in Qatar), 70-485 Product and Brand Management (not offered in Qatar)",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    },
+    {
+        "Concentration Name":"Product Management",
+        "Concentration Description":"*For business majors with an HCII minor or additional major the requirement is waived and are required to take 2 courses from 70-385, 70-443, 70-481, 70-482. This concentration combines strategic frameworks for technology offerings with hands-on product-management practices—preparing you to lead the end-to-end lifecycle of innovative digital and tech products, from ideation through launch and scale. This concentration equips you to excel as a product leader in technology firms, startups, or innovation labs—combining strategic vision with operational expertise to bring next-generation products to market.",
+        "Career Paths":"Product Manager, Technical Product Owner / Agile Coach, User Experience (UX) Researcher / Designer, Product Marketing Manager, Digital Transformation Lead",
+        "Concentration Course Requirements":"Completion of both courses in section A is mandatory. Then, take at least 1 course from section B's first three courses. Then, take at least 1 course from section B's last 4 courses.",
+        "Concentration Course Requirements Section A":"70-387 Strategy for High-Tech Products and Services, 70-452 Introduction to Product Management",
+        "Concentration Course Requirements Section B":"05-391 Designing Human Centered Software (not offered in Qatar), 05-410 User-Centered Research and Evaluation (not offered in Qatar), 70-389 Design Thinking for Business: Creative Solutions for Complex Problems (not offered in Qatar), 70-385 Consumer Behavior, 70-443 Digital Marketing and Social Media Strategy, 70-481 Marketing Research, 70-482 Pricing Strategy (not offered in Qatar)",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    },
+    {
+        "Concentration Name":"Strategic Management",
+        "Concentration Description":"This concentration develops your ability to formulate and execute business strategies in dynamic environments, fostering innovation, leading diverse teams, and aligning organizational resources to achieve sustainable competitive advantage. This concentration prepares you to craft and implement strategy in consulting firms, corporate innovation units, and leadership roles across industries, equipping you with both analytical frameworks and people-centered skills.",
+        "Career Paths":"Strategy Consultant, Corporate Strategy Manager, Innovation Manager / Director, Business Development Manager, Product Strategy Lead, Chief Innovation Officer (CINO)",
+        "Concentration Course Requirements":"Completion of the only course in section A is mandatory. Then, complete at least 3 courses from section B.",
+        "Concentration Course Requirements Section A":"70-437 Strategic Management and Innovation",
+        "Concentration Course Requirements Section B":"70-341 Team Dynamics and Leadership, 70-342 Managing Across Cultures, 70-385 Consumer Behavior, 70-387 Strategy for High-Tech Products & Services, 70-424 Corporate Financial Reporting (not offered in Qatar), 70-432 Diversity, Equity, & Inclusion and Business Strategy (not offered in Qatar)",
+        "Concentration Course Requirements Summative course":"No summative course needed to complete this concentration as a Business Administration major.",
+        "Concentration Contact Personnel":"Agustin Indaco"
+    }
+]

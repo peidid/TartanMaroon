@@ -1,0 +1,37 @@
+{
+        "code":  "98-047",
+        "name":  "Student Taught Courses (StuCo): History, Culture, (\u0026 the Fun) of K-pop",
+        "short_name":  "STUCO: KPOPHIST",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is a comprehensive exploration of Kpops history, industry, and cultural impact. It covers Kpops origins, its evolution through various generations, the societal factors influencing it, and the global phenomenon it has become today. Students will engage in open discussions, presentations, and activities such as music video analysis and trivia games. The class encourages a collaborative learning environment where students can critically analyze Kpops influence on music, culture, and society. There is no course fee for this class.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, youll have a solid understanding of Kpops history and cultural significance, including how societal, economic, and cultural factors shape the industry. Youll be able to critically assess various aspects of Kpop, from controversies to global trends, while developing your research and presentation skills through fun and engaging assignments. Most importantly, youll get to be part of lively discussions and explore different perspectives within the Kpop world, all while having a great time learning with fellow fans.",
+                                                    "key_topics":  "- Introduction and History of K-pop\n- K-pop Industry and Society\n- K-pop Music and Culture\n- Capitalism in K-pop\n- K-pop Idols and Trainee Culture\n- Generational Shifts in K-pop\n- Fandom and Social Media Influence\n- K-pop\u0027s Global Impact and Future",
+                                                    "prerequisite_knowledge":  "No prior knowledge is needed for this course—just an interest to learn more about K-pop.",
+                                                    "assessment_structure":  "- Weekly participation in discussions and assignments, focusing on critical engagement with the weekly topics.\n- A midterm individual presentation on a chosen K-pop event or music lore, allowing for creative and analytical expression.\n- A final essay on a K-pop topic of their choosing, requiring a well-researched analysis (2-3 pages) with cited sources.",
+                                                    "relevance":  "This course is perfect for students who want to explore the world of K-pop and see how it intersects with music, culture, and society. Whether you\u0027re already a K-pop fan or just curious about its impact, you\u0027ll find this class engaging and insightful. We\u0027ll cover everything from how K-pop became a global phenomenon to the behind-the-scenes workings of the industry. It\u0027s a fun way to learn about international entertainment, marketing, and cultural trends, and it\u0027s great for anyone who enjoys discussing music and pop culture with others.",
+                                                    "learning_resources":  "- Academic papers and resources, available through CMU, related to K-pop and cultural studies.\n- K-pop company websites for primary research on industry practices.\n- K-pop news sites and media outlets for historical and current events.\n- Music videos, interviews, and other primary sources to support class discussions and analyses.",
+                                                    "extra_time_commitment":  "Outside of regular class meetings, students are expected to work on their weekly assignments and actively reflect on the discussion topics covered in class. During the midterm and final assessment periods, students will need to dedicate additional time to prepare their individual presentations and final essays. This includes researching, organizing ideas, and refining their work to ensure thoughtful and well-constructed projects."
+                                            }
+}

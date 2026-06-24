@@ -1,0 +1,37 @@
+{
+        "code":  "15-362",
+        "name":  "Computer Graphics",
+        "short_name":  "COMPUTER GRAPHICS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((15-122 [] at least C) and (21-122 [] at least C) and (21-240 [] at least C)) or ((15-122 [] at least C) and (21-122 [] at least C) and (21-241 [] at least C)) or ((15-122 [] at least C) and (21-254 [] at least C)) or ((15-122 [] at least C) and (18-202 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a comprehensive introduction to computer graphics modeling, animation, and rendering. Topics covered include basic image processing, geometric transformations, geometric modeling of curves and surfaces, animation, 3D viewing, visibility algorithms, shading, and ray tracing.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Provide students with a strong basis in computer graphics techniques broadly, spatial transformations, geometry, rendering, and animation along with handson experience in the basics of these areas and knowledge of the state of the art.",
+                                                    "key_topics":  "- rasterization\n- spatial transformations\n- geometric representations\n- the rendering equation\n- path tracing\n- animation\n- splines\n- meshes\n- sampling\n- numerical integration",
+                                                    "prerequisite_knowledge":  "Basic vector calculus and linear algebra will be an important component of this course. Previous exposure to basic programming in C/C++ or similar languages is very helpful as course programming assignments will involve significant implementation effort.",
+                                                    "assessment_structure":  "Students will be assessed through programming assignments (~70%), midterm/final exams (~20%), and course participation (~10%).",
+                                                    "relevance":  "15-462 is for undergraduates. Graduate students should enroll in 15-662.\n\nThe techniques of Computer Graphics are essential to many aspects of modern life including visual effects in movies, layout design on web pages, visualization in scientific computing, CAD in industrial design, and real-time rendering for games. Graphics techniques are also the basis of emerging technologies, including developing and simulating autonomous vehicles, optimizing material structures, and robotic sensing systems.",
+                                                    "learning_resources":  "Lecture slides are posted for commenting and discussion. Piazza is also used for discussion. Additional readings are suggested per lecture (see course page).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

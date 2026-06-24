@@ -1,0 +1,37 @@
+{
+        "code":  "02-318",
+        "name":  "Introduction to Computational Medicine",
+        "short_name":  "INTRO COMP MEDICINE",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to computational methods relevant to the diagnosis and treatment of human diseases. It is the microcourse version of 02518, Computational Medicine. The course begins with an introduction to the field of Medicine, and an overview of the primary clinical tasks associated with Computational Medicine phenotyping biomarker discovery predictive modeling. Next, we provide an introduction to several Machine Learning techniques, and how those techniques can be used to perform the clinical tasks. For the remainder of the course, students will be guided through the analysis of a clinical data set to gain experience with these techniques. No prior experience with Medicine, Machine Learning, or computer programming is required. Students will be graded based on quizzes and one homework.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

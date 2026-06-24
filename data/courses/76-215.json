@@ -1,0 +1,37 @@
+{
+        "code":  "76-215",
+        "name":  "19th Century American Literature",
+        "short_name":  "19TH CTY AMRCN LITR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Consult the course descriptions provided by the department for current offerings. Example, Spring 2010 In this class, we will be reading many of the major works of  Edgar Allan Poe, Nathaniel Hawthorne, and Herman Melville. Often described as Americas Dark Romantics, these three authors are frequently read as reacting to the current of optimism and idea of human perfectibility that characterized antebellum America and the Transcendentalist movement. We will begin by reading most of Poes short fiction and novellas and a number of his poetic and journalistic works. We will also read Hawthornes two major novels House of the Seven Gables and The Scarlet Letter, as well as a number of his shorter works from TwiceTold Tales. The class will also look at a number of Melvilles major works beginning with his first novel Typee, his short story collection The Piazza Tales, and culminating with Moby Dick. In addition to reading these canonical authors for their artistic merit, we will also consider the ways in which their works interacted with some of the prevailing ideas of their historical moments.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

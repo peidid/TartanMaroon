@@ -1,0 +1,37 @@
+{
+        "code":  "79-317",
+        "name":  "Art, Anthropology, and Empire",
+        "short_name":  "ART ANTHRPLGY EMPIRE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This seminar will explore the anthropology and history of aesthetic objects, as they travel from people and places sometimes labeled primitive or exotic to others, whose inhabitants deem themselves civilized, modern, or Western. First, we will consider twentiethcentury anthropological attempts to develop ways of appreciating and understanding objects from other cultures and in the process to reconsider the meaning of such terms as art and aesthetics. Then we will discuss several topics in the history of empire and exoticism. Finally, we will consider attempts by formerly colonized populations to reclaim objects from museums, and to organize new museums, aesthetic styles, and forms of artistic production that challenge imperialisms persistent legacies. This course meets the Dietrich Gen Ed The Arts requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn important aspects of the main indigenous artistic traditions of Africa, North America and Oceania, and will be introduced to some of the principal issues and questions raised by cultural anthropologists and historians, and will learn how to deploy cultural and historical sources, alongside oral testimony, in the interpretation of indigenous arts in culturally and historically informed ways. Via relevant historical and anthropological scholarship, as well as direct testimony in various forms, they will beintroduced to some of the historical dynamics surrounding the appropriation, interpretation and display of art forms considered primitive in the course of European and North American colonial conquest, territorial expansion, and political domination ofindigenous peoples. Finally, they will learn about postcolonial controversies that have surrounded the use and display of indigenous artworks, and the ways that curatorial practices have changed, and continue to change, in response to important critiques andmobilization by indigenous artists and communities, as well as by anthropologists, museum curators, and international and transnational organizations that have played an increasing role in support of the reclamation of indigenous artworks as culturalpatrimony.",
+                                                    "key_topics":  "Native American, Oceanic, and African art traditions\n\nColonial appropriation of indigenous objects via theft or purchase, as curios, artifacts, or\narts\n\nRise of museums and world fairs, featuring indigenous arts\n\nInfluence of \"exotic\" arts on artistic movements like primitivism, surrealism, dada,\nabstract expression, etc.\n\nThe appropriation of indigenous aesthetic styles by mainstream or \"Western\" artists\n\nContemporary postcolonial Native American, Oceanic and African arts and artists",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Class participation; written papers.",
+                                                    "relevance":  "Dietrich Gen Ed: Disciplinary Perspectives - The Arts\n\nStudents will use the topic of indigenous arts, and their appropriation by Westerners, as a context for broaching far-reaching questions about colonialism, power, and resistance.",
+                                                    "learning_resources":  "Texts, Films, and other resources, all available via Canvas.",
+                                                    "extra_time_commitment":  "One or more museum visits."
+                                            }
+}

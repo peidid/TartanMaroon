@@ -1,0 +1,37 @@
+{
+        "code":  "48-500",
+        "name":  "Advanced Synthesis Options Studio",
+        "short_name":  "ASOS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  18.0,
+        "prereqs":  {
+                                        "text":  "48-410 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Having proven competency in the spectrum of skills determined necessary for tomorrows architect during the first three years of the program, students in their fourth and fifth year are permitted to select from a variety of studio options, each providing the opportunity to build upon or augment some of those skills with new or more nuanced perspectives. All advanced synthesis studios are open to both years, the vertical integration offering enhanced learning opportunities.The content and focus of each studio is governed by faculty interests, which run the spectrum of architectural pursuits, ranging in scale from the design of a piece of furniture to a city and in approach from a comprehensive and complex building program to a criticallydriven speculation. They may also be interdisciplinary in nature, taking advantage of the unique juxtapositions made possible at Carnegie Mellon.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

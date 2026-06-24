@@ -1,0 +1,37 @@
+{
+        "code":  "09-560",
+        "name":  "Computational Chemistry",
+        "short_name":  "COMPUTATNL CHEMISTRY",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(09-344 [] at least D) or (09-214 [] at least D) or (09-347 [] at least D) or (09-345 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Computer modeling is playing an increasingly important role in chemical, biological and materials research. This course provides an overview of computational chemistry techniques including molecular mechanics, molecular dynamics, electronic structure theory and continuum medium approaches. Sufficient theoretical background is provided for students to understand the uses and limitations of each technique. An integral part of the course is hands on experience with stateoftheart computational chemistry tools running on graphics workstations. This course I can count towards coursework requirements for chemistry PhD candidates.  3 hrs. lec.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

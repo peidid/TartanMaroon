@@ -1,0 +1,48 @@
+{
+        "code":  "12-100",
+        "name":  "Exploring CEE: Infrastructure and Environment in a Changing World",
+        "short_name":  "EXPLORING CEE",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-120",
+                                                "id":  2627,
+                                                "name":  "Differential and Integral Calculus",
+                                                "units":  10.0
+                                        },
+                                        {
+                                                "code":  "33-141",
+                                                "id":  5295,
+                                                "name":  "Physics I for Engineering Students",
+                                                "units":  12.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Civil and Environmental Engineers CEEs engage in the planning, design, construction, operation, retrofit, demolition, and reuse of largescale infrastructure that forms the backbone of all societies and economies. CEEs work at the dynamic interface of the built environment, information environment, and natural environment. Therefore, societal domains that require CEE expertise include smart cities and construction, sustainable energy and buildings, connected and automated transportation systems, resilient infrastructure, climate change mitigation and adaptation, and water management. Students will explore how sensing, data science, environmental science, life cycle systems and economic analysis, and infrastructure design are integrated to create a built environment that meets the needs of smart and connected communities while enhancing sustainability. Students work on teambased designbuild projects that introduce principles from environmental, structural, construction engineering, and project management. Students learn technical skills as well as methods for management and design considerations that include uncertainty, economics, and ethics, for modern and future infrastructure.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The course aims to provide an understanding of the scope of civil and environmental engineering an exposure to some basic principles, concepts, and approaches that apply across all engineering disciplines, such as the use of idealizations and approximations, and the use of team brainstorming for creative problem solving a context for using information from other freshman courses, especially calculus and physics a background for higher level classes in civil and environmental engineering an appreciation for the importance of civil and environmental engineering to the quality of life and economic opportunities of individuals and communities and some experience with the fun of being an engineer.",
+                                                    "key_topics":  "Basic engineering calculations (units, conversions, significant figures)\nEngineering economics (investment analysis by net present value)\nConstruction cost estimation (by square foot, by quantity takeoff, and by work breakdown)\nStandard production rate (unconstrained, constrained, and flow analogies)\nProject planning and scheduling (critical path method, resource allocation)\nTechnical communications (writing technical reports, making technical presentations)\nProbability (properties of a normally distributed random variable)\nForces and equilibrium (vectors, vector addition, moments, free bodies, static equilibrium)\nInternal forces in beams (bending moment, bending stress)\nInternal forces in truss structures (method of joints)\nEngineering ethics\nConcentration, mass balance (flow, flow with accumulation, solving linear systems with constraints)\nWater quality in natural systems\nFirst-order differential equations for exponential growth, logistic growth, and exponential decay\nDissolved oxygen content and re-aeration rate",
+                                                    "prerequisite_knowledge":  "Familiarity with calculus and physics",
+                                                    "assessment_structure":  "Problem sets, midterm exams, final exam, three projects with group reports and presentations",
+                                                    "relevance":  "Students will gain an understanding of the scope of civil and environmental engineering, and will begin to acquire skills for use in subsequent engineering courses.",
+                                                    "learning_resources":  "Students will read Project Management for Construction by Chris Hendrickson and Tung Au (public domain), as well as selected readings posted to Canvas.",
+                                                    "extra_time_commitment":  "Students will need to complete some group work outside of course time."
+                                            }
+}

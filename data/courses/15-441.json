@@ -1,0 +1,37 @@
+{
+        "code":  "15-441",
+        "name":  "Networking and the Internet",
+        "short_name":  "COMPUTER NETWORKS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "15-213 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The emphasis in this course will be on the basic performance and engineering tradeoffs in the design and implementation of computer networks. To make the issues more concrete, the class includes several multiweek projects requiring significant design and implementation.    The goal is for students to learn not only what computer networks are and how they work today, but also why they are designed the way they are and how they are likely to evolve in the future. We will draw examples primarily from the Internet. Topics to be covered include network architecture, routing, congestionflowerror control, naming and addressing,  peertopeer and the web, internetworking, and network security.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal is for students to learn not only what computer networks are and how they work today, but also why they are designed the way they are and how they are likely to evolve in the future. We will draw examples primarily from the Internet.",
+                                                    "key_topics":  "include: network architecture, routing, congestion/flow/error control, naming and addressing, peer-to-peer and the web, internetworking, and network security.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "15-441 is for undergraduates. Graduate students should enroll in 15-641.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

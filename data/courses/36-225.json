@@ -1,0 +1,83 @@
+{
+        "code":  "36-225",
+        "name":  "Introduction to Probability Theory",
+        "short_name":  "INTRO PROBLTY THEORY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-112 [] at least D) and (21-111 [] at least D)) or (21-120 [] at least D) or (21-256 [] at least D) or (21-259 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "36-218",
+                                                    "id":  8831,
+                                                    "name":  "Probability Theory for Computer Scientists",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "15-259",
+                                                    "id":  9461,
+                                                    "name":  "Probability and Computing",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "36-219",
+                                                    "id":  10129,
+                                                    "name":  "Probability Theory and Random Processes",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "36-235",
+                                                    "id":  11431,
+                                                    "name":  "Probability and Statistical Inference I",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "21-325",
+                                            "id":  2381,
+                                            "name":  "Probability",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-218",
+                                            "id":  8831,
+                                            "name":  "Probability Theory for Computer Scientists",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-219",
+                                            "id":  10129,
+                                            "name":  "Probability Theory and Random Processes",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-235",
+                                            "id":  11431,
+                                            "name":  "Probability and Statistical Inference I",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "This course is the first half of a yearlong course which provides an introduction to probability and mathematical statistics for students in the data sciences. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, law of large numbers, and the central limit theorem.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/depar",
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to calculate probabilities using known and unknown parameters, describeidentifytransformmanipulate probability distributions, and work with random variables.",
+                                                    "key_topics":  "Probability theory, random variables, joint/conditional distributions, transformations of random variables, moment-generating functions, normal-based statistics, the law of large numbers, the central limit theorem.",
+                                                    "prerequisite_knowledge":  "Univariate calculus (differentiation \u0026 integration); multivariable calculus is preferred.",
+                                                    "assessment_structure":  "Assignments, quizzes, exams.",
+                                                    "relevance":  "Develop an understanding of probability theory that serves as a foundation for the statistical modeling of random phenomena.",
+                                                    "learning_resources":  "Lecture notes, handouts, recommended (not required) textbook, recommended (not required) attendance at recitations",
+                                                    "extra_time_commitment":  "None usually expected."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "82-327",
+        "name":  "The Emergence of the German Speaking World",
+        "short_name":  "EMEGC GRM SPKG WRLD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(82-320 [] at least D) or (82-324 [] at least D) or (82-323 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Italian literary theorist Franco Moretti has written that Germany is a sort of Magic Stage, where the symbolic antagonisms of European culture achieve a metaphysical intractability, and clash irreconcilably. It is the center and catalyst of the integrated historical system we call Europe. This course is a general introduction to German culture, German history, and German society, with a focus on Germanys role as center and catalyst of the European system. The course is conducted entirely in German. Its goal is to provide students with a basic level of cultural literacy about the Germanspeaking world. In the course, we will study major trends from the earliest days of German civilization through the middle ages but with primary emphasis on the 18th, 19th and 20th centuries and with a special focus on problems of national, political and cultural identity. Students coming out of the course should have a broad understanding of the various tensions and problems that have characterized German culture and society for the last two centuries. In addition to broadening students cultural knowledge about the Germanspeaking world, this course will continue to emphasize the improvement of students ability to speak, read, write, and listen to German.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

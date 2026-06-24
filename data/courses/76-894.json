@@ -1,0 +1,37 @@
+{
+        "code":  "76-894",
+        "name":  "Digital Humanities",
+        "short_name":  "DIGITAL HUMANITIES",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Digital Humanities is an emerging discipline as well as a broad collection of scholarly activities that apply new technologies to humanities research while expanding traditional forms of scholarly communication. Some of its many facets include book history, cartography using maps to better understand the cultural production of texts, the preservation and sharing of collections that are otherwise difficult to access. DH can also include the fostering of new creative expression by using digital media. In this mini well be reading a variety of leaders in the field including Robert Binkley, Franco Moretti, Matthew Jockers, Peter deBolla, Johanna Drucker, Alan Liu, Jerome McGann, Christopher Warren, and Bethany Nowviskie, attending the CMU DH lunch workshops, and taking some field trips around the city to see some DH projects in action.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is for students to learn about the many ways in which DH is changing the way research can be done in the humanities.",
+                                                    "key_topics":  "The DH mini is a crash course on the growing and emerging fields of Digital Humanities. We\u0027ll learn about Distant Reading, Orality vs. Literacy, DH and diversity, DH and labor, and much more. In addition, you\u0027ll learn about DH projects happning here at CMU and in Pittsburgh more generally.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Assignments will be short, simple and frequent. Students will be expected to reflect on the material they are learning as the mini progresses.",
+                                                    "relevance":  "Relevant to anyone interested in the fields of Digital Humanites.",
+                                                    "learning_resources":  "Readings, web pages, videos, brief lectures from other faculty in the and at CMU.",
+                                                    "extra_time_commitment":  "The time required to read and complete assignemtns."
+                                            }
+}

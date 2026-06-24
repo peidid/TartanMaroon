@@ -1,0 +1,37 @@
+{
+        "code":  "15-382",
+        "name":  "Collective Intelligence",
+        "short_name":  "COLLECTIVE INTELGNCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) and (36-218 [] at least C) and (21-241 [] at least C) and (21-127 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about the study of distributed control and intelligence systems involving a large number of autonomous components that interact with each other, dynamically adapting to their changing environment as a result of mutual interactions.  Examples of such components include cars in city traffic, pedestrians moving in crowds, firms competing in a market, ants foraging for food, or mobile robots in a swarm or multirobot system. Under certain conditions, such systems can produce useful systemlevel behaviors, display selforganized spatialtemporal patterns, effectively perform computations, information dissemination, and decisionmaking. Loosely speaking, when this happens we can say that the system is displaying a form of collective intelligence.  Collective intelligence will expose students to relevant mathematical and computational models from following fields and domains Cellular automata and Random boolean networks, Social choice, Game theory, Distributed consensus, Task allocation, Swarm intelligence, Social networks, Pattern formation, and Selforganizing maps. The course will also help bridge the gap between theory and practice via assignments where students will implement system models and explore their properties in application domains of practical interest.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

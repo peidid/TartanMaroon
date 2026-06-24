@@ -1,0 +1,37 @@
+{
+        "code":  "90-718",
+        "name":  "Strategic Presentation Skills",
+        "short_name":  "STRTGC PRSNTN SKILLS",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Strategic Presentation Skills SPS provides practical instruction for preparing and delivering professional presentations. Activities and assignments include analyzing audience members, writing outlines, creating cohesive visuals, and speaking extemporaneously. Students target and engage specific audiences using a communication style suitable for workplace environments. Overall, the course helps students develop confidence and apply effective techniques when speaking in a public setting.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.heinz.cmu.edu/academic-resources/course-results/course-details/index.aspx?cid=477",
+        "custom_fields":  {
+                                                    "goals":  "Compare and contrast effective versus ineffective professional presentationsConduct an audience analysis and adapt messages to particular audience membersEstablish a professional presence through nonverbal communicationStructure a logical, cohesive message via verbal and visual transitional devicesMaintain time constraints, clarity in voice projection, and eye contactDesign and utilize visuals e.g. slides, logos, photographs, tables, graphs, charts, and diagrams effectivelyEngage effectively with attendees and respond eloquently to questions from the audienceDemonstrate a cohesive team presentationProvide productive feedback to peersSelfevaluate professional development as a public speaker",
+                                                    "key_topics":  "* Nonverbal communication\n\n* Verbal communication\n\n* Visual communication",
+                                                    "prerequisite_knowledge":  "SPS is a required core course.",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "Effective presentation skills are relevant to students preparing for a client-facing project or seeking opportunities to present at a professional conference",
+                                                    "learning_resources":  "* No Text\n\n* Resources are located in Canvas.",
+                                                    "extra_time_commitment":  "Students will work outside of class to research presentation topics and prepare visuals"
+                                            }
+}

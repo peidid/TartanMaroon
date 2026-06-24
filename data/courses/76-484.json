@@ -1,0 +1,37 @@
+{
+        "code":  "76-484",
+        "name":  "Discourse Analysis",
+        "short_name":  "DISCOURSE ANALYSIS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Discourse is a focus of study in most of the humanities and social sciences, and discourse analysis is practiced in one way or another by anthropologists, communications scholars, linguists, literary critics, and sociologists, as well as rhetoricians. Discourse analysts set out to answer a variety of questions about language, about writers and speakers, and about sociocultural processes that surround and give rise to discourse, but all approach their tasks by paying close and systematic attention to particular texts and their contexts. We are all familiar with the informal discourse analysis involved in paraphrasing the meanings of written texts and conversations, a skill we learn in writing and literature classes and in daily life. Here we ask and answer other questions about why people use language as they do, learning to move from a stretch of speech or writing or signing outward to the linguistic, cognitive, historical, social, psychological, and rhetorical reasons for its form and its function. As we look at resources for textbuilding we read analyses by others and practice analyses of our own, using as data texts suggested by the class as well the instructor. In the process, we discuss methodological issues involved in collecting texts and systematically describing their contexts ethnographic participantobservation and other forms of naturalistic inquiry transcription and entextualization legal and ethical issues connected with collecting and using other peoples voices as well as methodological issues that arise in the process of interpreting texts analytical heuristics reflexivity standards of evidence. The major text will be Johnstone, Barbara. 2008. An Introduction to Discourse Analysis. 2nd ed. Malden, MA Blackwell Publishers. Other reading will be made available as .pdf files.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

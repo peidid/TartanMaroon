@@ -1,0 +1,37 @@
+{
+        "code":  "90-767",
+        "name":  "Communication in VR",
+        "short_name":  "COMMUNICATION IN VR",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We will conduct exploratory research to investigate how virtual reality VR environments can be designed to encourage certain behaviors in groups, specifically collaborative practices in professional settings. Our research will draw from virtual environment design and social psychology to focus on 3 situations of collaboration within professional settings   1. Relationshipbuilding during business meetings 2. Presentations for decisionmaking giving a speech to a diverse group 3. Cocreation sessions teamwork for projects",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

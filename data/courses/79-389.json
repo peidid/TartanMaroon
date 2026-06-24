@@ -1,0 +1,37 @@
+{
+        "code":  "79-389",
+        "name":  "Stalin and Stalinism",
+        "short_name":  "STALIN \u0026 STALINISM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Joseph Stalin has been vilified and praised, damned and worshipped. He left behind a mixed and complex legacy. He created an industrialized modern economy in the Soviet Union and won a great and painful victory over the Nazis. At the same time, he built a police state, sent millions to labor camps, and destroyed the possibilities for socialist democracy. When he died, thousands of Soviet citizens wept at his funeral. This course will combine elements of biography and social history to examine Stalin, the man, and Stalinism, the phenomenon. Using history and film, we will explore one of the most complicated and influential dictatorships of the 20th century.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will obtain and understanding of a critical part of world history, a model that many developing countries found useful in industrialization, and how Terror can spread and find support among ordinary citizens.",
+                                                    "key_topics":  "The history of Stalin\u0027s rise to power, his biography, and his role as leader. Covers major events in Soviet history including struggle for power, collectivization of peasantry, industrial development, WW II, and the postwar repressions of Jews.",
+                                                    "prerequisite_knowledge":  "No prerequisite knowledge is required.",
+                                                    "assessment_structure":  "A mid-term examination, a final examination, a paper, and class participation.",
+                                                    "relevance":  "Students interested in the events and impact if one of the leaders who shaped the 20th century, the culture and society of the Soviet Union, the impact on the idea of democratic-socialism, and the reasons for Stalin\u0027s rise to power .",
+                                                    "learning_resources":  "Books, articles, primary sources, and a film showing in class.",
+                                                    "extra_time_commitment":  "No extra time commitments outside the usual for reading and other course-related assignments."
+                                            }
+}

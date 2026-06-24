@@ -1,0 +1,37 @@
+{
+        "code":  "73-474",
+        "name":  "The Economics of Ideas: Growth, Innovation and Intellectual Property",
+        "short_name":  "ECONOMICS OF IDEAS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-230 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Healthy economies in many way resemble healthy people   they are alive and vibrant, growing and adjusting in response to changing circumstances   and what fuels economic growth and innovation are ideas.  This course explores the role of ideas in the modern economy.  Topics include models of economic growth, economic efficiency and development, innovation and human capital, intellectual property and public policy issues.  Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

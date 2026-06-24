@@ -1,0 +1,42 @@
+{
+        "code":  "76-270",
+        "name":  "Writing for the Professions",
+        "short_name":  "WRITNG FOR PROFSNS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "76-271",
+                                                    "id":  398,
+                                                    "name":  "Introduction to Professional and Technical Writing",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Writing in the Professions is a writing and communication design course for mainly sophomores and juniors although it can be relevant for some freshmen and seniors in all majors other than English. The course is appropriate for upperlevel students in all CMU colleges and assumes that they may not have had much collegelevel writing instruction beyond the first year. The basic idea of the course is to give experience in developing the design skills for writing and communicating as students transition from student to professional. The course will cover some foundational principles of designing multimodal writing and communication within a variety of tasks including resume and cover letter writing, proposal writing and writing instructions. Students will discern the difference between writing for general and specific audiences, and analysis of visual aids in various texts. The course requires that students work both independently and in groups. All sections of 76270 align with particular core objectives. However, some sections of 76270 are disciplinefocused and reserved for students from specific programs or colleges. Students should review the section title before attempting to register to discern which section is most appropriate for them. Dietrich College students can count any 76270 section toward their GenEd requirement Disciplinary PerspectivesDesign.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/dietrich/english/academic-programs/writing-and-communication/index.html",
+        "custom_fields":  {
+                                                    "goals":  "Learn and apply methods of textual and rhetorical analysis to identify both linguistic and multimodal patterns in professional and technical communication genres describe the impact of patterns on readers.Understand genres as recurring rhetorical situations and audience experiences, shaped by discourse communities and historicalcultural contexts which may or may not privilege particular experiences.Develop and apply an understanding of how a documents organization, labels, formatting, and overall visualverbal design strategies contribute to its effectiveness by reducing noise for readers.Develop and apply visualverbal communication design strategies for making complex information and arguments accessible to nonexpert audiences in both oral and written communication contexts.Develop a polished and professional prose style that varies appropriately according to audience, purpose, and context.Draw on and apply user experience design UX Design research on how people read and use documents to promote access and include diverse audiences.Use best practices for planning and writing collaboratively with others.Practice being a more reflective communicator, aware of and able to articulate your own unconscious biases within the communication design process and able to explain your own composing decisions.",
+                                                    "key_topics":  "Writing and designing for real readers, stakeholders, and decision makers. Written, oral, and team communication. Analyzing professional genres for audience and purpose. Writing clearly and concisely. Communicating complex and technical information for non-expert audiences.\n\nThe 4 major course projects engage these key topics by challenging the students to design, draft, revise, and ultimately produce polished versions of the following professional documents:\nJob Application Packet (resume and a professional cover letter -or- LinkedIn profile)\nFormal Change Proposal (proposal for a campus initiative)\nTech Talk (oral presentation with visuals)\nInstructional Guide (collaborative procedural document)",
+                                                    "prerequisite_knowledge":  "No additional writing and communication coursework beyond First Year Writing is required.",
+                                                    "assessment_structure":  "Course projects include written, oral, and team-based professional communication assignments. The course also includes regular homeworks that scaffold students towards completion of major projects, and an expectation of regular attendance and participation.",
+                                                    "relevance":  "DC GenEd: Disciplinary Perspectives: Design\n\nThe course is designed for all majors other than English to gain rhetorical tools and improve their design choices for professional writing and communication required in workplace contexts across professions.",
+                                                    "learning_resources":  "Canvas, OLI (Introduction to Visual Communication modules; DocuScope Classroom), all of which are available for free.",
+                                                    "extra_time_commitment":  "Students may be asked to meet outside of class to engage in project peer reviews and/or one-on-one meetings with the instructor as part of project scaffolding and revision."
+                                            }
+}

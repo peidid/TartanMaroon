@@ -1,0 +1,37 @@
+{
+        "code":  "98-504",
+        "name":  "Student Taught Courses (StuCo): Introduction to Tennis Analytics",
+        "short_name":  "STUCO: INT TEN ANLYT",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course introduces students to fundamental topics in analysis of tennis at a competitive level and prepares students with simple statistical techniques for studying the game. We will begin the course by discussing how analytical data is collected in the modern game. Next, we transition to discussing how an individual match is measured, including service statistics, return statistics, net statistics, performance by rally length, and WUFE ratio. In the second half of this course, we extend these analytical techniques to study player performance over multiple matches and consider larger trends such as surface, tournament level, performance against top 51015, and other more general topics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will gain a deep understanding of statistical techniques in tennis and data collection methods. Students will learn to recognize commonly used tennis statistics and implement their own methods to predict or interpret the outcome of a match.",
+                                                    "key_topics":  "1st In, 1st%, 2nd%, Ace%, Serve Influence, T-Serve, Wide Serve, Body Serve, Rally Length, Fcd Error%, UFE%, Serve-and-Volley, Net Rally Length, Break Point Saved, Return Points Won, Crosscourt, Down middle, Down the line, Inside Out, Inside In",
+                                                    "prerequisite_knowledge":  "Basic knowledge of tennis and probability is ideal, but not necessary for the course.",
+                                                    "assessment_structure":  "There will be two projects in this course: a midterm data collection project and a final data analysis project and presentation.",
+                                                    "relevance":  "Fans of tennis, or sports analytics at large, will have an opportunity to grow their knowledge and skillset with methods to effectively analyze a tennis match or player\u0027s career.",
+                                                    "learning_resources":  "The recommended resource for this class is Jeff Sackmann\u0027s tennis database Tennis Abstract. Class slides, online articles, and some sample code will also be provided.",
+                                                    "extra_time_commitment":  "The two course projects are expected to be completed outside of lecture."
+                                            }
+}

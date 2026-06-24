@@ -1,0 +1,37 @@
+{
+        "code":  "76-369",
+        "name":  "Advanced Film Production",
+        "short_name":  "ADV FILM PRODUCTION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-292 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course reiterates and expands upon basic narrative filmmaking principles.  Students will further cement practical and cretive processes. From the screenplay to completed short films students will master foundations and techniques in small filmmaking.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "instructor did not provide",
+                                                    "key_topics":  "filmmaking",
+                                                    "prerequisite_knowledge":  "Production Class, Text to Screen, or Instructor permission",
+                                                    "assessment_structure":  "(instructor did not provide)",
+                                                    "relevance":  "(instructor did not provide)",
+                                                    "learning_resources":  "(instructor did not provide)",
+                                                    "extra_time_commitment":  "(instructor did not provide)"
+                                            }
+}

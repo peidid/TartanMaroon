@@ -1,0 +1,37 @@
+{
+        "code":  "15-498",
+        "name":  "Computational Forensics and Investigative Intelligence",
+        "short_name":  "CMP FRSCS INVTGV INT",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(21-241 [] at least C) and (15-122 [] at least C) and (36-217 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course covers the use of computational methods in crime investigation forensics and prevention intelligence. In almost all areas of forensics and intelligence, computational methods continue to aid, and sometimes entirely replace, human expertise in tracking crime. This is desirable since automation can address the problems associated with scale and global crime linkage through diverse data computational tools can potentially overcome and surpass human capabilities for crime investigation. This course is of a crossdisciplinary nature. It amalgamates knowledge from criminology, forensic sciences, computer science, statistics, signal processing, machine learning, AI, psychology, medicine and many other fields.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

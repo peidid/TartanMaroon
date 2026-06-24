@@ -1,0 +1,37 @@
+{
+        "code":  "73-366",
+        "name":  "Designing the Digital Economy",
+        "short_name":  "DSNG THE DIGITAL ECO",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-254 [] at least D) or (21-268 [] at least D) or (21-259 [] at least D) or (21-256 [] at least D) or (21-269 [] at least D)) and (73-230 [] at least D) and ((36-208 [] at least D) or (73-265 [] at least D) or (73-374 [] at least C) or (70-208 [] at least D) or (36-226 [] at least D) or (36-220 [] at least D) or (73-274 [] at least D) or (73-407 [] at least D) or (36-202 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This class analyzes the economics of ecommerce and technology. It will identify the critical features that differentiate the technology firms from traditional industries, and examine the implications for business strategy. The class will discuss topics such as network effects, switching costs, and platform markets. To complement the economic theory, we will also consider a case study of a firm each week. These have three aims to provide applications for the concepts developed in the lectures to inform you about different industries and to help develop your written, rhetorical and presentation skills.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

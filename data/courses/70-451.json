@@ -1,0 +1,37 @@
+{
+        "code":  "70-451",
+        "name":  "Management Information Systems",
+        "short_name":  "MANGEMNT INFRMT SYST",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-112 [] at least D) or (15-110 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of this class is to learn organizing, analyzing, querying, interpreting and drawing conclusions from structured data, and modeling business scenarios in relational databases. Thus, the notion of Data Management here includes both data analysis and synthesizing conclusions into factbased, datadriven recommendations.  CONTENT 1. advanced Excel functions e.g., Pivot tables, lookup functions, connecting Excel to relational databases 2. synthesis i.e. the ability to create datadriven charts and topdown recommendations 3. the use of SQL to create and query relational databases 4. data modeling and relational design, i.e. the abstraction and representation of business situations as Entity Relationship ER diagrams and the transformation of those into normalized database schemas.  CLASSROOM EXPECTATIONS 1 Coldcalling I follow an active learning approach requiring high introspection reflection learning via readings preparations before classes, and high interaction during class where students share their insights. This flipped classroom requires that you learn the material I post before coming to class. In class, I like to focus on applying skills as much as possible. It also implies that I will cold call students as integral part of our classroom experience. If you hate cold calling and presenting your homework solutions in front of class, this class is not for you. 2 Final exam This class has proctored midterm and final exams that are comprehensive and by design difficult. But class grades are softcurved, i.e. overall class participation and class performance across years determines cutoff percentages. One of the homeworks for this class is solving the final exam from a prior year. If you hate challenging exams that require you to combine all aspects learned in class, this class is not for you. 3 The class cannot be audited nor taken passfail.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tepper.cmu.edu/prospective-students/course-page/70451/management-information-systems",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "70-371",
+        "name":  "Operations Management",
+        "short_name":  "OPERATIONS MGMT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-220 [] at least D) or (36-247 [] at least D) or (36-225 [] at least D) or (36-218 [] at least D) or (36-200 [] at least D) or (36-201 [] at least D) or (70-207 [] at least D) or (36-207 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to production and operations management that covers both manufacturing and services. It deals with strategic issues design of flexible supply, planning issues capacity management, and operational issues inventory management and information. The linkage between strategy and tactics will be emphasized. The students will learn concepts and tools that will help them to manage from the boardroom to the toolroom. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course aims to provide you with a conceptual framework and a set of analytical tools to enable you to better understand why processes behave as they do.",
+                                                    "key_topics":  "Process Analysis, Wait Line Management, Inventory Management, Supply Chain Coordination, Project Management, Strategic Operations, Resource Planning.",
+                                                    "prerequisite_knowledge":  "Basic Statistics, Probability Distributions, Computation using Microsoft Excel",
+                                                    "assessment_structure":  "4 Individual Assignments and Cases, 2 Group Case Write-ups, Class Participation, Quizzes, 2 Midterm Exams, Final Exam.",
+                                                    "relevance":  "The course will explain how managers can improve their operations based on data and fundamental business models of process flows, inventory and revenue management.",
+                                                    "learning_resources":  "Lecture Slides, Problem Sets, Cases. Reading material on the Course Canvas Site. Required Text: Matching Supply with Demand : An Introduction to Operations Managment..... by Cachon and Terwiesch 4 Edn.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-150",
+        "name":  "Student Taught Course: Great Ideas in the Arts",
+        "short_name":  "STUCO: GRT IDEA ARTS",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  "(51-122 [] at least C) or (48-135 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Course objective will focus on tackling different topics in the Arts. Every week, there will be a different topic covered along with a different fun assignment. This will be a workshop style course that will hopefully open up eyes to creativity and shift perspectives in how one sees the world and observes it. Some key topics include  analysis of media and attention to detail in comics, games, movies etc  tackling feeling uninspired  What makes everyday objects so great for art, turning the ordinary into the extraordinary  creating your own fantasy world  face composition  human body form  flow  expressing emotions visually through a piece of art  As Bob Ross once said, We dont make mistakes, just happy little accidents.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "82-305",
+        "name":  "French in its Social Contexts",
+        "short_name":  "FRENCH SOC CONTEXTS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(82-304 [] at least D) and (82-303 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to introduce students to how the French is used by its speakers to create meaning in a wide variety of contexts, which in terms are influenced by various variables e.g., the political and historical circumstances within which French has developed and continues to change, social and geographic variables. To explore these issues, we will create interactive multimedia experiences aimed at being deployed on an interactive video wall andor in augmented reality settings. If you have experience in French as well as design, film and photography, or computerscience, this is a course for you  Prerequisites 82303 and 82304 or permission of the instructor,",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

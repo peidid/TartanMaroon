@@ -1,0 +1,37 @@
+{
+        "code":  "70-342",
+        "name":  "Managing Across Cultures",
+        "short_name":  "MANAGE ACRSS CLTURES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed for students who expect to do business in other countries or work with people from other cultures. It provides an intellectual framework for understanding other cultures and eventually ones own, as well as detailed studies of particular countries. It discusses how culture defines organizations, contracts, personal relationships, attitudes toward authority, time and space, ethics, wealth, and subcultures, and how these affect business. Student teams study a culture of their choice and make presentations, based on interviews and literature research. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goals of this course are to help students become more aware of differences in work cultures and economic cultures around the world. This is a more applied course in that learn not just differences across cultures, but how to manage across different international cultures within the organization and as a means to develop the business.",
+                                                    "key_topics":  "how to work in different locations around the world, work cultures by country, how to manage across international boundaries, how to manage people that are currently in different locations, how to develop a business that expands internationally.",
+                                                    "prerequisite_knowledge":  "It would be helpful if students had experience abroad, had taken Organizational Behavior, and/or had taken a course on Organizational/Corporate Strategy. Any economic courses on international economics and developing economies would be helped as well.",
+                                                    "assessment_structure":  "There are two group-based projects. The first focuses on the differences in work culture and how to manage people in these different work cultures. The second is focused on how one would develop their business across international boundaries. Throughout the course students also are evaluated on the amount and quality of participation in class discussion. Finally all students are evaluated on their preparation for class through a series of pre-class surveys about each case and memos on up to 4 of the cases presented.",
+                                                    "relevance":  "This course is related to business courses on organizational behavior and strategy and anything on general management.",
+                                                    "learning_resources":  "We use Canvas. The course material is all posted via canvas including cases and readings. This course incurs copyrighted material fees assessed to all students after the add deadline.",
+                                                    "extra_time_commitment":  "The only time commitments outside of class are class preparation, project presentations and write ups, and memo write ups."
+                                            }
+}

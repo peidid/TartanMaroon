@@ -1,0 +1,37 @@
+{
+        "code":  "76-729",
+        "name":  "Performing Race in Early Modern Drama",
+        "short_name":  "EARLY MODERN DRAMA",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The earliest known use of the term white in reference to Europeans occurs in The Triumphs of Truth, a 1613 play by Shakespeares contemporary, Thomas Middleton. In addition to suggesting an important connection between race and drama in 17thcentury England, this simple historical note raises a range of questions that have a direct bearing on some of the most pressing issues of the 21st century Where do ideas about race come from By what processes do the distinctions of racial concepts emerge, evolve, calcify, and mutate How does the conceptualization of race relate to media How do racial representations bolster and conduct political power In this course, we will broach these questions by taking a close look at the racemaking function of drama in early modernity, a period when race was an inchoate, incipient concept, caught up with the emergence of colonialism, capitalism, and increasing interconnection between peoples, cultures, and worlds. As we think, read, and converse together, we will endeavor to come to terms with the problems and paradoxes of racial representation in the early modern theater, a forum that offered access to innovative, daring thinking about human equality and ethical responsibility, but was also a site for the perpetuation of hateful stereotypes and exploitative theories of white supremacy. In a wideranging survey of drama, historical documents, and contemporary criticism, we will work toward an understanding of how racebased concepts operated in the theater, and how the drama early of modernity continues to influence thinking about race in our own time. This course meets the Dietrich College Reflecting Gen Ed requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To consider the drama and cultural legacy of early modernity through the lens of critical race theory.\nTo engage questions of meaning and interpretation that typically attend to performancebased artworks.\nTo hone key skills pertaining to humanities scholarship research, critical writing, appraisal, argumentation, discussion, presentation.",
+                                                    "key_topics":  "race, early modern, literature, drama, theory, performance, theater",
+                                                    "prerequisite_knowledge":  "Basic familiarity with university-level literary studies at this level.",
+                                                    "assessment_structure":  "essays, presentations, short, informal written assignments online",
+                                                    "relevance":  "The course emphasizes the study of history, society, and culture from local and global perspectives and investigates contemporary societies alongside societies of the past, canvassing a rich array of cultural products, artifacts, and ideas.",
+                                                    "learning_resources":  "course website, digital resources through the CMU library",
+                                                    "extra_time_commitment":  "students will have to budget time for reading and writing assignments"
+                                            }
+}

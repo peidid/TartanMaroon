@@ -1,0 +1,37 @@
+{
+        "code":  "76-447",
+        "name":  "Public Humanities Workshop",
+        "short_name":  "PUB HUMANITIES WKSHP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "NOTE This is not a creative writing workshop. This course is not available to firstyear and sophomore students. In this course students will be introduced to the history and theory behind the public humanities, as well as discussing the current state of public writing for scholars. The class will be centered on introducing practical methods and strategies for translating academic research into writing intended for a wide readership. Individual units will focus on pitching and collaborating with editors, writing quickly about current events as they intersect with your research interests, transforming academic research into longform narrative journalism, and preparing trade book proposals.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "A deeper knowledge of the definition and contours of the public humanities, but especially a practical sense of the process of pitching, writing, and editing for the public.",
+                                                    "key_topics":  "This course will cover the production of writing about academic subjects for a nonspecialist audience.",
+                                                    "prerequisite_knowledge":  "Students will ideally have a general knowledge of their respective discipline in the humanities but don\u0027t need to have any experience with writing for a general audience.",
+                                                    "assessment_structure":  "Students will be evaluated through four major assignments each geared towards an aspect of public writing, as well as class participation and in-class responses. The capstone project of the course will be a nonfiction trade book proposal.",
+                                                    "relevance":  "This course will be helpful for graduate and advanced undergraduates looking to gain experience in writing intellectual journalism and public humanities work.",
+                                                    "learning_resources":  "In addition to supplied assigned readings there will be a handful of assigned books.",
+                                                    "extra_time_commitment":  "Yes, there is required writing work outside of class time."
+                                            }
+}

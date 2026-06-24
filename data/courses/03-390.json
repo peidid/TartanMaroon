@@ -1,0 +1,37 @@
+{
+        "code":  "03-390",
+        "name":  "Molecular and Cellular Immunology",
+        "short_name":  "MOLECULAR CELL IMMUN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((03-231 [] at least D) or (03-232 [] at least D)) and ((03-240 [] at least D) or (03-320 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is a course that covers the fundamentals of cellular and molecular immunology in a comprehensive manner. The objective of this course is to introduce the students to the immune system, the cells that constitute it, their ontogeny, their structure, activities and responses to stimuli and the systemssignals that integrate these cells into a coherent functional entity. Additionally, the course will demonstrate where, when, and how, the immune system responds in pathologic states, how its cells can themselves become the causes of pathologies, and how medical science targets and uses the immune system to prevent and treat a wide range of diseases.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The objective of this course is to introduce the students to the immune system, the cells that constitute it, their ontogeny, their structure, activities and responses to stimuli and the systemssignals that integrate these cells into a coherent functional entity. Additionally, the course will demonstrate where, when, and how, the immune system responds in pathologic states, how its cells can themselves become the causes of pathologies, and how medical science targets and uses the immune system to prevent and treat a wide range of diseases.",
+                                                    "key_topics":  "1.\tFundamentals of immunity and the immune system.\n2.\tThe innate immune system; ontogeny, cells, molecules, signaling.\n3.\tThe adaptive immune system; ontogeny, cells, molecules, signaling.\n4.\tHow the immune system becomes activated.\n5.\tInteractions between the innate and adaptive arms to coordinate a response.\n6.\tImmunopathology; diseases of the immune system.\n7.\tApplied Immunology: harnessing the immune system to treat disease.",
+                                                    "prerequisite_knowledge":  "Students are STRONGLY ENCOURAGED to have completed Biochemistry I (03-231 or 03-232) and Cell Biology (03-240) prior to taking this course, or any other similar courses. Or by the course director\u0027s permission.",
+                                                    "assessment_structure":  "1.\tTwo formal in-class examinations consisting of short answer-type questions will be used to formally assess the understanding of the course lectures and lecture material\n2.\tPeriodic quizzes consisting of four short answer-type questions that can only be addressed if the assigned textbook chapters were consulted. The students, therefore, are responsible for reading the assigned textbook chapters.\n3.\t\"Immunology Challenge\": The students will select two \"challenge\" topics from a list of such topics provided at the start of the course to prepare and present a structured essay.",
+                                                    "relevance":  "The immune system plays a role in the maintenance of internal physiologic integrity, in maintaining tissue homeostasis, preventing and comabatting infection and malignancy, and in participating together with the central and peripheral nervous system and the endocrine system to ensure a harmonic synergy in the maintenance of health.",
+                                                    "learning_resources":  "1. In-class lecture with Powerpoint presentation.\n2. Powerpoint presentations will be available in the form of lecture notes available electronically (CANVAS).\n3. Required textbook: Kuby Immunology (8th Edition), Owen, Punt, and Stranford,\nISBN-13: 978-1-4641-8978-4 (Should be available at the Bookstore, but can also purchase at online vendors).\n4. Q\u0026A/review sessions at CMU (scheduled during semester and/or by appointment as necessary).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

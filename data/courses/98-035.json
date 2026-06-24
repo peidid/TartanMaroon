@@ -1,0 +1,37 @@
+{
+        "code":  "98-035",
+        "name":  "Student Taught Courses (StuCo): Crosswords and Word Puzzles",
+        "short_name":  "STUCO: CROSSWORDS",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Do you like crosswords Learn to solve and construct all types and sizes of crosswords in this class It will include an introduction and deep dive into how to solve and construct crosswords starting from minis and up to themed and themeless standardsized grids, as well as some variety word puzzles.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be more comfortable with solving any type of crossword, and will know how to construct any size of crossword, either with or without a theme.",
+                                                    "key_topics":  "Solving and constructing crosswords of any size and solving other styles of variety word puzzles",
+                                                    "prerequisite_knowledge":  "None, but some experience with crosswords will be helpful",
+                                                    "assessment_structure":  "Worksheets as weekly homework assignments, and these will include a combination of puzzles to solve and input to provide for crosswords we construct as a class. These will be graded for completion. For midterm and final, students must individually construct a crossword (with grid and clues) of a size at least 5x5, and other students will have a chance to solve these in class.",
+                                                    "relevance":  "Many students at CMU love puzzles. We get plenty of participation from students in semesterly puzzle hunts, and everyone loves a crossword! Crosswords are also a great way to use your brain.",
+                                                    "learning_resources":  "Canvas page for this course will provide links to all sorts of online resources for crossword solving and construction. Also post each day\u0027s slides and handout in case students lose theirs or are absent.",
+                                                    "extra_time_commitment":  "Students should spend at most 1 hour per week completing that week\u0027s assignment"
+                                            }
+}

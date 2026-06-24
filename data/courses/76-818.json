@@ -1,0 +1,37 @@
+{
+        "code":  "76-818",
+        "name":  "Rhetoric and the Body",
+        "short_name":  "RHETORIC AND BODY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course offers an introduction to rhetorical studies of the body and is centered on the following three questions What is the role of the body in rhetorical theory What role does rhetoric play in constructing the body as a raced, gendered, disabled, cultural, fleshy, and political entity And, how might moving, feeling bodies challenge, regulate, or disrupt these rhetorical constructions and furthermore, our theories of rhetoric Our readings will explore the role of embodiment in rhetorical theory, examining a number of contemporary and historical theories of the body. In the process, we will explore how to put rhetoric and the body into conversation with one another and what methodological implications this conversation has for rhetorical studies more broadly. The goal of this course is to provide breadth rather than depth, with the assumption that most students, even those relatively familiar with body andor rhetorical theory, will approach rhetorical studies of the body as novices. Students will conduct their own research on a topic related to rhetorical studies of the body that also aligns with their professional and academic goals. Graduate students interested in research will benefit from this courses focus on theory and the professional genres central to rhetorical studies. Undergraduates students both majors and nonmajors will have the opportunity to examine how the body intersects with communication and writing contexts in their everyday public and professional lives. Please note Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  "Students will conduct their own research on a topic related to rhetorics of the body that also aligns with their professional and academic goals.",
+                                                    "key_topics":  "rhetoric, body theory, theory and criticism, embodiment",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Shorter assignments, one longer assignment, and formal and informal brief presentations",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "We will use Canvas for most of our materials but there will be some texts required for the course. Students may rent or purchase these.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

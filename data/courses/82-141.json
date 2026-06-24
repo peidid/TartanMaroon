@@ -1,0 +1,37 @@
+{
+        "code":  "82-141",
+        "name":  "Elementary Spanish I",
+        "short_name":  "ELEMENTARY SPANISH I",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Elementary Spanish I is for beginning students, emphasizing the development of communicative language and cultural competence. Students will work towards improving their writing, reading, listening and speaking abilities in Spanish, such that they become comfortable working with a variety of topics from Spanishspeaking cultural areas. Students will develop basic interactional and routine public communication patterns, frequently working in groups and pairs, and utilizing technologies that enhance learning opportunities and promote skill development. This course also provides extracurricular opportunities to interact with members of the Spanishspeaking community. Four hours of inclass instruction per week are required. A student with prior experience in Spanish must take the placement exam.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To communicate, learn moderate control of grammar, vocabulary, and pronunciation to understand the importance of cultural information in language and pragmatics. They do so primarily through the use of isolated words, phrases, and sentences that have been encountered, memorized, and recalled. They will also be able to build their knowledge of Spanish language and culture.",
+                                                    "key_topics":  "Development of communicative language and cultural competence. Students will work towards improving their writing, reading, listening and speaking abilities in Spanish.",
+                                                    "prerequisite_knowledge":  "No prerequisite although taking the placement test is required for anyone with prior knowledge of the language.",
+                                                    "assessment_structure":  "Class participation, homework, quizzes, unit/chapter exams, presentations, oral exams/meetings; meetings with a speaking or writing peer assistant. Final exams are course dependent.",
+                                                    "relevance":  "This elementary level course introduces and extends students\u0027 abilities to communicate in the target language. Students can achieve up to Intermediate Low (ACTFL) or the A2 level (CEFR: European framework).",
+                                                    "learning_resources":  "Depending on the course, textbooks, online resources, materials provided by instructors. For the online courses, all course material is provided through the Open Learning Initiative (oli.cmu.edu).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

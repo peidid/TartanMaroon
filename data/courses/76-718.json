@@ -1,0 +1,37 @@
+{
+        "code":  "76-718",
+        "name":  "Communicating in the Global Marketplace",
+        "short_name":  "COMM GLOBAL MARKTPLC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Effective intercultural and global communication has become increasingly salient in todays hyperconnected world, simultaneously presenting us with challenges and rewards. A vivid thread that unspools once one begins to unravel the embroidery of intercultural and global communication in contemporaneous times is computermediated communication CMC and social media. With more than half of the worlds population connected to the Internet, we are more connected than ever. But, despite how seamless the Internet may have made communication, the fact that language is rooted in culture complicates CMC, even if the language is English.   The omnipresence of English leads people to assume that a common language implies a shared understanding of a given topic. But, speaking the same language does not mean we share the same cultural values, or that we even understand or are aware of other cultural values and beliefs. English may be the lingua franca in many organizations and professional settings, but the commingling of globalization and CMC raises some questions including How can professional communicators contribute to shaping a workplace discourse that transcends national or regional borders to reach a global audience   This course will address these questions by explaining the specific ways in which our backgrounds from personal to social and even national influence professional and technical communication the impact of globalization on the workplace, especially in times of crisis and the ways in which we can rely on general concepts and principles in order to communicate effectively in specific international settings and situations.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will develop a nuanced and realistic understanding of globalization as it affects professional communicators Students will learn how to trace the source of cultural differences beyond lists of dos and donts Students will acquire a solid understanding of several different characteristics of communication across cultures Students will understand the connection between professional communication and culture more broadly defined, as history, politics, and economic factors Students will master a set of heuristics designed to allow you to apply general principles to specific new situations in global communication",
+                                                    "key_topics":  "globalization\n\nprofessional communication\n\ntechnical communication\n\ncross-cultural communication\n\ncultural differences\n\nrhetoric",
+                                                    "prerequisite_knowledge":  "familiarity with case studies\n\ncross-cultural experience--helpful but not required\n\nawareness of global shifts in the workplace--helpful but not required\n\nability to interact with rhetorical concepts, such as audience, context, purpose",
+                                                    "assessment_structure":  "Classification exercise and reflection paper\n\nRevision paper\n\nCase study analysis\n\nCase study solution",
+                                                    "relevance":  "This course prepares students to interact in professional environments where they are expected to engage with individuals across cultures and different communication values. It will provide students with concepts and principles that will help them communicate effectively in specific international environments and settings.",
+                                                    "learning_resources":  "articles and excerpts from books about cross-cultural communication and rhetorical principles\n\ncase studies\n\ncurrent news publications",
+                                                    "extra_time_commitment":  null
+                                            }
+}

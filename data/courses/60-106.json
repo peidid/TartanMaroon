@@ -1,0 +1,37 @@
+{
+        "code":  "60-106",
+        "name":  "Cultural History of the Visual Arts - the Modern Period",
+        "short_name":  "ART HISTORY - MODERN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Have you ever felt that you liked an artwork but couldnt explain why Do you have questions about art that you were always afraid to ask This course is conceived to give students the tools to feel at home when visiting a museum and to talk about art in social, business and academic settings. It is organized over two semesters, but students can take only one of the two courses, or both, in any order they prefer. Cultural History of the Visual Arts The Modern Period offered in the spring covers the period from the 1800s to the 2000s and features masterpieces and lesserknown works that define our idea of what art is and what role it has in society. Some of the topics we will study include the invention of a modern ways of seeing in Japanese art the impact of science, film and photography on the Impressionists the myth of the artist as a savage, a fool, and a prophet the creation of ideal homes for common and uncommon people the meaning of the avantgarde and the many ways in which artists and politicians experiment with art and architecture in order to control our minds and emotions. The course also includes museum visits that will be organized in relation to the students schedules. No prerequisite required and open to students from all disciplines.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "to become acquainted with the history of art and art theory from 1800s to 2000s.\nto be able to identify and critically evaluate works of art from different artistic movements and historical periods.\nto develop the ability to read and discuss key critical texts pertaining to art history, aesthetics and visual studies.\nto identify the changing social, political and theoretical context of artmaking across decades and geographic areas.",
+                                                    "key_topics":  "Development of modern art and artistic critical theory from 1800s to 2000s.",
+                                                    "prerequisite_knowledge":  "General knowledge of world history (1850-1960); General knowledge of the development of Western Art (1400-1900)",
+                                                    "assessment_structure":  "in-term exams; presentations; research essay",
+                                                    "relevance":  "The course will offer students a systematic background in the historical and theoretical development of modern art, which constitutes a fundamental part of the artistic culture of today.",
+                                                    "learning_resources":  "Course\u0027s CMU Box; Course Reader",
+                                                    "extra_time_commitment":  "Additional visits to museums and exhibitions might be scheduled once or twice during the semester."
+                                            }
+}

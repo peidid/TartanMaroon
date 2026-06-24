@@ -1,0 +1,42 @@
+{
+        "code":  "70-321",
+        "name":  "Negotiation and Conflict Resolution",
+        "short_name":  "NEGOTIATN CNFLCT RES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-102 [] at least D) or (76-101 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "80-242",
+                                                    "id":  791,
+                                                    "name":  "Conflict and Dispute Resolution",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will complement the technical and diagnostic skills you have learned in other courses. A basic premise of the course is that, while you will need analytical skills to discover optimal solutions to problems, you will also need a broad array of negotiation skills to implement these solutions and make sure that they are truly effective. Your longterm effectiveness  both in your professional and personal life  is likely to depend on your negotiating abilities. This course will give you the opportunity to develop these skills experientially and to understand the analytical frameworks that underlie negotiations.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will obtain an understanding of negotiations and conflict resolution, from both a theoretical and practical perspective, and gain experience and skills to be a more effective negotiator and collaborative problemsolver. This course depends highly on involvement in group activities that are central to the content and learning outcomes. Students are strongly encouraged to commit to the entire semester by attending and participating in all class sessions. It is recommended that students earn letter grades in this course.",
+                                                    "key_topics":  "This course will cover negotiation, conflict management, and collaborative problem solving.",
+                                                    "prerequisite_knowledge":  "Introductory knowledge of organizational behavior is recommended. Most appropriate for juniors and seniors.",
+                                                    "assessment_structure":  "attendance \u0026 participation; individual assignments; exams; final project",
+                                                    "relevance":  "University students will understand how to effectively negotiate and resolve conflicts, and learn skills for working effectively in groups.",
+                                                    "learning_resources":  "Students will be required to read articles and book chapters about negotiation strategies and tactics. Students will also be required to prepare for negotiation role-play exercises, and negotiate with classmates on a weekly basis.",
+                                                    "extra_time_commitment":  "No extra time requirements beyond completing the course assignments, which involve preparation and negotiations outside class."
+                                            }
+}

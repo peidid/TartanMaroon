@@ -1,0 +1,37 @@
+{
+        "code":  "76-798",
+        "name":  "Research in English",
+        "short_name":  "RESEARCH IN ENGLISH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores methods of researching, writing, and presenting original scholarly work in the broad interdisciplinary field of English Studies. The course allows both undergraduate and graduate students to pursue a research project on a topic of their choosing within the field of English studies to work on in the context of readings and discussions geared toward understanding the production of scholarly work in the field. We will work to understand not only traditional methods in the field such as textual analysis, but also more recent developments borrowed from other disciplines such as history and sociology, anthropology, and visual studies, among others. The course explores methods for developing topics, constructing research plans, locating, gathering, and using data and sources, along with basic principles of organizing, writing, revising, and presenting a research paper in a public presentation. Across the semester, students develop and work on an original scholarly research project culminating in a public presentation open to other students and faculty from the university.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "09-231",
+        "name":  "Mathematical Methods for Chemists",
+        "short_name":  "MATHMTCL METHD CHEM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((09-106 [] at least D) or (09-107 [] at least A)) and ((21-124 [] at least D) or (21-122 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course uses mathematical approaches to develop models for chemical systems and materials from the bottom up, i.e. from atoms and molecules to substances. This course focuses on statistical mechanics and does not cover quantum mechanics basics. Math will be covered in the context of chemical phenomena, and combine topics from probability theory and statistics, 3dimensional calculus, differential equations, and linear algebra. 3 hrs. lec.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Introduce students to how mathematical methods are applied to develop fundamentals of chemistry theory and familiarize for approaches of statistical mechanics it also introduces students to using Mathematica and Gaussian software to solve problems in physical chemistry.",
+                                                    "key_topics":  "mathematical approaches to build bottom-up models of chemical systems and materials; statistical behavior of large molecular ensembles, such as gases, liquids and solids; probabilistic approaches to predict chemical equilibrium and reactivity",
+                                                    "prerequisite_knowledge":  "college level algebra, beginner linear algebra, college level calculus, beginner differential equations, beginner probability theory and statistics. If you do not have background in probability or statistics, we recommend you take 21-124, Calculus II for Biologists and Chemists, rather than 21-122 as your Calculus II course.",
+                                                    "assessment_structure":  "homework, quizzes, hourly exams, final exam.",
+                                                    "relevance":  "the course covers mathematical bases of physical chemistry methods as applied in multiple branches of chemistry, especially for multi-atom and multi-molecular systems, in statistical mechanics and thermodynamics. This class does not qualify as a chemistry elective for the chemistry minor.",
+                                                    "learning_resources":  "textbook, lecture notes, computational resources, software. There is an optional recitation for the course that can provide added assistance with class material.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

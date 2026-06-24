@@ -1,0 +1,37 @@
+{
+        "code":  "15-453",
+        "name":  "Formal Languages, Automata, and Computability",
+        "short_name":  "FRML LNG ATMT \u0026 CMPB",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(21-228 [] at least C) or (15-251 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "An introduction to the fundamental ideas and models underlying computing finite automata, regular sets, pushdown automata, contextfree grammars, Turing machines, undecidability, and complexity theory.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

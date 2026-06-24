@@ -1,0 +1,37 @@
+{
+        "code":  "82-436",
+        "name":  "Introduction to Classical Chinese",
+        "short_name":  "INTRO CLASSCL CHNESE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(82-332 [] at least D) or (82-338 [] at least D) or (82-337 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Classical Chinese is a language shaped in the latter half of the first millennium B.C . that still persists as a living medium of expression today. Knowledge of Classical Chinese is very important to help students read and understand sophisticated modern Chinese texts, which make frequent use of Classical allusions and constructs. Moreover, the cultural values expressed in the ancient texts have played an important role in shaping Chinese families, culture and society. The main goal of the course is for students to promote their skill in reading Classical Chinese and their knowledge and understanding of ancient Chinese culture, society and history. With this knowledge and training, not only will students be more comfortable reading the Chinese Classics, they will also thereby increase their proficiency in modern Chinese and their knowledge of Chinese culture.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "At the end of this course, students are generally expected to be able to 1 Become comfortable reading and understanding basic Classical Chinese texts and more proficient in sophisticated advanced modern Chinese texts and societal and culture aspects2 Proficiency goals advancedmid to advanced high essay writing 8001000 characters",
+                                                    "key_topics":  "This text includes representative selections from ancient Chinese texts, chosen for their historical value, beauty, and influence on later writers and society. It will introduce students to the grammar of Classical Chinese, commonly used Classical Chinese vocabulary, and several well-known texts with great influence on ancient and modern Chinese society. Following are some of the main/core texts from which the readings are taken: Fables from the ancient texts; Confucius Analects; Mencius; Liji (Book of Rite); Laozi (Taoism).",
+                                                    "prerequisite_knowledge":  "82332, placement test, or permission of instructor",
+                                                    "assessment_structure":  "class discussion \u0026 participation; each student will lead 2 class discussions; 2 presentations, 10 homeworks, 4 unit tests, 2 individual interview tests, 2 written essays, a final project",
+                                                    "relevance":  "Higher level communication skills, in-depth cultural and intercultural understanding, critical thinking and analytical ability, technology enhanced learning.",
+                                                    "learning_resources":  "textbook: Classical Chinese Primer. Other readings, websites and multimedia learning materials are provided by the instructor.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

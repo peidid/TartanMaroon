@@ -1,0 +1,37 @@
+{
+        "code":  "73-274",
+        "name":  "Econometrics I",
+        "short_name":  "ECONOMETRICS I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D) or (21-254 [] at least D)) and (73-265 [] at least D) and ((73-230 [] at least D) or (73-240 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Data tools are important in guiding decisions and strategies for individuals, businesses, and policymakers. This course will prepare you for datadriven decision making, providing both theoretical backgrounds and empirical illustrations of the techniques that are necessary to cope with realworld imperfect data. Specifically, the course covers tools and methods for estimating economic relationships, testing economic theories, and evaluating business and government policy. This course builds on either of the two Statistical Reasoning courses 36200201 and the Economics and Data Science course 73265, and it sets underpinnings for Econometrics II 73275 for more advanced tools and insights for business and economics data analyses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able to Describe the statistical properties of the ordinary least squaresOLS and the instrumental variable IV estimators Appraise the implications of the failure of key assumptions on the data generating process for the OLS and IV estimators Interpret the estimation results, test hypotheses, and understand the difference between correlations and causation Address various practical issues that an empirical researcher typically faces, such as multicollinearity, outliers, proxy variables, and model selection Evaluate various business and government policies using realworld data and a software package R and combining the econometric tools with the economic theory learned in the Principles of Economics courses 73102 and 73103 and the Intermediate Microeconomics course 73230",
+                                                    "key_topics":  "Understanding economic field data and causal inference; simple regression; multiple regression; hypothesis testing; binary variables; difference in differences; consistency of OLS estimators; asymptotic normality of LS estimators.",
+                                                    "prerequisite_knowledge":  "intermediate data analysis and data visualization; multivariate calculus; the statistical programming language R; intermediate microeconomics theory or intermediate macroeconomic theory",
+                                                    "assessment_structure":  "Subject to change: graded assignments (25%), mid-semester exams (40%), final exam (25%), participation (10%)",
+                                                    "relevance":  "This course is for students who are interested in advanced skills in the area of economic field data.This course provides students with hands-on experience in identifying, analyzing, and using economic field data to solve real-world problems in economics and business.",
+                                                    "learning_resources":  "Weekly office hours, lecture slides, lecture notes, Piazza, text/articles, and additional R support resources all made available on the course webpage). Recommended textbooks are available on reserve at Hunt Library.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

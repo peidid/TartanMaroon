@@ -1,0 +1,37 @@
+{
+        "code":  "76-214",
+        "name":  "Understanding Cultural Complexities",
+        "short_name":  "UNDST CLTRL COMPLX",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In todays society that explores Diversity, Equity, and Inclusion, one can ponder if Arab societies have made progress to achieve DEI towards minorities of religions Muslims, Christians, Jews, sects Sunni and Shia, ethnicities Copts, Nubians, Kurds, Palestinians in Israel, homosexuals, and physical disabilities. This course aims to enrich students understanding of the diversity of Arab countries and histories of intercommunal relations and conflict, explore the progress made in equating minorities to majorities, including them in various sectors, and granting them more rights. We will use readings, films, arts, and music, to engage with students in 4 Arab countries to further their learning.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

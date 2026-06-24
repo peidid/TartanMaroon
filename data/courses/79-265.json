@@ -1,0 +1,37 @@
+{
+        "code":  "79-265",
+        "name":  "Russian History: Game of Thrones",
+        "short_name":  "RUS HIS:GAME THRONES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How are states built How are empires forged This course, beginning with the first settlements of tribal nomads in the ninth century and ending with the abolition of serfdom in 1861, surveys the grand game of thrones in Russian history. It explores the building of a Russian Empire from the first princely kingdoms at murderous war with each other to the emergence of a strong state, headed by a tsar and centered in Moscow. Over the centuries, we make the acquaintance of Mongol marauders, greedy princes, and brave peasant rebels, as well as Ivan the Terrible, Peter the Great, and the long succession of reformers and reactionaries who occupied the Russian throne. Students will be challenged to think critically about social injustice and resistance, and the relationship between ethnicity, serfdom, land ownership, and empire. This course meets the Dietrich Gen Ed Contextual Thinking requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will become familiar with the trajectory of Russian developments from the ninth to the early twentieth century.",
+                                                    "key_topics":  "This course examines the main themes and problems of Russian history from the formation of the Russian state to the reign of the last Tsar, Nicholas II. It discusses the processes of social change and resistance.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Grades will be based on three 7-10 page papers, drawing on assigned readings, lectures, and class participation.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Contextual Thinking\n\nStudents will acquire a basic knowledge of Russian social, political, economic, and cultural development, and a foundation for future study and in-depth understanding of these topics. Students will be challenged to think critically about social injustice and resistance.",
+                                                    "learning_resources":  "Weekly readings and lectures.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

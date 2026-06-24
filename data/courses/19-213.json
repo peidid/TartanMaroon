@@ -1,0 +1,37 @@
+{
+        "code":  "19-213",
+        "name":  "The American Railroad: Decline and Renaissance in the Age of Deregulation",
+        "short_name":  "AMERICAN RAILROAD",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Railroads in the USA are often considered as a subject for nostalgia or public sector failure, an image largely based on passenger service. However, the USAs private sector freight rail industry is considered a model for the world as the result of its renaissance following deregulation in 1980. This is a stealth industry whose history and economics are both intertwined and complex.  Students will gain a basic understanding of the industrys history and economics and its role in the national transportation network, with special attention to the past halfcentury. In addition, students will participate in small group research projects in particular areas of special interest  for example, economic history, industry and safety culture, network economics, utility regulation or transportation policy.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will gain a basic understanding of the industrys history and economics and its role in the national transportation network, with special attention to the past halfcentury. In addition, students will participate in small group research projects in particular areas of special interest for example, economic history, industry and safety culture, network economics, utility regulation or transportation policy.",
+                                                    "key_topics":  "This course is an introduction to American Railroad history, economics and policy, with a focus on the industry\u0027s past, present \u0026 future role in the national transportation network.\nRailroads in the USA are often considered as a subject for nostalgia or public sector failure, an image largely based on passenger service. However, the USA\u0027s private sector freight rail industry is considered a model for the world as the result of its renaissance following deregulation in the 1980s. This is a \"stealth\" industry whose history and economics are both intertwined and complex.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required: past students have been a mix ranging from engineers to art. Most important is a personal interest in a relevant subject such as transportation, public policy, or network economics.",
+                                                    "assessment_structure":  "Written Assignments will count 25% toward the final grade. A Final Exam will also count 25%. Periodic Quizzes (which may include short essays) will test a student\u0027s basic understanding of facts and concepts, as well as the instructor\u0027s skill in making them understandable, counting for 10%. Class Participation is important and counts for 20%. The capstone of the course will be group Final Projects in which the class will be divided into teams to debate both sides of a subject: this counts for 20%.",
+                                                    "relevance":  "Students will obtain a basic working knowledge of transportation networks and markets from an operational, economic and regulatory perspective. This should be useful across a range of majors such as history, engineering, business and public policy. policy.",
+                                                    "learning_resources":  "Several books will be required reading, as well as articles to be posted on Canvas.",
+                                                    "extra_time_commitment":  "There are no extra time commitments anticipated, but there will be one expected extra-credit opportunity such as a visit to the Glenwood yard of the Allegheny Valley Railroad to give students a hands-on sense for rail freight operations."
+                                            }
+}

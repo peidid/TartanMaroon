@@ -1,0 +1,14 @@
+AdvisingBot/
+frontend/
+0 Important Docs/
+tests/
+.git/
+.venv/
+.advisor_cache/
+**/__pycache__/
+**/.pytest_cache/
+node_modules/
+*.zip
+**/.DS_Store
+.env
+.env.*

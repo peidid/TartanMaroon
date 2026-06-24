@@ -1,0 +1,37 @@
+{
+        "code":  "76-315",
+        "name":  "19th Century American Literature",
+        "short_name":  "LITERATURE \u0026 ENVNMNT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "These days, its pretty easy to get to Walden Pond. Its right off route 126 South not too far from Concord and there is a nice little farm stand there called the Farm at Walden Woods, where you can get corn and raspberries and freshly baked bread. In this class well go back in time to the Walden Pond of Thoreaus time, with a focus on the Green Nineteenwriters and thinkers who considered the relationship between human civilization and the American wilderness Thoreau, Emerson and Hawthorne. We will think about the interrelationship between the environment and nascent capitalist industries by reading the poetry and prose by young women who worked in the Lowell Mill The Lowell Mill Offerings. We will also think about the environment in relation to two slave narratives Douglass, The Slave Narrative of Frederick Douglass and Harriet A. Jacobs, Incidents in the Life of a Slave Girl. Finally we will consider the environmental consciousness of the two most important poets of the 19th century, Walt Whitman and Emily Dickinson. As for coursework, we will use the class to practice meditation, natures walks, and one group project in which you will design your own environmentally conscious Utopian community.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

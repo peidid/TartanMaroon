@@ -1,0 +1,37 @@
+{
+        "code":  "82-208",
+        "name":  "Creating Knowledge for a Fairer and More Efficient World",
+        "short_name":  "CRTNG KNWLG FAIR EFC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course surveys the societies and culture of modern Eastern Europe, from the Baltic States and Poland to the Balkans and Bulgaria. It will attend to this regions complex and turbulent history and consider the dynamics that shape it from geographical, geopolitical, cultural, and socioeconomic points of view. By reading texts by Milan Kundera, Mihail Sebastian, and Olga Tokarczuk, among others, we will explore topics such as the formation of nation states and nationalism, the violent conflicts of the 20th century, the Holocaust, communist regimes, and postcommunist political formations. Students will come away with a better understanding of the sociocultural circumstances that shape present day Eastern Europe. All readings will be in English, and no prior knowledge of Slavic languages or cultures is required.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

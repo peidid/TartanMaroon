@@ -1,0 +1,37 @@
+{
+        "code":  "79-175",
+        "name":  "Moneyball Nation: Data in American Life",
+        "short_name":  "MONEYBALL NATION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "From conducting clinical trials and evaluating prisoners parole cases to drafting professional ballplayers, we increasingly make decisions using mathematical concepts and models. This course surveys the development ofand resistance tosuch tools by grounding them in the recent cultural history of the United States. Focusing on baseball, medicine, and the law, well explore how and why Americans have come to believe mathematical and computational methods can solve complicated problems, even in seemingly unrelated moral, political, and social domains. The course encourages students to think critically about the wider implications of these transformations by situating their development historically. This course meets the Dietrich Gen Ed LogicMathematical Reasoning requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal is to carefully consider mathematical claims about complex social, political, and moral phenomena. We are not interested in undermining or praising these methods per se and this is not a course in the techniques of data analysis, but encouraging a broader understanding of how they work and what wider implications they might entail. In short, the goal is to approach these nearpervasive methods of data analysis and quantification historically.",
+                                                    "key_topics":  "Focusing on medicine, the law, and baseball we\u0027ll explore how and why Americans have come to believe mathematical and computational methods can solve complicated problems, even in seemingly unrelated moral, political, and social domains. The course encourages students to think critically about the wider implications of these transformations by situating their development historically.",
+                                                    "prerequisite_knowledge":  "High school level mathematics; basic knowledge of American history is useful but not required for success.",
+                                                    "assessment_structure":  "There is consistent weekly reading, mandatory discussion sections each Friday, two midterms and a final exam.",
+                                                    "relevance":  "Dietrich Gen Ed: Disciplinary Perspectives - Logic/Mathematical Reasoning\n\nThis course enables students to understand the spread of mathematical and statistical methods in the contemporary world by learning the history of these methods, and resistance to their spread.",
+                                                    "learning_resources":  "All material will be available on Canvas. No extra reading or research is required.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

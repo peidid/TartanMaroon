@@ -1,0 +1,42 @@
+{
+        "code":  "07-131",
+        "name":  "Great Practical Ideas for Computer Scientists",
+        "short_name":  "GREAT PRAC IDEAS CS",
+        "units":  2.0,
+        "min_units":  2.0,
+        "max_units":  2.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "15-112",
+                                                "id":  5637,
+                                                "name":  "Fundamentals of Programming and Computer Science",
+                                                "units":  12.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "SECTION A IS OPEN TO SCS FIRST YEAR STUDENTS ONLY. Throughout your education as a Computer Scientist at Carnegie Mellon, you will take courses on programming, theoretical ideas, logic, systems, etc. As you progress, you will be expected to pick up the socalled tools of the trade. This course is intended to help you learn what you need to know in a friendly, lowstress, highsupport way. We will discuss UNIX, LaTeX, debugging and many other essential tools. Laptop required. Only undergraduate students will be able to enroll in this course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

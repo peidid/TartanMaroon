@@ -1,0 +1,37 @@
+{
+        "code":  "21-441",
+        "name":  "Number Theory",
+        "short_name":  "NUMBER THEORY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-241 [] at least D) or (21-242 [] at least D)) and (21-373 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Number theory deals with the integers, the most basic structures of mathematics. It is one of the most ancient, beautiful, and wellstudied branches of mathematics, and has recently found surprising new applications in communications and cryptography. Course contents Structure of the integers, greatest common divisors, prime factorization. Modular arithmetic, Fermats Theorem, Chinese Remainder Theorem. Number theoretic functions, e.g. Eulers function, Mobius functions, and identities. Diophantine equations, Pells Equation, continued fractions. Modular polynomial equations, quadratic reciprocity. Three 50 minute lectures",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Discrete mathematics and proofs",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks: https://www.cmu.edu/math/textbooks/index.html",
+                                                    "extra_time_commitment":  null
+                                            }
+}

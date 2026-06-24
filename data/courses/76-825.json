@@ -1,0 +1,37 @@
+{
+        "code":  "76-825",
+        "name":  "Rhetoric, Science, and the Public Sphere",
+        "short_name":  "RHET, SCI, PUB SPHR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Ever since the dawn of the Industrial Revolution in the nineteenth century, there has been a growing presence for science and technology in the lives of everyday citizens. In some cases, these phenomena have sparked the publics imagination and their promise has stirred their confidence in a better future. In other cases, they have kindled fears and generated protests over the risks of new technologies and the threats of novel scientific ideas to prevailing social, cultural, economic, and political orders. This course examines the complex dynamics in the relationships between science, technology, and society by exploring modern public debates in which science, technology, and society play a primary role such as the AIDS crisis, global warming, nuclear power, and the debates over vaccine safety. With the help of analytical theories from sociology, rhetoric, and public policy, we will develop a general framework for thinking about argument and the dynamics of the relationship between science, technology and the public. In addition, we will look to these fields for tools to assess specific instances of public debate and to complicate andor affirm the prevailing theories about their relationship.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To have a deeper To have a deeper appreciation of the challenges faced by scientists and nonexpert audiences when they interface with one another of the challenges faced by scientists and nonexpert audiences when they interface with one another",
+                                                    "key_topics":  "rhetoric, science, public sphere, vaccination debate, AIDS denialism, climate change, scientific expertise",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Participation in in-class and online discussion, analysis assignments, and final research paper",
+                                                    "relevance":  "It helps students understand the complexity in the relationship between science and society",
+                                                    "learning_resources":  "the course Canvas will include readings, reference materials, and links to websites used in the course.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

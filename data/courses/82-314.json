@@ -1,0 +1,37 @@
+{
+        "code":  "82-314",
+        "name":  "Literature of the Arabic-speaking World",
+        "short_name":  "LIT OF ARABIC WLD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This repeatable introductory course explores the Arab world through a thematic  or conceptual focus.   In spring 2018, the theme will be Diversity in The Arab Culture. Coursework will include reading short stories and novels to understand the cultural context that gave rise to specific literary works. Students will also continue to develop their abilities to express their ideas both in speaking and in writing, as well as their listening skills in Modern Standard Arabic. There is no prerequisite for this course but it is expected that your language proficiency in the Arabic language is good. This is a content course in the Arabic language and not an Arabic language course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to read and comprehend modern Arabic literature with ease and deep understanding",
+                                                    "key_topics":  "Modern Arabic literature : Reading stories",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Class participation, homework, quizzes and presentations.\nLearning Resources",
+                                                    "relevance":  "This course is relevant to students who want to understand and be knowledgeable of Modern Arabic Literature",
+                                                    "learning_resources":  "Around 30 short stories and a novel",
+                                                    "extra_time_commitment":  null
+                                            }
+}

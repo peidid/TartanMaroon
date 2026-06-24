@@ -1,0 +1,37 @@
+{
+        "code":  "98-021",
+        "name":  "Student Taught Courses(StuCo): Tracing the Footsteps of Iconic African Leaders",
+        "short_name":  "STUCO:IC AFR LEADERS",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The purpose of this course is to give a general idea of African history to the CMU community. The community will have an opportunity to be exposed to the continents history and culture. In this course, students will learn about African history and its present days. This will be done in chronological order. We will be talking about Precolonial, colonial, Postcolonial Africa, and present day Africa. Each of these areas will be touched but not in depth. Students will get to know the main points of each section in African history and a general chronological idea of how Africa evolved throughout history. Most parts of the class will be recitation and discussion based. We will also have a lot of inclass documentaries and movies to watch. This course does not have any exam but will have a presentation at the end of it. The presentation can be done under any form Music, Video, PowerPoint, etc.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To increase student awareness of the political landscape of countries on the African continent",
+                                                    "key_topics":  "Politics on the African Continent and significant political figures",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Group Presentations and in-class participation",
+                                                    "relevance":  "This course will contribute towards the student\u0027s political and cultural analysis knowledge.",
+                                                    "learning_resources":  "YouTube Videos, Documentaries and select readings prepared by instructors",
+                                                    "extra_time_commitment":  "Group meetings to prepare for presentations"
+                                            }
+}

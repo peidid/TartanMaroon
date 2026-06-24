@@ -1,0 +1,37 @@
+{
+        "code":  "70-424",
+        "name":  "Corporate Financial and Sustainability Reporting",
+        "short_name":  "CORP FINAN REPTNG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-122 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is designed to strengthen your ability to understand and use both financial and sustainability data reported by corporations. For the past five centuries, massive and rich financial data has been generated and intensively used to aid investment decisions in capital markets and business strategies by corporations. More recently, the realm of financial reporting has been significantly augmented along the new dimension of sustainability reporting due to the rapidly growing trend of sustainabilityoriented investing and investors demand for sustainabilityrelated data. The course is aimed at anyone whose career might involve working with financial and sustainability data and should be especially useful for those interested in investing, banking, and consulting careers. Throughout the semester, we will discuss the regulatory and corporate environments that govern the generating process of financial and sustainability data and how understanding such datagenerating process helps with drawing implications from the financial and sustainability data about corporate valuations, business strategies, etc. This course may use thirdparty course material that is not available for individual purchase from the publisher.  If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided. The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tepper.cmu.edu/prospective-students/course-page/70424/corporate-financial-reporting",
+        "custom_fields":  {
+                                                    "goals":  "The objective of this course is to provide students who intend to pursue a career path that involves financial and sustainability data, which includes virtually all business students and many others, with a deeper understanding of the process that generates this data. Extending introductory financial accounting concepts, this course empowers students to gain insights from interpreting the rich data of financial and sustainability reporting, and develop critical, datadriven judgments about valuations, corporate strategies, or any other business decision problems that emerge in their future careers.",
+                                                    "key_topics":  "Articulation of financial statements; financial reporting of revenue, inventory, tangible and intangible assets, contingent liabilities,\nleases, equity and debt financing, etc.; foundational framework of sustainability reporting; existing and ongoing developments in\nregulatory standards for sustainability reporting; use of sustainability information in sustainability ratings and sustainability-oriented investments.",
+                                                    "prerequisite_knowledge":  "Appropriate for students who have taken Introduction to Accounting (70-122) and are interested in a career in investing, banking,\nconsulting or related business fields.",
+                                                    "assessment_structure":  "Two midterm exams, case/homework assignments, and a group project/presentation.",
+                                                    "relevance":  "Students will gain a better understanding of financial and sustainability reporting, which will provide them with an edge in\ninterviews and, in their future careers, help them take advantage of the rich financial and sustainability data presented to them by\nvarious sources, including corporations, media, analysts, and external rating agencies. The material in this course is essential for most post-business-school employment opportunities, including, for instance, careers in investing, banking, consulting, etc.",
+                                                    "learning_resources":  "Textbooks. Course packet includes relevant case studies.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

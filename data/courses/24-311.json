@@ -1,0 +1,37 @@
+{
+        "code":  "24-311",
+        "name":  "Numerical Methods",
+        "short_name":  "NUMERICAL METHODS",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "(21-254 [] at least D) and (21-260 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Use of numerical methods for solving engineering problems with the aid of a digital computer. The course will contain numerical methods such as roots of equations, linear algebraic equations, optimization, curve fitting, integration, and differential equation solving.  MATLAB will be used as the programming language.  Programming cluster laboratory times will be available twice a week.  Problems will be drawn from all fields of interest to mechanical engineers. 3 hrs. lecture plus lab",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/me/undergraduate/index.html",
+        "custom_fields":  {
+                                                    "goals":  "Students will obtain the fundamental knowledge of numerical methods and the capability of using them to solve engineering problems.",
+                                                    "key_topics":  "Use of numerical methods for solving engineering problems with the aid of a digital computer.",
+                                                    "prerequisite_knowledge":  "Junior students",
+                                                    "assessment_structure":  "There will be ten homeworks and four quizzes",
+                                                    "relevance":  "Required core course for junior students in MechE. Students will learn how to use numerical methods to solve engineering problems.",
+                                                    "learning_resources":  "Students will be required to attend all the lectures, using Matlab to finish all the programming assignments.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

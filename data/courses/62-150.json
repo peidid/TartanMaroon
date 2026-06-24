@@ -1,0 +1,37 @@
+{
+        "code":  "62-150",
+        "name":  "IDeATe Portal: Introduction to Media Synthesis and Analysis",
+        "short_name":  "INT MDIA SNTH \u0026 ANLS",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Technologists, artists, and designers are engaging in new, interdisciplinary modes to consume, create, and reuse media. To do this, they thoughtfully collaborate and critically reflect on media creation, distribution, participation, interaction, and how media affects the audience. In this course, students will challenge themselves to work in these new modal contexts by thinking critically in a genre of exploration. They will formulate the intent of their creative work, articulate relationships to artdesign practice and theory, and respond insightfully to creative, mediarich outcomes. The class will introduce core concepts through foundational texts, inclass exercises, collaborative projects, and group critique. Through handson media exploration, students will ground concepts such as embodiment, emergence, composition, participatory interfaces, and mediated experiences. Section A will be an Introduction to Textile Media. Section B will be an Introduction to Mediascapes 2D to 3D Spatial Environments. Section C will be Life in the Digital Factory Spatial Storytelling about Computational Landscapes.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://ideate.cmu.edu/courses/portal-and-section-details.html",
+        "custom_fields":  {
+                                                    "goals":  "Each section of course will build foundational skills that are part of the core values of all courses in the IDeATe program critique, building narratives, reflection, collaboration. The individual sections will take different approaches to using a different media while still building a foundation of the above skills. Additionally, each section of the course will have mediaspecific goals.",
+                                                    "key_topics":  "This course will explore different modes of understanding media through three different section options: textiles, spatial environments, or digital storytelling",
+                                                    "prerequisite_knowledge":  "No prior knowledge required",
+                                                    "assessment_structure":  "Students will be assessed through hands-on project demonstration and critique, project proposals, and in-class presentations.",
+                                                    "relevance":  "This course is designed for students interested in participating in IDeATe who have not had much experience creating media and/or participating in media critique.",
+                                                    "learning_resources":  "Foundational texts, in-class exercises, collaborative projects, and group critique. Some sections will have a class website where research, information and final project documentation may be culminated.",
+                                                    "extra_time_commitment":  "Site visits to spatial environment examples or University Archives. Instructors and/or TA will hold weekly office hours. It is recommended to plan to use this time for extra support and/or inquiry related to the topics."
+                                            }
+}

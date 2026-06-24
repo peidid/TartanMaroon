@@ -1,0 +1,37 @@
+{
+        "code":  "76-792",
+        "name":  "Special Topics in Literature \u0026 Culture",
+        "short_name":  "SP TPCS LIT \u0026 CULT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Fall 2022 The American Novel  This course will survey the history of American fiction. We will look at novels and short stories in three broad periods from the early 19th century to the Civil War Poe, Melville, and Hawthorne from the late 19th century Howells, James, and Jewett and from the early 20th century Hemingway, Stein, and Le Sueur. While we will try to cover wellknown figures, we will also look at some lesserknown ones, such as Rebecca Harding Davis, who wrote about factory life in the 1850s, and George Schuyler, who wrote science fiction in the 1930s.               Typically, American fiction is said to move from Romance to realism to modernism to postmodernism. One of our tasks is to consider what these mean and how they apply. In addition, we will consider some of the cultural, social, and institutional conditions that create fiction. How does fiction respond to shifts in printing and book production to industrialization after the Civil War How do ideas of gender and race shape the fiction               Alongside our readings, you will also have three papers and presentations drawing on them to build our archive of what we know about this fiction.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "A general sense of the history of the novel, and also of ways to write about it",
+                                                    "key_topics":  "Major novels from the 19th to the 21st century",
+                                                    "prerequisite_knowledge":  "Basic familiarity with literature and literary history",
+                                                    "assessment_structure":  "Two short and one long paper, as well as presentations and participation.",
+                                                    "relevance":  "Gives a fuller sense of the history of the novel",
+                                                    "learning_resources":  "Canvas page with many linked readings and guides",
+                                                    "extra_time_commitment":  "Intensive reading of sometimes lengthy novels"
+                                            }
+}

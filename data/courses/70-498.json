@@ -1,0 +1,37 @@
+{
+        "code":  "70-498",
+        "name":  "Business Language Analytics: Mining Financial Texts and Graphs",
+        "short_name":  "BUS LANG ANALYTICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-122 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides students with accounting concepts and tools to create structures in financial data and some handson experience in applying economic, statistical, and data mining tools to analyze corporate business language, both text and numbers, used in formal documents written following specific accounting language rules.  Accounting numbers Accounting numbers such as those in published corporate financial statements obey a basic doubleentry bookkeeping structure leading to a matrix or graph representation beyond the typical numerical data structure. After a basic introduction of using corporate financial data, much of the course covers the concepts and tools that process corporate accounting data using the graph representation.  Accounting texts While texts in accounting documents are written in natural language, they must obey regulatory disclosure requirements in both substance and form. The remaining part of the course shows students how data in text form from accounting disclosures such as annual reports can be examined systematically using textual analysis techniques to gain further insight and knowledge about firms and industries beyond those inferred from nontextual data.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The central focus of course is on the structure of business language in both numbers and texts, notnecessarily on analytical tools and techniques which would likely change over time. The course overallgoal is to equip students with an understanding of financial data structure at a level such that studentswould feel comfortable facing future analytical tasks not explicitly covered in class.",
+                                                    "key_topics":  "-Financial statement numbers and the articulation structure.\n-Matrix and graph representations of financial statement data.\n-Creating and accessing financial statement datasets in tabular and graph forms.\n-Basic data analysis using financial statement datasets including both descriptive and predictive\ntasks.\n-Corporate regulatory filing data and its textual structure\n-Basic data analysis using regulatory filings datasets including quantifying text complexity,\nsimilarity.",
+                                                    "prerequisite_knowledge":  "exposure to basic ideas in economics, finance, statistics, and\nsome willingness to embrace abstraction",
+                                                    "assessment_structure":  "Individual in-class quizzes on key concepts (two or three); Periodic group homework on focused applications (two of three); Group Project with a presentation deliverable and a write-up deliverable",
+                                                    "relevance":  "This course is most relevant to business students interested in financial statement analysis research\nbased on modern analytical tools and, alternatively, to non-business students with data science\nbackground interested in applying analytical techniques to the corporate financial domain.",
+                                                    "learning_resources":  "In-class lectures on accounting concepts and analytical tools; Book chapters and research documents as assigned class reading; Publicly available or CMU-subscribed datasets on corporate filings; Common or publicly available statistical tools; Tutorials conducted by TA on data access and analysis.",
+                                                    "extra_time_commitment":  "Beyond individual studying and class meetings, it is expected some outside class times are required for\ngroup project."
+                                            }
+}

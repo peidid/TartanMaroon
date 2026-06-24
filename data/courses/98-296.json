@@ -1,0 +1,37 @@
+{
+        "code":  "98-296",
+        "name":  "Student Taught Courses (StuCo): The Doctor WhoCo",
+        "short_name":  "STUCO: DOCTOR WHO",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The BBC TV show Doctor Who originally aired from 1963 to 1989 before being resurrected in 2005 to become the popular franchise we know and love. The show has endured through many changes in format, leadership, and cast. This course is a place for anyone who wants to learn about the rich history of the show and discuss its eras, monsters, heroes, technology, and fandom. No prior knowledge of Doctor Who is required  all are welcome",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

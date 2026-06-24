@@ -1,0 +1,37 @@
+{
+        "code":  "76-316",
+        "name":  "Topics in Literature: Watching HBO\u0027s The Watchmen",
+        "short_name":  "TPCS IN LIT: WATCHMN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is centered on the graphic, social and political universe created by HBOs The Watchmen series. Course viewingsreadings will include the 9episode HBO series from 2019, the original The Watchmen comic series from the 1980s, and various cultural influences on the HBO series, including the musical Oklahoma, and the 1930s era singing group the Ink Spots, whose hit, I Dont Want to Set the World on Fire, is featured in the series. The course will include the intro to film studies text, Writing about Movies, and one of the goals of the course will be for students to write original, accessible, and interesting 1000 word essays about the series to be published on a public website.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will have a better grasp of film theory and how to write about media topics at the end of this course.",
+                                                    "key_topics":  "Media theory, Film studies, Popular Culture",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "There will be a series of writing assignments, scaffolded with drafts and lots of feedback from the instructor.",
+                                                    "relevance":  "Should be of general interest, but will also be relevant to Film Studies majors/minor and Literature and Culture majors/minors.",
+                                                    "learning_resources":  "Canvas file readings will be available to students. Students will need to subscribe to HBO GO for the duration of the course.",
+                                                    "extra_time_commitment":  "Reading, viewing, and writing outside of class time will be required."
+                                            }
+}

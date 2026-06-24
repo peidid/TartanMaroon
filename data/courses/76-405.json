@@ -1,0 +1,37 @@
+{
+        "code":  "76-405",
+        "name":  "Institutional Studies: English as a Discipline",
+        "short_name":  "ENGLISH AS DISCIPLNE",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The institution on which this course will focus is the academic discipline, the specific historical form that the production of knowledge in the modern research university has assumed. This course will examine the historical development of the discourses, practices, organs, and associations that have defined English as a discipline. While we will of necessity also look at the theories and values that the discipline has proclaimed at different times, this will not mainly be a course in the history of criticism.  Criticism will be considered as one practice among others including philology, literary history, literary theory, rhetoric, and composition. In order to understand the broader context, we will read work by Foucault and others on disciplinarity. We will also examine allied institutions, including the professions and the university.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

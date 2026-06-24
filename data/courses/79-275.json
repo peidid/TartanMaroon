@@ -1,0 +1,37 @@
+{
+        "code":  "79-275",
+        "name":  "Introduction to Global Studies",
+        "short_name":  "INTRO TO GLOBAL STDS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We live in an increasingly interconnected world, one in which our everyday actions have repercussions across vast distances. To understand this everdenser web of connections, we must think beyond simplistic accounts of globalization as a uniformly positive, negative, or homogenizing process. Economic crisis, impoverishment, rising inequality, environmental degradation, pandemic disease, and irredentist movements are just as much a part of the story as are technological innovation, digital communication, global supply chains, cultural exchange, the promotion of human rights, and the rise of cosmopolitan values.  This course aims to equip you with an interdisciplinary toolkit for thinking critically about the many dimensions of globalization economic, social, political, cultural and for engaging thoughtfully with differing experiences of them. By examining how globalization connects and shapes the everyday lives of people around the world, including our own, we will establish a foundation both for your advanced coursework in Global Studies and for your lifelong education as a globally aware professional and citizen. This course meets the Dietrich Gen Ed Intercultural and Global Inquiry requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Combining existing skills with those developed in this course, we will Develop an interdisciplinary toolkit for analyzing processes of globalization in relation to social, cultural, and political differencesApply those tools in the comparative analysis of realworld examples Evaluate the strengths and weaknesses of different theories of globalization and of the evidence used to support them and Generate your own analyses and perspectives on how globalization shapes your life and the lives of others.",
+                                                    "key_topics":  "This course examines how uneven processes of economic, political, and cultural globalization shape the everyday lives of people around the world.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Weekly discussion questions, group research presentations, film responses, and two essays.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Intercultural and Global Inquiry\n\nStudents will lay a multidisciplinary foundation for advanced coursework in Global Studies while developing analytical skills that they can apply in a wide range of professional fields.",
+                                                    "learning_resources":  "One very inexpensive text, with all other readings available on Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

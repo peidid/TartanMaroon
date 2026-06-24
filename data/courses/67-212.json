@@ -1,0 +1,37 @@
+{
+        "code":  "67-212",
+        "name":  "Natural Language Processing with Python",
+        "short_name":  "NATURAL LANG PROCESS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "15-112 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course describes basic techniques of processing human language in text format. In the course we will cover everything you need to learn in order to become a world class practitioner of NLP with Python. The course has theoretical and handson components. In the theoretical component, the course will discuss challenges in processing human languages, and review the basics of statistics and probability theory and their application to language problems. In the handson part, students will use Python programming and Natural Language Toolkit library for Python to process large volumes of text using various techniques. The processing will range from simple fundamental steps such as stemming, lemmatization, tokenization and partofspeech tagging to fullfledged applications such as search, documenttopic classification, and sentiment analysis. Students will learn how to use stateoftheart NLP libraries such as Spacy, NLTK and will understand machine learning with ScikitLearn to conduct text classification, such as automatically building machine learning systems that can determine positive versus negative movie reviews, or spam versus legitimate email messages.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

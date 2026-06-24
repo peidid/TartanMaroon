@@ -1,0 +1,37 @@
+{
+        "code":  "76-394",
+        "name":  "The Video Essay: Theory \u0026 Practice",
+        "short_name":  "VIDEO ESSAY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-239 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Video essayswidely seen on YouTube, TikTok, and other platformshave rapidly become a major form of media criticism and commentary some even argue theyre surpassing traditional prose criticism in cultural status and influence. This class explores the theory and practice of video essays as a mode of scholarly inquiry into film and media. We will study the roots of academic video essaysin, for instance, documentaries, foundfootage experiments, video art, and the essay filmas well as debates on the role of video essays in film and media research and education. But our primary focus will be to develop a creative research practice by making video essays in a variety of emerging genres e.g. supercut, epigraph, desktop documentary, deformative experiments. Students will take part in various forms of collaboration e.g. workshops, joint projects and will leave the course with a portfolio of work that includes a potentially publishable capstone video essay. If scheduling allows, we will welcome one or more awardwinning video essayists for a masterclass andor workshop. No experience with video editing is necessary to enroll in the course. Prereq 76239 or by instructor permission",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will develop their skills in audiovisual analysis through creative research.Students will develop intermediate proficiency with Adobe Premiere and will leave the course with a portfolio of work representing a variety of videoessay approaches and genres, including a potentially publishable capstone video essay. They will also be able to contextualize these works through supplementary prose that engages with film and media scholarship including scholarship on video essays.",
+                                                    "key_topics":  "This course will explore videographic criticism as an emerging form of film and media scholarship. In addition to making videographic works of their own, students will study theories (in textual and audiovisual form) of the video essay.",
+                                                    "prerequisite_knowledge":  "No prior knowledge of video editing (or other production skills) is necessary.\nStudents need to have some experience with film and media studies at the college level, most likely through having taken 76239 (Introduction to Film Studies). Other relevant experience, such as having taken a first-year writing course with a film/media theme, will be considered on a case-by-case basis.",
+                                                    "assessment_structure":  "Students will make several video essays (and write supplementary texts for them) and take at least one in-person essay-based exam. They will also complete regular low-stakes assignments such as homework video exercises, response/analysis papers, and in-class quizzes. Class participation will also be part of the grade.",
+                                                    "relevance":  "Students will gain valuable experience by blending critical studies of film and media with production work. They\u0027ll build a portfolio of innovative projects that can be widely shared.",
+                                                    "learning_resources":  "Students will use films and other media available online and from the library. Various readings, technical guides, and other materials will be distributed via Canvas.",
+                                                    "extra_time_commitment":  "Students are expected to spend an average of 6 hours per week on course-related work outside of class sessions."
+                                            }
+}

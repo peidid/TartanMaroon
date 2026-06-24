@@ -1,0 +1,37 @@
+{
+        "code":  "76-493",
+        "name":  "Science Fictions/Speculative Futures: Utopian/Dystopian Visions in Film \u0026 Media",
+        "short_name":  "SCI FI SPEC FUTURES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-239 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Focusing on contemporary screen media, this class will investigate how film, television, and digital media envision speculative futures. The course weaves together two forms of criticalcreative practice1 Curating film festivals  For this component of the class, we will focus on topics such as film festivals and public culture, the geopolitics of programming, the significance of location, the work of curation, various types of festivals e.g., activist, identitybased, industryadjacent, as well as practical matters of PR, community partnerships, fundraising, and scheduling.Guest speakers will include programmers from the Pittsburgh area, as well as from national and international festivals like Sundance. How are film festivals rooted in older ritual forms of gathering  What is the sociocultural purpose of a festival What kinds of events can they be What does it mean to collaborate on a program of films that resonate with one another, and to gather people together to watch them How do festivals both serve preexisting audiences and create them2 Analysis of speculative fiction in film  For this part of the class, students will consider what it means to imagine possible futures within a dystopian present. How do conventional SF tropes draw from histories of colonial conquest, migration, and racialization How have artists pushed the boundaries of sound and moving image to capture speculative visions of environmental collapse, multiple timelines, labor, and artificial intelligence Assignments may include weekly responses to screenings and readings, a mood reelpitch deck for a speculative fiction film or other screen media, and a critical analysis that can take written or audiovisual form i.e., a video essay.  The course will culminate in a collaboratively created concept for a Pittsburghbased, speculative film and media festival i.e., proposal, potential partners, program, schedule of events.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "After the class, students will understand the rich body of cinematic work in speculative fiction theyll also have an introduction to practical skills in event organizing, grantwriting, curation, and community partnerships.",
+                                                    "key_topics":  "film festivals, film and media studies, science fiction cinemas, speculative fictions, futurities",
+                                                    "prerequisite_knowledge":  "Some basic film and media analysis skills will be helpful.",
+                                                    "assessment_structure":  "Assignments may include weekly responses to screenings and readings, case study analysis of a selected film festival, a mood reel/pitch deck for a speculative fiction film (or other screen media), and a critical analysis that can take written or audiovisual form (i.e., a video essay). The course will culminate in a collaboratively created concept for a Pittsburgh-based, speculative film and media festival (i.e., proposal, potential partners, program, schedule of events). Students will have options for their assignments and aren\u0027t required to have any technical skills (e.g., video editing) for the course.",
+                                                    "relevance":  "Students will learn critical analysis skills relevant to a particular film genre, while also learning how to bring those analyses into a public setting through the film festival event.",
+                                                    "learning_resources":  "Canvas site",
+                                                    "extra_time_commitment":  "Students will do the readings, assignments, and screenings outside of class."
+                                            }
+}

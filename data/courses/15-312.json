@@ -1,0 +1,37 @@
+{
+        "code":  "15-312",
+        "name":  "Foundations of Programming Languages",
+        "short_name":  "FNDTNS PROGRMG LANG",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-150 [] at least C) and ((21-228 [] at least C) or (15-251 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course discusses in depth many of the concepts underlying the design, definition, implementation, and use of modern programming languages. Formal approaches to defining the syntax and semantics are used to describe the fundamental concepts underlying programming languages. A variety of programming paradigms are covered such as imperative, functional, logic, and concurrent programming. In addition to the formal studies, experience with programming in the languages is used to illustrate how different design goals can lead to radically different languages and models of computation.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "After completing this course you will have acquired the following knowledge and skillsUnderstanding of a broad range of programming language concepts, including those found in most popular programming languages, all in a single mathematical framework.Understanding of the concepts of abstract syntax, and the binding and scope of identifiers in a program. Be able to prove properties of languages by structural induction, respecting renaming of bound identifiers.Ability to give a mathematically precise definition of the statics type system and dynamics execution behavior of a programming language.Mastery of the concept of safety for a programming language, be able to prove that a language is safe, or derive a counterexample to its safety.Ability to implement an interpreter for a broad range of programming languages that is derived directly from its defined syntax, statics, and semantics.Understanding of how to integrate multiple features in a language and ensure that the combination is sensible.",
+                                                    "key_topics":  "This is a course on the principles of programming languages. Why study these principles? Because they are fundamental to the design, implementation, and application of programming languages.",
+                                                    "prerequisite_knowledge":  "The course emphasizes both principles and practice. Accordingly, proficiency with Standard ML is required, as is experience with writing proofs. Master\u0027s students wishing to enroll must obtain permission of the instructor prior to doing so.",
+                                                    "assessment_structure":  "Homework will account for 50% of your grade, the midterm 20%, and the final 30%. Your letter grade will be determined in part based on your performance relative to the rest of the class, though we have no pre-determined distribution in mind. We will also consider extra credit on the assignments and participation in recitation and lecture when determining letter grades. Extra credit and participation do not count towards your numeric average, but, for example, they might cause a student on the border to receive an A instead of a B (or vice versa!).",
+                                                    "relevance":  "This course 15-312 is for undergraduates. Graduate students should enroll in 15-652.",
+                                                    "learning_resources":  "Textbook, Piazza, Autolab - Lecture is a primary source of information in this course, with recitation serving to amplify and reinforce the main concepts in the course. You are strongly urged to attend lecture and recitation every week, and are in any case responsible for the material presented therein.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

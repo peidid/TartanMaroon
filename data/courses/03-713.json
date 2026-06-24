@@ -1,0 +1,37 @@
+{
+        "code":  "03-713",
+        "name":  "Bioinformatics Data Integration Practicum",
+        "short_name":  "BIOINFMTCS DATA PRAC",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "03-708 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a handson, selfdirected experience dealing with biological data and integrating it to produce software and analyses that are of use to biologists. Data are taken from a variety of sources, including academic research labs, large scale public genomics projects and data from private industry partners. Students will be given a project and asked to design a solution using a combination of existing tools and their own developed software.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "See description",
+                                                    "key_topics":  "Bioinformatics, Genomics, Molecular Genetics",
+                                                    "prerequisite_knowledge":  "Programming, Genetics",
+                                                    "assessment_structure":  "Graded based on written reports, a final pipeline product, a final oral presentation, an interview with the instructor, and peer evaluations",
+                                                    "relevance":  "This course is directly relevant to real-world bioinformatic processes and analyses used in research and industry.",
+                                                    "learning_resources":  "The instructor distributes primary literature and lecture slides via Canvas.",
+                                                    "extra_time_commitment":  "Students meet outside of class to work with their teams. But, overall the time required is equivalent to 6 units in a mini course."
+                                            }
+}

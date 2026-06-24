@@ -1,0 +1,37 @@
+{
+        "code":  "70-311",
+        "name":  "Organizational Behavior",
+        "short_name":  "ORGNZTN BEHAVIOR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-102 [] at least D) or (76-101 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or (76-245 [] at least D) or (76-331 [] at least D) or (76-347 [] at least D) or (76-327 [] at least D) or (76-102 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the factors which influence individual, group and firm behavior in the context of the workplace. Topics covered include perception, group behavior, decision making, motivation, leadership and organizational design and change. This course uses course material that requires students to pay an additional course fee. The course material is secured by the Tepper School because it is otherwise unavailable and directly provided to each student. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "There are three main learning goals of this course Understanding the importance of people to the success of organizations. Being able to analyze real world problems through an organizational behavior lens, and to better understand and predict the behaviors of people within organizations. Developing skills and knowledge relevant for becoming effective employees and managers in organizations.",
+                                                    "key_topics":  "Topics covered in this course include personality, perception, judgement, decision making, motivation, leadership, power, influence, negotiation, group decision making, team communication, networks, organizational culture, organizational change, and organizational design.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is required; however prior organizational experience (e.g., student organizations, sport teams, part-time jobs, internships, etc.) is helpful.",
+                                                    "assessment_structure":  "Students will be assessed based on participation (including attendance), individual exams, individual case analyses, and a team project.",
+                                                    "relevance":  "Individuals in organizations need to be both competent and interpersonally savvy to succeed. This course will teach students tangible strategies to lead and manage people in organizations.",
+                                                    "learning_resources":  "Students will read both a textbook and a set of curated readings in a course packet. Students will also analyze various case studies to broaden their knowledge, skills, and abilities in the area of organizational behavior.",
+                                                    "extra_time_commitment":  "Students will complete a team assignment that involves studying an actual organization outside of classroom. The remote section is only available for students approved for remote study in Fall 2021."
+                                            }
+}

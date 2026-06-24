@@ -1,0 +1,37 @@
+{
+        "code":  "18-200",
+        "name":  "ECE Sophomore Seminar",
+        "short_name":  "ECE SOPH SEMINAR",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The class comprises of a series of lectures from our own faculty and alumni, Department and University staff, and student groups. Students are required to attend each lecture. The lectures are designed to serve the following purposes 1. Introduce to students to the faculty members research field and the most current world advancements in engineering and technology in that area 2. Provide students a good understanding of our curriculum structure and the courses in various areas 3. Present correlations between the present technological developments and our courses for each course area 4. Introduce new undergraduate courses 5. Advertise oncampusoffcampus research opportunities for undergraduate students and explain the corresponding research projects 6. Motivate students with positive presentations on the importance of obtaining education and gaining selflearning ability 7. Provide basic education on learning and working ethics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Become familiar and comfortable with ECE, college, and campus resources relevant for ECE majors.",
+                                                    "key_topics":  "The lectures are designed to serve the following purposes: 1. Introduce to students to the faculty member\u0027s research field and the most current world advancements in engineering and technology in that area; 2. Provide students a good understanding of our curriculum structure and the courses in various areas;\n3. Present correlations between the present technological developments and our courses for each course area; 4. Introduce new undergraduate courses; 5. Advertise on-campus/off-campus research opportunities for undergraduate students and explain the corresponding research projects; 6. Motivate students with positive presentations on the importance of obtaining education and gaining self-learning ability; 7. Provide basic education on learning and working ethics.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "In class reflection on the day\u0027s topic.",
+                                                    "relevance":  "This course provides essential information to ECE sophomores during their first semester as ECE majors.",
+                                                    "learning_resources":  "The class comprises of a series of lectures from our own faculty and alumni, Department and University staff, and student groups.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

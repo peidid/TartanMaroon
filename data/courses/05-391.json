@@ -1,0 +1,37 @@
+{
+        "code":  "05-391",
+        "name":  "Designing Human Centered Software",
+        "short_name":  "DES HUMN CENTRD SFTW",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-112 [] at least D) or (15-122 [] at least D) or (15-104 [] at least D) or (15-110 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Why are things so hard to use these days Why doesnt this thing I just bought work Why is this web site so hard to use These are frustrations that we have all faced from systems not designed with people in mind. The question this course will focus on is how can we design humancentered systems that people find useful and usable This course is a broad introduction to designing, prototyping, and evaluating user interfaces. If you take only one course in HumanComputer Interaction, this is the course for you. We will cover theory as well as practical application of ideas from HumanComputer Interaction. Coursework includes lectures, class discussion, homework, class presentations, and group projects. This class is open to all undergrads and grad students, with either technical or nontechnical majors. However, there is a programming prerequisite.  ",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.hcii.cmu.edu/courses/designing-human-centered-software",
+        "custom_fields":  {
+                                                    "goals":  "Students will better understand how to design, build and evaluate computing systems that people find useful and usable.",
+                                                    "key_topics":  "This course is an introduction to designing, prototyping, and evaluating user interfaces. We will cover theory as well as practical application of ideas from Human-Computer Interaction.",
+                                                    "prerequisite_knowledge":  "Some experience with programming is a course prerequisite, for example: 15-112, 15-110 or 15-104.",
+                                                    "assessment_structure":  "Coursework includes lectures, class discussion, homework, class presentations, and group projects. There is no final exam, but there is a final presentation in the exam timeslot.",
+                                                    "relevance":  "This is an introductory level course in Human-Computer Interaction.",
+                                                    "learning_resources":  "There is no textbook for the class. Lectures are posted to canvas.",
+                                                    "extra_time_commitment":  "There are substantial group projects that will require meeting outside of class."
+                                            }
+}

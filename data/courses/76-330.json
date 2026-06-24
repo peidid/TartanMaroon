@@ -1,0 +1,37 @@
+{
+        "code":  "76-330",
+        "name":  "Communicating in the Global Marketplace",
+        "short_name":  "COMM IN GLBL MKTPLAC",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We live in a global world, whether we like it or not. Globalization is a political, economic, and cultural phenomenon that deeply impacts how well we can communicate with others in both professional and interpersonal settings. Regardless of the language people speak and the cultures that may have shaped our beliefs and values, we are bound together by professional interests and political agendas in a community that has no choice but to function well. In the current international environment, some of the most important and rewarding employment opportunities are with multinational and international corporations. But are we prepared for the challenge of working with professionals from all over the world Even as more people around the globe learn English, specific cultural values, beliefs, and assumptions continue to influence the way in which they communicate. More often than not there is a whole different worldview behind a foreign accent. Globalization brings along several pressing questions  How can professional communicators avoid the potential for misunderstanding and conflict that comes with cultural difference How can professional communicators contribute to shaping a workplace discourse that can reach a wide, diverse, global audience How can professional global communication be effectively planned, measured, and improved  This courses prepares you to address these questions by explaining the specific ways in which national culture influences professional and technical communication, the impact of globalization on business environments and communication, and the ways in which you can rely on general concepts and principles in order to communicate effectively in specific international settings and situations.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

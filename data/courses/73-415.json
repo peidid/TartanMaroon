@@ -1,0 +1,37 @@
+{
+        "code":  "73-415",
+        "name":  "Data Driven Business and Public Policy Decision Making",
+        "short_name":  "DA DRV BIS PB PLY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-268 [] at least D) or (21-256 [] at least D) or (21-269 [] at least D) or (21-259 [] at least D)) and (73-230 [] at least C) and (73-265 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course students will learn to leverage data to inform business and policy decisions. The course will teach students various methods for data description, including techniques of data visualization and statistical techniques. Students will learn how to assess the precision of estimation techniques. The final part of the course covers examples taken from epidemiology, economics, business and public policy. Lecture, 3 hours Recitation 1 hour. Minimum grade of C required in all economics and statistics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

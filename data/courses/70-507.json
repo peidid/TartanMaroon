@@ -1,0 +1,37 @@
+{
+        "code":  "70-507",
+        "name":  "Independent Study in Business Communications",
+        "short_name":  "INDEP STDY BUS COMM",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  11.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Students with a special interest in Business Communications not covered by a formal Business course may develop an Independent Study Course in that area.  Readings and work to be completed are by agreement between the student and an individual faculty member.  Enrollment by permission of the BA Program.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

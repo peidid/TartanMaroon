@@ -1,0 +1,37 @@
+{
+        "code":  "99-362",
+        "name":  "IDeATe: Intelligent Learning Spaces",
+        "short_name":  "IDEATE INT LRNG SPCS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Intelligent Learning Spaces explores the interactions between human learning and the spaces in which learning occurs. In this projectbased course, students discuss, analyze, define, and apply theory from education, architecture and the arts to their project work. Students investigate precedents and existing experiences to create their own learning manifestos and designs. Imagination, inclass participation, speculation, empathy and 360degree awareness are key components of this class. Students work on scaffolded projects that build on their knowledge to showcase their intentions and creativity, reacting to a variety of contexts relevant to learning.Students have opportunities to develop creative inquiry skills and apply critical perspectives through projectbased work that requires experimentations, handson learning, reflection, and documentation.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

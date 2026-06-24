@@ -1,0 +1,37 @@
+{
+        "code":  "82-311",
+        "name":  "Advanced Arabic I",
+        "short_name":  "ADVANCED ARABIC I",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "82-212 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course promotes multiple literacies in an integrated approach to Arabic language and culture studies and builds students ability to function at the Intermediate HighAdvanced Low level in a variety of topics. It also embraces the diglossic nature of Arabic by explicitly integrating the teaching of Arabic regional spoken varieties alongside Modern Standard Arabic MSA. The course is aligned with ACTFL updated Arabic guidelines that perceive the Arabic language as a continuum in which both the regional spoken varieties and Modern Standard Arabic constitute a whole in terms of usage. Students will identify and examine cultural contexts pertaining to the religious and ethnic minorities in the MENA region and the United States. Students will also learn to analyze and examine cultural contexts pertaining to the usage of Arabic language dialects. Students will also analyze the role of cultural norms and humanitarian institutions in the perpetuation of structural inequalities in both the MENA region and the United States.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Abide by discussion etiquette and engage in discussion with different perspectives to create more inclusivity and reliability for the students to share opinions and engage in class discussions. 2. Build your communicative competence at the advanced level in Modern Standard Arabic in all four skills Listening, Reading, Speaking, and Writing following a proficiencyoriented teaching approach.3. Continue expanding your understanding of the Arabic language and culture studies and to continue building your ability to function at the advanced level in a variety of topics in reading, writing and analyzing material in which MSA is significantly utilized in our modern age.4. Develop your understanding and knowledge of linguistic conventions for reading, writing, and speaking in MSA through, writing and giving presentations to demonstrate your understanding of covered topics.5. Examine cultural contexts with relation to religious and ethnic minorities in the MENA Region and in the United States, which involves the recognition of our identities and biases, as it is a personification of the impact of worldviews on livelihoods of religious and ethnic minorities.6. Examine the usage of the Arabic languages dialects in the MENA region and its relations to cultural identities. 7. Examine the interconnectedness of cuisine to global cultures, and the importance of food waste regulation to sustainability. 8. Evaluate how general worldviews hold a negative sentiment towards migrant communities and religious minorities as a result of negative cultural associations towards them, and how general worldviews result in biased interpretations of historical events tied to specific migrant communities. 9. Evaluate the impact of general worldviews to sentiment tied to cuisines of their own cultures, along with cultural cuisines in the MENA region and the United States.10. Examine the influence of historical events to gene",
+                                                    "key_topics":  "Minorities in the Arab World and beyond, Women\u0027s Rights, Arabs in the US, the use of Arab language globally, science, sports, religion, mental health, etc. in the Arab world",
+                                                    "prerequisite_knowledge":  "82-212, placement, or permission of the instructor",
+                                                    "assessment_structure":  "Class participation, online discussion forums, collaborative activities, homework, essays, presentations and skits, final project (essay and presentation).",
+                                                    "relevance":  "DC: Intercultural and Global Inquiry\n\nThis course is relevant to students who want to continue learning Arabic at the Advanced level to keep developing their linguistic and cultural repertoires. The course contributes to such goals of the Department of Modern Languages as Communication, Collaboration, and Cultural Knowledge.",
+                                                    "learning_resources":  "Textbook, dialogue videos, materials on Canvas provided by instructors, and other materials online.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

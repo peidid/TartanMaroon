@@ -1,0 +1,37 @@
+{
+        "code":  "98-369",
+        "name":  "Student Taught Courses (StuCo): Brooklyn Nine-Nine",
+        "short_name":  "STUCO: BROOKLYN NINE",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Brooklyn NineNine is a cop comedy that first aired in 2013 and spanned eight seasons. This Emmy, Golden Globe, Critics Choice, and GLAAD Media awardwinning show centers around Jake Peralta and the rest of the 99th precinct of the NYPD. Part of Brooklyn NineNines success is due to their skill at balancing a comedic atmosphere while also addressing and discussing current social issues. In this class, you will learn about a social issue each week and then watch an episode that addresses said social issue. Anyone is free to join  no prior knowledge is required",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understand their own role and impact on society through various lenses. Engage in thoughtful, respective discussions with peers about various issues that are pertinent to their community as well general society. Critically analyze the portrayal of important issues and themes in TV shows. Understand the importance of these issues and the significance of their portrayalrepresentation in media. Identify how universities, and more specifically CMU, approaches these issues and reflect on what can be done to improve how universities handle these issues.",
+                                                    "key_topics":  "We will explore the following topics through the lens of Brooklyn Nine-Nine and how it is addressed in the relevant episode: racism \u0026 racial justice, LGBTQIA+ representation and coming out representation in the media, sexual harassment/assault, adoption, mental health, gun control, feminism and the Bechdel test, family dysfunction, police ethics \u0026 surveillance, and friendships \u0026 character dynamics.",
+                                                    "prerequisite_knowledge":  "Knowledge of the show is useful, but not required.",
+                                                    "assessment_structure":  "Midterm and final presentation.",
+                                                    "relevance":  "The issues presented in Brooklyn Nine-Nine are prevalent in our everyday lives, and it is important that we understand the complexities of these topics in order to understand our own impact in these issues. However, we know it can feel overwhelming and uncomfortable to talk about such social issues in normal conversation. This course will hopefully help you to gain the confidence in starting these important discussions while also teaching you more about these issues in the context of your (to-be) favorite TV show!",
+                                                    "learning_resources":  "Canvas page with materials.",
+                                                    "extra_time_commitment":  "Students may find it helpful to meet with final presentation group outside of class."
+                                            }
+}

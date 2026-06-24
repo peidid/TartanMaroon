@@ -1,0 +1,37 @@
+{
+        "code":  "76-465",
+        "name":  "Advanced Poetry Workshop",
+        "short_name":  "ADV POETRY WORKSHOP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-365 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this workshop, well investigate whats possible in poetry, as participants examine their relationship to the poetic practice both as readers and as writers. Through writing exercises, discussion, and readings, we will explore the diverse landscape of contemporary poetry, and experiment with form and technique. As we study different methods of making a poem, and different notions of what makes a poem, and what makes a poem great, participants will work to discover imaginative ways of approaching the line and the page.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn to read critically with an eye toward craft, technique, and intention act as constructive and respectful readers and editors of their peers work utilize poetic techniques as best suits their goals meaningfully consider feedback in revision.",
+                                                    "key_topics":  "craft elements of contemporary poetry, analysis of student work, creation of portfolio of original poetry",
+                                                    "prerequisite_knowledge":  "Students should have taken an introduction to poetry class prior to this and have some experience with poetry workshops.",
+                                                    "assessment_structure":  "Class participation, peer feedback, creativing writing exercises and final portfolio",
+                                                    "relevance":  "Students interested in writing poetry will engage with the field of contemporary poetry, learn about current conversations and practices within the field, practice their craft and practice participating in a community of writers through workshop",
+                                                    "learning_resources":  "texts, websites, readings provided via canvas",
+                                                    "extra_time_commitment":  "Yes - There will be 1-2 poetry readings outside of class time that studetns will be required to attend"
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "80-315",
+        "name":  "Logics for Knowledge and Belief",
+        "short_name":  "LOGICS KNWL BELIEF",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-251 [] at least C) or (21-127 [] at least C) or (21-128 [] at least C) or (80-210 [] at least C) or (80-212 [] at least C) or (80-211 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Standard logical languages can express negation not p, conjunction p and q, material implication if p then q, quantification for all x, px, etc. But they dont directly capture statements like the following  Alice knows p. Henceforth, it will be the case that p. It ought to be the case that p. If it had been the case that p, it would have been the case that q. Everybody knows p. Everybody knows that everybody knows p. Infinitely often in the future, p will be true. After an announcement of p, it will be the case that Alice knows q. If p is not permitted, then you ought to know that p is not permitted. etc. Modal logic is a very general framework for systematically reasoning about statements like these. This course is an introduction to mathematical modal logic and its applications in philosophy, computer science, linguistics, and economics, with emphasis on epistemic interpretations i.e., logics for representing and reasoning about knowledgebelief. We begin with a rigorous development of propositional modal logic the basic language, interpretation in relational structures, axiom systems, proofs, and validity. We prove soundness and completeness of various systems using the canonical model method and study model equivalence and expressivity results. We also consider topological semantics as an alternative to relational semantics, and investigate the connection between the two. In the latter part of the course we turn our attention to more specialized logical systems and their applications, as determined by the interests of the class. Topics may include quantified modal logic, multiagent systems and the notion of common knowledge with applications to game theory, temporal and dynamic logics for nondeterministic program execution, logics for reasoning about counterfactuals, public announcement logic, deontic logic, intuitionistic logic, and others.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Navigate formal languages, interpret modalities in relational structures, explain the connection between formulas of the language and properties of the structures, formalize intuitions and analyze problems using modal logics, find axioms characterizing properties of important structures and prove soundness and completeness results.",
+                                                    "key_topics":  "Modal logic is an extension of classical logic designed for reasoning about concepts such as knowledge, belief, temporal order, program execution, permission, obligation, information update, and counterfactual conditionals. This class will establish the mathematical foundations of the field and explore various applications as time permits.",
+                                                    "prerequisite_knowledge":  "Experience with mathematical reasoning, especially definitions and proofs. Exposure to propositional logic (e.g., logical formulas, truth tables, deductions). No background in modal logic is required.",
+                                                    "assessment_structure":  "Problem sets, short (20 minute) tests, and shorter (10 minute) quizzes evenly spaced throughout the semester. There is no midterm or final exam.",
+                                                    "relevance":  "Provides the mathematical tools for reasoning about concepts such as knowledge \u0026 belief, temporal order, program execution, permission and obligation, information update, and counterfactual conditionals.",
+                                                    "learning_resources":  "Detailed course notes are provided. No required textbooks.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

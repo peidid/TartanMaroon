@@ -1,0 +1,37 @@
+{
+        "code":  "21-484",
+        "name":  "Graph Theory",
+        "short_name":  "GRAPH THEORY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((15-251 [] at least D) or (21-228 [] at least D)) and ((21-241 [] at least D) or (21-242 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Graph theory uses basic concepts to approach a diversity of problems and nontrivial applications in operations research, computer science and other disciplines. It is one of the very few mathematical areas where one is always close to interesting unsolved problems. Topics include graphs and subgraphs, trees, connectivity, Euler tours and Hamilton cycles, matchings, graph colorings, planar graphs and Eulers Formula, directed graphs, network flows, counting arguments, and graph algorithms.  Three 50 minute lectures",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Discrete mathematics and proofs",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

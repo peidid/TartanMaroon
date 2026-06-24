@@ -1,0 +1,37 @@
+{
+        "code":  "98-313",
+        "name":  "Student Taught Courses (StuCo): Dungeons \u0026 Dragons 101",
+        "short_name":  "STUCO: D\u0026D 101",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Dungeons  Dragons, or DD for short, is a fantasy tabletop role playing game traditionally set in a medieval world where a group of players each playing as a hero must conquer some sort of objective or quest which is overseen by a player called the Dungeon Master. Dungeons  Dragons 101 is a course designed to teach students both how to play as characters in DD and how to run their own games as Dungeon Masters. The course will be taught in the fourth edition of DD, and students will learn skills that will help them start and continue interesting campaigns with their friends. Students will make their own characters, play as those characters in adventurers with their peers, and will eventually design their own encounters and run their own games as Dungeon Masters. While we would recommend students purchasing the 4e Rulebooks for this class, all relevant references can be made using the DD wiki which we will provide a link to in the course. NOTICE Students will be charged 3 for a set of dice, unless students have their own dice sets. The students keep the dice sets after the course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

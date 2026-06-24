@@ -1,0 +1,37 @@
+{
+        "code":  "79-245",
+        "name":  "Capitalism and Individualism in American Culture",
+        "short_name":  "CAPTLM INDV AMER CLT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This small discussion course traces ideas about individualism and capitalism in the U.S., from colonial times to the present. We will focus on three main themes 1 the relationship between capitalism, work, and identity 2 changing definitions of success and failure and 3 the historical origins of students attitudes toward 1  2. In short, we will study the economics and emotions of the American dream how class, race, gender, occupation, and ambition shape our identities. Readings include The Autobiography of Benjamin Franklin, poems by the enslaved writer Phillis Wheatley, studies by Alexis de Tocqueville and Max Weber, writings of Frederick Douglass, Henry David Thoreau, Charlotte Perkins Gilman, Andrew Carnegies classic essay Gospel of Wealth, an essay by Malcolm Gladwell, Arthur Millers Death of a Salesman, and Sarah Lewiss The Rise, a book about failure and ambition. Grading is based upon a readings journal, participation in discussion, three short essays and a longer final paper. This course meets the Dietrich Gen Ed Humanities requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will hone their skills in reading, talking, and writing about conceptual ideas that are part of our everyday lives. Writing both a informal journal and formal essays about things we read and talk about, they will gain historical understanding of the sources oftheir own opinions about success and failure, as well as their own selfexpectations in contrast to expectations placed on them by others parents, teachers, employers",
+                                                    "key_topics":  "Capitalism; Individualism; Work; Identity; Ambition; Success; Failure; Culture; History; Ethics; Poverty; Charity; Business; Happiness.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Students will draft and revise formal essays (three short and one longer), keep an informal course journal (both prompted and unprompted), and participate in discussion.",
+                                                    "relevance":  "Dietrich Gen Ed: Disciplinary Perspectives - Humanities\n\nThe purpose of this course is to help students understand the historical bases and development of ideas like success, failure, and identity, which they are grappling with and will continue to think about throughout their lives. Readings and discussions will\ndraw attention to race, gender, and other aspects of identity, as these are shaped by expectations around work, capitalism, and individualism.",
+                                                    "learning_resources":  "Short readings available on Canvas, with a few short books (cheap paperback editions) to be purchased by the student.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

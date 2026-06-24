@@ -1,0 +1,37 @@
+{
+        "code":  "85-213",
+        "name":  "Human Information Processing and Artificial Intelligence",
+        "short_name":  "HMN INF PRO ART INTL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-150 [] at least D) or (15-122 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will review the informationprocessing challenges that humans face. We will discuss how these challenges are dealt with in the domains of attention, perception, memory, problem solving, reasoning, decisionmaking, and language.   We will compare and contrast how these challenges are dealt with by humans and artificial intelligence applications.  The course will include a number of programming projects that try to solve specific informationprocessing demands that occur in particular tasks and simulate human information processing. Student must have taken or currently be taking 15122 or 15150.  If you will be taking 15122 or 15150 as a co req for this course, please contact Emilie OLeary emilierandrew.cmu.edu to be registered.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Have a broad understanding of the different fields in cognitive psychology and how they interrelate.2. Understand how to crisply formulate the informationprocessing challenges that face human cognition. 3. Appreciate how the human system deals with these challenges in sufficient detail that you can produce an algorithm that solves the same sort of challenge.",
+                                                    "key_topics":  "The goal of this course is to overview what is known about human cognition with an emphasis on discussing how it relates to developing computational models that achieve some of the accomplishments of human intelligence",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "exams and course projects",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "lecture, discussion and readings",
+                                                    "extra_time_commitment":  null
+                                            }
+}

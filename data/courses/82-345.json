@@ -1,0 +1,37 @@
+{
+        "code":  "82-345",
+        "name":  "Using Spanish in Social Contexts",
+        "short_name":  "USING SPNSH SOC CONT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "82-242 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What does it mean to be able to use Spanish in social contexts This course is for those who would like to explore the intersection of language and social variables in various Spanishspeaking contexts all around the world.  The course has two main foci 1 introducing some of the sociolinguistic diversity of Spanish around the world and 2 building communicative competence through handson practice using Spanish in socially appropriate ways that may differ from Englishother languages, for example how to apologize, refuse, compliment, request, offer condolences, etc. Sample topics to be covered include Spanish in contact with other languages geographic variation lexical, phonological, grammatical language policy and ideology speech acts pragmatics Spanish in a globalized world. This course is taught in Spanish. No prior experience with linguistics needed.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students will...1. Examine, discuss, and reflect on the intersection of language, social variables, and cultures in various Spanishspeaking contexts all around the world, and how these realities affect our worldviews and biases.2. Evaluate how the historical contact between Spanish and other languages via colonization, immigration, the TransAtlantic slave trade, and other means, as well as current global power dynamics, affect the ways Spanish is spoken and taughtlearned, as well as how Spanishspeakers are perceived. 3. Compare and contrast ways that interpersonal communication pragmatics may differ between English and Spanish practice creating speech acts in Spanish.4. Analyze the role of cultural norms, language ideologies, and institutions, such as the Royal Spanish Academy and the Instituto Cervantes, in creating and perpetuating language hierarchies, and the consequences of those language hierarchies around the world. 5. Develop critical thinking and rhetorical skills needed for analysis of sociolinguistic issues in Spanish.6. Engage in handson projects to deepen inquiry into specific areas of interest related to course topics.",
+                                                    "key_topics":  "Spanish, sociolinguistics, pragmatics, languages in contact, bilingualism, language diversity, language and culture",
+                                                    "prerequisite_knowledge":  "Intermediate-level proficiency in Spanish. This is equivalent to the completion of four courses (two at the 100-level and two at the 200-level) or exemption based on CMU internal placement test scores.",
+                                                    "assessment_structure":  "In-class participation, short written homework assignments, in-class presentations, one midterm exam, one course project with flexible format.",
+                                                    "relevance":  "DC GenEd: Intercultural and Global Inquiry\n\nMay be particularly interesting to bilingual students and heritage speakers of Spanish.",
+                                                    "learning_resources":  "All resources are provided via Canvas or the CMU Library.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-381",
+        "name":  "Mad-Men, Television, and the History of Advertising",
+        "short_name":  "MEDIA/FILM STUDIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Don Draper, cigarette in one hand, drink in the other, on the prowl for his next conquest  be it client or lover  may be one of the coolest characters ever created for American television. But is it just the suave style of Mad Men that has made it so popular What is the secret to the shows success In this class we will explore the rise and fall of the 20th century advertising model of mass culture by watching episodes from seven seasons of Mad Men, analyzing the show, and reading about the history of advertising as well as analyses of the show itself. Texts for the course will include Richard Ohmanns essay Where did Mass Culture Come From, Michael Schudsons Advertising The Uneasy Persuasion, Archie Bostons Fly In The Buttermilk Memoirs of an African American in Advertising, Design  Design Education, Susan Faludi Backlash The Undeclared War Against American Women, Scott F. Stoddart, editor, Analyzing Mad Men Critical Essays on the Television Series and Lilly J. Goren and Linda Beail, editors, Mad Men and Politics Nostalgia and the Remaking of Modern America.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

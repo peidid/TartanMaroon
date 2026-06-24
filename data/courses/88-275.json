@@ -1,0 +1,37 @@
+{
+        "code":  "88-275",
+        "name":  "Bubbles: Data Science for Human Minds",
+        "short_name":  "BUBBLES: DATA SCI",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-200 [] at least D) or (70-207 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "No one is an island from the casual interactions of daytoday life to the global markets that supply us with the fruits of our technologies, the fabric of experience is woven out of interaction with other people. This course will introduce you to basic ideas in psychology, economics, and the social sciences that help us understand how this happens. Well learn about both the mysterious inner world of human experience, and the equally strange and striking social phenomena that they lead to. Well experiment on ourselves in class to discover unexpected aspects of our own unconscious, and how irrational even the best groups can be. Most importantly, well send you out into the world  the physical worlds of CMU and Pittsburgh, and the virtual ones onlineto conduct your own investigations. We know extraordinarily little about the human animal, and the best way to learn is to go look for ourselves.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is to prepare students to work at the research frontier. At the end of this course, students will be able to build models for how people think and talk to each other, to see how thinking and talking work in both the past and present, and to imagine, and design, systems that might help us think, and talk, together more effectively in the future.Students will 1 learn how to formulate original hypotheses to explain human social behavior, based on our best current theories in the social and cognitive sciences, 2 devise observational and interventional experiments that can help test their hypotheses, 3 actually conduct those experiments, 4 analyze and make sense of the results, 5 present them to their peers.",
+                                                    "key_topics":  "Wisdom of the crowds\nPrediction markets and Information cascades\nBayesian Models for Cognition\nCommon Knowledge and Knowledge of Other Minds\nCommon Knowledge Online: Cryptocurrencies and Proof of Work\nCultural Evolution: Fairytales and Modern Myths\nText Analysis and Natural Language Processing\nWords as Organisms and the Error Catastrophe\nThe Red Queen Effect, Cultural Competition\nNovelty and Transience\nLarge Language Models and Human Cognition\nSocial Power and Mimetic Desire\nPageRank and Social Recursion\nExploration and Exploitation\nConspiracy Theories and Epistemic Counter-Communities",
+                                                    "prerequisite_knowledge":  "36-200 Reasoning with Data\nWillingness and initiative to work with real-world data.",
+                                                    "assessment_structure":  "There will be one final paper, one joint mid-term hackathon presentation, and two smaller assignments.",
+                                                    "relevance":  "Dietrich GenEd prior to Fall 2021: Deciding\nDietrich GenEd after Fall 2021: Scientific Inquiry",
+                                                    "learning_resources":  "Students will be required to read various material from textbooks, handouts and online materials (available on Canvas).",
+                                                    "extra_time_commitment":  "No formal extra time commitments. However, extra credit will be awarded for participating in research experiences. See syllabi for details."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "85-377",
+        "name":  "Attitudes and Persuasion",
+        "short_name":  "ATTITUDES PERSUASION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "85-241 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This advanced undergraduate course will focus on the topic of attitude change and how various persuasive techniques are used to shape human response. The dynamics of propaganda and what makes the techniques effective on social and consumer decisions will be addressed.  The primary goals of the course are to 1 understand the dynamics of attitude change 2 explore the mechanism by which attitude change techniques operate and 3 examine relevant theories and research in persuasion.  Examples of topics covered include the origins of attitudes, how attitudes influence judgments, social power and attitude change, and how individual decisions are influenced by the mass media.   Classic and contemporary research in the area of persuasion will be examined in the form of course readings and assignments.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The primary goals of the course are to 1 understand the dynamics of attitude change 2 explore the mechanism by which attitude change techniques operate and 3 examine relevant theories and research in persuasion. By the end of the course students should be able to1.Critically analyze persuasive messages and communication and gain the ability to analyze and interpret their underlying purposes.2.Understand the history and the development of the field of attitude change. 3.Evaluate the application of empirical investigations on persuasion, social influence, and compliancegaining techniques. 4.Identify key theories, principles, and strategies of social influence and persuasion.5.Apply knowledge of research methodology in the creation of valid survey instruments.",
+                                                    "key_topics":  "attitude change, human response, influence",
+                                                    "prerequisite_knowledge":  "Students should have a basic understanding of Social psychology as it pertains to Attitude theory, Persuasion and Social Influence. In addition students should be familiar with research methodology and reading empirical journal articles.",
+                                                    "assessment_structure":  "Class will involve 3 essay style exams along with a few other projects, including a research paper on a cult, an advertisement portfolio and the creation of an attitude survey.",
+                                                    "relevance":  "This course should teach students about the tactics that are used each day to influence behavior and attitudes as well as the theories that underlie these tactics.",
+                                                    "learning_resources":  "All journal articles and book chapters used for the course readings will be posted on Canvas. There is a text that is required and will need to be purchased separately.",
+                                                    "extra_time_commitment":  "Beyond class time students will have to do independent research for the required research paper and work on collecting the advertisements needed for the portfolio project. In addition all students will need to read articles for class and prepare discussion material for their scheduled presentation dates."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "80-135",
+        "name":  "Introduction to Political Philosophy",
+        "short_name":  "INTRO POLITC PHILOS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "At the heart of political philosophy lie fundamental questions such as What constitutes a just society How, and under what circumstances do individuals incur political obligations to a particular state This course provides a systematic investigation of the way such questions are answered by dominant schools of liberal political theory, such as the social contract tradition, utilitarianism and libertarianism. Later we will introduce critiques from socialist, and feminist theorists. Readings are drawn from classic works by authors such as Plato, Hobbes and Locke, and from the works of more contemporary theorists like Rawls, and Nozick.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 Explain not only important theoretical positions held in Western political philosophy especially from the Modern period on, but also significant potential objections to these positions. 2 Develop wellreasoned answers to such questions as What constitutes a just state or To what extent may the state limit our liberties 3 Produce a very good philosophical paper engaging with the theorists and positions we discuss. 4 In meeting these goals, the student will develop a solid foundation for further study of political philosophy, and also gain greater ability to thoughtfully engage in political discussions generally.",
+                                                    "key_topics":  "This is a problems-based introduction to Western political philosophy, and we cover such issues as the rightful extent of, and justification for, state authority over individuals (e.g. \"Why should I obey the law, and (perhaps) when shouldn\u0027t I?\"), and the correct principles of justice for a society (e.g. \"Justice seems to require equality, but equality of what, and why?\").",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Past classes have used a combination of three kinds of assignments: low-stakes short writing assignments due on a regular basis, the occasional essay-based exam, and scaffolded essay-writing assignments",
+                                                    "relevance":  "Students will develop an informed, systematic, critical perspective for the evaluation of a society and its policies.",
+                                                    "learning_resources":  "Readings will be available as PDFs or links available via the course Canvas page.",
+                                                    "extra_time_commitment":  "The student is expected to complete all readings and assignments outside of regular class time."
+                                            }
+}

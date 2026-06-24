@@ -1,0 +1,37 @@
+{
+        "code":  "76-892",
+        "name":  "Rhetoric of Public Policy",
+        "short_name":  "RHETORIC PBLC POLICY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores a rhetorical approach to public policy which focuses on the interconnected role that data, values, beliefs, and argument play in the policy process. From this perspective we will examine the important public debate over the pros and cons of various forms of energy production including nuclear, natural gas, and solar. In these investigations, we will explore questions like How do policy makers use rhetoric to shape public perspectives on energy production How can rhetorical approaches to argument function as tools for policy analysis and development And What role does technological expertise play in public debate To pursue these questions, we will be reading works in rhetorical theory and public policy and applying the concepts and methods in those works to exploring primary artifacts of public argument like records of public hearings, social media memes, handbooks designed by activists, and stories about energy production in the popular media.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

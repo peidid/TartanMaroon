@@ -1,0 +1,37 @@
+{
+        "code":  "67-390",
+        "name":  "Independent Study in Information Systems",
+        "short_name":  "IND STDY INFO SYSTMS",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  15.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Independent studies are opportunities to engage in research with an IS faculty member to advance your learning in certain areas of interest. Information Systems students may enroll in independent study for 3, 6, 9, or 12 units of academic credit by obtaining an IS faculty sponsor who will oversee the academic component of the coursework, monitor progress, and assign a final grade. This is available by Special Permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Independent studies are opportunities to engage in research with an IS faculty member to advance your learning in certain areas of interest.",
+                                                    "key_topics":  "Research in IS",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

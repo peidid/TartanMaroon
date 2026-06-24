@@ -1,0 +1,37 @@
+{
+        "code":  "76-407",
+        "name":  "Topics in Literary \u0026 Cultural Studies",
+        "short_name":  "TPCS LIT \u0026 CULT STUD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Spring 2022 There Are Black People in the Future. In 2018 the African American artist and CMU professor, Alisha Wormsley created a slogan for a billboard in Pittsburghs East Liberty that read THERE ARE BLACK PEOPLE IN THE FUTURE. The billboard had featured many artists and slogans over a period of years, but this one was taken down when the buildings landlord objected to the content. The controversy over this piece of art gives this course its name. There are black people in the future, and there are extraordinary black artists in Pittsburgh at this very moment. This special topics course will consider what some are calling a new Pittsburgh Renaissance in the black arts, from art to literature to film and music. Featured writers include Deesha Philyaw, The Secret Life of Church Ladies, Brian Broome, Punch Me Up To The Gods, and Damon Young, What Doesnt Kill You Makes You Blacker. We will also look at the work of the writer Jason England, the artists Alisha Wormsley, Vanessa German, Devan Shimoyama, the rapper Jasiri X, and the film maker Chris Ivey. An in depth look at these artists will be paired with an examination of the history of African Americans in Pittsburgh, and current economics, sociology and politics surrounding race in the city.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  "There will be 5-7 lectures/events with notable authors and artists that students will be expected to attend."
+                                            }
+}

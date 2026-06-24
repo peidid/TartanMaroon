@@ -1,0 +1,37 @@
+{
+        "code":  "42-202",
+        "name":  "Physiology",
+        "short_name":  "PHYSIOLOGY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-151 [] at least D) or (03-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to human physiology and includes units on all major organ systems.  Particular emphasis is given to the musculoskeletal, cardiovascular, respiratory, digestive, excretory, and endocrine systems.  Modules on molecular physiology tissue engineering and physiological modeling are also included.  Due to the close interrelationship between structure and function in biological systems, each functional topic will be introduced through a brief exploration of anatomical structure.  Basic physical laws and principles will be explored as they relate to physiologic function.  Prerequisite or corequisite  03121 Modern Biology, or permission of instructor.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Upon successful completion of this course, students will have a broad and practical understanding of physiological concepts, and the interrelationship between anatomy and physiology, and the complementarity of structure and function. Students will become proficient in mapping the interrelationships within a physiological system ranging from the smallest functional unit within a system to its integration within the hierarchy of functions across the system and interdependence between systems. Students will gain an appreciation of physiology as an endless interplay of control systems maintaining homeostasis across the hierarchy of organization of the human body from subcellular to complete organism.",
+                                                    "key_topics":  "Introduction to Physiology\nLevels of Organization:Molecular, Cellular and Tissue Physiology\nControl and Regulation:Nervous and Endocrine Systems\nSupport and Movement:Muscle and Skeletal Systems\nFluids and Transport:Circulatory, Lymphatic and Immune Systems\nEnvironmental Exchange:Digestive, Urinary and Respiratory Systems\nPhysiological Applications:Cancer, Tissue Engineering, Biomechanics, Reproductive Physiology",
+                                                    "prerequisite_knowledge":  "Modern Biology (03-121 OR 03-151)",
+                                                    "assessment_structure":  "Exams\nQuizzes\nHomework assignments\nFinal exam\nClass participation, attendance, effort",
+                                                    "relevance":  "he course takes a systems approach to physiology. Due to the close interrelationship between structure and function in biological systems, each functional physiology topic will include a brief overview of anatomic structure.\nThe physical and chemical laws that are the basis of the physiological processes will also be covered, and applications to current biomedical research and clinically relevant situations will be included.",
+                                                    "learning_resources":  "Principles of Human Physiology by Cindy L. Stanfield, 6th Edition, Benjamin Cummings, San Francisco, 2017\nA course notebook containing representative previous semester\u0027s quizzes, homework, extra credit, and exams, as well as answer keys will be placed on Canvas.\nDuring the course, handouts and relevant research articles will be distributed to supplement the text.\n\nEXCEL Collaborative Learning Group",
+                                                    "extra_time_commitment":  null
+                                            }
+}

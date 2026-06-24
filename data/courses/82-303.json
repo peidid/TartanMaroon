@@ -1,0 +1,37 @@
+{
+        "code":  "82-303",
+        "name":  "French \u0026 Francophone Cultures",
+        "short_name":  "FRNCH FRANCO CLTRS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(82-204 [] at least D) or (82-202 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "FALL 2024 Alternative Histories of 1789     Who writes the history that is passed down from generation to generation Who decides which voices should be heard, which voices should be ignored, and which version of history is the right one In this course, we will consider alternative histories of 1789, which is not to say, necessarily, that the officialized and accepted accounts of 1789 are wrong the question is whether they are complete. When historical accounts and the voices that tell them are marginalized, we may perhaps not see the fullest version possible.              In order to explore other, alternative accounts of France and the Revolution of 1789, we will rely on texts that recount versions of the revolution from different perspectives. Some voices to be investigated, besides a sampling of the most famous ones Louis XVI, MarieAntoinette, Philippe dOrlans, Marat, Danton, Robespierre... are those of Tussaud, Corday, de Gouges, de Stal, Sieys, and of the Girondins and the Montagnards in their civil war. We will examine pamphlets, posters, speeches, newspaper articles, satirical cartoons, memoires, art depicting the revolution, and literary works, with the goal of understanding multiple aspects of this seemingly larger than life historical event. Lastly, we will examine a supranatural telling of 1789, as another alternative history. All work will be in French.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Linguistic objectiveswriting, listening, speaking, and reading skillsadvanced grammar and style elementsvaried and extended vocabulary use Intercultural and Global Inquiry Objectivesexamine French and Francophone cultural contexts to uncover the roots of the French mentality and how this mentality oftentimes clashes with francophone, which is to say French, citizens who remain the Other even in the 21st century.evaluate how French and francophone worldviews influence the interpretation of past and current events, and the ongoing challenges of integration and identity of citizens from former colonies.analyze questions such as What is preventing full integration and How can integration be successful or Is integration desirable Content Objectives will vary depending on the topic",
+                                                    "key_topics":  "Current and/or historic interactions between France and francophone communities/countries/peoples.",
+                                                    "prerequisite_knowledge":  "82-202, placement test, or permission of the instructor. Ability to Express oneself in French writing and speaking at the Advanced (Third-year) level: Description, Comparison, Narration in present, past, and future tenses; Ability to understand written and spoken French at the Advanced (Third-year) level.",
+                                                    "assessment_structure":  "Continuous homework assignments requiring listening, reading, speaking, and listening exercises, class participation, content-oriented quizzes, oral presentations, final projects that could be in the form of written research, a presentation, etc.",
+                                                    "relevance":  "DC GenEd: Intercultural and Global Inquiry\n\nAbility to express oneself in French writing and speaking at the Advanced (Third-year) level, by placement test or previous coursework : Description, Comparison, Narration in present, past, and future tenses. Students should have a knowledge of French that is commensurate with taking an advanced French course. No particular content knowledge will serve as a prerequisite but some basic understanding of French culture and any additional knowledge base students bring to the course will be brought to bear.",
+                                                    "learning_resources":  "Web pages, online dictionaries, online videos, electronic texts; books may be required based on the instructor.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "33-114",
+        "name":  "Physics of Musical Sound",
+        "short_name":  "PHYS MUSICAL SOUND",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "An introduction to the physics and psychophysics of musical sound.  Elementary physics of vibrating systems. Propagation of sound traveling  waves, reflection, and diffraction. Addition of waves interference and  beats. Anatomy of the ear and the perception of sound loudness, pitch,  and timbre. Standing waves and natural modes. Qualitative description of  general periodic systems by Fourier analysis the harmonic series and  complex musical tones. The acoustics of musical instruments including  percussion instruments, such as drums, bars, and struck and plucked  strings and instruments exhibiting selfsustained oscillations, including  bowed strings, blown pipes, reeds, brasses, and singing. Intervals and  consonance, musical scales, tuning and temperament. Basic room and  auditorium acoustics. There are no formal prerequisites, but some previous musical experience will be useful.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The students will not only understand the basic physics of, but also the quantitative aspects of, music.",
+                                                    "key_topics":  "This course covers the physics behind sound, music, and musical instruments.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is required.",
+                                                    "assessment_structure":  "Homework and exams.",
+                                                    "relevance":  "The students will not only understand the basic physics of, but also the quantitative aspects of, music.",
+                                                    "learning_resources":  "Textbook, different musical instruments that the faculty and the students bring into the class.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

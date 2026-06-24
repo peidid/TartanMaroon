@@ -1,0 +1,37 @@
+{
+        "code":  "79-244",
+        "name":  "Women in American History",
+        "short_name":  "WMN AMERICAN HSTRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is a survey. It examines U.S. history through the eyes of women and gender. It begins in the colonial era 1600s and runs chronologically to the present. It covers topics such as witchcraft, the story of Pocahontas, womens work, motherhood, slavery, and much more. We will look at the lives of individual women, as well as trends among women, paying attention to questions of race and class. At the same time, we will explore changing concepts of gender, meaning ideas about what women are or should be. Finally, the course asks how different does American history look when we factor in women and gender",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-244",
+        "name":  "Student Taught Courses (StuCo): Sign Language Through Pop Music",
+        "short_name":  "STUCO: SIGN LANGUAGE",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this class, we will learn sign language to the rhythm of wellknown music Each class will cover a different topic, starting at fingerspelling and basic conversation and moving to signs for school and family topics. The history of sign language and deaf culture will be explored as well. Each week the assignment will be to learn the signs for the chorus of a song that uses words learned in class. The final project is to create a sign language music video. Each weekly session will be 80 minutes. The class will begin with a Pop QuizReview of prior vocabulary. Following that, we will learn the new vocabulary for about 30 minutes. Then, we will learn the assignment for the week, explore deaf history and culture, and play games in the remaining time.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to engage in basic conversational sign language, students will be able to sign 10 choruses of pop songs, students will complete a music video to a song of their choosing.",
+                                                    "key_topics":  "This course covers sign language, basic vocabulary, deaf culture, pop music, and independent final product.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Pop Quizzes: At the beginning of class each week, review of a word from the previous week\u0027s vocabulary list. If you remember the word, you will get a point. Six points for the semester will get you full credit (out of 10 weeks of vocab). Extra points will give you extra credit. These will be done in the first two minutes, so if you come late to class, you cannot make up these points. Be on time!\n\nHomework: Weekly assignment is to learn the correct signs for the chorus or verse of a song and submit a video to Canvas. For each incorrect or missed sign, we will deduct points. However, the speed of the lyrics and the difficulty of the song will be taken into consideration. Use the audio from the reference video while you sign is permitted, but you are not allowed to watch the video as you sign it (and should be making eye contact with the camera). Assignments will be due every Sunday at 11:59pm on Canvas.\n\nMidterm: Will take place at the beginning of class the seventh week. For each of the previous weeks\u0027 songs, a random group of students will sign a song in front of the class. Grades will be based 50% on sign completeness and 50% on effort.\n\nFinal Project: Students will pick a song with lyrics to present to the class. Working in groups is encouraged, and for the size of the group, the minimum time required is variable as shown below. You will be graded 50% on sign correctness and 50% on creativity, showmanship, and effort.\n\nEven though there is a minimum time, doing the whole song is encouraged. Doing minimum time, the time begins when the lyrics begin. You are allowed to edit the songs, do a mashup, take turns on the verses, create dances, etc. Be creative! Have fun!",
+                                                    "relevance":  "This course will give students a very basic understanding of sign language and deaf/hard of hearing culture.",
+                                                    "learning_resources":  "Canvas course page, course website, office hours with TAs and instructor.\nWe will have meetings to go over needed signs that we haven\u0027t learned, as needed/requested. Also, online dictionaries are a good resource for looking up new signs.",
+                                                    "extra_time_commitment":  "Homework once a week and creation of final project videos are to be completed outside of class time."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "79-341",
+        "name":  "Football and Futbol: American \u0026 Global Perspectives",
+        "short_name":  "FOOTBALL:AM\u0026GL PERSP",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "At least in the United States, the cultural reach of football is immense. American football owns a day of the week Sunday has now become NFL Sundays. Why is the United States different in choosing football over ftbol i.e., soccer Why is soccer the most popular game in the world but not in America This course will trace soccers origins as a medieval ball game to an upperclass English activity to a global phenomenon that was largely a result of trade, colonization, and war. We will also examine how and why American football emerged in U.S. colleges during the latenineteenth century and eventually became the most popular sport nationally. Readings will include primary sources, books, and journal articles that place both sports in the context of ongoing debates about race, class, and gender. You will have an opportunity to share what you learn through inclass discussions as well as shortessay and shortanswer writing assignments. By the end of the semester, you will have a better appreciation as to why football and ftbol remain the most popular sports in the United States and the world.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will improve their writing and become more efficient oral and written communicators. Students will be able to critically examine sports as more than mere games. They will analyze the subject as a larger reflection of important global social, economic, cultural, and political issues.",
+                                                    "key_topics":  "We will use the growth and development of football and fútbol in the context of ongoing debates about race, class, and gender.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is assumed or required.",
+                                                    "assessment_structure":  "There will be extensive reading, three short (1-2 pp) response papers on a chosen reading, two short essays (4-5pp), and a final cumulative essay (6-7pp.). Students will also be graded on their participation during in-class discussions.",
+                                                    "relevance":  "As citizens of the United States and other countries, the students will better appreciate the combined social, cultural, political, and economic reasons that led to these sports (football and fútbol \"soccer\") becoming an integral part of respective cultures.",
+                                                    "learning_resources":  "While I am still deciding which books to assign (there will be two), students will be required to read various articles and primary sources posted on Canvas.",
+                                                    "extra_time_commitment":  "There will be no extra time commitment outside of the time it takes students to read the brief assigned readings and the two books that are assigned."
+                                            }
+}

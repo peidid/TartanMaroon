@@ -1,0 +1,37 @@
+{
+        "code":  "73-394",
+        "name":  "Development Economics",
+        "short_name":  "DEVELOPMENT ECONOMCS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-240 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will explore issues relating to economic development in low and middleincome countries.  We will discuss topics such as economic  growth and inequality, education, health, the family, and the markets for land, labor, and credit.  We will study how market failures can potentially prevent economic growth in the developing world.  Also we explore the effectiveness of different types of policies in promoting development.  The course will use both economic theory and empirical methods to answer these questions. Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "67-475",
+        "name":  "Innovation in Information Systems",
+        "short_name":  "INNOV IN INFO SYSTEM",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(67-373 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is a senior level teambased capstone experience that aims to capture the challenge and excitement of creating a solution that adds value  whether a process, product or service  and to provide students with an opportunity to experience the innovation process. In this course, we will focus on exploring various types of innovation e.g. design thinking, blue ocean, business innovation, etc.. This course will also help you develop a new set of tools aimed at framing challenges, addressing the right problems, and thinking outside of the box to solve present and future business challenges. The purpose of this course is not merely to create a new app but to identify a real problem or business need, and to apply structured tools in order to solve the problem. To substantiate their thinking, teams will talk to stakeholders and users observe people in their native environments consider real physical, technical, and social constraints and understand how to identify and resolve users needs and pain points.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

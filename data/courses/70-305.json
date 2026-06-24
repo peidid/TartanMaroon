@@ -1,0 +1,37 @@
+{
+        "code":  "70-305",
+        "name":  "Business Leadership Endeavor III",
+        "short_name":  "BLE III",
+        "units":  4.0,
+        "min_units":  4.0,
+        "max_units":  4.0,
+        "prereqs":  {
+                                        "text":  "(70-205 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Business Leadership Endeavor BLE is a required 3mini course sequence offered to undergraduate business students. BLE 70305 is the third mini of the BLE course sequence. BLE introduces students to their leadership journey via four development frameworks student development, personal development, professional development, and community development. BLE 70305 will continue to build strong personal and professional skills as students get closer to their professional endeavors. Students will be applying learned skills in and out of the classroom and will begin to see the how the assembled skills are beneficial to themselves and others. This course will emphasize the importance of continued broad growth and lifelong learning.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

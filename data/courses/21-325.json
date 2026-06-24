@@ -1,0 +1,71 @@
+{
+        "code":  "21-325",
+        "name":  "Probability",
+        "short_name":  "PROBABILITY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-128 [] at least D) or (15-150 [] at least D) or (21-127 [] at least D)) and ((21-268 [] at least D) or (21-269 [] at least D) or (21-256 [] at least D) or (21-259 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "36-218",
+                                                    "id":  8831,
+                                                    "name":  "Probability Theory for Computer Scientists",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "15-259",
+                                                    "id":  9461,
+                                                    "name":  "Probability and Computing",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "36-219",
+                                                    "id":  10129,
+                                                    "name":  "Probability Theory and Random Processes",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "36-225",
+                                            "id":  359,
+                                            "name":  "Introduction to Probability Theory",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-218",
+                                            "id":  8831,
+                                            "name":  "Probability Theory for Computer Scientists",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-235",
+                                            "id":  11431,
+                                            "name":  "Probability and Statistical Inference I",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "This course focuses on  the understanding of basic concepts in probability theory  and illustrates how these concepts can be applied to develop and analyze a variety  of models arising in computational biology, finance, engineering and computer science. The firm grounding in the fundamentals is aimed at providing students the  flexibility to build and analyze models from diverse applications as well as preparing the interested student for advanced work in these areas.  The course will cover core concepts such as probability spaces, random variables, random vectors, multivariate densities, distributions, expectations, sampling and simulation independence, conditioning, conditional distributions and expectations  limit theorems such as the strong law of large numbers and the central limit theorem as well as additional topics such as large deviations, random walks and Markov chains, as time permits.  Three 50 minute lectures",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "Multivariable calculus. Mathematical proofs.",
+                                                    "assessment_structure":  "Varies, typically homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

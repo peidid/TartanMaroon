@@ -1,0 +1,37 @@
+{
+        "code":  "79-294",
+        "name":  "Islam on the Main Street in the West since the 18th Century",
+        "short_name":  "ISLM MN ST WS 18 CNT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is offered only at Carnegie Mellon in Qatar.  This introductory course to the humanities and social sciences through the prism of religion and faith, aims at  1. analyzing the interaction between these central disciplines and at appreciating the significance of Western and Islamic humanism and applying it to the present context of cultural globalism, confrontation and dialogue 2. becoming familiar with some important literary texts of the modern era 3. learning how to articulate ones thoughts in a cogent manner. The discussion will stress how religion, a powerful instrument of socialization may, under some circumstances, foster intolerance and inequality or openmindedness and tolerance. Understanding this process may lead to a new appreciation of classical Western writings.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

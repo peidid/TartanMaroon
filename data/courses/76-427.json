@@ -1,0 +1,37 @@
+{
+        "code":  "76-427",
+        "name":  "Topics in Rhetoric: Audience",
+        "short_name":  "TPCS IN RHET: AUDIEN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The purpose of this course is to provide students with an understanding of the nature and evolution of contemporary audiences and how they can be contextualized to cover audiences as both  consumers of knowledge and information products, as well as coproducers. This course traces the history of audiences by juxtaposing understandings from rhetoric, composition studies, media scholarship, social interactions, technical communication genres, focusing especially on emerging technologies like AI. Students in this class will learn to use several sources of data and information to analyze the audiencetaskscontexts for the design and development of information products, assess its effectiveness through user experience research, and reflect on ethical research practices for doing the same. The course provides in depth coverage of rhetoric as a historically rooted but evolving humanistic perspective covering circulation and reproduction, performance and text, and delineating its connections to logic, aesthetics, politics, and ethics. This class does not require any background in rhetoric, digital studies, or multimodal composing.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students will learn to articulate who audiences are, differentiate between users and audiences, analyze their needs using various research methods and technologies, develop interdisciplinary skills to identify and provide for diverse audience needs and expectations.",
+                                                    "key_topics":  "user experience, responsible technology design, data analytics",
+                                                    "prerequisite_knowledge":  "No prior knowledge necessary",
+                                                    "assessment_structure":  "Assignments such as user analysis/experience research, designing chatbots, usability testing reports, and reflective essays.",
+                                                    "relevance":  "The course is designed for people interested in understanding of audiences of users and want to design tools and information for diverse population groups in more meaningful ways.",
+                                                    "learning_resources":  "Readings, training videos, and in-class workshops",
+                                                    "extra_time_commitment":  null
+                                            }
+}

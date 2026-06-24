@@ -1,0 +1,37 @@
+{
+        "code":  "82-412",
+        "name":  "Topics in Arabic Studies",
+        "short_name":  "TOPICS ARABIC STDS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores both spoken e.g. job interviews, business meetings and written e.g., application letters, progress reports, complaints, appeals professional genres. The course will focus on both the particular resources that are needed for conveying particular messages, and the influence of social and contextual factors on our linguistic choices. To this end, students will 1 analyze and critique written and spoken professional texts, and 2 produce and present spoken and written professional texts. Moreover, the course is taught in a seminar, discussionbased format and students will construct projects to explore course topics in a handson manner. The course is mainly conducted in Arabic, but multilingual and multidialectal practices are welcome as they increase participation, and maximize knowledge construction.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to present and discuss ideas in a clear manner. They can achieve up to AdvancedMid level ACTFL.",
+                                                    "key_topics":  "(see course description)",
+                                                    "prerequisite_knowledge":  "82-411 or permission of the instructor.",
+                                                    "assessment_structure":  "Class participation, homework, essays, presentations and skits, final project (essay and presentation).",
+                                                    "relevance":  "This course is relevant to students who want to continue learning Arabic at the Advanced level to keep developing their linguistic and cultural repertoires. The course contributes to such goals of the Department of Modern Languages as Communication, Collaboration, and Cultural Knowledge.",
+                                                    "learning_resources":  "Course packet, dialogue videos, materials on Quizlet and Canvas provided by instructors, and other materials online.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

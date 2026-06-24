@@ -1,0 +1,37 @@
+{
+        "code":  "67-339",
+        "name":  "User-Centered Web Design",
+        "short_name":  "USERCENTERED WEB DES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(67-262 [] at least D) and (67-265 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "UserCentered Web Redesign builds on the students knowledge of design fundamentals, adding a stronger focus on user studies and usability testing. Our object of study is the redesign the website created as the final projects in Database Design and Development in order to synthesize design thinking as a system that not only functions on the back end but also on the front. Students engage in user studies by first developing an hypothesis of the user that they test through interviews and observations, leading to a revised hypothesis that more fully appreciates the users goals, tasks, and internal barriers. Students will use these insights to develop site architecture through card sorting for organization, stress testing for navigation, and label testing for language use. The architecture of the site will then be explored for the visualverbal communication design needed to help users perform tasks that meet their goals, which students will confirm through usability testing. Students will not only gain a stronger understanding of why I am not the user, they will also gain insights concerning the complex features that inform a fully functional site.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

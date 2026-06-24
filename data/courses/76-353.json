@@ -1,0 +1,37 @@
+{
+        "code":  "76-353",
+        "name":  "Transnational Feminisms:  Fiction and Film",
+        "short_name":  "POSTCOLONIAL STUDIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How do controversial practices related to women become touchstones that draw women together across cultures or, conversely, push them into separate cultural and political spheres  This introductorylevel course familiarizes students with the challenges transnational feminism has posed to Western notions of feminism.  To explore these contestations, we will look at a series of controversies.  We will read these controversies through novels, drama, short stories and films, with some secondary theoretical readings.  This course will take six case studies concerning cultural practices that have generated global debates about the status of women and issues like consent, freedom, and equality.  Beginning with several works about regionalIslamic practices of veiling, we will look specifically at the close connections made between womens practices and elements of tradition, including religion.  With an eye toward historicizing feminist interventions, we will look at 19th century debates on sati, commonly called widow burning, in India, to see how certain issues became loci for global intervention during colonial periods and, later, for global feminist movements.  Within the contemporary period, we will turn to cultural, economic and political practices like female genital cutting, transnational domestic labor, global sex trade, and transnational forced marriage.  For each of these controversies, we will be reading a range of positions represented in different types of writing across genre, with a focus on literary and filmic depictions.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

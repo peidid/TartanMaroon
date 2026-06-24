@@ -1,0 +1,37 @@
+{
+        "code":  "82-180",
+        "name":  "Bilingual \u0026 Bicultural Experiences in the US",
+        "short_name":  "BILING \u0026 BICULT EXPR",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on various aspects of bilingualism and biculturalism in the United States, with particular emphasis on the experiences of those who identify as a speaker of a heritage language andor member of a heritage culture. Some possible topics to be covered include the nature of bilingualism and biculturalism the historical and social contexts of bilingualism in the United States characteristics of languages in contact and bilinguals language practices policies around heritage language maintenance in education and the connection between language, culture, and identity. This discussionbased course is taught in English and is open to all students, whether they identify as bilingualbicultural Americans, or are simply interested in the course topic.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

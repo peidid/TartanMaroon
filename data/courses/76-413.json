@@ -1,0 +1,37 @@
+{
+        "code":  "76-413",
+        "name":  "Book Design: A Cultural History",
+        "short_name":  "BOOK DESIGN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Today the book is thriving despite earlier predictions of its death at the hands of the digital media.  What has made the book so powerful a medium over six centuries This course will take you into the books makeup, design, and impact over time. We study how the book was made at different times in its historyfor instance, the manuscript book medieval, the handpress book Renaissance and eighteenth century, the machinemade book 1800s to present. We also ask how todays databases like Google Books make us see new dimensions of the print medium that were not visible earlier. Likewise we will study theories of the print medium and the cultural effects of the book among readers and social groups. Students will have handson experience with a printing press and the Rare Book archives at Hunt and Hillman libraries. Two papers and shorter assignments will be required. Please note firstyear students are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

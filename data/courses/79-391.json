@@ -1,0 +1,37 @@
+{
+        "code":  "79-391",
+        "name":  "Nations and Nationalisms in South Asia",
+        "short_name":  "NATIONAL S ASIA",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the role which nationalism has played in the formation and political development of the nations and states of South Asia.  It, therefore, examines nationalist forces in anticolonial struggles, in postcolonial state formation and in contemporary political developments. It will be of relevance to students with an interest in political developments in Asia, with particular reference to forms of nationalism and nationbuilding.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will improve their skills in several areas including historiographical knowledge, critical thinking, and analytical writing.",
+                                                    "key_topics":  "This course examines the role which nationalism has played in the formation and political development of the nations and states of South Asia. It, therefore, examines nationalist forces in anti-colonial struggles, in post-colonial state formation and in contemporary political developments. It will be of relevance to students with an interest in political developments in Asia, with particular reference to forms of nationalism and nation-building.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Participation in recitations, research paper, quizzes, final essay.",
+                                                    "relevance":  "Students reading this course will be able:\n·\nto distinguish between different forms of nationalism;\n·\nto explain the impact of nationalism on contemporary political developments in Asia; and\n·\nto develop an in-depth knowledge of the contemporary political developments of the South Asian states.",
+                                                    "learning_resources":  "Articles will be uploaded to canvas every week.",
+                                                    "extra_time_commitment":  "For doing research, students will be required to spend extra time outside of the regularly scheduled course meeting times."
+                                            }
+}

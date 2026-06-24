@@ -1,0 +1,37 @@
+{
+        "code":  "76-793",
+        "name":  "Narrative \u0026 Argument",
+        "short_name":  "NARRATIVE \u0026 ARGUMENT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is a course for nonEnglish majors interested in understanding and practicing writing as an art of design thinking and decisionmaking. We work through seven writing exercises divided into experiential and informational clusters and we discuss the underlying design principles that unite and divide these clusters. Experiential writing think characterbased fiction, personal profiles, travel writing, narrative histories supports reader learning but in an indirect, unsupervised fashion. Students write short papers within each of these clusters to glimpse and grapple with the different compositional design challenges. Within experiential writing, students practice making themselves from the first person and third parties characters readers can come to know and care about. They practice immersing readers within immediate and historical scenes by creating the feel of extended space or elapsed time. Within information writing, students practice presenting readers with new ideas by following the readers native curiosity exposition, guiding readers through manual tasks instruction, and structuring readers decisionmaking argument in controversies when there are multiple decision paths. Argument is a capstone of information writing that bids for social and political change. While writing for experience and writing for information are distinct clusters, they are highly interactive and the best information writers routinely import techniques of experiential writing into their craft to enliven and layer the readers experience. Technologies for making visible for students their tacit decisionmaking over hundreds and thousands of compositional moves when writing experience and information are introduced and provide students a literal lens on the texts they write as an endlessly curious design artifact.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

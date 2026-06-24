@@ -1,0 +1,37 @@
+{
+        "code":  "16-384",
+        "name":  "Robot Kinematics and Dynamics",
+        "short_name":  "ROBOT KNMATCS DYNMCS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) or (16-311 [] at least D) or (24-311 [] at least D) or (21-241 [] at least D) or (18-202 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Foundations and principles of robotic kinematics. Topics include transformations, forward kinematics, inverse kinematics, differential kinematics Jacobians,  manipulability, and basic equations of motion. Course also include programming on robot arms.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "to learn and then implement the key topics in transformation, forward kinematics, inverse kinematics, differential kinematics Jacobians, statics, dynamics",
+                                                    "key_topics":  "transformation, forward kinematics, inverse kinematics, differential kinematics (Jacobians), statics, dynamics",
+                                                    "prerequisite_knowledge":  "linear algebra and calc in 3D",
+                                                    "assessment_structure":  "homeworks, labs, and exams",
+                                                    "relevance":  "kinematics and dynamics of robots are critical to understand how to design and program robots",
+                                                    "learning_resources":  "Two modular robot arms in an educational robotics lab",
+                                                    "extra_time_commitment":  null
+                                            }
+}

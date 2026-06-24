@@ -1,0 +1,66 @@
+{
+        "code":  "76-222",
+        "name":  "Creative Writing Matters",
+        "short_name":  "CRTV WRTG MATTER",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "76-102",
+                                                "id":  4567,
+                                                "name":  "Advanced First Year Writing: Special Topics",
+                                                "units":  9.0
+                                        },
+                                        {
+                                                "code":  "76-101",
+                                                "id":  4568,
+                                                "name":  "Interpretation and Argument",
+                                                "units":  9.0
+                                        },
+                                        {
+                                                "code":  "76-108",
+                                                "id":  8680,
+                                                "name":  "Writing about Public Problems",
+                                                "units":  4.5
+                                        },
+                                        {
+                                                "code":  "76-107",
+                                                "id":  8681,
+                                                "name":  "Writing about Data",
+                                                "units":  4.5
+                                        },
+                                        {
+                                                "code":  "76-106",
+                                                "id":  8682,
+                                                "name":  "Writing about Literature, Art and Culture",
+                                                "units":  4.5
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will explore at least two of the meanings of the word mattersas in is of importance, and as in things, concerns. Through reading and writing, and meeting with the authors of all the books they will be reading, students will discover and discuss how creative writing engages with the world around us while also learning some of the important techniques of writing creatively in various genres, including scriptwriting, fiction, nonfiction, and poetry. The class will read a wide variety of books, and students will have the opportunity to interact with the authors through public readings and classroom visits. In addition, the class will take advantage of other literary events happening around Pittsburgh in order to further examine places where writing comes off the page and engages with the world. Revision will be required and emphasized.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

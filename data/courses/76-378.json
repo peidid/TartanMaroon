@@ -1,0 +1,37 @@
+{
+        "code":  "76-378",
+        "name":  "Literacy: Educational Theory and Community Practice",
+        "short_name":  "LITERACY \u0026 COM\u0027TY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Literacy has been called the engine of economic development, the road to social advancement, and the prerequisite for critical abstract thought. But is it  And what should count as literacy using the discourse of an educated elite or laying down a rap  This course combines theory, debate, and handson community engagement. Competing theories of what counts as literacyand how to teach itshape educational policy and workplace training.  However, they may ignore some remarkable ways literacy is also used by people in nonelite communities to speak and act for themselves.  In this introduction to the interdisciplinary study of literacyits history, theory, and problemswe will first explore competing theories of what literacy allows you to do, how people learn to carry off different literate practices, and what schools should teach. Then we will turn ideas into action in a handson, community literacy project, helping urban students use writing to take literate action for themselves. As mentors, we meet on campus for 8 weeks with teenagers from Pittsburghs inner city neighborhoods who are working on the challenging transition from school to work. They earn the opportunity to come to CMU as part of Start On Success SOS, an innovative internship that helps urban teenagers with hidden learning disabilities negotiate the new demands of work or college. We mentor them through Decision Makers a CMU computersupported learning project that uses writing as a tool for reflective decision making.  As your SOS Scholar creates a personal Decision Makers Journey Book and learns new strategies for writing, planning and decision making, you will support literacy in action and develop your own skills in intercultural collaboration and inquiry.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To have an interdisciplinary understanding of an educational and social issueTo create both an academic analysis of a controversy and a theoretically and experientially grounded study of a literate practice.To make a difference in the life of a mentored student",
+                                                    "key_topics":  "Literacy, education, intercultural inquiry, community engagement",
+                                                    "prerequisite_knowledge":  "none required",
+                                                    "assessment_structure":  "Short written assignments and two papers.",
+                                                    "relevance":  "an introduction to an important educational debate and social issue\n\n\npractice in first in writing about controversy and then in conducting their own multi-voiced inquiry\n\n\ntraining and experience in intercultural inquiry and mentoring\n\n\nopportunity for meaningful social engagement grounded in critical understanding",
+                                                    "learning_resources":  "web pages and sample texts, texts, collaborative planning sessions on their work-in-progress",
+                                                    "extra_time_commitment":  "some interview research for final paper"
+                                            }
+}

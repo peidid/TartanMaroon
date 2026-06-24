@@ -1,0 +1,37 @@
+{
+        "code":  "79-396",
+        "name":  "Music, Art, and Society in 19th and 20th Century Europe and the U.S.",
+        "short_name":  "MUS,ART,SOC 19/20THC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will explore the interrelations between society, classical and popular music, and art in the nineteenth and early twentieth centuries in Europe and the United States. We will examine the importance of different musical forms in the life of society and how music and art reflected changing political and cultural consciousness in several national settings. We will also analyze trends in artistic expression by examining the collections and historical development of several notable European and American art museums. The curriculum in other words, will derive from the artistic presentations themselves  symphonies, operas, chamber music, ballet, and art exhibits  which will provide a springboard for reading assignments, discussions, a personal artistic journal, and written assignments that will help you synthesize your diverse forays into the history of music and art. In addition to visiting Carnegie Museums of Pittsburgh, students will be taking to the performances of the CMU School of Drama, Pittsburgh Symphony, Pittsburgh Opera, chamber music concerts, performances of the Pittsburgh Cultural Trust. A supplemental fee of 170 will be charged to help subsidize the considerable expense of purchasing tickets for concerts and performances.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

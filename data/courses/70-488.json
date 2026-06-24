@@ -1,0 +1,37 @@
+{
+        "code":  "70-488",
+        "name":  "Marketing Digital Media",
+        "short_name":  "MARKTNG DIGITL MEDIA",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(70-381 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Formerly titled Interactive Marketing In this course we analyze how marketing practice changes when products are distributed and consumed in digital formats. This course focuses on several areas where digitization is likely to have the most profound affect on the field of marketing. These areas include promotion, competitive strategy, channel conflict, pricing, and identifying and differentiating customers. We will use both lectures, cases, and analysis of realworld datasets to analyze these issues.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

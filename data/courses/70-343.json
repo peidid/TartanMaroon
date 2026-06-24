@@ -1,0 +1,37 @@
+{
+        "code":  "70-343",
+        "name":  "Interpersonal Communication",
+        "short_name":  "INTRPERSNL COMMNCATN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-340 [] at least D) or (76-270 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines various types of interpersonal communication usually found in business situations. Topics covered will vary each semester, but can include business and social etiquette, ethics in business, dressing for success, interviewing skills, leadership skills, listening skills, how to run a successful meeting, intercultural communications, motivating employees, negotiating, networking in business, nonverbal communications, performance appraisals, power communication, telephone skills and teamsmall group communication. Cocurricular events will be required and may include conducting mock interviews, role playing business luncheons and navigating business social events.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

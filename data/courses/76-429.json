@@ -1,0 +1,37 @@
+{
+        "code":  "76-429",
+        "name":  "Introduction to Digital Humanities",
+        "short_name":  "INTRO TO DH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is a learn by doing introduction to questions and methods in digital humanities, with special emphases on common tasks in digital history, digital literary studies, library science, and cultural analytics. Students will likely partner with a national humanities organization to tackle realworld humanities problems while developing core computational competencies such as those required for gathering data text mining, APIs, transforming data OCR, regular expressions, natural language processing, image magick, file management shell commands, data visualization matplotlib, arcGIS, and more. This course is for juniors and seniors.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to\nuse computers more effectively for their research\ncollaborate more effectively with diverse communities\nadd new skills and programming packages to their CVs",
+                                                    "key_topics":  "digital humanities, digital history, cultural analytics, digital literary studies, library science, basic programming",
+                                                    "prerequisite_knowledge":  "Students should either come with experience studying and writing about humanities subjects, or experience employing technical, statistical, or design approaches to create things or solve problems. All students should be interested in the cultural world around them.",
+                                                    "assessment_structure":  "Group projects and presentations\n\n\nYou will be responsible for three short, ungraded essays (\"wreading\" assignments) over the course of the semester. These assignments are low-stakes and are intended to facilitate creative and engaged thinking about the readings. You will distribute your wreading exercises to the class, and they will provide a jumping-off point for class discussions.\n\n\n\nProject Proposal\n\n\nAbout a third of the way through the semester, you will be responsible for a project proposal with two components, (a.) an in-class presentation to the class \"pitching\" classmates on your idea; (b.) a 4-5 page written description of the project detailing the rationale, proposed outcomes, data sources, known challenges, and proposed workarounds.\n\n\n\nFinal Projects\n\n\nFollowing the project proposals, class members will choose 3 or so of the proposed projects to develop collaboratively over the remainder of the semester. Final projects may be in the form of a website, a dataset, a film, an essay, or any combination of the above.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "may include partnership with National Humanities Alliance",
+                                                    "extra_time_commitment":  null
+                                            }
+}

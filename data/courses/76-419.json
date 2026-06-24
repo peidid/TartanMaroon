@@ -1,0 +1,37 @@
+{
+        "code":  "76-419",
+        "name":  "Media in a Digital Age",
+        "short_name":  "MEDIA DGITL AGE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How are media in a digital age changing And how are they changing us What does it mean to be living in todays communication technology revolution In a time when many forms of communication are digitally based, traveling as bits at espeeds on global computer networks To begin answering these questions, we will take as case studies several new discursive digital media formations, such as digital books, online newspapers, blogs, wikis, and so forth, along with related social formations, such as social media networksand distributed nonprofit activist organizations. The readings will provide a range of lens by which to understand these developments, including cognitive, social, political, economic and technological aspects. We will briefly put the development of communication technologies in their historical context How were new forms of communication received in the past How were they used How did they affect communication How did they influence political and social institutions We will focus, however, on using knowledge of historical developments to inform our understandings of current digital communication developments.  Along the way we will ask questions, such as  What are some of the challenges that new digital formations present to traditional communication theories e.g., How is trust established when speakers are anonymous and globally distributed How is the public sphere constituted when Internet search engines dynamically construct it. Please note Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course you will\nHave gained a theoretical understanding of digital communication media, through readings and indepth class discussion of key articles in the field.\nHave gained an understanding of how researchers conduct their research, through readings and indepth class discussion of articles and through their term projects.\nHave gained an indepth understanding of a selected area of digital communication, through your term paper and class presentation.\nHave conducted original research",
+                                                    "key_topics":  "Digital media",
+                                                    "prerequisite_knowledge":  "Good reading and writing skills; experience with digital media",
+                                                    "assessment_structure":  "Readings and in-depth class discussion of articles and through term projects.",
+                                                    "relevance":  "Understanding digital media is important to students interested in communications and communications research.",
+                                                    "learning_resources":  "Books and articles; example(s) of succesful work from students in previous semesters",
+                                                    "extra_time_commitment":  null
+                                            }
+}

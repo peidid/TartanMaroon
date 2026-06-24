@@ -1,0 +1,37 @@
+{
+        "code":  "98-374",
+        "name":  "Student Taught Courses (StuCo): Steep by Steep: Investeagation into Tea Culture",
+        "short_name":  "STUCO: TEA CULTURE",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Not only is tea one of the most widely consumed beverages in the world, but many cultures have developed unique traditions surrounding it. In this course, students will be introduced to the rich history surrounding tea in various countries including but not limited to the US, China, Japan, Russia, and Morocco. Students will also become familiar with a wide variety of brewing methods and types of tea as well as get the opportunity to sample some of these teas. There will be very short quizzes before every lecture on prior material covered. COURSE FEE 2 subject to change.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Learn about the science of tea and the tea making process, multiple cultures tea practices, and the history of tea.",
+                                                    "key_topics":  "Gain a greater appreciation for tea\nDescribe the different types of tea discussed in class\nConnect teas of different origins through the lens of nationality/hospitality/spirituality\nUnderstand the different types of teas and how they are grown and processed\nUnderstand the complexities of different cultures through the lens of tea",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "The final course grade will be calculated using the following categories: attendance/participation, pre-lecture quizzes, and assessments. Attendance will be measured through a Google Form during each class. There will be a short quiz due right before each lecture on material from the previous week. Students will be allowed to miss a maximum of three quizzes without penalty. If more than three quizzes are missed, students will get a 0 for the quiz portion of their grade and 15% off their participation grade. There will be a midterm and a final project for this course. The midterm will be an in-class mystery tea sampling exercise. The final will be a tea journal with entries for at least 3 types of tea.",
+                                                    "relevance":  "Every country has a unique tea culture and this course provides a platform to learn about those cultures and gain a deeper appreciation for these cultures and teas.",
+                                                    "learning_resources":  "The Canvas course will contain a tea sampling list of all the teas we sample, the lecture slides, pre-lecture quizzes, and supplemental videos.",
+                                                    "extra_time_commitment":  "Weekly pre-lecture quiz on the previous lecture\u0027s content that is due the following week of class."
+                                            }
+}

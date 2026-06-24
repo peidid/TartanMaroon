@@ -1,0 +1,37 @@
+{
+        "code":  "76-358",
+        "name":  "Making the Documentary",
+        "short_name":  "MAKING THE DOC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-292 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Making The Documentary This is a oneofakind course where students working alongside an experienced film director will take part in a handson documentary project from concept to finished product. The course will explore the documentary filmmaking process from conceptdevelopment through to production and postproduction with the intention of completing a short documentary. The title of the doc will be, Coffee, Capitalism and Consciousness.   We will be exploring What role has coffee played in connecting people and places to capitalist markets and consumer cultures What are the economic, social, and environmental consequences of these connections How did espresso change from an ethnic drink to something served at McDonalds Why do college students and professors hang out in coffee shops We will follow the spread of coffee and capitalism across the globe, with local interviews with how various people grow coffee Ethiopia, Yemen, Indonesia, Brazil, and Costa Rica, and also where they drink coffee Seattle, Tokyo, Seoul, New York, and Berlin. In the process, we will confront global problems linked to economic inequality, trade, gender relations, and environmental degradation.  Students will be required to engage in concept development, researching, producing, and editing through to final distribution. Students will take part in organizing and ordering the footage, choosing screen selects, creating rough cuts, and fine cuts in order to find the heart of the documentary. Pickup shoots, Broll, archival material, music, and sound design will also be considered as needed.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "What defines a documentary.\nHow to prepare to produce and research a documentary topic.\nHow to prepare to go into the field to shoot a documentary.\nWhat goes into the postproduction of a documentary.\nHow to shape a film so that disparate footage can be transformed into a coherent, distilled, powerful story.",
+                                                    "key_topics":  "Key elements\nStory: A compelling, well-defined story with a clear purpose\nEvidence: Thorough research and evidence to support the documentary\u0027s claims\nVisuals: Effective use of archival footage and cinematography\nNarration: Verbal commentary or an invisible voice to present the documentary\u0027s argument\nInterviews: Interviews with people involved in the story",
+                                                    "prerequisite_knowledge":  "Some inroduction to film production and/or screenwriting will be mandatory",
+                                                    "assessment_structure":  "Attendace, in class discussions, assignments, participations",
+                                                    "relevance":  "For film majors this course will be exceptionally relevant. This will help in building their portfolios and resumes. For non-filmmakers the course will provide an in-depth experience of various documentary styles.",
+                                                    "learning_resources":  "Production equipment.",
+                                                    "extra_time_commitment":  "There may be extra time requirements outside of classtime."
+                                            }
+}

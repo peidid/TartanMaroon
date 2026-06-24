@@ -1,0 +1,37 @@
+{
+        "code":  "70-364",
+        "name":  "Business Law",
+        "short_name":  "BUSINESS LAW",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(70-340 [] at least D) or (76-102 [] at least D) or (76-101 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course covers the fundamental principles of law that govern business affairs in the United States, with some reference to the laws of other countries.  The topics include constitutional sources of business law, administrative agencies, contract law, agency, employment, business forms corporations, partnerships, limited partnerships, limited liability companies, agency arrangements, franchises, intellectual property and unfair competition, legal liability of professionals, international trade and antitrust.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To enable students recognize how business is conducted, to protect themselves from liability in business and personal life.",
+                                                    "key_topics":  "Creation and enforcement of contracts, creation of intellectual property, anatomy of a lawsuit including jurisdiction, understanding the role of the US Constitution in regulating commerce and personal rights, creation of agency, antitrust and forms of doing business.",
+                                                    "prerequisite_knowledge":  "To be successful, a student must have a general familiarity, from the education system and/or real-life experience, of the American government structure. The broad parameters of that structure are laid out in the Constitution of the United States (Appendix A of the course text).",
+                                                    "assessment_structure":  "4 Quizzes that count 15% each, Final that counts 30%, Attendance/Class Participation that counts 10%.",
+                                                    "relevance":  "Students will learn to understand the regulation of commerce including the forms of doing business.",
+                                                    "learning_resources":  "Business Law by Mallor, et al., Sixteenth Edition.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "67-204",
+        "name":  "Blockchains in Industry",
+        "short_name":  "BLOCKCHAINS IN IND",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Industry experts characterize blockchains as breakthrough technology that has the same transformative power as that of the Internet. Blockchains have the potential to solve a variety of problems that benefit from a decentralized model of trust. This course will help students understand fundamental blockchain concepts and develop industry case studies of blockchain applications to finance, insurance, energy, healthcare, real estate, etc.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

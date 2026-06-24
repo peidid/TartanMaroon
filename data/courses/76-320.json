@@ -1,0 +1,37 @@
+{
+        "code":  "76-320",
+        "name":  "The Writer\u0027s Room: TV Writing",
+        "short_name":  "WRITER\u0027S RM TV WRITG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "76-269 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will focus on writing dramatic serial television. The class will operate as a writers room. Students will develop a story document, pitch their show, and develop and write a pilot and episodes of an original television show. We will not write scifi, fantasy or anime. The mystery or thriller genres will be considered if the story operates within the lives of normal people doing extraordinary things, think The Americans or Homeland. During the first three weeks of the semester we will study pitch documents, pilot episode scripts and the pilot episodes from some of the most critically esteemed TV shows of the last few decades Homeland, Nurse Jackie, Killing Eve, and The Bear. Screenings will take place outside of class. We will study the structure of a television script. We will study the assignments and duties of the various positions within a typical writers room. Students will interview for staff positions with the showrunner the instructor and be assigned various job titles coexecutive producer, producer, supervising producer, executive story editor, story editor, writer. We will build our own show from concept to scripts. As a group we will write and edit the pilot script. Depending on class size we will break into writing teams and write and revise 34 more episodes of our show. The major graded project for the course will be the episodes that students write alone or in teams. If possible, we will have a public dramatic reading of an episode.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Course objective students will understand and participate in the process of building a television show from conception through final, producible scripts.",
+                                                    "key_topics":  "Developing and pitching a television series. Breaking a season and episodes of a serreis. Writing television episodes.",
+                                                    "prerequisite_knowledge":  "Introduction to Screenwriting is a prerequisite. Basic knowledge of screewriting practice and norms.",
+                                                    "assessment_structure":  "Assessment by: Development and pitching skills. Collaborative engagemnt. TV script writing. Giving notes to peers. Writing meaningful revisions based on peer and instructor creative notes.",
+                                                    "relevance":  "Class guests via Zoom will include writers and producers who have worked on premium cable and network shows including Battlestar Galactica, Treme, Your Honor, Waco, among others.",
+                                                    "learning_resources":  "Pilot scripts and development/pitch documents provided by instruxctor. Video expamples of student pitches. Viewings of on-air pilots.",
+                                                    "extra_time_commitment":  "Students are expected to complete team writing assignments (scenes and full episodes) and peer critiques outside of the class meetings."
+                                            }
+}

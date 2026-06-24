@@ -1,0 +1,37 @@
+{
+        "code":  "51-401",
+        "name":  "Senior Design Lab",
+        "short_name":  "SENIOR DESIGN LAB",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Fall semester senior year focuses on design agility and helping students develop new ways of addressing the complexity of design problems. Through a series of three independent labs, students explore three kinds of designerly behaviors  wondering, playing, and speaking. These behaviors are not methods to be learned they are ways of being agile as a designer that frees and empowers you to be both creative and responsive to the situations in which you are working. These labs serve as the requisite precursor to the Spring capstone project. This course is reserved for senior Design majors only.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

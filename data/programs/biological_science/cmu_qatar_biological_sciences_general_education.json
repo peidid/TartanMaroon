@@ -1,0 +1,1101 @@
+{
+  "general_requirement": {
+    "title": "EY2022+ Qatar Biological Sciences - General Education",
+    "version": "published",
+    "visibility": "PUBLIC",
+    "last_published": "October 15, 2025",
+    "published_by": "Bryttnie Reading",
+    "audit_snapshots": 4,
+    "auto_apply": {
+      "eligible_students": 62,
+      "rules": [
+        "Specific program matches BS in Biological Sciences",
+        "Student campus matches Doha",
+        "Student entry term timeframe matches Fall 2022 - future"
+      ]
+    },
+    "manual_apply": {
+      "users": ["aaltamim"]
+    }
+  },
+  "general_rules": {
+    "double_counting": "Courses may double count without any limit with other programs with no restrictions",
+    "mode_average_units": 9
+  },
+  "requirements": {
+    "first_year_seminar": {
+      "mode_average_units": 6,
+      "choose_one_from": [
+        {
+          "code": "38-100",
+          "title": "CATALYST - MCS First-Year Seminar"
+        },
+        {
+          "code": "38-101",
+          "title": "EUREKA!: Discovery and Its Impact"
+        }
+      ]
+    },
+    "interpretation_and_argument": {
+      "units_required": 9,
+      "mode_average_units": 4.5,
+      "course_codes": [
+        "76-101",
+        "76-102",
+        "76-106",
+        "76-107",
+        "76-108"
+      ]
+    },
+    "core_at_cmu": {
+      "mode_average_units": 3,
+      "non_letter_grade_allowed": true,
+      "required_course": {
+        "code": "99-101",
+        "title": "Core@CMU"
+      }
+    },
+    "third_year_seminar": {
+      "mode_average_units": 9,
+      "choose_one_from": [
+        {
+          "code": "38-304",
+          "title": "Reading and Writing Science"
+        }
+      ]
+    },
+    "approved_coursework": {
+      "mode_average_units": 9,
+      "courses": [
+        {
+          "code": "09-225",
+          "title": "Climate Change: Chemistry, Physics and Planetary Science"
+        },
+        {
+          "code": "09-303",
+          "title": "Hooked: The Molecular Basis of Addiction"
+        },
+        {
+          "code": "09-325",
+          "title": "Special Topics in Chemistry: Environmental Systems on A Changing Planet"
+        },
+        {
+          "code": "09-403",
+          "title": "Hooked: The Chemical Basis of Drug Addiction"
+        },
+        {
+          "code": "09-510",
+          "title": "Chemistry and Sustainability"
+        },
+        {
+          "code": "12-100",
+          "title": "Exploring CEE: Infrastructure and Environment in a Changing World"
+        },
+        {
+          "code": "17-200",
+          "title": "Ethics and Policy Issues in Computing"
+        },
+        {
+          "code": "19-101",
+          "title": "Introduction to Engineering and Public Policy"
+        },
+        {
+          "code": "19-411",
+          "title": "Science and Innovation Leadership for the 21st Century: Firms, Nations, and Tech"
+        },
+        {
+          "code": "19-421",
+          "title": "Emerging Energy Policies"
+        },
+        {
+          "code": "19-424",
+          "title": "Energy and the Environment"
+        },
+        {
+          "code": "19-425",
+          "title": "Sustainable Energy for the Developing World"
+        },
+        {
+          "code": "19-429",
+          "title": "Climate Change Science and Solutions"
+        },
+        {
+          "code": "19-437",
+          "title": "Special Topics: Global Ecological Issues & Controversies"
+        },
+        {
+          "code": "33-115",
+          "title": "Physics for Future Presidents"
+        },
+        {
+          "code": "33-226",
+          "title": "Physics of Energy"
+        },
+        {
+          "code": "79-234",
+          "title": "Technology and Society"
+        },
+        {
+          "code": "79-275",
+          "title": "Introduction to Global Studies"
+        },
+        {
+          "code": "79-299",
+          "title": "Jewish American History: From New Amsterdam to Pittsburgh"
+        },
+        {
+          "code": "79-330",
+          "title": "Medicine and Society: Health, Healers, and Hospitals"
+        },
+        {
+          "code": "79-342",
+          "title": "Age of Crusading, 1000-1800"
+        },
+        {
+          "code": "80-245",
+          "title": "Medical Ethics"
+        },
+        {
+          "code": "99-262",
+          "title": "ADDvocate: Anti-Discrimination Dialogue for Social Justice"
+        },
+        {
+          "code": "99-263",
+          "title": "Centering Diversity, Equity, and Inclusion in Course Design & Teaching"
+        }
+      ]
+    },
+    "engage_courses": {
+      "mode_average_units": 1,
+      "non_letter_grade_allowed": true,
+      "required_courses": [
+        {
+          "code": "38-110",
+          "title": "ENGAGE in Service"
+        },
+        {
+          "code": "38-220",
+          "title": "ENGAGE in the Arts"
+        },
+        {
+          "code": "38-230",
+          "title": "ENGAGE in Wellness: Looking Inward"
+        },
+        {
+          "code": "38-330",
+          "title": "ENGAGE in Wellness: Looking Outward"
+        },
+        {
+          "code": "38-430",
+          "title": "ENGAGE in Wellness: Looking Forward"
+        }
+      ]
+    },
+    "cultural_global_understanding": {
+      "units_required": 9,
+      "mode_average_units": 9,
+      "ap_grades_not_allowed": true,
+      "modern_languages_course": {
+        "courses_required": 1,
+        "mode_average_units": 9,
+        "subject_code": "82"
+      },
+      "country_today_course": {
+        "courses_required": 1,
+        "mode_average_units": 3,
+        "course_range": "99-300 to 99-399"
+      },
+      "approved_coursework": {
+        "courses_required": 1,
+        "mode_average_units": 9,
+        "course_codes": [
+          "57-173",
+          "57-209",
+          "57-306",
+          "66-213",
+          "70-342",
+          "76-221",
+          "76-232",
+          "76-239",
+          "76-241",
+          "76-386",
+          "79-104",
+          "79-201",
+          "79-202",
+          "79-205",
+          "79-208"
+        ]
+      }
+    },
+    "life_sciences": {
+      "units_required": 9,
+      "mode_average_units": 9,
+      "ap_grades_not_allowed": true,
+      "program_specific_restrictions": {
+        "biological_sciences_programs": {
+          "programs": [
+            "BS in Biological Sciences and Psychology",
+            "BS in Neuroscience",
+            "BS in Biological Sciences/Neuroscience Track",
+            "BS in Biological Sciences",
+            "BS in Computational Biology",
+            "BA in Biological Sciences"
+          ],
+          "allowed_courses": [
+            "02-223",
+            "42-202",
+            "02-261",
+            "42-101",
+            "85-219"
+          ]
+        },
+        "chemistry_programs": {
+          "programs": [
+            "BA in Chemistry",
+            "BS in Chemistry",
+            "BS in Chemistry/Biological Chemistry Track"
+          ],
+          "allowed_courses": [
+            "Modern Biology",
+            "Biochemistry I"
+          ]
+        },
+        "physics_programs": {
+          "programs": [
+            "BS in Physics/Biological Physics Track",
+            "BS in Physics/Applied Physics Track",
+            "BS in Physics/Astrophysics Track",
+            "BS in Physics",
+            "BA in Physics",
+            "BS in Physics/Computational Physics Track",
+            "BS in Physics/Chemical Physics Track"
+          ],
+          "allowed_courses": [
+            "Modern Biology"
+          ]
+        }
+      },
+      "courses": [
+        {
+          "code": "02-223",
+          "title": "Personalized Medicine: Understanding Your Own Genome"
+        },
+        {
+          "code": "02-261",
+          "title": "Quantitative Cell and Molecular Biology Laboratory"
+        },
+        {
+          "code": "03-116",
+          "title": "Phage Genomics Research"
+        },
+        {
+          "code": "03-117",
+          "title": "Frontiers, Analysis, and Discovery in Biological Sciences"
+        },
+        {
+          "code": "03-124",
+          "title": "Modern Biology Laboratory"
+        },
+        {
+          "code": "03-125",
+          "title": "Evolution"
+        },
+        {
+          "code": "03-127",
+          "title": "How Biological Experiments Work - A Project Course"
+        },
+        {
+          "code": "03-132",
+          "title": "Basic Science to Modern Medicine"
+        },
+        {
+          "code": "03-133",
+          "title": "Neurobiology of Disease"
+        },
+        {
+          "code": "03-135",
+          "title": "Structure and Function of the Human Body"
+        },
+        {
+          "code": "03-161",
+          "title": "Molecules to Mind"
+        },
+        {
+          "code": "42-101",
+          "title": "Introduction to Biomedical Engineering"
+        },
+        {
+          "code": "42-202",
+          "title": "Physiology"
+        },
+        {
+          "code": "85-219",
+          "title": "Foundations of Brain and Behavior"
+        }
+      ],
+      "introduction_to_computational_biology": {
+        "max_courses": 1,
+        "mode_average_units": 12,
+        "courses": [
+          {
+            "code": "02-250",
+            "title": "Introduction to Computational Biology"
+          },
+          {
+            "code": "03-250",
+            "title": "Introduction to Computational Biology"
+          }
+        ]
+      },
+      "modern_biology": {
+        "max_courses": 1,
+        "mode_average_units": 10,
+        "courses": [
+          {
+            "code": "03-121",
+            "title": "Modern Biology"
+          },
+          {
+            "code": "03-151",
+            "title": "Honors Modern Biology"
+          }
+        ]
+      },
+      "biochemistry_i": {
+        "max_courses": 1,
+        "mode_average_units": 9,
+        "courses": [
+          {
+            "code": "03-231",
+            "title": "Honors Biochemistry"
+          },
+          {
+            "code": "03-232",
+            "title": "Biochemistry I"
+          }
+        ]
+      }
+    },
+    "physical_sciences": {
+      "mode_average_units": 12,
+      "program_specific_restrictions": {
+        "biological_sciences_programs": {
+          "programs": [
+            "BS in Biological Sciences and Psychology",
+            "BS in Neuroscience",
+            "BS in Biological Sciences/Neuroscience Track",
+            "BS in Biological Sciences",
+            "BS in Computational Biology",
+            "BA in Biological Sciences"
+          ],
+          "allowed_courses": [
+            "33-121",
+            "33-122",
+            "09-105",
+            "09-106"
+          ]
+        },
+        "chemistry_programs": {
+          "programs": [
+            "BA in Chemistry",
+            "BS in Chemistry",
+            "BS in Chemistry/Biological Chemistry Track"
+          ],
+          "allowed_courses": [
+            "33-121",
+            "33-122"
+          ]
+        },
+        "physics_programs": {
+          "programs": [
+            "BS in Physics/Biological Physics Track",
+            "BS in Physics/Applied Physics Track",
+            "BS in Physics/Astrophysics Track",
+            "BS in Physics",
+            "BA in Physics",
+            "BS in Physics/Computational Physics Track",
+            "BS in Physics/Chemical Physics Track"
+          ],
+          "allowed_courses": [
+            "09-105"
+          ]
+        }
+      },
+      "courses": [
+        {
+          "code": "09-105",
+          "title": "Introduction to Modern Chemistry I"
+        },
+        {
+          "code": "09-106",
+          "title": "Modern Chemistry II"
+        },
+        {
+          "code": "09-107",
+          "title": "Honors Chemistry: Fundamentals, Concepts and Applications"
+        },
+        {
+          "code": "09-214",
+          "title": "Physical Chemistry"
+        },
+        {
+          "code": "09-217",
+          "title": "Organic Chemistry I"
+        },
+        {
+          "code": "09-219",
+          "title": "Modern Organic Chemistry"
+        },
+        {
+          "code": "09-221",
+          "title": "Laboratory I: Introduction to Chemical Analysis"
+        },
+        {
+          "code": "09-225",
+          "title": "Climate Change: Chemistry, Physics and Planetary Science"
+        },
+        {
+          "code": "09-348",
+          "title": "Inorganic Chemistry"
+        },
+        {
+          "code": "33-121",
+          "title": "Physics I for Science Students"
+        },
+        {
+          "code": "33-122",
+          "title": "Physics II for Biological Sciences and Chemistry Students"
+        },
+        {
+          "code": "33-141",
+          "title": "Physics I for Engineering Students"
+        },
+        {
+          "code": "33-142",
+          "title": "Physics II for Engineering and Physics Students"
+        },
+        {
+          "code": "33-151",
+          "title": "Matter and Interactions I"
+        },
+        {
+          "code": "33-152",
+          "title": "Matter and Interactions II"
+        },
+        {
+          "code": "33-211",
+          "title": "Physics III: Modern Essentials"
+        },
+        {
+          "code": "33-224",
+          "title": "Stars, Galaxies and the Universe"
+        },
+        {
+          "code": "33-225",
+          "title": "Quantum Physics and Structure of Matter"
+        }
+      ]
+    },
+    "mathematics_statistics_computer_science": {
+      "units_required": 20,
+      "mode_average_units": 9,
+      "program_specific_restrictions": {
+        "mathematical_sciences_programs": {
+          "programs": [
+            "BS in Mathematical Sciences and Economics",
+            "BS in Mathematical Sciences (Statistics)",
+            "BS in Mathematical Sciences (Discrete Mathematics and Logic)",
+            "BS in Computational Finance",
+            "BS in Mathematical Sciences (Computational and Applied Mathematics)",
+            "BS in Mathematical Sciences (Operations Research and Statistics)",
+            "BS in Mathematical Sciences"
+          ],
+          "allowed_courses": [
+            "36-220",
+            "36-225",
+            "36-247",
+            "15-122",
+            "15-251",
+            "36-217",
+            "02-201",
+            "15-150",
+            "15-110",
+            "15-112",
+            "36-309"
+          ]
+        },
+        "biological_sciences_programs": {
+          "programs": [
+            "BS in Biological Sciences and Psychology",
+            "BS in Neuroscience",
+            "BS in Biological Sciences/Neuroscience Track",
+            "BS in Biological Sciences",
+            "BS in Computational Biology",
+            "BA in Biological Sciences"
+          ],
+          "allowed_courses": [
+            "21-124",
+            "21-120",
+            "21-122"
+          ]
+        },
+        "chemistry_programs": {
+          "programs": [
+            "BA in Chemistry",
+            "BS in Chemistry",
+            "BS in Chemistry/Biological Chemistry Track"
+          ],
+          "allowed_courses": [
+            "21-124",
+            "21-120",
+            "21-122"
+          ]
+        },
+        "physics_programs": {
+          "programs": [
+            "BS in Physics/Biological Physics Track",
+            "BS in Physics/Applied Physics Track",
+            "BS in Physics/Astrophysics Track",
+            "BS in Physics",
+            "BA in Physics",
+            "BS in Physics/Computational Physics Track",
+            "BS in Physics/Chemical Physics Track"
+          ],
+          "allowed_courses": [
+            "21-259",
+            "21-120",
+            "21-122"
+          ]
+        }
+      },
+      "courses": [
+        {
+          "code": "02-201",
+          "title": "Programming for Scientists"
+        },
+        {
+          "code": "21-120",
+          "title": "Differential and Integral Calculus"
+        },
+        {
+          "code": "21-122",
+          "title": "Integration and Approximation"
+        },
+        {
+          "code": "21-124",
+          "title": "Calculus II for Biologists and Chemists"
+        },
+        {
+          "code": "21-228",
+          "title": "Discrete Mathematics"
+        },
+        {
+          "code": "21-259",
+          "title": "Calculus in Three Dimensions"
+        },
+        {
+          "code": "21-268",
+          "title": "Multidimensional Calculus"
+        },
+        {
+          "code": "21-269",
+          "title": "Vector Analysis"
+        },
+        {
+          "code": "36-200",
+          "title": "Reasoning with Data"
+        },
+        {
+          "code": "36-202",
+          "title": "Methods for Statistics & Data Science"
+        },
+        {
+          "code": "36-217",
+          "title": "Probability Theory and Random Processes"
+        },
+        {
+          "code": "36-220",
+          "title": "Engineering Statistics and Quality Control"
+        },
+        {
+          "code": "36-225",
+          "title": "Introduction to Probability Theory"
+        },
+        {
+          "code": "36-247",
+          "title": "Statistics for Lab Sciences"
+        },
+        {
+          "code": "36-309",
+          "title": "Experimental Design for Behavioral & Social Sciences"
+        },
+        {
+          "code": "15-110",
+          "title": "Principles of Computing"
+        },
+        {
+          "code": "15-112",
+          "title": "Fundamentals of Programming and Computer Science"
+        },
+        {
+          "code": "15-122",
+          "title": "Principles of Imperative Computation"
+        },
+        {
+          "code": "15-150",
+          "title": "Principles of Functional Programming"
+        },
+        {
+          "code": "15-155",
+          "title": "The Computational Lens"
+        },
+        {
+          "code": "15-181",
+          "title": "Demystifying AI"
+        },
+        {
+          "code": "15-251",
+          "title": "Great Ideas in Theoretical Computer Science"
+        }
+      ],
+      "concepts": {
+        "max_courses": 1,
+        "mode_average_units": 12,
+        "courses": [
+          {
+            "code": "21-127",
+            "title": "Concepts of Mathematics"
+          },
+          {
+            "code": "21-128",
+            "title": "Mathematical Concepts and Proofs"
+          }
+        ]
+      },
+      "matrix_algebra": {
+        "max_courses": 1,
+        "mode_average_units": 11,
+        "courses": [
+          {
+            "code": "21-240",
+            "title": "Matrix Algebra with Applications"
+          },
+          {
+            "code": "21-241",
+            "title": "Matrices and Linear Transformations"
+          },
+          {
+            "code": "21-242",
+            "title": "Matrix Theory"
+          }
+        ]
+      },
+      "differential_equations": {
+        "max_courses": 1,
+        "mode_average_units": 9,
+        "courses": [
+          {
+            "code": "21-260",
+            "title": "Differential Equations"
+          },
+          {
+            "code": "21-261",
+            "title": "Introduction to Ordinary Differential Equations"
+          }
+        ]
+      }
+    },
+    "stem_course": {
+      "mode_average_units": 9,
+      "note": "Other pre-approved courses may also count",
+      "program_specific_exclusions": {
+        "mathematical_sciences_programs": {
+          "programs": [
+            "BS in Mathematical Sciences and Economics",
+            "BS in Mathematical Sciences (Statistics)",
+            "BS in Mathematical Sciences (Discrete Mathematics and Logic)",
+            "BS in Computational Finance",
+            "BS in Mathematical Sciences (Computational and Applied Mathematics)",
+            "BS in Mathematical Sciences (Operations Research and Statistics)",
+            "BS in Mathematical Sciences"
+          ],
+          "excluded_courses": [
+            "21-259",
+            "21-260",
+            "36-200",
+            "36-202",
+            "21-128",
+            "21-127",
+            "21-268",
+            "21-269",
+            "21-261",
+            "21-240",
+            "21-241",
+            "21-242",
+            "21-228"
+          ]
+        }
+      },
+      "courses": [
+        {
+          "code": "02-223",
+          "title": "Personalized Medicine: Understanding Your Own Genome"
+        },
+        {
+          "code": "02-250",
+          "title": "Introduction to Computational Biology"
+        },
+        {
+          "code": "02-261",
+          "title": "Quantitative Cell and Molecular Biology Laboratory"
+        },
+        {
+          "code": "03-117",
+          "title": "Frontiers, Analysis, and Discovery in Biological Sciences"
+        },
+        {
+          "code": "03-121",
+          "title": "Modern Biology"
+        },
+        {
+          "code": "03-124",
+          "title": "Modern Biology Laboratory"
+        },
+        {
+          "code": "03-125",
+          "title": "Evolution"
+        },
+        {
+          "code": "03-128",
+          "title": "Biology for Life Special Topics"
+        },
+        {
+          "code": "03-132",
+          "title": "Basic Science to Modern Medicine"
+        },
+        {
+          "code": "03-133",
+          "title": "Neurobiology of Disease"
+        },
+        {
+          "code": "03-135",
+          "title": "Structure and Function of the Human Body"
+        },
+        {
+          "code": "03-140",
+          "title": "Ecology and Environmental Science"
+        },
+        {
+          "code": "03-151",
+          "title": "Honors Modern Biology"
+        },
+        {
+          "code": "03-161",
+          "title": "Molecules to Mind"
+        },
+        {
+          "code": "03-230",
+          "title": "Intro to Mammalian Physiology"
+        },
+        {
+          "code": "03-231",
+          "title": "Honors Biochemistry"
+        },
+        {
+          "code": "03-232",
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "03-260",
+          "title": "Neurobiology of Disease"
+        },
+        {
+          "code": "06-100",
+          "title": "Introduction to Chemical Engineering"
+        },
+        {
+          "code": "09-105",
+          "title": "Introduction to Modern Chemistry I"
+        },
+        {
+          "code": "09-106",
+          "title": "Modern Chemistry II"
+        },
+        {
+          "code": "09-107",
+          "title": "Honors Chemistry: Fundamentals, Concepts and Applications"
+        },
+        {
+          "code": "09-111",
+          "title": "Nanolegos: Chemical Building Blocks"
+        },
+        {
+          "code": "09-214",
+          "title": "Physical Chemistry"
+        },
+        {
+          "code": "09-217",
+          "title": "Organic Chemistry I"
+        },
+        {
+          "code": "09-219",
+          "title": "Modern Organic Chemistry"
+        },
+        {
+          "code": "09-221",
+          "title": "Laboratory I: Introduction to Chemical Analysis"
+        },
+        {
+          "code": "09-225",
+          "title": "Climate Change: Chemistry, Physics and Planetary Science"
+        },
+        {
+          "code": "09-348",
+          "title": "Inorganic Chemistry"
+        },
+        {
+          "code": "12-100",
+          "title": "Exploring CEE: Infrastructure and Environment in a Changing World"
+        },
+        {
+          "code": "15-110",
+          "title": "Principles of Computing"
+        },
+        {
+          "code": "15-112",
+          "title": "Fundamentals of Programming and Computer Science"
+        },
+        {
+          "code": "15-122",
+          "title": "Principles of Imperative Computation"
+        },
+        {
+          "code": "15-150",
+          "title": "Principles of Functional Programming"
+        },
+        {
+          "code": "15-155",
+          "title": "The Computational Lens"
+        },
+        {
+          "code": "15-181",
+          "title": "Demystifying AI"
+        },
+        {
+          "code": "15-251",
+          "title": "Great Ideas in Theoretical Computer Science"
+        },
+        {
+          "code": "18-100",
+          "title": "Introduction to Electrical and Computer Engineering"
+        },
+        {
+          "code": "19-101",
+          "title": "Introduction to Engineering and Public Policy"
+        },
+        {
+          "code": "21-127",
+          "title": "Concepts of Mathematics"
+        },
+        {
+          "code": "21-128",
+          "title": "Mathematical Concepts and Proofs"
+        },
+        {
+          "code": "21-228",
+          "title": "Discrete Mathematics"
+        },
+        {
+          "code": "21-240",
+          "title": "Matrix Algebra with Applications"
+        },
+        {
+          "code": "21-241",
+          "title": "Matrices and Linear Transformations"
+        },
+        {
+          "code": "21-242",
+          "title": "Matrix Theory"
+        },
+        {
+          "code": "21-259",
+          "title": "Calculus in Three Dimensions"
+        },
+        {
+          "code": "21-260",
+          "title": "Differential Equations"
+        },
+        {
+          "code": "21-261",
+          "title": "Introduction to Ordinary Differential Equations"
+        },
+        {
+          "code": "21-268",
+          "title": "Multidimensional Calculus"
+        },
+        {
+          "code": "21-269",
+          "title": "Vector Analysis"
+        },
+        {
+          "code": "24-101",
+          "title": "Fundamentals of Mechanical Engineering"
+        },
+        {
+          "code": "27-100",
+          "title": "Engineering the Materials of the Future"
+        },
+        {
+          "code": "33-121",
+          "title": "Physics I for Science Students"
+        },
+        {
+          "code": "33-122",
+          "title": "Physics II for Biological Sciences and Chemistry Students"
+        },
+        {
+          "code": "33-141",
+          "title": "Physics I for Engineering Students"
+        },
+        {
+          "code": "33-142",
+          "title": "Physics II for Engineering and Physics Students"
+        },
+        {
+          "code": "33-151",
+          "title": "Matter and Interactions I"
+        },
+        {
+          "code": "33-152",
+          "title": "Matter and Interactions II"
+        },
+        {
+          "code": "33-211",
+          "title": "Physics III: Modern Essentials"
+        },
+        {
+          "code": "33-224",
+          "title": "Stars, Galaxies and the Universe"
+        },
+        {
+          "code": "33-225",
+          "title": "Quantum Physics and Structure of Matter"
+        },
+        {
+          "code": "36-200",
+          "title": "Reasoning with Data"
+        },
+        {
+          "code": "36-202",
+          "title": "Methods for Statistics & Data Science"
+        },
+        {
+          "code": "36-217",
+          "title": "Probability Theory and Random Processes"
+        },
+        {
+          "code": "36-220",
+          "title": "Engineering Statistics and Quality Control"
+        },
+        {
+          "code": "36-225",
+          "title": "Introduction to Probability Theory"
+        },
+        {
+          "code": "36-247",
+          "title": "Statistics for Lab Sciences"
+        },
+        {
+          "code": "36-309",
+          "title": "Experimental Design for Behavioral & Social Sciences"
+        },
+        {
+          "code": "42-101",
+          "title": "Introduction to Biomedical Engineering"
+        },
+        {
+          "code": "42-202",
+          "title": "Physiology"
+        },
+        {
+          "code": "85-219",
+          "title": "Foundations of Brain and Behavior"
+        }
+      ]
+    },
+    "non_technical_breadth_electives": {
+      "courses_required": 4,
+      "units_required": 36,
+      "mode_average_units": 9,
+      "max_ap_units": 18,
+      "subject_codes": [
+        "57",
+        "51",
+        "62",
+        "95",
+        "54",
+        "79",
+        "80",
+        "73",
+        "76",
+        "66",
+        "85",
+        "60",
+        "88",
+        "82",
+        "48"
+      ],
+      "additional_courses": [
+        "05-392",
+        "15-221",
+        "19-319",
+        "38-132",
+        "70-160",
+        "70-311",
+        "70-312",
+        "70-313",
+        "70-332",
+        "70-335",
+        "70-340",
+        "70-343",
+        "70-345",
+        "70-361",
+        "70-363",
+        "70-365",
+        "70-430",
+        "90-650",
+        "90-717",
+        "90-718",
+        "90-733",
+        "90-762",
+        "90-765",
+        "90-767",
+        "90-778",
+        "90-810",
+        "90-818",
+        "90-820",
+        "90-828",
+        "90-847",
+        "99-241",
+        "99-421"
+      ],
+      "excluded_courses": [
+        "36-011",
+        "36-200",
+        "36-201",
+        "36-202",
+        "36-207",
+        "36-208",
+        "36-217",
+        "36-225",
+        "36-226",
+        "36-247",
+        "36-295",
+        "36-303",
+        "36-309",
+        "36-315",
+        "36-401"
+      ]
+    }
+  }
+}

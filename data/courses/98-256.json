@@ -1,0 +1,34 @@
+{
+        "code":  "98-256",
+        "name":  "Student Taught Courses (StuCo): Introduction to Humor Theory, for Non-Majors",
+        "short_name":  "STUCO: HUMOR THEORY",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on the underlying principles of humor. We will ask questions such as, \"Why is this joke funny??\", \"Under what circumstances is this joke funny?\", and \"What would make this joke funnier?\" By asking these questions in context of various genres, styles, and settings, we hope to illuminate some of the underlying principles that make a joke ?work.? Some recurring themes will be: the intended effect of humor on the audience, the structural elements of jokes,and the relationship between a joke and its medium. The course will be discussion-based, since humor is both subjective and an inherently social subject. Topics include: puns, anti-humor,stand-up comedy, one-liners, meta humor, and literary humor. There is no course fee.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

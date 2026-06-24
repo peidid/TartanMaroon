@@ -1,0 +1,37 @@
+{
+        "code":  "76-432",
+        "name":  "Advanced Seminar in African American Studies",
+        "short_name":  "ADV SEM AFRC AMR STD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics will vary by semester.  Consult the course descriptions provided by the department for current offerings. Example, Fall 2011 This course will be an indepth study of James Baldwins works as well as the writers and thinkers that influenced him. Baldwins rumination on American life during and after the epoch defining events of Civil Rights Era reflects the great political and cultural transformations the country struggled through. In this course students will read canonical works such as Notes of A Native Son and Giovannis Room as well as lesser know works like One Day When I Was Lost, Baldwins screenplay for a nevertobeproduced film project on Malcolm X and Little Man, Little Man A Story of Childhood, a childrens novel he published in 1976. Besides Baldwins works we will read and connect Baldwins thoughts on literature, race, sexuality and politics to some of his immediate contemporaries like Richard Wright, William Faulkner, Flannery OConnor and others who had an influence on Baldwins imagination and craft.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

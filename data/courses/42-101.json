@@ -1,0 +1,37 @@
+{
+        "code":  "42-101",
+        "name":  "Introduction to Biomedical Engineering",
+        "short_name":  "INTRODUCTION BIOMED",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will provide exposure to basic biology and engineering problems associated with living systems and health care delivery. Examples will be used to illustrate how basic concepts and tools of science  engineering can be brought to bear in understanding, mimicking and utilizing biological processes. The course will focus on four areas  biotechnology, biomechanics, biomaterials and tissue engineering and biosignal and image processing and will introduce the basic life sciences and engineering concepts associated with these topics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, the students should be able to Explain and discuss what biomedical engineers do in their professional activities Apply mathematical calculations analytical and numerical and physical engineering principles to quantify functions and mechanisms of living systems related to the following areas of biomedical engineering\no biomechanics\no biomedical imaging and signal processing\no cellular and molecular biotechnology\no biomaterials and tissue engineering Collect, analyze and interpret data from a laboratory experiment\nApply concepts learned to contemporary biomedical technologies and potentially synthesize new applications in biomedical engineering",
+                                                    "key_topics":  "biotechnology\nbiomechanics\nbiomaterials and tissue engineering\nbiosignal and image processing",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Exams\nFinal exam\nHomework\nQuizzes",
+                                                    "relevance":  "Basic biology and engineering problems associated with living systems and health care delivery",
+                                                    "learning_resources":  "Textbook, other supplemental material",
+                                                    "extra_time_commitment":  null
+                                            }
+}

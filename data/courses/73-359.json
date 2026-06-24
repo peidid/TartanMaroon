@@ -1,0 +1,37 @@
+{
+        "code":  "73-359",
+        "name":  "Benefit-Cost Analysis",
+        "short_name":  "BENEFIT-COST ANALYSS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((73-104 [] at least C) or (73-100 [] at least C) or (73-102 [] at least C)) and ((36-225 [] at least D) or (36-202 [] at least D) or (36-200 [] at least D) or (36-220 [] at least D) or (36-207 [] at least D) or (70-207 [] at least D) or (36-217 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The evaluation of public private sector projects. The theory of benefitcost analysis and related techniques, such as costeffectiveness analysis. Attention is given to such issues as valuing goods and services that are not normally traded in the marketplace e.g., the value of an individuals life and the social rate of discount. Applications are considered in detail.    Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able to 1 apply microeconomic concepts to understand the economic consequences and welfare changes of policies 2 understand alternative approaches to defining and estimating the economic costs and benefits 3 conduct applied benefitcost analysis at either the corporate or governmentlevel 4 understand and critique a costbenefit study prepared by someone else 5 explain what is a social discount rate, where it comes from and why it is important to use an appropriate social discount rate in a costbenefit analysis and 6 explain how dollar values may be attached to nontangible goods and services.",
+                                                    "key_topics":  "Identification and Valuation of Costs and Benefits; Investment Decision Criteria; Social Discount Rate;Cost-Effectiveness Analysis; Risk-Risk Analysis; Time Value of Money",
+                                                    "prerequisite_knowledge":  "introductory-level probability, multi-variate calculus, introductory-level microeconomics",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "Cost-Benefit Analysis is a tool used in decision-making at the individual, organization, corporate, and government levels. This course is one that will interest student who hope to have a career in which they have decision-making authority and/or want to help frame how decisions are made.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

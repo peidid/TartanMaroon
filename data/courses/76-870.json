@@ -1,0 +1,37 @@
+{
+        "code":  "76-870",
+        "name":  "Professional and Technical Writing",
+        "short_name":  "PROF \u0026 TECH WRITING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction to the theory, research, and practice of professional and technical communication as a discipline. Through readings, discussions, projects, and writing workshops, you will develop a rhetoricallygrounded approach to analyzing communications problems and producing a range of effective and situationspecific professional documents. This usercentered approach views professional documents as means to accomplish specific, welldefined purposes getting funding or support for a project proposals, supporting managerial decisionmaking reports, communicating effectively within organizations email, correspondence, guiding action instructional writing, getting a job or internship resumes and application letters, or making choices among various medical treatments science writing for general audiences. Because writers need a range of skills that go well beyond the actual inscribing of words on a page, you also gain practice in how to test documents on actual users, edit and revise your own work and that of other writers, and participate in and manage collaborative writing projects. The course features three major writing assignments. Core course for MAPW students.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  "Draw on and apply research on how people read and use documents.Understand genres as recurring rhetorical situations, shaped by people and contexts and practice analyzing professional genres. Learn and apply methods of discourse and rhetorical analysis to identify patterns in professional and technical writing genres, as well as describe the impact of those patterns on readers. Practice being a more reflective writer, able to articulate your writing decisions. Increase your skill in writing and designing collaboratively with others. Gain an evolving understanding of how workplace dynamics and professional communication are related and influence one another.",
+                                                    "key_topics":  "Professional and technical writing\n\n\n\n\n\n\n\nEvidence-based best practices\n\n\n\n\n\n\n\nUser-centered design\n\n\n\n\n\n\n\nGenre",
+                                                    "prerequisite_knowledge":  "No prior knowledge is necessary",
+                                                    "assessment_structure":  "Assignments",
+                                                    "relevance":  "This course is a requirement for first-semester MAPW students.",
+                                                    "learning_resources":  "Readings\n\nSupporting web content and case studies related to readings and in-class discussions\n\nAdditional resources shared through Google Docs which will be in process during the course",
+                                                    "extra_time_commitment":  "The expectation for 9 units is 9 hours/week, about 6.5 hours outside class/week, depending on the week. Students will sometimes need to meet with team members outside of class."
+                                            }
+}

@@ -1,0 +1,34 @@
+{
+        "code":  "98-261",
+        "name":  "Student Taught Courses (StuCo): The Captivity Debate: Killer Whales",
+        "short_name":  "STUCO: KILLER WHALES",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The death of experienced SeaWorld trainer Dawn Brancheau in February of 2010 raised questions about humans? relationship with killer whales and the suitability of keeping them in captivity for human entertainment. This course will explore the history of killer whales in captivity, delve into the behavior of killer whales in the wild, compare it to that of killer whales in captivity, and question humans? role in the lives of highly intelligent, emotionally complex creatures.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "18-460",
+        "name":  "Optimization",
+        "short_name":  "OPTIMIZATION",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((21-259 [] at least C) or (21-260 [] at least C) or (21-254 [] at least C)) and ((18-202 [] at least C) or (21-241 [] at least C)) and ((36-219 [] at least C) or (36-218 [] at least C) or (36-225 [] at least C) or (21-325 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Many design problems in engineering e.g., machine learning, finance, circuit design, etc. involve minimizing or maximizing a cost or reward function. However, solving these problems analytically is often challenging. Optimization is the study of algorithms and theory for numerically solving such problems, and it underpins many of the technologies we use today. This course is an introduction to optimization. Students will 1 learn about common classes of optimization problems, 2 study and implement algorithms for solving them, and 3 gain handson experience with standard optimization  tools. We will focus on convex optimization problems, but will also discuss the growing role of nonconvex optimization, as well as some more general numerical methods. The course will emphasize connections to realworld applications including machine learning, networking, and finance. The course will involve lectures, homework, exams, and a project. This course is crosslisted with 18660. Although students in 18460 will share lectures with students in 18660, students in 18460 will receive distinct homework assignments, distinct design problems, and distinct exams from the ones given to students in 18660. Specifically, the homework assignments, design problems and exams that are given to the 18660 students will be more challenging than those given to the 18460 students.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Upon completing this course, students will be able to identify main classes of optimization problems, choose optimization algorithms for different problems, and understand the tradeoffs between using different optimization algorithms. They will also be able to prove basic properties about optimization problems and algorithms, such as convergence rates, convexity, and optimality of solutions.",
+                                                    "key_topics":  "Convexity (functions, sets, properties)\nFirst-order methods (gradient descent, variants, convergence properties, acceleration)\nSecond-order methods (Newton\u0027s method, interior-point methods, convergence properties)",
+                                                    "prerequisite_knowledge":  "Students must know linear algebra, including matrix arithmetic and calculus. They should be comfortable interpreting equations of matrices. Students should also know basic calculus.",
+                                                    "assessment_structure":  "The course will involve homework, exams, and a project.",
+                                                    "relevance":  "Optimization is a foundation for many areas of engineering that require design, including machine learning.",
+                                                    "learning_resources":  "Lecture slides will be posted, and there are several text books available for students. At least one of these textbooks is available for free online.",
+                                                    "extra_time_commitment":  "Students will spend time doing homeworks, studying for exams, and working on their projects. There are also office hours and review sessions, which are optional."
+                                            }
+}

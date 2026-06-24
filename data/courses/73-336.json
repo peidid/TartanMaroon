@@ -1,0 +1,37 @@
+{
+        "code":  "73-336",
+        "name":  "International Energy Market and Sustainable Development",
+        "short_name":  "INTL ENERGY MTK SUST",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course teaches you about economics of the energy industry by looking at various energy markets. The global energy industry is now more than ever is pressured to be transformed by geopolitical tensions, concerns about climate change, and the mounting pressure for decarbonization. In this course we will discuss how economic decisions in the energy sector can align with principles of sustainability, ensuring that the industrys growth and practices do not compromise the wellbeing of future generations or harm the planet.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

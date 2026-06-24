@@ -1,0 +1,37 @@
+{
+        "code":  "16-224",
+        "name":  "IDeATe: Re-Crafting Computational Thinking with Soft Technologies",
+        "short_name":  "IDEATE: RE-CRAFTING",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on teaching introductory concepts of Robotics, Mechatronics, and Computer Science using an artsbased approach. During the course, students will build their own weaving robot, program it, and learn how weaving art is connected to computer programming and matrix mathematics. Students will also learn the history of weaving, how to design beautiful patterns, and how to extract the features of those patterns into mathematical equations and computer programs.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students in the class will be able to build a mechatronic system and identify the basic principles in mechatronics and robotics. Students will also learn matrix mathematics and basic computer programming and how to create textile art using matrix mathematics and programming constructs. Students will also learn how to work in interdisciplinary teams for class projects. Students will also learn the basic principles behind weaving and textile art.",
+                                                    "key_topics":  "Textile art, weaving, computer programming, mechatronics, robotics.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is required",
+                                                    "assessment_structure":  "Students will be assessed using a combination of homeworks with laboratory components, presentations, and a final project.",
+                                                    "relevance":  "This course is relevant to students who have an interest in computer programming, mechatronics and robotics and wish to learn these concepts from an interdisciplinary perspective. This course is also relevant for students who are interested in textiles, weaving, and art, and who wish to learn how weaving mathematics and robotics are related.",
+                                                    "learning_resources":  "Students will be provided with a kit to assemble their own weaving robot. Information will also be provided in website format",
+                                                    "extra_time_commitment":  "It is approximated that students will spend 9 hours per week on this course, outside of class."
+                                            }
+}

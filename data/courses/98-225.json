@@ -1,0 +1,34 @@
+{
+        "code":  "98-225",
+        "name":  "Student Taught Courses (StuCo): Beekeeping 101",
+        "short_name":  "STUCO: BEEKEEPING",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of this course is to create the foundations of a community of CMU students interested in and informed about beekeeping and its role in society. It will involve a survey of honeybees and their colonies, beehives, equipment, inspection, management, diseases, pests, honey and wax harvesting, beekeeping in agricultural and economic development, urban beekeeping, and the potential role of agriculture and beekeeping on campus.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "33-104",
+        "name":  "Experimental Physics",
+        "short_name":  "EXPERIMNTL PHYSICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides first year students and sophomores with an introduction to the methods of experimental physics. Particular emphasis is placed on three aspects of experimentation laboratory technique, including both the execution and the documentation of an experiment data analysis, including the treatment of statistical and systematic errors and computeraided analysis of experimental data and written communication of experimental procedures and results. The concepts and skills for measurement and data analysis are acquired gradually through a series of experiments covering a range of topics from mechanics to nuclear and atomic physics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The successful student will achieve the following outcomes in this course1 Take measurements of physical properties in experimental settings.2 Estimate measurement errors and propagate them in calculations.3 Produce clear tables and graphs of experimental data.4 Use leastsquares fitting andor other analysis techniques to obtain results from experimentation.5 Synthesize experimental findings and interpret them in view of measurement errors, theoretical predictions, and experimental limitations.6 Communicate experimental processes and their results clearly and accurately.7 Design experimental procedures and troubleshoot minor instrumentation problems with guidance.",
+                                                    "key_topics":  "Data acquisition, analysis techniques, fitting data to models, and comparing results to theoretical predictions in a variety of physical settings. Because this lab requires 6 in-person lab hours per week, registration in any section of 33-104 must occur before the Monday of the second week of classes.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students are assessed with their lab notebooks, using rubrics that are aligned with course outcomes. There may also be quizzes, a lab report, and a poster presentation.",
+                                                    "relevance":  "This course focuses on measurements, uncertainties, and propagating those uncertainties into final results and their margins of error. This course is about how we know what we know and how well we know it, and is applicable as a foundational skillset to any STEM field.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

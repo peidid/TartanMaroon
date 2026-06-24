@@ -1,0 +1,554 @@
+{
+  "program": {
+    "title": "BS in Information Systems",
+    "school": "Qatar Information Systems",
+    "university": "Carnegie Mellon University",
+    "degree": "BS",
+    "audit_version": "EY2022 Doha BS in Information Systems",
+    "visibility": "PUBLIC",
+    "last_published": "February 6, 2025",
+    "published_by": "Houda Bouamor",
+    "applies_to_students": 38,
+    "entry_year": {
+      "start": 2022,
+      "end": 2024
+    },
+    "campus": "Doha"
+  },
+  "program_requirements": {
+    "total_units_required": 360,
+    "restrictions": {
+      "max_units_69_98_courses": 9,
+      "course_patterns": [
+        "69-***",
+        "98-***"
+      ]
+    },
+    "double_counting_rules": {
+      "general": "Up to 2 courses may double count with other programs unless specified otherwise",
+      "minor_programs": "Up to 1 course may double count with minor programs unless specified otherwise"
+    },
+    "mode_average_units": 9
+  },
+  "requirements": {
+    "technical_core": {
+      "mode_average_units": 10,
+      "mathematics": {
+        "mode_average_units": 10,
+        "choose_one_from": [
+          {
+            "code": "21-112",
+            "title": "Integral Calculus"
+          },
+          {
+            "code": "21-120",
+            "title": "Differential and Integral Calculus"
+          },
+          {
+            "code": "21-127",
+            "title": "Concepts of Mathematics"
+          },
+          {
+            "code": "21-240",
+            "title": "Matrix Algebra with Applications"
+          },
+          {
+            "code": "80-210",
+            "title": "Logic and Proofs"
+          }
+        ]
+      },
+      "computer_science_requirement": {
+        "courses_required": 3,
+        "mode_average_units": 32,
+        "at_least_one_from": [
+          "15-121",
+          "15-122"
+        ],
+        "choose_from": [
+          {
+            "code": "15-110",
+            "title": "Principles of Computing"
+          },
+          {
+            "code": "15-112",
+            "title": "Fundamentals of Programming and Computer Science"
+          },
+          {
+            "code": "15-121",
+            "title": "Introduction to Data Structures"
+          },
+          {
+            "code": "15-122",
+            "title": "Principles of Imperative Computation"
+          }
+        ]
+      }
+    },
+    "information_systems_core": {
+      "mode_average_units": 12,
+      "first_year_colloquium": {
+        "mode_average_units": 1,
+        "non_letter_grade_allowed": true,
+        "required_course": {
+          "code": "67-100",
+          "title": "Information Systems First Year Colloquium"
+        }
+      },
+      "information_systems_milieux": {
+        "mode_average_units": 9,
+        "required_course": {
+          "code": "67-250",
+          "title": "The Information Systems Milieux"
+        }
+      },
+      "database_design_and_development": {
+        "mode_average_units": 9,
+        "required_course": {
+          "code": "67-262",
+          "title": "Database Design and Development"
+        }
+      },
+      "application_design_and_development": {
+        "mode_average_units": 12,
+        "required_course": {
+          "code": "67-272",
+          "title": "Application Design and Development"
+        }
+      },
+      "hci_requirement": {
+        "mode_average_units": 12,
+        "choose_one_from": [
+          {
+            "code": "05-391",
+            "title": "Designing Human Centered Software"
+          },
+          {
+            "code": "05-410",
+            "title": "User-Centered Research and Evaluation"
+          },
+          {
+            "code": "05-452",
+            "title": "Service Design"
+          },
+          {
+            "code": "05-897",
+            "title": "Special Topics in HCI"
+          }
+        ]
+      },
+      "foundations_of_software_engineering": {
+        "mode_average_units": 12,
+        "required_course": {
+          "code": "17-313",
+          "title": "Foundations of Software Engineering"
+        }
+      },
+      "information_systems_consulting_project": {
+        "mode_average_units": 12,
+        "required_course": {
+          "code": "67-373",
+          "title": "Information Systems Consulting Project"
+        }
+      },
+      "managing_digital_transformation": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "67-382",
+            "title": "Digital Transformation, Strategy and Management"
+          },
+          {
+            "code": "95-422",
+            "title": "Managing Digital Transformation"
+          }
+        ]
+      }
+    },
+    "information_systems_breadth": {
+      "mode_average_units": 9,
+      "professional_communications": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "36-315",
+            "title": "Statistical Graphics and Visualization"
+          },
+          {
+            "code": "51-261",
+            "title": "Communication & Digital Design Fundamentals"
+          },
+          {
+            "code": "51-262",
+            "title": "Communication and Digital Design Fundamentals"
+          },
+          {
+            "code": "67-202",
+            "title": "The Softer Side of Software"
+          },
+          {
+            "code": "67-265",
+            "title": "Design Fundamentals: Shaping Interactions and Experiences"
+          },
+          {
+            "code": "67-338",
+            "title": "Information & Grid Design"
+          },
+          {
+            "code": "70-321",
+            "title": "Negotiation and Conflict Resolution"
+          },
+          {
+            "code": "70-340",
+            "title": "Business Communications"
+          },
+          {
+            "code": "70-341",
+            "title": "Team Dynamics and Leadership"
+          },
+          {
+            "code": "70-342",
+            "title": "Managing Across Cultures"
+          },
+          {
+            "code": "76-270",
+            "title": "Writing for the Professions"
+          },
+          {
+            "code": "84-250",
+            "title": "Writing for Political Science and Policy"
+          },
+          {
+            "code": "85-341",
+            "title": "Hidden Assumptions in Psychology"
+          },
+          {
+            "code": "88-341",
+            "title": "Team Dynamics and Leadership"
+          },
+          {
+            "code": "88-418",
+            "title": "Negotiation: Strategies and Behavioral Insights"
+          },
+          {
+            "code": "88-419",
+            "title": "Negotiation: International Focus"
+          }
+        ]
+      },
+      "quantitative_analysis_and_research_methods": {
+        "mode_average_units": 9,
+        "choose_one_from": [
+          {
+            "code": "21-257",
+            "title": "Models and Methods for Optimization"
+          },
+          {
+            "code": "36-202",
+            "title": "Methods for Statistics & Data Science"
+          },
+          {
+            "code": "36-208",
+            "title": "Regression Analysis"
+          },
+          {
+            "code": "36-225",
+            "title": "Introduction to Probability Theory"
+          },
+          {
+            "code": "36-303",
+            "title": "Sampling, Survey and Society"
+          },
+          {
+            "code": "36-309",
+            "title": "Experimental Design for Behavioral & Social Sciences"
+          },
+          {
+            "code": "36-315",
+            "title": "Statistical Graphics and Visualization"
+          },
+          {
+            "code": "36-350",
+            "title": "Statistical Computing"
+          },
+          {
+            "code": "36-401",
+            "title": "Modern Regression"
+          },
+          {
+            "code": "36-402",
+            "title": "Advanced Methods for Data Analysis"
+          },
+          {
+            "code": "67-357",
+            "title": "Healthcare Analytics and Big Data"
+          },
+          {
+            "code": "67-364",
+            "title": "Practical Data Science"
+          },
+          {
+            "code": "70-208",
+            "title": "Regression Analysis"
+          },
+          {
+            "code": "73-265",
+            "title": "Economics and Data Science"
+          },
+          {
+            "code": "80-305",
+            "title": "Game Theory"
+          },
+          {
+            "code": "88-223",
+            "title": "Decision Analysis"
+          },
+          {
+            "code": "88-251",
+            "title": "Empirical Research Methods"
+          },
+          {
+            "code": "88-252",
+            "title": "Causal Inference: from Data to Decisions"
+          }
+        ]
+      },
+      "innovation_and_entrepreneurship": {
+        "mode_average_units": 12,
+        "choose_one_from": [
+          {
+            "code": "05-470",
+            "title": "Digital Service Innovation"
+          },
+          {
+            "code": "17-356",
+            "title": "Software Engineering for Startups"
+          },
+          {
+            "code": "67-443",
+            "title": "Mobile Application Design and Development"
+          },
+          {
+            "code": "67-474",
+            "title": "Tech Startup Launchpad"
+          }
+        ]
+      }
+    },
+    "concentration": {
+      "mode_average_units": 9,
+      "choose_one_concentration": true,
+      "concentrations": {
+        "data_science": {
+          "mode_average_units": 9,
+          "total_units_required": 36,
+          "data_science_technical_core": {
+            "mode_average_units": 9,
+            "choose_one_from": [
+              {
+                "code": "11-685",
+                "title": "Introduction to Deep Learning"
+              },
+              {
+                "code": "15-281",
+                "title": "Artificial Intelligence: Representation and Problem Solving"
+              },
+              {
+                "code": "15-288",
+                "title": "Special Topic: Machine Learning in a Nutshell"
+              },
+              {
+                "code": "36-315",
+                "title": "Statistical Graphics and Visualization"
+              },
+              {
+                "code": "67-364",
+                "title": "Practical Data Science"
+              }
+            ]
+          },
+          "data_science_applications": {
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "11-411",
+                "title": "Natural Language Processing"
+              },
+              {
+                "code": "15-282",
+                "title": "Artificial Intelligence for Medicine"
+              },
+              {
+                "code": "67-212",
+                "title": "Natural Language Processing with Python"
+              },
+              {
+                "code": "67-341",
+                "title": "Generative AI & Governance: Building Responsible Systems"
+              },
+              {
+                "code": "67-379",
+                "title": "Principles of Geographic Information Systems"
+              },
+              {
+                "code": "67-357",
+                "title": "Healthcare Analytics and Big Data"
+              },
+              {
+                "code": "67-410",
+                "title": "Clinical Data Science"
+              },
+              {
+                "code": "70-374",
+                "title": "Data Mining & Business Analytics"
+              },
+              {
+                "code": "70-469",
+                "title": "End to End Business Analytics"
+              },
+              {
+                "code": "70-462",
+                "title": "Uncertainty and Risk Modeling"
+              },
+              {
+                "code": "73-265",
+                "title": "Economics and Data Science"
+              }
+            ]
+          },
+          "summative_course": {
+            "mode_average_units": 9,
+            "required_course": {
+              "code": "67-426",
+              "title": "Data Science Capstone"
+            }
+          }
+        },
+        "digitalization": {
+          "mode_average_units": 9,
+          "total_units_required": 36,
+          "enabling_methods_techniques_and_tools": {
+            "mode_average_units": 9,
+            "choose_one_from": [
+              {
+                "code": "67-318",
+                "title": "Business Process Modeling and Implementation"
+              },
+              {
+                "code": "67-323",
+                "title": "Enterprise Systems: Concepts and Practice"
+              },
+              {
+                "code": "67-352",
+                "title": "Electronic Business and Design Thinking"
+              },
+              {
+                "code": "70-443",
+                "title": "Digital Marketing and Social Media Strategy"
+              }
+            ]
+          },
+          "orthogonal_topics": {
+            "mode_average_units": 9,
+            "choose_one_from": [
+              {
+                "code": "67-220",
+                "title": "Digital Accessibility - Ensuring Universal Access to the Information Society"
+              },
+              {
+                "code": "67-354",
+                "title": "Sustainability in the Digital Age"
+              },
+              {
+                "code": "70-318",
+                "title": "Managing Effective Work Teams"
+              },
+              {
+                "code": "70-387",
+                "title": "Strategy for High-Tech Products and Services"
+              },
+              {
+                "code": "70-342",
+                "title": "Managing Across Cultures"
+              }
+            ]
+          },
+          "summative_course": {
+            "mode_average_units": 9,
+            "choose_one_from": [
+              {
+                "code": "67-425",
+                "title": "Digitalization Capstone"
+              }
+            ]
+          }
+        },
+        "information_security_and_privacy": {
+          "mode_average_units": 9,
+          "total_units_required": 36,
+          "technical_core": {
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "15-316",
+                "title": "Software Foundations of Security and Privacy"
+              },
+              {
+                "code": "67-223",
+                "title": "Digital Trace and Identity"
+              },
+              {
+                "code": "67-380",
+                "title": "Information Systems Security"
+              },
+              {
+                "code": "67-301",
+                "title": "Networks and Telecommunications"
+              },
+              {
+                "code": "67-367",
+                "title": "Information Warfare"
+              },
+              {
+                "code": "67-384",
+                "title": "Digital and Cybercrime"
+              },
+              {
+                "code": "67-404",
+                "title": "Blockchain Applications"
+              }
+            ]
+          },
+          "regulatory_and_behavioral_core": {
+            "mode_average_units": 9,
+            "choose_from": [
+              {
+                "code": "17-334",
+                "title": "Usable Privacy and Security"
+              },
+              {
+                "code": "67-313",
+                "title": "Digital Risk Management and Auditing"
+              },
+              {
+                "code": "67-365",
+                "title": "Human-Centered Security and Privacy: A Psychological and Usable Approach"
+              },
+              {
+                "code": "67-415",
+                "title": "Cyber Ethics and Regulation"
+              }
+            ]
+          },
+          "summative_course": {
+            "mode_average_units": 9,
+            "required_course": {
+              "code": "67-427",
+              "title": "Privacy and Security Capstone"
+              }
+          }
+        }
+      }
+    }
+  }
+}

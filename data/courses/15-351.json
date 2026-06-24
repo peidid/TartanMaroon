@@ -1,0 +1,37 @@
+{
+        "code":  "15-351",
+        "name":  "Algorithms and Advanced Data Structures",
+        "short_name":  "ALGO ADV DATA STRUCT",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least D) or (15-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The objective of this course is to study algorithms for general computational problems, with a focus on the principles used to design those algorithms. Efficient data structures will be discussed to support these algorithmic concepts. Topics include Run time analysis, divideandconquer algorithms, dynamic programming algorithms, network flow algorithms, linear and integer programming, largescale search algorithms and heuristics, efficient data storage and query, and NPcompleteness. Although this course may have a few programming assignments, it is primarily not a programming course. Instead, it will focus on the design and analysis of algorithms for general classes of problems. This course is not open to CS graduate students who should consider taking 15651 instead. THIS COURSE IS NOT OPEN TO COMPUTER SCIENCE MAJORS OR MINORS.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.csd.cs.cmu.edu/course-profiles/15-351-Algorithms-and-Advanced-Data-Structures",
+        "custom_fields":  {
+                                                    "goals":  "Ability to design, analyze complexity of, and prove the correctness of algorthims used with data structures.",
+                                                    "key_topics":  "Run time analysis; Divide-and-conquer algorithms; Dynamic programming algorithms; Network flow algorithms; Linear and integer programming; Large-scale search algorithms and heuristics; Efficient data storage and query; NP-completeness",
+                                                    "prerequisite_knowledge":  "Understanding of C and data structures from 15-122",
+                                                    "assessment_structure":  "Homework 30%; Midterm 40%; Final Exam 30%",
+                                                    "relevance":  "This course is for students not in the computer science major or minor who are interested in advanced data structures. This course 15-351 is for undergraduates. Graduate students should enroll in 15-650.",
+                                                    "learning_resources":  "Piazza; Blackboard; Course Textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

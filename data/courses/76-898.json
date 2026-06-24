@@ -1,0 +1,37 @@
+{
+        "code":  "76-898",
+        "name":  "Marxisms",
+        "short_name":  "MARXISMS",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is meant to introduce students to basic concepts in Marxist theory, such as the mode of production, base and superstructure, historical materialism, alienation, and ideology from Marx and Engels, through amendments such as Lukacs concept of reification, Gramscis of hegemony, Raymond Williamss of cultural materilism, and Althussers of ideological apparatuses. It will also look at some contemporary revisions of Marxism, for instance the concept of racial capitalism and affective labor.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  "To gain understanding of basic Marxist concepts past and present, and to investigate current uses and relevance of Marxism.",
+                                                    "key_topics":  "Marxist theory",
+                                                    "prerequisite_knowledge":  "Intro to LCS or similar background in criticism and theory",
+                                                    "assessment_structure":  "Two short papers or project on Marxisms past and present.",
+                                                    "relevance":  "Theory minis are required for MAs in LCS",
+                                                    "learning_resources":  "Canvas pages with selected contextual readings and in-class PowerPoints about several authors, movements, and cultural contexts.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

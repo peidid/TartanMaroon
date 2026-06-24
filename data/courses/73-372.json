@@ -1,0 +1,37 @@
+{
+        "code":  "73-372",
+        "name":  "International Money and Finance",
+        "short_name":  "INTNL MONEY/FINANCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D)) and (73-240 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The course introduces students to a microfounded model of the global monetary system. The model is employed to assess the roles of money, banking, and central banking in the management of inflation, employment, and financial stability. Interest rates, the international exchange rate, the trade balance, and international capital flows are explored in terms of the model. The model is used to address controversial issues in international trade and financial relations, as well as current macroeconomic stabilization problems in China, the Euro area, the United States, and elsewhere. Theoretical points are illustrated with references to historical central bank practices from around the world in recent decades. The course concludes with student briefings on current central bank policies from around the world.   Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

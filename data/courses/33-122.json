@@ -1,0 +1,48 @@
+{
+        "code":  "33-122",
+        "name":  "Physics II for Biological Sciences \u0026 Chemistry Students",
+        "short_name":  "PHY II BIO \u0026 CHEM ST",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-120 [] at least D) and (33-121 [] at least D)) or ((33-151 [] at least D) and (21-120 [] at least D)) or ((33-141 [] at least D) and (21-120 [] at least D)) or ((21-120 [] at least D) and (33-111 [] at least D)) or ((33-131 [] at least D) and (21-120 [] at least D)) or ((33-106 [] at least D) and (21-120 [] at least D))"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "21-124",
+                                                "id":  2624,
+                                                "name":  "Calculus II for Biologists and Chemists",
+                                                "units":  10.0
+                                        },
+                                        {
+                                                "code":  "21-122",
+                                                "id":  2628,
+                                                "name":  "Integration and Approximation",
+                                                "units":  10.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is the second course in the introductory physics sequence for chemistry and biological science majors. The course will consist of eight portions covering 1 electrostatics and dynamics, 2 electrical circuits, 3 magnetism, 4 waves, 5 optics, 6 diffusive motion, and 7 hydrostatic forces and flow.  Emphasis will be put on the application of the underlying physical principles in the study of biology and chemistry. This course has a corequisite of 21122.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To introduce you to the glorious concepts of electromagnetism, waves, and optics and to help you to learn how to model relevant physical systems, and to be able to calculate and solve the problems related to them.",
+                                                    "key_topics":  "Electromagnetism, Waves, Optics",
+                                                    "prerequisite_knowledge":  "A mechanics course (33-121 or 33-141 or 33-151) and a calculus course (22-120)",
+                                                    "assessment_structure":  "Problem sets 35%; three subject examinations 30%; final examination 25%; recitation attendance 5%; reading quizzes 5%",
+                                                    "relevance":  "The course is primarily designed for biologists and chemists who would like to learn some physics.",
+                                                    "learning_resources":  "We shall provide regular help sessions and office hours and the university usually provides SI sessions as well. Detailed course notes are available for purchase through the Canvas page.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

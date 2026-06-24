@@ -1,0 +1,42 @@
+{
+        "code":  "15-311",
+        "name":  "Logic and Mechanized Reasoning",
+        "short_name":  "LOGIC \u0026 MECH REASNIN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-127 [] at least C) or (15-151 [] at least C) or (21-128 [] at least C)) and (15-150 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "15-217",
+                                                    "id":  10887,
+                                                    "name":  "Logic and Mechanized Reasoning",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Symbolic logic is fundamental to computer science, providing a foundation for the theory of programming languages, database theory, AI, knowledge representation, automated reasoning, interactive theorem proving, and formal verification. Formal methods based on logic complement statistical methods and machine learning by providing rules of inference and means of representation with precise semantics. These methods are central to hardware and software verification, and have also been used to solve open problems in mathematics. This course will introduce students to logic on three levels theory, implementation, and application. It will focus specifically on applications to automated reasoning and interactive theorem proving. We will present the underlying mathematical theory, and students will develop the mathematical skills that are needed to design and reason about logical systems in a rigorous way. We will also show students how to represent logical objects in a functional programming language, Lean, and how to implement fundamental logical algorithms. We will show students how to use contemporary automated reasoning tools, including SAT solvers, SMT solvers, and firstorder theorem provers to solve challenging problems. Finally, we will show students how to use Lean as an interactive theorem prover.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The course is intended to be an introduction to classical propositional logic, firstorder logic, and higherorder logic, with a focus on applications to computer science, specifically to formal verification and automated reasoning.",
+                                                    "key_topics":  "Mathematical foundations, propositional logic, first-order logic, fundamental algorithms, SAT solvers, SMT solvers, and first-order theorem provers.",
+                                                    "prerequisite_knowledge":  "None except pre requisite courses 15-151 and 15-150",
+                                                    "assessment_structure":  "Regular homework assignments, two midterm exams, and a final exam.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "The course will provide an online interactive textbook and the relevant software.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

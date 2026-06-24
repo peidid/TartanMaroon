@@ -1,0 +1,37 @@
+{
+        "code":  "76-893",
+        "name":  "Introduction to Global \u0026 Postcolonial Studies",
+        "short_name":  "INTRO PSTCLNL STUD",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Since the 1978 publication of Edward Saids groundbreaking work Orientalism, postcolonial theory has gained currency as a critical discourse examining global experiences of colonization and decolonization. Since the term postcolonial was first invoked to describe the cultural effects of colonization, the field of study has expanded considerably. Today postcolonial studies looks backwards at earlier works on nationalism and cultural identity, gazes forwards towards seemingly dire futures, and unpacks present conjunctures. In this course, we will follow several threads of postcolonial theory to talk about the discursive operations of empire, the politics of representations, the problems of nationalism, the intersections of race, gender and sexuality in a global context, and the effects of colonialism, imperialism and globalization on economies, ecology, climate, and migration.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

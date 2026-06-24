@@ -1,0 +1,37 @@
+{
+        "code":  "70-340",
+        "name":  "Business Communications",
+        "short_name":  "BUSINESS COMMUNCTNS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-102 [] at least D) or (76-101 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Business Communications develops and sharpens your written, oral, and interpersonal communication, introducing you to common forms of professional writing and speaking in specific business situations. The course explores crucial rhetorical issues that impact your ability to communicate and achieve your objectives as a business leader. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The course seeks to imbue students with both theoretical and practical knowledge for planning, creating, and presenting effective business communication. Upon completing the course, successful students should be able tocritically evaluate communication contexts and characterize audiences, and adapt both written and oral communication to such contexts and audiencesunderstand and successfully apply targeted rhetorical, linguistic, and design concepts to generate informative and persuasive communication in a variety of genresdesign, write, revise, and proofread audiencecentered business documents integrate calculated verbal and nonverbal strategies to speak confidently and concisely to business and other audiencesconduct industry research and logically analyze ideas to create and communicate innovative business solutionsapply effective and responsible interpersonal communication skills teamwork, leadership, conflict management at all levels of the organizational hierarchy",
+                                                    "key_topics":  "Deploying rhetorical strategy in communication\nPresenting your professional self\nUnderstanding organizational structure and culture\nCommunicating across generations and cultures\nCommunicating in teams\nCommunicating in the workplace\nUnderstanding professional style and genres\nOrganizing information and data\nCreating reports and presentations\nUsing best practices in image and slide design\nUsing best practices in delivering presentations",
+                                                    "prerequisite_knowledge":  "Relatively strong fluency in reading and speaking English.",
+                                                    "assessment_structure":  "Material from readings, lecture, and class discussion will be assessed in two graded individual assignments; two quizzes; individual and pair activities; writing exercises; two team projects; and an individual project.",
+                                                    "relevance":  "This course will provide guidance in developing a flexible, audience-centered approach to writing and speaking as a professional; it will provide a foundation for Business Presentations 70-345.",
+                                                    "learning_resources":  "Textbook: Business Writing Today, Natalie Canavor, 2019; relevant readings from the primary literature and periodicals; TED talks, online lectures, and similar videos; course library guide.",
+                                                    "extra_time_commitment":  "Team and team/instructor meetings, possibly adding 1 hour to the expected weekly 9 hours; the remote section is only available for students approved for remote study in Fall 2021."
+                                            }
+}

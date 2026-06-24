@@ -1,0 +1,37 @@
+{
+        "code":  "33-232",
+        "name":  "Mathematical Methods of Physics",
+        "short_name":  "MTHMTCL MTHDS PHYSCS",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  "33-231 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course introduces, in the context of physical systems, a variety of  mathematical tools and techniques that will be needed for later courses in  the physics curriculum. Topics will include linear algebra, Fourier series and transforms, vector calculus with physical applications, and a first look at partial differential equations. The techniques taught here are useful in more advanced courses such as Physical Mechanics, Electricity and Magnetism, and Advanced Quantum Physics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understand properties of linear vector spaces, including basis sets and Hermitianness.Perform standard operations on matrices, including changing basis, calculating determinants, and finding eigenvectors and eigenvalues.Understand Fourier series and perform Fourier transforms.Understand and describe the Dirac delta function and the Heaviside step function.Apply Fourier analysis and other tools to solve ordinary and partial differential equations.Understand and apply index notation and the Einstein summation convention to analysis of vectors in 3 dimensions.Apply techniques of vector analysis and vector calculus, including integral theorems like the Divergence Theorem and Stokes Theorem, to solve problems with vectors and vector fields in any coordinate system.",
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "33-231",
+                                                    "assessment_structure":  "Problem sets; Worksheets; Midterm Exam; Final Exam; Participation",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Canvas; Textbook",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "70-493",
+        "name":  "Valuation and Financial Modeling",
+        "short_name":  "VALUATION AND FIN MO",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "70-391 [] at least D"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on valuing companies. Students will learn theoretical valuation frameworks and then apply them practically. The class will cover a range of valuation approaches including discounted cash flow analyses, price multiples, real options and the venture capital method. The class will be very handson  we will be building valuation models in excel inclass and in case assignments using realworld data such as company financial statements and stock prices. This is particularly useful for students considering careers in investment banking and private equity. We will focus not just on learning valuation methods but also understanding the assumptions that underlie them. We will ask when such assumptions are trivial and when they can lead to large errors. We will value a variety of companies including Ferrari, WhatsApp and Snap Inc. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of this course is for students to learn valuation frameworks conceptually and to be able to apply these frameworks practically to realworld companies using data they can obtain from sources such as company financials. Students will also learn the assumptions underlying different valuation frameworks and attempt to understand which of these assumptions are relatively benign and which can cause serious errors in their valuation. Students will also become familiar with building an excel model of valuation.",
+                                                    "key_topics":  "Computing Free Cash Flow, WACC, Discounted Cash Flow Analysis, Multiples, Real Options, Venture Capital Method, Financial Modeling using Excel",
+                                                    "prerequisite_knowledge":  "Knoweldge of introductory finance.",
+                                                    "assessment_structure":  "About 50% of the grade will be based on 3-4 cases, which will require students to build a valuation model in excel. These cases will require working with data on the company being valued and students will work in groups of 3-4. About 30% of the grade will be based on a final in which students will be tested on their understanding of valuation concepts. The remaining grade will be for class participation.",
+                                                    "relevance":  "This course is relevant for students interested in a career in investment banking or in corporate finance more broadly. It may also be of interest to students with a general interest in finance.",
+                                                    "learning_resources":  "The main text book for the course is Corporate Valuation: Theory, Evidence, and Practice by Holthausen and Zmijewski. Neither textbook is required. Other course materials will be posted on canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

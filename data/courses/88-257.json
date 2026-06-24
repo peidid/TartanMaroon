@@ -1,0 +1,37 @@
+{
+        "code":  "88-257",
+        "name":  "Experimental Economics",
+        "short_name":  "EXPERIMENTAL ECON",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will focus on the experimental literature studying decisionmaking and strategic interactions.  We will explore both seminal and ongoing experimental work on risk, time and social preferences, as well as how these preferences are affected by emotions and other visceral factors. The course will focus on laboratory experiments. The last section of the class will focus on the use of experiments to test economic theory both standard and behavioral. The class is meant to be interactive, and students will have many opportunities to critically discuss existing experimental research, as well as to present their own research ideas.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

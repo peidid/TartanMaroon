@@ -1,0 +1,37 @@
+{
+        "code":  "67-313",
+        "name":  "Digital Risk Management and Auditing",
+        "short_name":  "DIG RISK MGT \u0026 AUDIT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-110 [] at least D) or (67-250 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course introduces the fundamental concepts of the information technology audit and control function. The main focus of this course is on understanding information controls, the types of controls and their impact on the organization, and how to manage and audit them. The concepts and techniques used in information technology audits will be presented. Students will learn the process of creating a control structure with goals and objectives, audit an information technology infrastructure against it, and establish a systematic remediation procedure for any inadequacies. The challenge of dealing with best practices, standards, and regulatory requirements governing information and controls is addressed.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1. Explain the role and objectives of audit and governance in IT and digital environments. 2. Assess IT risks and controls and their implications for organizations.3. Evaluate and explain IT audit tools and techniques.4. Formulate and design IT audit plans, audit objectives, procedures and control measures to effectively manage risks in various platforms. 5. Construct a critical synthesized evaluation of and response to IT audit risk assessments.",
+                                                    "key_topics":  "This course introduces students to IT audit, internal control, and IT governance. The course provides various aspects of IT auditing including operating systems and network, database systems, systems development and program change activity and computer-assisted audit tools and techniques.",
+                                                    "prerequisite_knowledge":  "67-272 is a prerequisite for this course unless otherwise approved by the instructor. Junior and Senior students are suitable for enrolment.",
+                                                    "assessment_structure":  "Assessments in the course typically include research reports, case analysis, presentations, business simulation and role-play activity.",
+                                                    "relevance":  "This course is relevant to all IS students. It provides possible career paths in IT auditing and IT risk management professionals.",
+                                                    "learning_resources":  "The course has a combination of online materials consist of scholarly articles, government publications, and industry reports, as well as a relevant textbook.",
+                                                    "extra_time_commitment":  "This is a 9 units course. On average, a student is expected to spend 9 hours a week on this course, consisting of 3 hours in class and 6 hours of self-study."
+                                            }
+}

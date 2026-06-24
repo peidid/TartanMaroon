@@ -1,0 +1,37 @@
+{
+        "code":  "15-316",
+        "name":  "Software Foundations of Security and Privacy",
+        "short_name":  "SFTWR FNDTN SEC PRIV",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "15-213 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Security and privacy issues in computer systems continue to be a pervasive issue in technology and society. Understanding the security and privacy needs of software, and being able to rigorously demonstrate that those needs are met, is key to eliminating vulnerabilities that cause these issues. Students who take this course will learn the principles needed to make these assurances about software, and some of the key strategies used to make sure that they are correctly implemented in practice. Topics include policy models and mechanisms for confidentiality, integrity, and availability, languagebased techniques for detecting and preventing security threats, mechanisms for enforcing privacy guarantees, and the interaction between software and underlying systems that can give rise to practical security threats. Students will also gain experience applying many of these techniques to write code that is secure by construction.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://15316-cmu.github.io/2023/index.html",
+        "custom_fields":  {
+                                                    "goals":  "The goal of the course is to teach students the principles and algorithms behind good security and privacy solutions, so they they can adapt and extend them in the future. In order to achieve this level of understanding, the course will cover a number of key ideas from logic and languages when developing the security topics above.",
+                                                    "key_topics":  "Policy models: safety \u0026 liveness, information flow, capabilities\nReference monitors\nSecurity type systems\nIsolation principles \u0026 techniques: software fault isolation, control-flow integrity, hardware protection\nTrusted computing: authorization logic, public key infrastructure, hardware \u0026 software support\nSide channel vulnerability \u0026 defense\nTechniques for ensuring rigorous data privacy\nIdentifying vulnerabilities in real systems",
+                                                    "prerequisite_knowledge":  "Maturity in programming at the level of 15-213 or 15-150",
+                                                    "assessment_structure":  "Homeworks 45%, Labs 35%, Final Exam 20%",
+                                                    "relevance":  "Fulfills a requirement in the undergraduate concentration in Security \u0026 Privacy and is an elective in the concentration on Principles of Programming Languages. Finally, it fulfills the Logics \u0026 Languages elective in the CS undergraduate program. 15-316 Section R is reserved for students who are unable to register for an in-person section due to a government visa/travel restriction or a documented medical condition. Enrollment in this section will require university-level approval. Register for an in-person section unless you are absolutely certain when you register that you will not be able to attend in-person this Fall.",
+                                                    "learning_resources":  "See course website",
+                                                    "extra_time_commitment":  null
+                                            }
+}

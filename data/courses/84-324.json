@@ -1,0 +1,37 @@
+{
+        "code":  "84-324",
+        "name":  "The Future of Democracy",
+        "short_name":  "FUTURE OF DEMOCRACY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "After the Cold War, Francis Fukuyama famously argued that humanity had reached the end of history insofar as liberal democracy had become the last viable form of government. Yet today, illiberal democracies and dictatorships persist, the world has witnessed the return of authoritarian great powers led by China and Russia, and populist movements challenge liberal democracies around the world. What is the future of democracy around the world, and how can we know This course surveys the causes of historical rise and fall of democracy, the methods and pitfalls of democracy promotion, and a variety of challenges to democracy such as nationalism, polarization, and misinformation. By the end, students will be expected to write an intelligence memo and give an oral presentation on the future of democracy in a particular region or country.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able toDefine what a democracy looks like or should look like. Comprehend and describe the history of democratization over the last two centuries. Relate personal concerns about modern democracy at home and abroad to theories and models of democratic transition and survival. Debate the effects and limitations of democracy promotion at home and abroad. Interpret a variety of sources articles, public opinion surveys, etc. to assess the prospects for democratic transition or survival in a specific country.",
+                                                    "key_topics":  "See course description.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required",
+                                                    "assessment_structure":  "There will be reading quizzes and several writing assignments culminating in a final memo on democracy\u0027s future in a particular region or country.",
+                                                    "relevance":  "Dietrich GenEd Prior to Fall 2021: Deciding\nDietrich GenEd After Fall 2021: Contextual Thinking\n\nUniversity students will better comprehend the history of democracy and be better prepared to grapple with challenges to the future of global democracy.",
+                                                    "learning_resources":  "With the exception of 1-2 books for purchase, all readings will be available on Canvas or otherwise free online.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

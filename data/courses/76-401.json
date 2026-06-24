@@ -1,0 +1,37 @@
+{
+        "code":  "76-401",
+        "name":  "Hollywood vs. the World",
+        "short_name":  "HLYWOOD VS WORLD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "For almost a century the American film industry has dominated popular media worldwide. Anywhere in the world, American stars, American films, and American modes of storytelling are never far away. Why and how was that dominance achieved, and how have other cultures and industries challenged it Film and television account for billions of dollars of U.S. exports and provide one of the key sources of global soft power and cultural influence. Understanding how that dominance works is therefore crucial to the question of Americas economic, political and cultural place in the world. This course will examine ways in which other national cinemas have fought, or are currently fighting, against the hegemony of American popular film culture, and the ways in which the American film industry has maintained its dominant position in world markets for nearly a century.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "Film, History, Technology, Aesthetics, Criticism, Analysis, Visual Media Literacy",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

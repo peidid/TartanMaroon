@@ -1,0 +1,37 @@
+{
+        "code":  "15-317",
+        "name":  "Constructive Logic",
+        "short_name":  "CONSTRUCTIVE LOGIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "15-150 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This multidisciplinary juniorlevel course is designed to provide a thorough introduction to modern constructive logic, its roots in philosophy, its numerous applications in computer science, and its mathematical properties. Some of the topics to be covered are intuitionistic logic, inductive definitions, functional programming, type theory, realizability, connections between classical and constructive logic, decidable classes.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://lfcps.org/course/constlog.html",
+        "custom_fields":  {
+                                                    "goals":  "Understand how logics are defined what they mean how they are used in computer scienceDevelop skills in all types of logic classical, constructive, intuitionistic",
+                                                    "key_topics":  "Modern constructive logic and its roots in philosophy, intuitionistic logic; Inductive definitions; Functional programming; Type theory; Logic programming; Proof search; Logical frameworks",
+                                                    "prerequisite_knowledge":  "Basis in functional programming",
+                                                    "assessment_structure":  "Assignments: 40%; Midterms: 30%; Final: 30%",
+                                                    "relevance":  "Those interested in learning about some the many applications of logical reasoning in computer science. 15-317 is for undergraduates. Graduate students should register for 15-357.",
+                                                    "learning_resources":  "Piazza; Lecture Notes",
+                                                    "extra_time_commitment":  null
+                                            }
+}

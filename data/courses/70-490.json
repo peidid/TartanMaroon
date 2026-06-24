@@ -1,0 +1,37 @@
+{
+        "code":  "70-490",
+        "name":  "Big Data in Finance and Machine Learning",
+        "short_name":  "BG DTA FINC MCH LRNG",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(70-391 [] at least D) and (70-122 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course deals with the financial decisions of corporations. The focus is on learning through handson experience of the corporate world, supplemented by a discussion of theoretical concepts and analysis of data. This handson experience is in computerized lab games that simulate the corporate world, in which students participate as CEOs, investors, and directors. Topics to be covered include the following dividend policy financial reporting CEO compensation and valuation. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

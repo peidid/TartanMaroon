@@ -1,0 +1,37 @@
+{
+        "code":  "76-322",
+        "name":  "Gender and Sexuality in Performance",
+        "short_name":  "GNDR \u0026 SEX IN PERFOR",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Performance describes a wide range of practices, from the everyday to the artistic. Gender and sexuality are key elements in everyday, political, and artistic performances, from the very personalhow you order a latte at Tassa DOro, tell a lover goodbye at the airport or comfort a crying childto the very publicperforming a Bach cello suite or an iconic King Lear, staging a demonstration against police violence or marketing a new app.  This course will be cotaught by a specialist in gender and queer theory and a practitioner of performance art.  We plan to bring performance art and theory into a practical partnership in the creation and critique of social and individual narratives about gender and sexuality.  How does everyday performance define gender and sexual identity How do gender and sexuality define everyday performance  How does aesthetic performanceart, theater, film, digital media, poetryintervene in the ways in which gender and sexuality are performed  Readings in theory at the intersection between gender studies and performance studies will help us explore these questions. We will also consider a variety of cultural and artistic practices.   The addition of simple performance prompts and exercises for students to incorporate into their research will blur theory and studio practices. Students will be encouraged to practice their theories surrounding performance within the classroom and in public space.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

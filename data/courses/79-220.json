@@ -1,0 +1,37 @@
+{
+        "code":  "79-220",
+        "name":  "Screening Mexico: Mexican Cinema, 1898 to Present",
+        "short_name":  "SCREENING MEXICO",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is a survey of Mexican cinema from its origins in silent film to the present.  Some areas of focus will include documentary footage and films of the Mexican Revolution 19101920, films of the Mexican Golden Age 19301960, and New Mexican Cinema from the 1990s forward.  We will explore cinema as a window on Mexicos changing social, cultural and political dynamics, and as a way to probe such topics as changing conceptions of Mexican identity political critique and revolutionary movements and urbanization, migration and the drug war in contemporary Mexico. This course meets the Dietrich Gen Ed Contextual Thinking requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will better understand Mexico, and gain an appreciation of Mexican cinema in cultural and historical terms.",
+                                                    "key_topics":  "This course considers Mexican cinema from its origins in silent film to the present. We will explore cinema as a window on Mexico\u0027s changing social, cultural and political dynamics, and as a way to probe such topics as: changing conceptions of Mexican identity; political critique and revolutionary movements; and urbanization, migration and the \"drug war\" in contemporary Mexico.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "There will be readings, film screenings, class discussions and presentations, written film commentaries, and a final essay.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Contextual Thinking\n\nUniversity students will study and screen Mexican films as a window on historical and contemporary issues in Mexican society, politics and culture.",
+                                                    "learning_resources":  "Readings on Canvas, films via various streaming services.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

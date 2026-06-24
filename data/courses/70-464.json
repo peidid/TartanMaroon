@@ -1,0 +1,37 @@
+{
+        "code":  "70-464",
+        "name":  "AI \u0026 Emerging Economies",
+        "short_name":  "AI \u0026 EMERGING ECON",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The unique course design offers students the opportunity to work in project teams with to gain a better understanding of different perspectives and approaches towards AI. AI and contemporary tools like ChatGPT, experiential learning, data, and a diverse set of case studies will help inculcate critical and creative thinking as well as novel problemsolving approaches. You will work on practical projects that apply your newfound knowledge to realworld scenarios. By the end of the course, you will have a deep understanding of the opportunities and challenges of AI in emerging economies, as well as the skills and experience necessary to work effectively in global teams. The course is multi disciplinary and germane to budding technologists, entrepreneurs, and policy influencers. This is an opportunity not to be missed.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

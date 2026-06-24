@@ -1,0 +1,37 @@
+{
+        "code":  "70-391",
+        "name":  "Finance",
+        "short_name":  "FINANCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((73-104 [] at least D) or (73-100 [] at least D) or (73-102 [] at least D)) and ((36-200 [] at least D) or (36-225 [] at least D) or (36-201 [] at least D) or (70-207 [] at least D) or (36-217 [] at least D) or (36-218 [] at least D) or (36-207 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Firms create value by making good investment decisions. Finance is the field of management science tasked with making this happen. It is a set of tools with which firms identify good investments and decide how to pay for them. Paying for them ultimately involves getting money from households. Therefore, finance also describes the investment decisions of households and the resulting allocation of the economys resources across firms and time. This course is the introductory finance course in the undergraduate business program. The main topics covered in the course are Financial Markets, Net Present Value, The Objective of the Firm, Discounted Cash Flow, Portfolio Theory and the Cost of Capital, The Efficient Markets Hypothesis, The Capital Structure of the Firm, and Business Valuation. Time permitting, the course will also provide an introduction to option markets and derivative securities. Upon completing the course a student will be able to consider a large and complex business problem, make some assumptions, structure the firms cash flows in a spreadsheet, calculate the value of different solutions to the problem, and make a decision. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Upon completing the course, a student will be able to do the following Decide whether or not an investment project should be undertaken Analyze and measure risk and return Estimate a companys costofcapital Describe the appropriate mix of equity and debt that a firm should use to finance its activities Value a firm andor a financial security.",
+                                                    "key_topics":  "The time value of money and capital budgeting techniques; uncertainty and the trade-off between risk and return; optimal capital structure; business valuation.",
+                                                    "prerequisite_knowledge":  "Students should be familiar with basic statistical concepts, like what a regression is and what a regression coefficient represents.",
+                                                    "assessment_structure":  "The course grade will be based on: Problem sets that are designed to help students practice applying the concepts covered in class and aim to be similar to those questions on the exams; A group valuation project in which students will utilize the concepts covered in class to value the common equity of a company of their choosing or an assigned one; exams; Participation in the class discussions",
+                                                    "relevance":  "This is the introductory finance course in the Tepper School of Business\u0027 undergraduate program. It examines important issues in corporate finance from the perspective of financial managers who are responsible for making significant investment and financing decisions. This course also serves as a basis and prerequisite for more advanced classes in both finance and business.",
+                                                    "learning_resources":  "Detailed lecture notes will be available during the semester. Lecture notes, homeworks, practice exams and solutions available on Canvas; Text book; Q\u0026A panel open on Piazza",
+                                                    "extra_time_commitment":  "Homeworks and a group project; Optional review sessions before exams"
+                                            }
+}

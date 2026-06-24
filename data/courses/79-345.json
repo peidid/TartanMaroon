@@ -1,0 +1,37 @@
+{
+        "code":  "79-345",
+        "name":  "Roots of Rock \u0026 Roll",
+        "short_name":  "ROOTS OF ROCK \u0026 ROLL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about open source, collaborative innovation, and the impact of social and technological change on American music. We will spend the first half on early remix music slave songs, AngloAppalachian ballads, ragtime, and Depression era blues and country. After studying Bessie Smith, Woody Guthrie, Lead Belly, Hank Williams, and other early artists, well spend the second half on revolutionaries like Chuck Berry, Bob Dylan, Jimi Hendrix, and Janis Joplin.  The format is informal lecture and discussion. Assignments include reading two books plus some articles, listening to short Spotify playlists, and writing three short essays. This course meets the Dietrich Gen Ed The Arts requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students willDemonstrate knowledge of how American society and music have changed since the Civil War, with reference to key voices, genres, collaborations, controversies, and innovationsDemonstrate an ability to read both closely and critically, in order to contextualize diverse genres of music, from different historical eras, within the themes of the courseImprove and master the skill of writing analytically, by integrating multiple sources into formal essays that are built around your own arguments about the content, meaning, and significance of the roots of rock rollDeconstruct inherited arguments ideas, concepts, prejudices that have been made about how American music developed.",
+                                                    "key_topics":  "Music of enslaved Americans; 17th-century Celtic ballads; the \"folk process\" of appropriation and adaptation; the invention and development of recording technologies; acoustic sound engineering; the rise of the recording industry; the importance of the banjo to American popular music; the persistence of blackface and minstrelsy; dance crazes; segregated and crossover marketing campaigns; commodification and commercialization; the invention of music genres; the convergence of genres into \"pop\"; the blues as women\u0027s music; the religious roots of blues, jazz, and gospel; the concept of \"authenticity\"; models of \"originality\"; copyright and intellectual property; the invention of the microphone, electric recording, and audio mixing; the origins of the electric guitar; the politics of protest music; cultural appropriation and collaboration; the Motown sound; the Baby Boom; the anthropological concept of \"bricolage.\"",
+                                                    "prerequisite_knowledge":  "No prior knowledge required. I take time during lecture/discussions to teach and present ALL the historical and musical knowledge students need in order to understand the materials and do well on the assignments.",
+                                                    "assessment_structure":  "Participation in class discussion. Students write three short essays that analyze assigned readings and music playlists.",
+                                                    "relevance":  "Dietrich Gen Ed: Disciplinary Perspectives - The Arts\n\nThe main theme of the course is how what we now call open-source, collaborative innovation is not new but very old. Collaboration across cultures, drawing on previously separate \"creative commons\" (folksongs and other cultural traditions available for borrowing and adaptation) led to rock and roll as a billion dollar industry and a way of life. The course concludes with a model of innovation suggested by history but useful for the future.\n\nStudents who attend the lectures, do the assigned readings and listening, and write the papers will better understand the intertwined histories of race, class, culture, and business in the U.S.",
+                                                    "learning_resources":  "Required readings include three short, inexpensive books and numerous short articles that are available in PDF format on Canvas. Spotify playlists for each class session are linked through Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

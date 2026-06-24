@@ -1,0 +1,37 @@
+{
+        "code":  "76-225",
+        "name":  "Topics in Rhetoric: Words and Numbers",
+        "short_name":  "TOPICS IN RHETORIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester. Spring 2014 For decades, communication researchers relying on stimulusresponse theories associated a text with a single dominant stimulus evoking a single dominant response. This thinking widely influenced rhetorical understandings of language for decades as well. Today, rhetorical theories of language have discredited these behaviorist theories in favor of theories that see language as the constructors of situations rather than the effects of them. When speakers and writers use language, they resuscitate, enact, and perform worlds of experience from words. They create not only meanings but histories, identities, and social bids to initiate social change. This course introduces students to a theory and ontology of language study that is in keeping with language as a constructive activity.  Students will learn to use software designed to analyze texts qualitatively and numerically from a constructive point of view. The software works as a microscope to help you see patterns of language use that escape the limited attention span of even the most painstaking of close readers. After learning how the software works, we will do exercises with small textual samples so that students can sharpen their powers of observing language across families of patterns. Students are encouraged to analyze the texts they love most  from literature, politics, journalism, to their favorite blog posts, tweets, and Facebook posts. Full course description available on English department website.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-836",
+        "name":  "Issues in the Discipline",
+        "short_name":  "ISSUES IN DISCIPLINE",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This Mini introduces students to the history of the discipline of literary and cultural studies and current problems. It will survey how literary study was formed as a discipline in the twentieth century. Then it will cover some of the key recent debates in the discipline, for instance over critique, the shrinking of the humanities and labor in higher education, and the address to a public or publics.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  "Some knowledge of the history of the discipline as well as current debates.",
+                                                    "key_topics":  "The institutional history of literary/cultural studies; critique; discipline; institutions",
+                                                    "prerequisite_knowledge":  "Intro to LCS or similar background in criticism and theory",
+                                                    "assessment_structure":  "Two short papers or projects about the discipline and past or current debates.",
+                                                    "relevance":  "Will give context of methodological, theories, and institutions shaping the discipline as students take a position in it.\n\n\nWill provide recent history of critical controversies.",
+                                                    "learning_resources":  "Canvas pages with selected contextual readings and in-class PowerPoints about several authors, movements, and cultural contexts.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

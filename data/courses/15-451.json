@@ -1,0 +1,37 @@
+{
+        "code":  "15-451",
+        "name":  "Algorithm Design and Analysis",
+        "short_name":  "ALGORITHM DES \u0026 ANLS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-210 [] at least C) and (21-241 [] at least C) and ((15-251 [] at least C) or (21-228 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is about the design and analysis of algorithms. We study specific algorithms for a variety of problems, as well as general design and analysis techniques. Specific topics include searching, sorting, algorithms for graph problems, efficient data structures, lower bounds and NPcompleteness. A variety of other topics may be covered at the discretion of the instructor. These include parallel algorithms, randomized algorithms, geometric algorithms, low level techniques for efficient programming, cryptography, and cryptographic protocols.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cs.cmu.edu/~15451-f24/",
+        "custom_fields":  {
+                                                    "goals":  "Understanding of the design and analysis on algorithms for a variety of problems Develop skills to reason about and prove properties of algorithms such as their correctness and running time. Understand how data structures can provide spaceefficient ways to quickly answer queries about data, and understand how these data structures can be used to build efficient algorithms. Understand analysis techniques such as amortized analysis, probabilistic analysis, and minimax optimality Understand how and why randomness can be used to provide efficient solutions to some problems. Learn to implement advanced algorithms efficiently. Use the concept of approximation to find efficient algorithms for hard problems. Use the theory of NPcompleteness and other lower bounding techniques to argue for the difficulty of some problems.",
+                                                    "key_topics":  "Efficient data structures, lower bounds and NP-completeness, approximation algorithms, randomized algorithms, geometric algorithms, low level techniques for efficient programming, linear programming, on-line algorithms, graph algorithms (including maximum flow and matchings), streaming, string algorithms.",
+                                                    "prerequisite_knowledge":  "15251, 15210, 21241. The course relies on mathematical thinking and proofs, and requires the ability to program in a compiled language.",
+                                                    "assessment_structure":  "4 Written Homeworks: 20%, 3 Oral Homeworks: 15%, Online Quizzes: 10%, 2 Midterms: 30%, Final: 25%",
+                                                    "relevance":  "Students interested in working with 3D data. Examples include: physical/numerical simulation, computer vision, computer graphics, robotics, architecture/art/design, medical or anatomical data analysis. This course 15-451 is for undergraduates. Graduate students should enroll in 15-651.",
+                                                    "learning_resources":  "Piazza, Gradescope, Autolab, On-line quizzes.\nOptional textbooks (many free) are linked on the course website.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

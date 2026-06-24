@@ -1,0 +1,37 @@
+{
+        "code":  "76-397",
+        "name":  "Instructional Text Design",
+        "short_name":  "INSTRUCTNL TXT DESGN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-271 [] at least D) or (76-270 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on the planning, writing, and evaluating of instruction of various kinds, especially instructional texts. It is particularly appropriate for professional and technical writers, but also a good option for anyone interested in fields that involve substantial instruction, such as teaching or employee training. In the first part of the course, well examine the recent history of instructional design and the major current theories. Then well take a step back and study the concepts of learning upon which these theories are based, with particular attention to their implications for how instruction is structured. Youll find that different learners e.g., children, older adults and goals e.g., learning concepts and principles, learning to apply principles to solve novel problems, learning a procedure, learning to change ones behavior, etc. require different types of instruction. In the second part of the course, well look in detail at models of how people learn from texts and what features e.g., advanced organizers, examples, metaphors, illustrations, multimedia enhance learning under what circumstances. We will study and analyze particular types of texts. Some possible examples include an introduction to the concept of gravity a tutorial for computer software a selfpaced unit in French adult educational materials in health care a workshop on sexual harassment in the workplace or a unit to train someone how to moderate a discussion. We will also look at various methods concept mapping, thinkaloud, comprehension tests, etc. that are used to plan and evaluate instructional text. You will do a project, either individually or in a small group 23, in which you design, write and evaluate instruction.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Learn a Processoriented approach to instructional designKnow the features of texts that facilitate learningDeepen knowledge of how to write instructional text",
+                                                    "key_topics":  "Process-oriented approach to instructional design\n\nFeatures of texts that facilitate learning\n\n\nWriting instructional text",
+                                                    "prerequisite_knowledge":  "Methods of textual \u0026 rhetorical analysis related to genres\n\nIntroductory knowledge of how a document\u0027s design contributes to its effectiveness\n\n\nSome previous coursework/practice with strategies for making complex information accessible to non-expert audiences.\n\n\nIntroductory level knowledge of how people read and use documents.",
+                                                    "assessment_structure":  "Course project and assignments",
+                                                    "relevance":  "This course will deepen students\u0027 knowledge of instructional texts.",
+                                                    "learning_resources":  "web pages, texts, case studies",
+                                                    "extra_time_commitment":  "Students will need to schedule time to do the reading and assignments/projects. Students who elect to work in teams will need to schedule times to meet."
+                                            }
+}

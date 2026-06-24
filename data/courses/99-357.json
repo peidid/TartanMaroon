@@ -1,0 +1,37 @@
+{
+        "code":  "99-357",
+        "name":  "IDeATe: Pragmatic Phototgraphy",
+        "short_name":  "IDEATE: PHOTOGRAPHY",
+        "units":  1.0,
+        "min_units":  1.0,
+        "max_units":  1.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "PLEASE NOTE The specific meeting dates for the A1 section of this micro course are Sundays Sep 28 and Oct 5. The specific meeting dates for the A2 section of this micro course are Saturdays Oct 25 and Nov 1. Pragmatic Photography is a digital imaging course for the nonphotographer. A techfirst approach provides a strong grounding in the core concepts and techniques of cameras and imagebased media. This class does not require special cameras or software students will use commonlyavailable photoediting software to create images using DSLRs, point and click cameras, or their cell phones. The course focuses on general principles that apply across different equipment and software. Workshopstyle classes permit all experience levels, complete novice through expert.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course gives students the knowledge to get past the initial learning curve of photography and digital imaging, and enter new domains of application. After this course, students will be able to engage in independent creative iteration. They will have the foundations to be able to learn through experimentation, and have the vocabulary and context to get more out of other learning resources or practice.",
+                                                    "key_topics":  "Parts and Operation of a Camera, Exposure Principles, Exposure Effects, Lighting Principles, Practical Lighting, Perspective Distortion, Autoexposure \u0026 Metering Modes, Autofocus, Image Composition Principles, Image Editing Fundamentals, Histograms, Digital Image Pipelines and Files, Thinking like a Photographer",
+                                                    "prerequisite_knowledge":  "The course was designed with a mixed skill level in mind. Students of all experience levels, including \u0027none\u0027, are welcome. No prior knowledge in camera operation, photography, or digital experience is necessary to be successful. Conversely, experience does not preclude any students from valuable participation thanks to the breadth of topics and workshop instruction style.",
+                                                    "assessment_structure":  "Assessment, a passing grade, is with substantive participation during the two 5-hour class sessions. 2 optional assignments reinforce what is covered during class and provide assessment and feedback for the student.",
+                                                    "relevance":  "This course is relevant to students looking to improve at foundational skills they can apply to their other work, projects, or interests. Common student interests include Improving project documentation, curiosity about image composition and taking \"good\" images, and a jumping-off point into photographic interests are common student interests.",
+                                                    "learning_resources":  "Some lesson content supplemented with online open-access resources.",
+                                                    "extra_time_commitment":  "Two optional assignments that should take 30 minutes to 1 hour to complete."
+                                            }
+}

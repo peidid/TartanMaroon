@@ -1,0 +1,37 @@
+{
+        "code":  "03-410",
+        "name":  "Special Topics in Biological Sciences",
+        "short_name":  "SP TPCS IN BIOLOGY",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(03-231 [] at least D) or (03-232 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Special Topics in Biological Sciences. Topics will vary depending on the semester and instructor. Please read the individual section descriptions for more information.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Variable. See individual section instructor for additional information.",
+                                                    "key_topics":  "Variable. See individual section instructor for additional information.",
+                                                    "prerequisite_knowledge":  "Variable. See individual section instructor for additional information.",
+                                                    "assessment_structure":  "Variable. See individual section instructor for additional information.",
+                                                    "relevance":  "Variable. See individual section instructor for additional information.",
+                                                    "learning_resources":  "Variable. See individual section instructor for additional information.",
+                                                    "extra_time_commitment":  "Variable. See individual section instructor for additional information."
+                                            }
+}

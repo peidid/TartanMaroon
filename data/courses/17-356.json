@@ -1,0 +1,37 @@
+{
+        "code":  "17-356",
+        "name":  "Software Engineering for Startups",
+        "short_name":  "SE FOR STARTUPS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-213 [] at least D) or (17-514 [] at least D) or (17-214 [] at least D) or (15-214 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Startup engineering is critical to innovation.  The skills required to effectively prototype, launch, and scale products are vital to engineers everywhere, from fledgling companies founded in dorm rooms to local midsize companies to internal startups from multinational tech giants.  However, developing software in a startup environment poses unique engineering challenges.  These challenges include making and justifying foundational architectural and technical decisions despite extreme uncertainty rapidly prototyping and evaluating new ideas and features, while building minimum viable products prioritizing engineering effort in severely constrained environments and communicating effectively both within a small engineering team and with internal and external nontechnical stakeholders.  This course teaches the skills necessary to engineer successfully in a startup environment, through lectures, group projects, case study discussions, and guest speakers drawn from experienced, practicing startup engineers. This is an engineeringfocused course no entrepreneurship background is required or expected.  Students do not need to have a startup idea to participate fully.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course teaches the skills necessary to engineer successfully in a startup environment, through lectures, group projects, case study discussions, and guest speakers drawn from experienced, practicing startup engineers.",
+                                                    "key_topics":  "Engineering, Entrepreneurship",
+                                                    "prerequisite_knowledge":  "Completion of prerequisite courses",
+                                                    "assessment_structure":  "Evaluation will be based on the following approximate distribution: 50% assignments, 20% midterm, 20% final project, 10% participation.",
+                                                    "relevance":  "This is an engineering-focused course; no entrepreneurship background is required or expected. Students do not need to have a startup idea to participate fully.",
+                                                    "learning_resources":  "online",
+                                                    "extra_time_commitment":  "Homework must be done in groups, please account for the overhead and decreased time flexibility that will entail."
+                                            }
+}

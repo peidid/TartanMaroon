@@ -1,0 +1,37 @@
+{
+        "code":  "70-486",
+        "name":  "Pricing",
+        "short_name":  "PRICING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-381 [] at least D) and ((73-110 [] at least D) or (73-100 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The purpose of this course is to present a framework for assessing pricing decisions, the central element of marketing. The course is structured around marketings three Cs Costs Customers and Competitors. In the first part of the course we discuss how costs should, and should not, enter the pricing decision. We move on to show how a marketing focus on the customer provides insight into the pricing decision. Then we discuss how competitors impact the pricing decision. The course concludes with pricing strategies, tactics and their applications dynamic pricing over the product life cycle, product line pricing through the marketing channel, price bundling and legal aspects of pricing.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

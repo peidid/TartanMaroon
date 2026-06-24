@@ -1,0 +1,37 @@
+{
+        "code":  "84-405",
+        "name":  "The Future of Warfare",
+        "short_name":  "FUTURE OF WARFARE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Warfare is constantly evolving. Throughout history, technological developments have hastened the evolution in the character, nature, and types of wars being fought. In the contemporary conflict environment, the prospect of largescale conflict between nearpeer states is converging and shifting rapidly, with proxy conflicts and threats typically posed by nonstate andor irregular actors and tactics interacting with great power competition and significant strategic realignments between the United States, Russia, China, Iran, and North Korea. In such an environment, hybrid actors and proxy groups continue to wage war in an asymmetric and irregular manner that relies on ambiguity, strategic surprise, innovative uses of technology, and deception, against the everpresent backdrop of the threat of fullscale global war. This course will examine and historically contextualize various new trends in warfare, including the weaponization of AI technologies, increasingly sophisticated cyber and information warfare operations, the effects of social media in democratizing the information space relevant to conflict, the development of violent nonstate actors with conventional military capabilities, and state support of mercenary forces to achieve strategic gains without attribution.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn how emerging technologies and demographic trends are affecting the way wars are being waged.",
+                                                    "key_topics":  "This course will analyze recent trends in warfare and explore current/emerging trends, including the gray zone, new military technologies, cyber attacks, the role of AI in warfare, etc.",
+                                                    "prerequisite_knowledge":  "While no prior knowledge is required, a general understanding of military history and warfare would be helpful; students would also benefit from being informed about current events in the area of international politics and global conflict.",
+                                                    "assessment_structure":  "There will be extensive reading, assigned in-class discussant roles, multiple reading quizzes, and a student research presentation. Students are also expected to participate in class discussion and come prepared having completed all of the assigned readings, while also keeping abreast of current events.",
+                                                    "relevance":  "The course is critical to the International Relations and Politics major, seeking to build an understanding of how wars are fought today and how they will be fought in the future. The course also explores how emerging trends could make warfare more lethal, placing an onus on the need for robust diplomacy and political engagement to prevent highly lethal future wars before they begin.",
+                                                    "learning_resources":  "The professor provides extra learning resources for students interesting in learning more about this topic, including websites (Council on Foreign Relations, War on the Rocks) and additional readings of potential interest (classic books, articles, and other scholarship in the field).",
+                                                    "extra_time_commitment":  "There are no extra time commitments required, other than the strong suggestions that students regularly read newspapers, scholarly magazines, and policy journals (e.g. The New York Times, The Wall Street Journal, The Washington Post, The Financial Times, Foreign Affairs, The Economist, etc.)."
+                                            }
+}

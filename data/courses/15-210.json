@@ -1,0 +1,42 @@
+{
+        "code":  "15-210",
+        "name":  "Parallel and Sequential Data Structures and Algorithms",
+        "short_name":  "PRL SEQ DATA STR ALG",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-150 [] at least C) and (15-122 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "15-211",
+                                            "id":  3115,
+                                            "name":  "Fundamental Data Structures and Algorithms",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "Teaches students about how to design, analyze, and program algorithms and data structures.  The course emphasizes parallel algorithms and analysis, and how sequential algorithms can be considered a special case.  The course goes into more theoretical content on algorithm analysis than 15122 and 15150 while still including a significant programming component and covering a variety of practical applications such as problems in data analysis, graphics, text processing, and the computational sciences.  NOTE students must achieve a C or better in order to use this course to satisfy the prerequisite for any subsequent Computer  Science course. Register for Lecture 1.  All students will be waitlisted for Lecture 2 until Lecture 1 is full.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://www.cs.cmu.edu/~15210/",
+        "custom_fields":  {
+                                                    "goals":  "Learn how to design, analyze, and program algorithms and data structures with a functional programming language. Ability to analyze algorithms with an emphasis on parallelism.",
+                                                    "key_topics":  "Parallel Programming, Generating and Analyzing Algorithms, Higher Order Programming, Practical Applications - Data Analysis, Graphics, Text Processing.",
+                                                    "prerequisite_knowledge":  "None, but familiarity with SML is highly recommended",
+                                                    "assessment_structure":  "30% Assignments, 55% Exams, 10% Quizzes, 5% Participation",
+                                                    "relevance":  "For students already experienced with fundamentals of functional programming",
+                                                    "learning_resources":  "Course Textbook, AutoLab, Gradescope, Piazza, Notation Supplement, Course Website",
+                                                    "extra_time_commitment":  null
+                                            }
+}

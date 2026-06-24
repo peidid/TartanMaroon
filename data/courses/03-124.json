@@ -1,0 +1,48 @@
+{
+        "code":  "03-124",
+        "name":  "Modern Biology Laboratory",
+        "short_name":  "MODERN BIOLOGY LAB",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "03-151",
+                                                "id":  2131,
+                                                "name":  "Honors Modern Biology",
+                                                "units":  10.0
+                                        },
+                                        {
+                                                "code":  "03-121",
+                                                "id":  6108,
+                                                "name":  "Modern Biology",
+                                                "units":  9.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This laboratory is designed to introduce students to modern concepts in the biological sciences. The experiments illustrate many of the principles covered in 03121 and 03230. Experimentation using living organisms andor their tissues, cells or molecules is an essential component of this course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to implement the scientific method and critically assess experimental procedures and results.",
+                                                    "key_topics":  "The course will cover current techniques in biological research and how to design experiments using these techniques: manipulations of microorganisms, viable count, plasmid DNA isolation, UV spectroscopy, DNA and protein gel electrophoresis, restriction enzyme digests and mapping, bacterial transformations, Bradford assay, western blot analysis, modeling UV exposure, nucleosome fragmentation assay.",
+                                                    "prerequisite_knowledge":  "Students should have a basic understanding of the Central Dogma of Biology.",
+                                                    "assessment_structure":  "Grades will be determined by attendance, quizzes, notebook checks, paper discussions, lab reports, and a final exam.",
+                                                    "relevance":  "Students will understand the scientific method and how biology research affects our daily lives.",
+                                                    "learning_resources":  "Students will be required to read the provided lab manual.",
+                                                    "extra_time_commitment":  "In the spring semester, students are expected to participate in the Undergraduate Biology Laboratory Poster Session."
+                                            }
+}

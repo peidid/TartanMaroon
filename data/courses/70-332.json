@@ -1,0 +1,37 @@
+{
+        "code":  "70-332",
+        "name":  "Business, Society and Ethics",
+        "short_name":  "BUS SOCIETY \u0026 ETHICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-102 [] at least D) or (76-101 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "What sorts of ethical obligations do businesses have towards their customers, employees, and the public This course will explore ethical challenges faced by modern corporations, and frameworks which can be used to develop responsible corporate policy. The course is divided into four main units 1 autonomy and consent, 2 the scope and locus of corporate responsibility, 3 fair treatment and outcomes, 4 the limits of labor and commodification. This course may use copyrighted material. If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided. The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To enable students to defend or criticize the decisions of a business on ethical grounds",
+                                                    "key_topics":  "Informed consent; non-manipulation; false advertising; exploitation; corporate responsibility; social and environmental externalities; fair wages and prices; discrimination; privacy; dignity; meaningful work",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Attendance; weekly responses; midterm; final; term paper",
+                                                    "relevance":  "Students will gain knowledge of ethical frameworks for corporate decision-making",
+                                                    "learning_resources":  "Business Ethics: a textbook with cases, 9th edition, ed. William Shaw (Cengage Publishing)",
+                                                    "extra_time_commitment":  null
+                                            }
+}

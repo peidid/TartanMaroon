@@ -1,0 +1,34 @@
+{
+        "code":  "98-270",
+        "name":  "Student Taught Courses (StuCo): Quadrotors: Robots in da Skies",
+        "short_name":  "STUCO: QUADROTORS",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "\"Drones\". \"UAV\u0027s\". We are starting to hear these words in the media, often in a negative context. But there is a world of hobbyists that play with the same machines with an entirely different intent. \"Quadrotors\" (robots that are like helicopters, but with four motors and blades) are being used to get beautiful footage from unique perspectives, to lift beer, for research, and even for music; and they are a blast to build, tinker with, and fly. We hope to use these robots as an introduction to the world of hobbyists for any student who would find making \"something that they can fly\" fun.  It is not hard to learn to build a quadrotor, it is just a matter of being taught. We would love for students in fields such as \"fine arts\" or \"business\" to take this course, and we have designed it to be understood by a nontechnical audience, but to be enjoyed by everyone. Take our StuCo and harass your roommate by flying at them with your very own quadrotor that YOU built.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

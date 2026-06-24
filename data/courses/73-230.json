@@ -1,0 +1,42 @@
+{
+        "code":  "73-230",
+        "name":  "Intermediate Microeconomics",
+        "short_name":  "INTERMEDT MICRCOMCS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-269 [] at least D) or (21-256 [] at least D) or (21-259 [] at least D) or (21-268 [] at least D) or (21-254 [] at least D)) and ((73-102 [] at least D) or (73-104 [] at least D) or (73-100 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "73-150",
+                                            "id":  7295,
+                                            "name":  "73-150",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "This course builds on the Principles of Economics course. It focuses on the following topics theory of the consumer, theory of the producer, perfectly competitive market equilibrium, imperfect competition, and market failures due to asymmetric information such as adverse selection and moral hazard.  Lecture, 3 hours Recitation, 1 hour.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students should be able to Interpret microeconomic concepts to understand behaviors of individual consumers and firms State and acknowledge the assumptions of a microeconomic model of the behaviors of individual consumers and firms and derive an equilibrium of the model Explain and model strategic interactions between different agents Describe the problems arising from asymmetric information and propose solutions to remedy those problems.",
+                                                    "key_topics":  "Preferences; Utility Functions; Consumer Choice; Theory of Demand; Labor Supply; Choice Under Uncertainty; Asymmetric Information; Insurance; Moral Hazard; Producer Theory; Competitive Markets; Market Equilibrium; Monopoly; Game Theory; Imperfect Competition; Theory of Auctions",
+                                                    "prerequisite_knowledge":  "Multivariate calculus; Introductory microeconomic knowledge (theory of the firm, consumer theory, game theory)",
+                                                    "assessment_structure":  "Subject to change: graded assignments (20%), midsemester exams (40%), final project (30%), participation (10%)",
+                                                    "relevance":  "The goal of this course is to investigate how markets work, when market failures occur, and how to fix these failures. This course is a critical component for students preparing to enter the fields of consulting, finance, policy making, government, consulting, strategic consulting, and tech fields.",
+                                                    "learning_resources":  "Weekly office hours, lecture slides, lecture notes, MobLabs (free to students in the class), Piazza, textbook and accompanying study guides, and articles/texts (made available on the course webpage).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

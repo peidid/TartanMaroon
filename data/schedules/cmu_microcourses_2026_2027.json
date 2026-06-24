@@ -1,0 +1,132 @@
+{
+  "academic_year": "2026-2027",
+  "course_type": "Microcourses",
+  "semesters": {
+    "fall_2026": {
+      "total_courses": 7,
+      "courses": [
+        {
+          "instructor": "Lisa Tetrault",
+          "course_code": "79-331",
+          "course_title": "Body Politics: Women, Culture, and Health",
+          "notes": null
+        },
+        {
+          "instructor": "Guiseppini Gemboni",
+          "course_code": "82-185",
+          "course_title": "Italian Food Culture",
+          "notes": null
+        },
+        {
+          "instructor": "Stephan Caspar",
+          "course_code": "82-187",
+          "course_title": "Audio Storytelling: Documentary, Found Sound, and Hidden Frequencies",
+          "notes": null
+        },
+        {
+          "instructor": "Hana Habib",
+          "course_code": "17-xxx",
+          "course_title": "The Surveillance Society: Understanding Privacy in Today's Digital World",
+          "notes": "spring/beg/mid"
+        },
+        {
+          "instructor": "Dylan Vitone",
+          "course_code": "51-219",
+          "course_title": "The Photo Essay",
+          "notes": null
+        },
+        {
+          "instructor": "Stephen Schultz",
+          "course_code": "57-214",
+          "course_title": "Tomorrow Never Knows: The Beatles at the Height of Creative Genius",
+          "notes": null
+        },
+        {
+          "instructor": "Marian Aguiar",
+          "course_code": "76-xxx",
+          "course_title": "Arranged Marriage",
+          "notes": null
+        }
+      ]
+    },
+    "spring_2027": {
+      "total_courses": 7,
+      "courses": [
+        {
+          "instructor": "Doug Cooper",
+          "course_code": "48-xxx",
+          "course_title": "Documenting Souq Waqif",
+          "notes": null
+        },
+        {
+          "instructor": "Peter Scupelli",
+          "course_code": "51-xxx",
+          "course_title": "Value-centered Design",
+          "notes": null
+        },
+        {
+          "instructor": "Brenda Bakker Harger",
+          "course_code": "53-511",
+          "course_title": "Improvisational Acting for Teamwork and Creativity",
+          "notes": null
+        },
+        {
+          "instructor": "Rafal Wlodarski",
+          "course_code": "17-366",
+          "course_title": "AI Project Playbook: Planning and Delivering LLM Systems",
+          "notes": null
+        },
+        {
+          "instructor": "Nevine Abraham",
+          "course_code": "82-185",
+          "course_title": "Egyptian and Levantine Food Cultures",
+          "notes": null
+        },
+        {
+          "instructor": "Shihong Huang",
+          "course_code": "67-336",
+          "course_title": "Building Data Visualization into Information Systems",
+          "notes": null
+        },
+        {
+          "instructor": "Christopher Lowy",
+          "course_code": "82-xxx",
+          "course_title": "A Cultural History of Japanese Food",
+          "notes": null
+        }
+      ]
+    }
+  },
+  "instructor_statistics": {
+    "returning_instructors": 7,
+    "new_instructors": 7,
+    "total_unique_instructors": 14
+  },
+  "special_series": [
+    {
+      "series_name": "Food Cultures",
+      "description": "Coordinated series of 3 micros",
+      "courses": [
+        {
+          "course_code": "82-185",
+          "course_title": "Italian Food Culture",
+          "instructor": "Guiseppini Gemboni",
+          "semester": "Fall 2026"
+        },
+        {
+          "course_code": "82-185",
+          "course_title": "Egyptian and Levantine Food Cultures",
+          "instructor": "Nevine Abraham",
+          "semester": "Spring 2027"
+        },
+        {
+          "course_code": "82-xxx",
+          "course_title": "A Cultural History of Japanese Food",
+          "instructor": "Christopher Lowy",
+          "semester": "Spring 2027"
+        }
+      ],
+      "special_notes": "Can be used to satisfy a Dietrich gen ed requirement for IS students"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-242",
+        "name":  "Student Taught Courses (StuCo): Introduction to Esoteric Programming Languages",
+        "short_name":  "STUCO: ESOLANGS",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How do you fix the following compilation error PROGRAMMER IS INSUFFICIENTLY POLITE  How do you bake a cake while printing Hello world  Welcome to the wonderful world of esoteric programming languages, where everything is possible but nothing of interest is easy. Learn how to write a program that you cant see, compute factorials using Microsoft PowerPoint, and compile a painting.  Along the way, well answer questions like What is a programming language and Why does my compiler have indigestion Step into the realm of [[ and come explore the outer boundaries of relatively sane computation.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Our overall goals involve getting students excited about the world of esoteric programming languages and even adding to its vast catalog through their final project.",
+                                                    "key_topics":  "Esoteric Programming Languages such as Intercal, Chef, and Piet",
+                                                    "prerequisite_knowledge":  "We do not have any a requirement for any formal prerequisite knowledge",
+                                                    "assessment_structure":  "There will be a take-home midterm, and a final involving a presentation.",
+                                                    "relevance":  "Students will have the opportunity to learn and practice concepts from programming and computer science in a fun and wholly unique context. We hope that engaging with the concepts in this way will serve both to increase the students\u0027 interest in computer science and strengthen their understanding of it.",
+                                                    "learning_resources":  "Students will have access to the course Canvas page where they will be able to view all course materials, including the slides and additional resources for each lecture. Additionally, students will have access to EsoLab, a website made for the course which has tutorials, sandboxes, and autograded coding challenges for many of the languages that we study during the lectures.",
+                                                    "extra_time_commitment":  "Apart from working on the-home midterm and final projects there are no extra time commitments required."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-430",
+        "name":  "Greatest Hits from the Medieval World",
+        "short_name":  "MEDIEVAL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Some stories never go out of style. Much of what we will read in this course was popular throughout Europe, and all of it is still widely retold and enjoyed in various media for example, Beowulf, Decameron, and Dantes Inferno in film, Tristan in opera, Malorys Morte DArthur in lots of formats. We will consider the medieval telling of these tales and others from the eighth to the fifteenth centuries. AngloSaxon, French, German, Italian, and some Middle English texts will be read in translation, but Chaucer and Malory in edited versions of their writers idioms. A particular emphasis will be placed on personal subjectivities to counter the rumor that individual selfhood began with Shakespeare the inventor of the human, according to Harold Bloom. Some of our texts are reflective, some are outrageous, some are charming, some are funny all are populated by human beings we can recognize in spite of the unfamiliar styles in which they are presented. Learning outcomes include a sense of both the historical conditions for storytelling and the ways tales can take on new meanings over time.   Graduate students will be responsible for reading additional historical and critical materials and writing longer papers than undergrads.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

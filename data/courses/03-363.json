@@ -1,0 +1,37 @@
+{
+        "code":  "03-363",
+        "name":  "Systems Neuroscience",
+        "short_name":  "SYSTEMS NEUROSCIENCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-161 [] at least D) or (85-219 [] at least D) or (03-230 [] at least D) or (03-240 [] at least D) or (42-202 [] at least D) or (03-320 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Modern neuroscience is an interdisciplinary field that seeks to understand the function of the brain and nervous system.  This course provides a comprehensive survey of systems neuroscience, a rapidly growing scientific field that seeks to link the structure and function of brain circuitry to perception and behavior.  This course will explore brain systems through a combination of classical, Nobel prizewinning data and cutting edge primary literature.  Topics will include sensory systems, motor function, animal behavior and human behavior in health and disease.  Lectures will provide fundamental information as well as a detailed understanding of experimental designs that enabled discoveries.  Finally, students will learn to interpret and critique the diverse and multimodal data that drives systems neuroscience.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Provide overview of neural processes at a systems level. Enable students to think critically about how neurons and groups of neurons perform all of the functions of the nervous system perception, cognition, action",
+                                                    "key_topics":  "neural circuits, behavior, neurophysiology, sensory and motor systems",
+                                                    "prerequisite_knowledge":  "basic neurophysiology (action potentials, parts of a neuron)",
+                                                    "assessment_structure":  "exams and writing projects",
+                                                    "relevance":  "with cellular neuroscience, one of the two pillars of the neuro field",
+                                                    "learning_resources":  "book, youtube videos, lecture",
+                                                    "extra_time_commitment":  null
+                                            }
+}

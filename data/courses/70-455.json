@@ -1,0 +1,54 @@
+{
+        "code":  "70-455",
+        "name":  "Data Management Fundamentals",
+        "short_name":  "DATA MMGT FUND",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(15-110 [] at least D) or (15-104 [] at least D) or (15-112 [] at least D) or (70-110 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "90-812",
+                                                    "id":  1388,
+                                                    "name":  "Python Programming I",
+                                                    "units":  6.0
+                                            },
+                                            {
+                                                    "code":  "95-880",
+                                                    "id":  2298,
+                                                    "name":  "Python for Developers",
+                                                    "units":  6.0
+                                            },
+                                            {
+                                                    "code":  "67-262",
+                                                    "id":  2920,
+                                                    "name":  "Database Design and Development",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Data drives modern business. Transactional data systems keep the worlds economy operating smoothly by tracking and processing the movement of bits, money, atoms, and attention across the planet. Analytic systems help managers understand and optimize their businesses. Robotic systems both physical machines and software bots are automating a tremendous amount of the work that has historically been done by people. In this course you will learn to use a set of data management tools to capture, manage, analyze, and understand data so to help your organization do business better, faster, and cheaper. This course was previously titled Modern Data Management. This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students who attend class and complete the assigned work will develop a solid conceptual understanding of modern approaches to corporate data management, as well as handson skills with a variety of commonly used data management and analysis tools typical tools used include SQL, Cloudbased relational databases AWS Aurora, MySQL, andor Microsoft Azure, data cleaning and transformation tools such as Tableau Data Prep, Trifacta, and OpenRefine, and data visualization software such as Tableau Desktop. Specific tools used in the course vary from semester to semester but you can expect to learn to use at least one of the listed tools in each category.",
+                                                    "key_topics":  "Managing data with relational databases; using SQL to query and analyze data, profiling data sets to evaluate and data quality; transforming and cleaning data to improve data quality and adapt data structures to work with the tools at hand; communicating effectively with data visualization tools and techniques; understanding the challenges presented by \"loosely structured data\" and techniques for working with such data",
+                                                    "prerequisite_knowledge":  "Students should be able to do basic data manipulation and analysis with Microsoft Excel or similar spreadsheet programs.",
+                                                    "assessment_structure":  "The primary assessment for the course will be the completion of a set of challenging labs that require the student to do increasingly sophisticated wrangling, retrieval, analysis, and visualization of data, including presentation of conclusions and recommendations based on those analyses. There are also two in-class exams at the midpoint and end of the semester.-\tMidterm and final exams.",
+                                                    "relevance":  "Managing, analyzing, and communicating with data are fundamental skills that every business person should possess. This course will help you develop all of those skills through study and practice.",
+                                                    "learning_resources":  "Students will work with a variety of modern tools for storing, managing, querying, and analyzing data, as well as visualizing and communicating their results. There is no single textbook for the course. Materials are largely available online and through the CMU Library\u0027s online resources.",
+                                                    "extra_time_commitment":  "Students should plan to spend, on average, 4-6 hours outside of class on readings, exercises, and labs. Failure to keep up with the work on a regular basis can lead to some weeks with substantially more than six hours of work required to complete the labs. Keeping up with the weekly exercises and assignments will typically keep the weekly load in the 4-6 hours/week range."
+                                            }
+}

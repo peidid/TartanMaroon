@@ -1,0 +1,37 @@
+{
+        "code":  "76-804",
+        "name":  "Critical Race \u0026 Ethnicity Studies",
+        "short_name":  "CRTCL RACE \u0026 ETH STU",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides students with an introduction to key theories from Critical Race and Ethnic Studies. Topics include the origins of eighteenthcentury racial philosophy, concepts such as intersectionality, and how different fields of study examine the role of race in society. Readings may include Kimberl Crenshaw, Richard Dyer, Toni Morrison, bell hooks, Richard Delgado, and others.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "This course is designed to give graduate students a theoretical toolbox to take with them to their partiicular field of research.",
+                                                    "key_topics":  "critical race studies, theory, gender, disability, sexuality, class, intersectionality",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Group notes project, conference paper presentation",
+                                                    "relevance":  "This course is targeted at graduate students",
+                                                    "learning_resources":  "Most readings will be available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

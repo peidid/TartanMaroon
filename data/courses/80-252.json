@@ -1,0 +1,37 @@
+{
+        "code":  "80-252",
+        "name":  "Kant",
+        "short_name":  "KANT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Immanuel Kant was a CMU sort of person.  He was an enthusiastic follower of Isaac Newton, and his approach to fundamental philosophy was what would robotics be like from the viewpoint of the robot   From that starting point, he investigated what would have to be the case for the robot to know anything about its environment.  The resulting critical philosophy defined the relevant philosophical vocabulary for generations of prominent mathematicians and scientists into the 20th century, and is pivotal background both for both the analytic and the continental schools of philosophy.  This course starts with essential background reading in preKantian, early modern sources, including Descartes.  Then it focuses on a detailed reading of Kants Critique of Pure Reason and related texts.   Course requirements include written answers to reading questions and two short paper projects.  There are no prerequisites.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn how to construct a detailed theory of a challenging, historical, philosophical text, striving for the ultimate goal of predicting what the author will say next and why.",
+                                                    "key_topics":  "Immanuel Kant is one of major philosophers in the western tradition, and his terminology served as a lingua franca for science and mathematics from the 18th c. into the early 20th c. The course begins with essential background readings from Plato, Aristotle, Descartes, Leibniz, Locke, and Hume. From that rich background, we cover Kant\u0027s Prolegomena Concerning Any Future Metaphysics in detail as a prelude to Kant\u0027s main work, the Critique of Pure Reason. We close with selections from Kant\u0027s Foundations of the Metaphysics of Morals, with particular attention to its basis in the Critique of Pure Reason.",
+                                                    "prerequisite_knowledge":  "No prior knowledge necessary.",
+                                                    "assessment_structure":  "Weekly short reading questions and two short expository papers (4 pages each).",
+                                                    "relevance":  "Satisfies DC General Education: Reflecting. Crucial background for anyone interested in philosophy.",
+                                                    "learning_resources":  "Online texts.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

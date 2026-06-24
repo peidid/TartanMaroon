@@ -1,0 +1,37 @@
+{
+        "code":  "62-142",
+        "name":  "Digital Photography I",
+        "short_name":  "DIGITAL PHOTOGRPHY I",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course explores digital photography and digital printing methods. By semesters end students will have knowledge of contemporary trends in photography, construction and deconstruction of photographic meaning, aesthetic choices, and the use of color. Students will learn how digital cameras work, proper digital workflow, RAW file handling, color management and Adobe Photoshop. Through the combination of the practical and theoretical, students will better define their individual voices as photographers. No prerequisites. A lab fee is charged for this course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course the student should be able to apply meaning to their photographs, interpret others photographs, create intended readings from their own images, create a print that is refined, explain their ideas, and manipulate a photograph using industry standard computer applications.",
+                                                    "key_topics":  "Students will have knowledge of contemporary trends in photography, how to deconstruct image meaning and aesthetical choices, construction of photographic meaning and aesthetics, an understanding of color and how color delivers meaning, industry standard image manipulation programs, how to output well-crafted photographs, and proper digital photographic workflow.",
+                                                    "prerequisite_knowledge":  "No prior knowledge is required.",
+                                                    "assessment_structure":  "There will be critiques on students\u0027 photographs every 2 weeks. Attendance and engagement are a requirement.",
+                                                    "relevance":  "The course will provide an opportunity to make richer/more complex photographs. This course will teach you how to embed meaning and narrative into images.",
+                                                    "learning_resources":  "Students will be given copies of readings for occasional group discussion. No textbook is required.",
+                                                    "extra_time_commitment":  "Shooting photographs outside of course hours and off-campus, visiting photography institutions, attending lectures by photographers or on photographic topics."
+                                            }
+}

@@ -1,0 +1,54 @@
+{
+        "code":  "82-343",
+        "name":  "Cultures of Latin America",
+        "short_name":  "CLTRS LATIN AMRCA",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(82-244 [] at least D) or (82-242 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "82-342",
+                                            "id":  6321,
+                                            "name":  "Cultures of Spain",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "82-344",
+                                            "id":  6323,
+                                            "name":  "U.S. Latine Cultures",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "82-345",
+                                            "id":  6324,
+                                            "name":  "Using Spanish in Social Contexts",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "What is Latin America What is Latin American culture The course explores these questions by examining representative Spanishlanguage materials created in the region from the preColumbian period to the present.  These materials will include literary texts, art, films, and elements of popular culture. We will consider important moments and movements that have shaped the course of the regions history and politics, such as conquest and colonization, wars of independence and constitution of nationstates, Mexican and Cuban Revolutions, and the rise of Latin American youth countercultures, as well as current events and challenges. This course is part of the postintermediate, 300level program that forms the introduction to the major or minor in Spanish. In addition to enriching cultural proficiency by improving an understanding of Latin America, its people and its cultures, and developing critical skills in a progression from comprehension to analysis and interpretation, the course advances grammatical accuracy and verbal communication in the Spanish language.  The inclass setting will be studentcentered, and thus highly interactive. Assignments will include reflective essays, individualized research, and the generation, expression, analysis, and rewriting of ideas. Reading and writing skills will be complemented by continued oral practice in the form of small and large group discussions and class presentations. The class is conducted entirely in Spanish.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "explain how the multiethnic, multilingual and multicultural formation of Latin America has historically impacted how it is presented and perceived communicate clearly and precisely using expanded vocabulary and idiomatic expressions demonstrate improvement in listening, oral, writing, and reading skills in Spanishrecognize, analyze, and reproduce a variety of literary and nonliterary genres and types of discoursesevidence a foundation in the history and cultural productions of Latin America that will serve as preparation for more advanced classes in Hispanic studies",
+                                                    "key_topics":  "¿\tWhat is Latin America?\n¿\tLatin American literature, film, art, food, and music\n¿\tSpanish language\n¿\tLiterary genres\n¿\tpre-Columbian cultures\n¿\tHistorical events",
+                                                    "prerequisite_knowledge":  "Intermediate Spanish II, placement, or permission of the instructor",
+                                                    "assessment_structure":  "Daily Homework, Weekly Discussion In Class \u0026 Online, Film Intro or Discussion, Current News Presentation, 2 Short Papers related to readings or films, 4 Quizzes, Midterm In Class Essay, Final Paper",
+                                                    "relevance":  "DC GenEd: Intercultural and Global Inquiry\n\nLatin America, broadly defined, constitutes over twenty countries in two continents just south of the United States. Despite the number of countries included, Latin America is anything but a uniform region, yet it is often grouped as such. This course attempts to approach the cultures of Latin America through artifacts such as novels, poems, murals, music, and film, among others, to attempt to answer the questions \"What is Latin America?\" and \"How do we perceive Latin America?\". The latter question gives structure to the course as we follow the human senses (particularly sight, hearing, and taste) paired with literature and film to discuss the varied artifacts from and understandings of Latin America.",
+                                                    "learning_resources":  "One literary anthology, a couple short novels, and additional resources provided via Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "03-428",
+        "name":  "Genome Editing",
+        "short_name":  "GENOME EDIT BIOTECH",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(03-121 [] at least D) or (03-709 [] at least D) or (03-151 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How can we create genetically engineered cells, animals, plants, and even humans  This course will focus on the technologies that enable genome modification, with an emphasis on the recently developed CRISPRCas9 system.  Specific topics will include an introduction to CRISPR technology and its history DNA double strand break repair Off target effects Gene regulator CRISPRs Alternate technologies Ethics of modifying our genomes Applications  cell screening Applications  organism engineering Applications  antiHIV and immunotherapy Overview of Gene therapy.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to read, critique, and present the primary literature related to gene editing.They will have a functional understanding of how to characterize DNAprotein interactions.They will have a functional understanding of the advantages and limitations of genome editing technologies.",
+                                                    "key_topics":  "This course will cover methods for editing the genome using current technologies, including CRISPR, zinc fingers, TALEN. It will also focus on biochemical techniques to study protein-DNA interactions.",
+                                                    "prerequisite_knowledge":  "Students should have a good knowledge of fundamental biochemistry in terms of protein and nucleic acid structure.",
+                                                    "assessment_structure":  "There will two in-class exams, several in-class presentations, weekly homework, and a final exam or final paper.",
+                                                    "relevance":  "This is an upper level elective course for those students interested in biotechnology.",
+                                                    "learning_resources":  "Students will be given review articles and articles from the primary literature.",
+                                                    "extra_time_commitment":  "Nothing beyond normal course demands for preparation of presentations, homework, and studying for assessments. Total time will be 12 hours/week, 3 of which will be spent in class"
+                                            }
+}

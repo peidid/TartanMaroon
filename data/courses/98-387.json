@@ -1,0 +1,37 @@
+{
+        "code":  "98-387",
+        "name":  "Student Taught Courses (StuCo): The Schitt\u0027s Creek StuCo",
+        "short_name":  "STUCO: SCHITTS CREEK",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Schitts Creek 20152020 is a Canadian comedy series that follows the struggles of the previously wealthy Rose family in the small town of Schitts Creek. Over the course of 6 seasons, Schitts Creek has been nominated for 172 awards, winning 64 of these. In this course we will watch various episodes from the show and discuss why Schitts Creek has become such a cultural phenomenon. We will discuss topics such as LGBTQ representation, mental health, understanding others, perseverance, and effective comedy techniques. We will be watching episodes from every season of Schitts Creek, so this course is open to everyone whether you have seen the entire show or havent seen a single episode. COURSE FEE Students must maintain a monthly subscription to either Hulu or Netflix throughout this course  EST 69mo for 4 mos.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

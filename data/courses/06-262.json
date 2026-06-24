@@ -1,0 +1,37 @@
+{
+        "code":  "06-262",
+        "name":  "Mathematical Methods of Chemical Engineering",
+        "short_name":  "MATH MTHDS CHEM ENGR",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(21-254 [] at least D) and (06-223 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Mathematical techniques are presented as tools for modeling and solving engineering problems. Modeling of steadystate mass and energy balance problems using linear and matrix algebra, including Gaussian elimination, decomposition, and iterative techniques. Modeling of unsteadystate engineering problems using linear and nonlinear differential equations. Analytical techniques, including Laplace transforms, and numerical techniques for the solution of firstand higherorder differential equations and systems of differential equations arising in engineering models. Finally, the modeling of processes affected by chance and subject to experimental error statistical and regression techniques within the context of experimental design and analysis of experimental data.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The course will begin with linear and matrix algebra. You will learn to convert engineering problems into algebraic equations involving vectors and matrices. Solution techniques such as Gauss elimination, rank methods, and eigenvalue vector problems will be studied. Mathematical techniques for the solution of ordinary differential equations are introduced using examples relevant to chemical engineering linear and nonlinear firstorder equations, higherorder equations, variationofparameters method, power series method, and numerical methods.Statistical analysis of experimental and regression techniques is introduced using examples relevant to chemical engineering Gaussian distributions and uncertainty in the mean, calculated values, regression coefficients, and confidence intervals.",
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Thoughtful Attendance\n20%\nHomework (2 lowest grades dropped)\n15%\nThree Midterm Exams\n45% total (15% each)\nFinal Exam\n20%",
+                                                    "relevance":  "The purpose of this course is to develop mathematical skills specific to the problems encountered in chemical engineering. The course will concentrate on both the specifics of the mathematical techniques and the practice of developing mathematical models from physical systems relevant to chemical engineers. That second part is what differentiates this math class from others you have taken.",
+                                                    "learning_resources":  "Kreyszig, Advanced Engineering Mathematics - required - Editions 8 - 10 ok",
+                                                    "extra_time_commitment":  "Optional numerical methods session every week."
+                                            }
+}

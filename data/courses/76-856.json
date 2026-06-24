@@ -1,0 +1,37 @@
+{
+        "code":  "76-856",
+        "name":  "Theories of Social Class",
+        "short_name":  "THEORIES SOC CLASS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "How do we define social class And how do we define popular culture And what is the relationship between the two In this class well try to answer these questions by looking at the history of class identity in the US, the rise of staggering inequality in the 21st century, and what Newman calls the labor theory of culture, juxtaposed against the commodity theory of culture. Texts for the course will include White Trash The 400 Year Untold History of Class in America, Robert Reichs documentary Inequality for All, the Oscar winning film Parasite, Netflixs TV series The Maid as well as readings from MarxMarxist influenced cultural theory.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  "Students will learn more about social class in the United States and more about the discipline and practice of cultural studies.",
+                                                    "key_topics":  "Social class, popular culture, inequality, class conflict",
+                                                    "prerequisite_knowledge":  "This class is designed forgraduate students who like theoretical approaches to pop culture.",
+                                                    "assessment_structure":  "Student will be able to choose from one of at least two assignment \"tracks\"---either a substantial research paper, or a series of short, focused papers and sythensize the course\u0027s readings and viewings.",
+                                                    "relevance":  "With the US currently gripped in crises related to social inquality, this class will provide some ways of thinking about social class that will given concerned citizens and future scholars alike something to work with.",
+                                                    "learning_resources":  "We will watch a variety of films, TV program episodes, and we will read a range of books, essays and articles. Some book purchasing and viewing rentals will be required.",
+                                                    "extra_time_commitment":  "2-4 hours of viewing every 2-3 weeks will be required."
+                                            }
+}

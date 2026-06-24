@@ -1,0 +1,37 @@
+{
+        "code":  "76-285",
+        "name":  "AI Filmmaking",
+        "short_name":  "AI FILMMAKING",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a comprehensive introduction to AIdriven filmmaking, from script to final product, using readily available AI tools.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students will be able to effectively use AI tools in filmmaking, create their own AIgenerated media project with a strong narrative and developed visual style, understand the ethical and legal implications of AI in entertainment, and apply critical thinking to solve production challenges using cuttingedge technology.",
+                                                    "key_topics":  "This course will cover AI-driven tools and workflows in filmmaking, from scriptwriting and visual content creation to sound design and video editing, while addressing ethical and legal considerations and culminating in a hands-on project where students create their own AI-generated film.",
+                                                    "prerequisite_knowledge":  "No prior knowledge necessary",
+                                                    "assessment_structure":  "Students will be assessed through assignments, active participation, and a final AI-generated media project.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Ai Tools",
+                                                    "extra_time_commitment":  null
+                                            }
+}

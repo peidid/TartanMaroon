@@ -1,0 +1,53 @@
+{
+        "code":  "10-401",
+        "name":  "Introduction to Machine Learning (Undergrad)",
+        "short_name":  "MACHINE LEARNING",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(15-122 [] at least C) and ((21-128 [] at least C) or (15-151 [] at least C) or (21-127 [] at least C)) and ((21-325 [] at least C) or (36-225 [] at least C) or (36-218 [] at least C) or (15-359 [] at least C) or (36-217 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "18-461",
+                                                    "id":  8806,
+                                                    "name":  "Introduction to Machine Learning for Engineers",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-661",
+                                                    "id":  8815,
+                                                    "name":  "Introduction to Machine Learning for Engineers",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "10-301",
+                                            "id":  9565,
+                                            "name":  "Introduction to Machine Learning",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "Machine learning is subfield of computer science with the goal of exploring, studying, and developing learning systems, methods, and algorithms that can improve their performance with learning from data. This course is designed to give undergraduate students a onesemesterlong introduction to the main principles, algorithms, and applications of machine learning.   Topics. The topics of this course will be in part parallel with those covered in the graduate machine learning courses 10715, 10701, 10601, but with a greater emphasis on applications and case studies in machine learning.  After completing the course, students will be able to  select and apply an appropriate supervised learning algorithm for classification problems e.g., naive Bayes, perceptron, support vector machine, logistic regression.   select and apply an appropriate supervised learning algorithm for regression problems e.g., linear regression, ridge regression.  recognize different types of unsupervised learning problems, and select and apply appropriate algorithms e.g., clustering, linear and nonlinear dimensionality reduction.   work with probabilities Bayes rule, conditioning, expectations, independence, linear algebra vector and matrix operations, eigenvectors, SVD, and calculus gradients, Jacobians to derive machine learning methods such as linear regression, naive Bayes, and principal components analysis.   understand machine learning principles such as model selection, overfitting, and underfitting, and techniques such as crossvalidation and regularization.   implement machine learning algorithms such as logistic regression via stochastic gradient descent, linear regression using a linear algebra toolbox, perceptron, or kmeans clustering.   run appropriate supervised and unsupervised learning algorithms on real and synthetic data sets and interpret the results.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

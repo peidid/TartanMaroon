@@ -1,0 +1,37 @@
+{
+        "code":  "76-446",
+        "name":  "Revenge Tragedy",
+        "short_name":  "REVENGE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Attendants to the early modern English theater seem to have had an almost insatiable appetite for revenge tragedy a lurid, bloodsoaked genre distinguished by plots involving insanity, skulls, ghosts, poisonings, stabbings, suicide, and other forms of unnatural death. This course will cover key examples of the genre, putting particular emphasis on the depiction and interrogation of justice, analyses of death, and playful engagement with theatricality. Our central curriculum will include the following plays Thyestes Seneca, The Spanish Tragedy Kyd, Titus Andronicus Shakespeare, Hamlet Shakespeare, The Revengers Tragedy Middleton, and The Duchess of Malfi Webster. We will also read a selection of critical essays and related literature from the period.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 To consider the cultural legacy of early modernity through the lens of early modern revenge tragedy.2 To engage questions of meaning and interpretation that typically attend to performancebased artworks. 3 To hone key skills pertaining to humanities scholarship research, critical writing, appraisal, argumentation, discussion, presentation.",
+                                                    "key_topics":  "early modern drama, revenge, performance theory",
+                                                    "prerequisite_knowledge":  "some basic familiarity with early modern lit (especially drama) and performance theory is preferable, but not absolutely necessary",
+                                                    "assessment_structure":  "discussion, writing assignments, presentations, formal essays",
+                                                    "relevance":  "The course emphasizes the study of history, society, and culture from local and global perspectives and investigates contemporary societies alongside societies of the past, canvassing a rich array of cultural products, artifacts, and ideas.",
+                                                    "learning_resources":  "Canvas, Zoom, streaming video via Drama Online",
+                                                    "extra_time_commitment":  "reading and preparation of assignments"
+                                            }
+}

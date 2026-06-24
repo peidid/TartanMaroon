@@ -1,0 +1,54 @@
+{
+        "code":  "70-208",
+        "name":  "Regression Analysis",
+        "short_name":  "REGRESSION ANALYSIS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-207 [] at least D) or (36-200 [] at least D) or (36-201 [] at least D) or (36-218 [] at least D) or (36-220 [] at least D) or (36-247 [] at least D) or (36-207 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "36-202",
+                                            "id":  607,
+                                            "name":  "Methods for Statistics \u0026 Data Science",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-208",
+                                            "id":  609,
+                                            "name":  "Regression Analysis",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "73-260",
+                                            "id":  7350,
+                                            "name":  null,
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "This class focuses on the statistical analysis of the relationship between two or more random variables. In particular, we examine the estimation of the conditional mean of the dependent variable as a function of independent variables using linear regression. We draw on statistical theory to determine the precision of our estimates and to conduct inference about the population, and we examine a number of applications to business, finance, and economics throughout the course.  This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tepper.cmu.edu/prospective-students/course-page/70208/regression-analysis",
+        "custom_fields":  {
+                                                    "goals":  "Students will be able to perform and interpret various regressionbased methods and to apply them to practical datasets to make business decisions",
+                                                    "key_topics":  "The course is an introduction to regression and forecasting methods.",
+                                                    "prerequisite_knowledge":  "Students should be familiar with statistical reasoning and introductory probability calculations",
+                                                    "assessment_structure":  "There will be two midterms, a final exam, and several homework problems using hands on data.",
+                                                    "relevance":  "Students will be able to use statistical and regression methodologies to aid in managerial decision making. This course is cross-listed and primary business majors should register for 70208.",
+                                                    "learning_resources":  "The course will be primarily based around lecture notes provided by the instructor.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

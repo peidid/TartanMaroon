@@ -1,0 +1,37 @@
+{
+        "code":  "79-292",
+        "name":  "China and the West",
+        "short_name":  "CHINA AND THE WEST",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines the global history of China from the time of Marco Polo to the era of Xi Jinping, with particular emphasis on the political, social, and economic dimensions of how China and the West have interacted over the past three centuries. How have European and American writers, travelers, and political figures thought about China over time How have their Chinese counterparts thought about the West What have been the dominant narratives about SinoWestern relations, and how do these compare with how China and the West actually interacted We will cover major topics such as the Opium Wars and Cold War geopolitics as well as more mundane issues, including the everyday lives of foreigners in China and the experiences of Chinese abroad. Using government documents, trade records, memoirs, and other sources, students will come to situate SinoWestern relations in a new historical perspective as they examine the dynamics of transnational interaction and reflect critically on how the present informs the construction of narratives about the past.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The primary course goals include 1. Students will build a foundation of knowledge about SinoWestern relations.2. Students will improve their ability to evaluate and make evidencebased historical arguments.3. Students will learn to write more clearly and persuasively.4. Students will hone their skills of academic debate and deliberation in a respectful and reflective atmosphere.",
+                                                    "key_topics":  "Key topics to be covered include:\n\n1. The global history of late imperial and modern China;\n\n2. How to study and think about the past using diverse texts and sources;\n\n3. How to read and write like a historian.",
+                                                    "prerequisite_knowledge":  "No prerequisite knowledge is required.",
+                                                    "assessment_structure":  "Active participation in class discussions, a 10-minute in-class presentation, a short essay, a midterm, and a final paper.",
+                                                    "relevance":  "This course fulfills Dietrich College\u0027s \"Intercultural and Global Inquiry\" general education requirement.\n\nBy the end of this course, students will have deepened their knowledge of Chinese history in a global perspective and will have built a foundation for better understanding major topics in the history of China\u0027s foreign relations.",
+                                                    "learning_resources":  "Two required texts and assorted supplementary readings (made available on Canvas by the instructor).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

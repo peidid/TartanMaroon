@@ -1,0 +1,37 @@
+{
+        "code":  "76-445",
+        "name":  "Milton",
+        "short_name":  "MILTON",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-108 [] at least D) and (76-106 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Although censored and reviled by many in his own day, John Milton 16081674, author of Paradise Lost among other powerful antimonarchical writings of the English Revolution, has influenced writers as varied as William Blake, Mary Shelley, Thomas Jefferson, Friedrich Engels, C.S. Lewis, Malcolm X, and Philip Pullman.  This course will investigate what has made Milton a writer at once so much imitated and beloved by his admirers and loathed and denigrated by detractors. The bulk of this course will center on a careful, challenging, and chronological reading of Miltons works, primarily Paradise Lost but also his great shorter poems including Lycidas, Paradise Regaind, and Samson Agonistes, and selections of his voluminous prose Areopagitica, Of Education, Tenure of Kings and Magistrates, Readie and Easy Way to Establish a Free Commonwealth. Studying Miltons development as a poet, controversialist, and pamphleteer, students will examine Miltons contexts chiefly, literary, political, and theological in order gain further insights into the complex relations between Miltons 17thcentury world and his major poems and prose. Please note Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

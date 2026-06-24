@@ -1,0 +1,37 @@
+{
+        "code":  "98-290",
+        "name":  "Student Taught Courses (StuCo): Intro to Vocal Percussion",
+        "short_name":  "STUCO: BEATBOX",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Beatboxing is a discipline that emerged during the 1980s, when there was a need for electronic equipment to produce accompanying beats for rappers. As people generally could not afford these beat boxes, people discovered the ability to emulate the beats themselves, and these people were known as beatboxers. This course will explore some popular beatbox icons from that time. The popularity of beatbox dwindled once the electronic equipment for producing beats became more affordable, but their has been a resurgence of interest in beatboxing that leads to a split in old school vs. new school beatbox. The course will attempt to provide knowledge of both, with a higher emphasis on the more technical new school styles, which continue to expand today.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

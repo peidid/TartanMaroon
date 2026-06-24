@@ -1,0 +1,89 @@
+{
+        "code":  "36-220",
+        "name":  "Engineering Statistics and Quality Control",
+        "short_name":  "ENGR STAT QUAL CTRL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-112 [] at least D) or (21-120 [] at least D)) and ((02-120 [] at least D) or (15-112 [] at least D) or (15-110 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "36-226",
+                                                    "id":  358,
+                                                    "name":  "Introduction to Statistical Inference",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "36-207",
+                                                    "id":  604,
+                                                    "name":  "Probability and Statistics for Business Applications",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "36-247",
+                                                    "id":  634,
+                                                    "name":  "Statistics for Lab Sciences",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "70-207",
+                                                    "id":  1802,
+                                                    "name":  "Probability and Statistics for Business Applications",
+                                                    "units":  9.0
+                                            },
+                                            {
+                                                    "code":  "36-626",
+                                                    "id":  9094,
+                                                    "name":  "Probability and Mathematical Statistics II",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "36-236",
+                                                    "id":  11452,
+                                                    "name":  "Probability and Statistical Inference II",
+                                                    "units":  9.0
+                                            }
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "36-226",
+                                            "id":  358,
+                                            "name":  "Introduction to Statistical Inference",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-247",
+                                            "id":  634,
+                                            "name":  "Statistics for Lab Sciences",
+                                            "units":  9.0
+                                    },
+                                    {
+                                            "code":  "36-326",
+                                            "id":  2599,
+                                            "name":  "Mathematical Statistics (Honors)",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "This is a first course in statistical practice, targeted to engineering students. Topics include basic probability, random variables and probability distributions, statistics and sampling distributions, maximum likelihood estimation, one and twosamplebased hypothesis testing and interval estimation, quality control, principal components and canonical correlation analysis, statistical modeling and learning concepts, exploratory data analysis, linear and logistic regression models, oneway analysis of variance ANOVA, and an introduction to machine learning. The course focuses on context, concepts, analytic problem solving, and numeric applications, and not on statistical theory. All numeric work will be performed using the Python programming language.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Given an engineering research question, students will be able to correctly identify variable types, choose appropriate graphs and visualizations, understand underlying randomness in data if applicable, and perform appropriate hypothesis tests to make decisions. Students will also be able to communicate their results.",
+                                                    "key_topics":  "basic probability, random variables and probability distributions, statistics and sampling distributions, maximum likelihood estimation, (one- and two-sample-based) hypothesis testing and interval estimation, quality control, principal components and canonical correlation analysis, statistical modeling and learning concepts, exploratory data analysis, linear and logistic regression models, one-way analysis of variance (ANOVA), and machine learning",
+                                                    "prerequisite_knowledge":  "Univariate calculus (differentiation \u0026 integration). Python coding prerequisites added in fall 2025 - exceptions to the python course prerequisite will be considered by the instructor on a case-by-case basis.",
+                                                    "assessment_structure":  "Assignments, exams, and a final exam.",
+                                                    "relevance":  "Students will gain an awareness and appreciation of the data analysis pipeline and be able to apply introductory level data analysis tools to problems arising in engineering.",
+                                                    "learning_resources":  "Lecture slides, case studies, textbooks, websites, and articles.",
+                                                    "extra_time_commitment":  "None usually expected."
+                                            }
+}

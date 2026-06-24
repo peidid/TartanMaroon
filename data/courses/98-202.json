@@ -1,0 +1,37 @@
+{
+        "code":  "98-202",
+        "name":  "Student Taught Courses (StuCo): Introduction to Classical South Asian Philosophy",
+        "short_name":  "STUCO: S ASIAN PHIL",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Over the course of 3500 years, the South Asian intellectual tradition has cultivated some of the most interesting theories of philosophy spanning formal logic, ethics, consciousness, and more. This introductory course to Classical South Asian Philosophy begins with a background in South Asian history, literature, and ethics before diving into rigorous approaches to epistemology  metaphysics by many separate schools of thought. Taught with an emphasis on inclass discussion and engagement with arguments put forward by South Asian thinkers, this course also seeks to assist students in constructing an intellectual identity informed by their ethnohistorical context. Students with some background in computationalmathematical logic or analytic philosophy, as well as those of South Asian heritage, may especially enjoy this courses intersections with their prior knowledge.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Learning objectivesDeepen critical thinking skills by engaging with complex and exotic ideas spanning logic, language, and metaphysics.Develop the fundamentals necessary for deeper study of Classical Indian history, literature, and philosophy.Learn how to construct an intellectual or ideological identity informed by cultural, ethnic, and ancestral contexts.Gain an appreciation for the logical sophistication and rich history of nonWestern intellectual traditions, namely those of the Indian Subcontinent since c. 1500 BC.",
+                                                    "key_topics":  "Sanskrit, Indian Intellectual History \u0026 Literature, Ethics, Epistemology, Metaphysics, Religion, Philosophy, Language, India and Culture.",
+                                                    "prerequisite_knowledge":  "Critical thinking skills.",
+                                                    "assessment_structure":  "Discussions, final project.",
+                                                    "relevance":  "This course teaches South Asian students how to construct an intellectual or ideological identity informed by their cultural, ethnic, and ancestral contexts. It provides students of other backgrounds with an appreciation for the logical sophistication and rich history of non-Western intellectual traditions, namely those of the Indian Subcontinent since c. 1500 BC.",
+                                                    "learning_resources":  "Slides, textbook.",
+                                                    "extra_time_commitment":  "Preparing for in-class discussions."
+                                            }
+}

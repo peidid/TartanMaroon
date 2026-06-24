@@ -1,0 +1,37 @@
+{
+        "code":  "16-211",
+        "name":  "Foundational Mathematics of Robotics",
+        "short_name":  "ROBOMATH",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(21-122 [] at least D) and (21-241 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will cover core mathematics concepts used in many advanced robotics courses at the RI.  Perhaps unlike prior courses in math, the focus of this class will be to ground concepts in robotics algorithms or applications.  For example  How to move and manipulate objects in 3D space coordinate transforms, rotations.  How to move an articulated robots endeffector in Cartesian space Jacobians, gradient optimization.  How to have a robot learn to recognize a vision input neural networks, back propagation.  How to plan navigate a robot optimally dynamic programming, A Search.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the course, students will be prepared with the mathematical background necessary for graduatelevel courses in robot planning, control, manipulation, vision, sensing, and learning. They will be able to formulate and solve related mathematical problems.",
+                                                    "key_topics":  "The focus will be on refreshing and introducing concepts in linear algebra, geometry, calculus, optimization, frequency domain, statistics, probability, numerical methods, and algorithms. Specific topics covered are likely to include: (linear algebra) eigenvalues, principal component analysis, solving. (geometry) coordinate transformations, rotational representations, convex hulls, collision detection. (calculus) gradients, Jacobians, linearizations. (optimization) gradient-based optimization, neural network basics, back propagation, mathematical programs. (frequency domain) Fourier transforms, spectral analysis. (statistics and probability) Gaussian distributions, Bayes\u0027, p-values. (numerical methods and algorithms) dynamic programming, A* search, combinatorial search. (Some covered material is subject to change due to the large topic area and pacing of the course.)",
+                                                    "prerequisite_knowledge":  "Students will be expected to have had exposure to geometry, linear algebra, calculus, statistics, and probability, including: linear algebra, transforms, inverses, independence, bases, integration, differential equations, approximation, statistical processes, regression, and classification. Some assignments will require students to program in python.",
+                                                    "assessment_structure":  "Students will be evaluated on homework assignments and projects that apply course material to robot applications. There will be a midterm and final exam.\nhomework assignments: 40%\nmid-term exam: 10%\nfinal exam: 20%\nproject: 30%",
+                                                    "relevance":  "This course will prepare students for advanced robotics courses that expect students to have knowledge and experience of the robomath material. Many robotics courses apply the covered concepts to solve problems such as planning a motion, manipulating an object, controlling motors, sensing the environment, and more.",
+                                                    "learning_resources":  "Lecture materials, including annotated slides and supplemental notes, will be available to students.\nThere is no required textbook. Textbooks from prerequisite courses will be a valuable, but optional, resource: Calculus: Early Transcendentals by James Stewart, Linear Algebra: A Modern Introduction by David Poole, A First Course in Probability by P Whittle, and Machine Learning: A Probabilistic Perspective by K.P. Murphey.",
+                                                    "extra_time_commitment":  "This is a 12 unit course with 3 hours of class instruction and 9 hours of work outside the classroom in the form of homework assignments and projects."
+                                            }
+}

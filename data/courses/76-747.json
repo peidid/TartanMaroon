@@ -1,0 +1,37 @@
+{
+        "code":  "76-747",
+        "name":  "Major Fiction",
+        "short_name":  "MAJOR FICTION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We read newspapers for news about our world. But we also read fictionnovels and storiesto tell us about how it feels to live in the world. Sometimes they are like our world, and sometimes very different. In this course well read fiction that offers realistic portraits of 19th century society, like Charles Dickens Great Expectations or Anne Brontes The Governess, alongside more fantastical portraits like Rip van Winkle or contemporary scifi. We will sample fiction from the 19th through the 21st century to trace the course of fiction from romance to realism through modernism to contemporary genre, like dypstopian masterpieces like Station Eleven or Severance. We will also consider about what they say about their culture and society.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Basic knowledge of the history of the novel, as well as writing about it informatively",
+                                                    "key_topics":  "The novel; genre; narrative form; the politics of fiction; literary criticism",
+                                                    "prerequisite_knowledge":  "Interest in fiction and preferably some courses in lower level literature and criticism.",
+                                                    "assessment_structure":  "Two short papers; one longer papers; and participation",
+                                                    "relevance":  "This course provides a survey of key moments in the history of the novel, particularly in British and American fiction.",
+                                                    "learning_resources":  "Canvas site with schedule and instructions for papers, though students will have to acquire novels.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

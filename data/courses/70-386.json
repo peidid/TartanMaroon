@@ -1,0 +1,37 @@
+{
+        "code":  "70-386",
+        "name":  "Applied Behavioral Decision Making For Business",
+        "short_name":  "APLD BHVRL DEC MK BS",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  "((36-200 [] at least D) or (36-201 [] at least D) or (70-207 [] at least D)) and (73-100 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is intended to give future managers, consultants, and policy makers an introduction to the insights and applications of behavioral decision making. Behavioral decision making is the interdisciplinary study of how people make decisions. It draws together research from psychology, economics, political science, and management, among other fields. Topics include heuristics and biases in inference and prediction, risk perceptions and attitudes, and the roles of group and emotional processes in decision making. In this course we will address applications of these findings from the various behavioral sciences to the study of business.This course is offered only at the Carnegie MellonQatar campus.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

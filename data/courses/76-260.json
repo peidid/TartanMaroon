@@ -1,0 +1,37 @@
+{
+        "code":  "76-260",
+        "name":  "Introduction to Writing Fiction",
+        "short_name":  "INTRO WRTNG FICTION",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is an introduction to the reading and writing of short fiction. Character development and the creation of scenes will be the principal goals in the writing of short stories during the course of the semester. Revisions of the stories will constitute a major part of the final grade. Reading assignments will illustrate the different elements of fiction reviewed and practiced, and students will analyze and discuss stories from a writers point of view.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "To help students become better and more creative writers, and to help them read more deeply, with a better understanding of form. To inspire you to create your own fiction, while deepening your analysis and appreciation of contemporary stories and novels.To experiment with characterization, sense of place, point of view, plot, use of imagery, metaphor, and dialogue.To help you Identify the progress you make as a result of disciplined writing practice.",
+                                                    "key_topics":  "Narrative, Structure, Prose, Critical Thinking, Analysis, Close Reading",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Written responses to readings, class discussion, self-reflection, critiques, revision based on comments given on student writing. Portfolio of student writing often presented at term\u0027s end.",
+                                                    "relevance":  "Dietrich GenEd prior to Fall 2021: Creating\nDietrich GenEd after Fall 2021: Disciplinary Perspectives: The Arts\nThis course invites you to reconsider the power of language and narrative not only in works of art, but in your own life.",
+                                                    "learning_resources":  "A variety of short fiction will be provided by the professor\nReadings will be available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

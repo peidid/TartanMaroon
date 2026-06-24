@@ -1,0 +1,37 @@
+{
+        "code":  "76-408",
+        "name":  "Culture and Globalization",
+        "short_name":  "CULT AND GLOBALIZATI",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We are often told we live in a period of globalization, but what that means differs widely. Theories of globalization describe such diverse processes as international capital and markets, neoliberalism and neocolonialism, environmental devastation, transnational labor and migration, modernity, shifts in spatial and temporal relations, cosmopolitanism, global cultural production and consumption, and the resurgence of nationalism. In this course we will explore and historicize the concept of globalization from both a global literary perspective and an interdisciplinary lens. Pairing literary works from around the world with scholarship from sociology, political science, gender and critical race studies, and anthropology, we will examine the contradictions, conflicts and possibilities of associated changes in the world. We will investigate the role of representation and aesthetics by considering the work of literary writers as well as some filmmakers, journalists and activists. The course will be organized as a series of topical foci that might include neoliberalism and labor, the local and the global, environmental changes, secularism and tradition, the globalization of feminism, and global migration and border control.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

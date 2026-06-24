@@ -1,0 +1,37 @@
+{
+        "code":  "79-323",
+        "name":  "Making Modern Cities",
+        "short_name":  "MKG MOD CITIES",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Cities have been a feature in the landscapes of human settlement for nearly 6000 years.  This course will examine the origins and evolution of cities by examining the role of urban areas in the economic, cultural, political, and environmental history of the world. The main line of inquiry for this course emphasizes the culture of cities and the processes of urbanization that give rise to them. Students will explore why and how cities form, the functions they serve, the ways of life they support, and the problems and opportunities to which they give rise. Cities are socially and politically contested spaces, and observers of urban life have longsought to understand the process of urbanization and the consequences of living in cities. Some argue that cities represent the crowning achievement of modernity others suggest that cities are isolating and alienating, fostering discord, rather than social cohesion. The course integrates work by historians, urban planners, architects, political scientists, geographers, and sociologists to provide a comprehensive set of tools to understand and analyze modern urban life.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will learn that cities are everchanging environments and that urban experiences differ vastly around the world based on race, class, gender, economy, and politics.",
+                                                    "key_topics":  "The course examines urban environments in the global context, tracing ways in which cities have modernized.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will read extensively, write a few short papers, and give an oral presentation on one urban case study.",
+                                                    "relevance":  "Students will understand how humans live in urban environments and the impacts of such lifestyles on a global scale.",
+                                                    "learning_resources":  "Students will read course textbooks (no more than four) and additional readings will be uploaded to the course Canvas site.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

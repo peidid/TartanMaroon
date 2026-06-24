@@ -1,0 +1,34 @@
+{
+        "code":  "88-205",
+        "name":  "Comparative Politics",
+        "short_name":  "COMPARATIVE POLITICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of this course is to use the comparative method to learn about the evolution of political ideas and political systems in selected countries. The course is centered on the study of political ideologies, political systems, institutions, and policies. The course will focus on four countries: China, Cuba, Iran and South Africa and the political philosophy that inspired those regimes structures, foundations, and policies.    Each of the case studies will allow the students to learn about the ideology, political institutions, and policies, as well as the political and economic transformation of those countries or regions.     Students will be expected to compare political ideologies, political institutions, socioeconomic policies and the consequences that those policies have on the society.    The course provides the student with both knowledge about critical political ideas and systems and the skills required to analyze and formulate policies.",
+        "student_sets":  [
+
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

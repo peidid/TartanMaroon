@@ -1,0 +1,37 @@
+{
+        "code":  "76-416",
+        "name":  "Rhetorics of Race \u0026 Empire",
+        "short_name":  "RHET OF RACE \u0026 EMP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The construction and enforcement of racial hierarchies has been a central phenomenon in empirebuilding around the world. This class takes as its main focus the relationship between imperialism and race, especially in, but not limited to, the United States. How has the U.S. justified imperial expansion around the worldmilitary, economic, and cultural How have its actions triggered the movements and migrations of populations, and how have those movements and displacements been explained What cultural shifts around racial meanings have occurred, here and abroad, as a result of U.S. imperialism How has the role of the U.S. in relation to the rest of the world, particularly peripheries and the global South, been narrated We will take a special interest in the role of language in constructing and perpetuating racial meanings in the context of empire, and in the everyday communicative practices that both shape and have been shaped by imperial impulses. Students will learn to think critically about the presence of such discourses in everyday life, and produce a final paper or project analyzing a narrative of their own choosing in which race and empire intersect.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 Develop facility with major topics and concepts in studies of imperialism, colonialism, and race. 2 Understand how U.S. and Western imperial activity has shaped racial meanings domestically and around the world. 3 Learn and practice rhetorical approaches to analyzing power. 4 Conduct original research on a cultural narrative that exemplifies an intersection between race and empire.",
+                                                    "key_topics":  "race, imperialism, colonialism, migration, power",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Weekly discussion posts, 1-2 short papers, final paper or project",
+                                                    "relevance":  "This course is highly relevant to any upper level undergraduate or graduate student interested in learning more about the global flows of power that influence how we view race, as well as anyone interested in better understanding how Western imperial impulses circulate in our contemporary cultural and social landscape. It will provide graduate students with additional training in postcolonial rhetorics.",
+                                                    "learning_resources":  "All readings will be available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

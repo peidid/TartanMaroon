@@ -1,0 +1,37 @@
+{
+        "code":  "17-437",
+        "name":  "Web Application Development",
+        "short_name":  "WEB APPLCTN DEVLPMNT",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "(17-514 [] at least D) or (15-214 [] at least D) or (17-214 [] at least D) or (18-613 [] at least D) or (17-313 [] at least D) or (15-513 [] at least D) or (15-213 [] at least D) or (14-513 [] at least D) or (18-213 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will introduce concepts in programming web application servers. We will study the fundamental architectural elements of programming web sites that produce content dynamically. The primary technology introduced will be the Django framework for Python, but we will cover related topics as necessary so that students can build significant applications. Such topics include HTTP, HTML, CSS, Javascript, JSON, Design Patterns, Relational and Nonrelational Databases, ObjectRelation Mapping tools, Security, Web Services, Cloud Deployment, Internationalization, and Scalability and Performance Issues. Students must be comfortable programming in Python to register for this course. Students must provide their own computer hardware for this course. Please visit the Course URL for more information about the course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu-webapps.org/static/index/syllabus.pdf",
+        "custom_fields":  {
+                                                    "goals":  "After completing this course, students will be able to design and build substantial web applications using realworld tools and techniques. Students will learn and apply general software engineering skills to build web applications as part of a team. Students will understand various design challenges common to web applications, and how modern web application frameworks solve these challenges.",
+                                                    "key_topics":  "This course teaches practical skills to design and build web applications. Students will learn (1) concepts of software engineering and how they apply to web application design and programming, (2) the modern tools used to\nprogram web application servers, and (3) techniques to design and build substantial web applications as\npart of a team.",
+                                                    "prerequisite_knowledge":  "Students should have substantial prior experience designing and building software systems, including (1) at least three semester-long programming-intensive computer science courses, (2) concrete experience building medium- or large-scale systems in an object-oriented or imperative programming language (such as Python, Java, C, or C++), and (3) experience with concurrency and distributed or networked systems. No prior experience with web concepts or web systems is required.",
+                                                    "assessment_structure":  "Students\u0027 learning is assessed in the first half of the course by a series of homework assignments, in which students build two increasingly complex web applications. Students demonstrate their learning in the second half of the course by completing a substantial course project, which they demonstrate to course staff. There are in-class quizzes and a final exam (but no midterm exams).",
+                                                    "relevance":  "This course provides concrete experience building medium-sized web applications in a modern web application framework. Students will learn and practice general software engineering principles that they can immediately apply to any computer science domain.",
+                                                    "learning_resources":  "Students receive information in this course from the following sources: lectures, in-class quizzes, Canvas for distribution of lecture slides, recorded videos, homework assignments, links to sample code (on GitHub) and example websites (hosted on EC2), and Piazza for Q\u0026A and announcements.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,89 @@
+{
+        "code":  "15-213",
+        "name":  "Introduction to Computer Systems",
+        "short_name":  "INTR CMPUTER SYSTEMS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "15-122 [] at least C"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+                                            {
+                                                    "code":  "15-513",
+                                                    "id":  1104,
+                                                    "name":  "Introduction to Computer Systems",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-213",
+                                                    "id":  1454,
+                                                    "name":  "Introduction to Computer Systems",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-600",
+                                                    "id":  2387,
+                                                    "name":  "Foundations of Computer Systems",
+                                                    "units":  12.0
+                                            },
+                                            {
+                                                    "code":  "18-613",
+                                                    "id":  6130,
+                                                    "name":  "Foundations of Computer Systems",
+                                                    "units":  12.0
+                                            }
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "15-513",
+                                            "id":  1104,
+                                            "name":  "Introduction to Computer Systems",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "18-213",
+                                            "id":  1454,
+                                            "name":  "Introduction to Computer Systems",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "18-613",
+                                            "id":  6130,
+                                            "name":  "Foundations of Computer Systems",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "18-243",
+                                            "id":  7297,
+                                            "name":  "18-243",
+                                            "units":  12.0
+                                    },
+                                    {
+                                            "code":  "14-513",
+                                            "id":  8695,
+                                            "name":  "Introduction to Computer Systems",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "This course provides a programmers view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systemslevel issues is required. Topics covered include machinelevel code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation. NOTE FOR GRADUATE STUDENTS This course is not open to graduate students beginning Spring 2015. Graduate students must register for 15513 instead.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cs.cmu.edu/~213/",
+        "custom_fields":  {
+                                                    "goals":  "Programmers view of how computer systems execute programs, store information, and communicate.How to deal with issues of performance, portability and robustness.Improve effectiveness as software developers in improving the quality and performance of programs.",
+                                                    "key_topics":  "Machine-level code and its generation by optimizing compilers, Performance evaluation and optimization, Computer arithmetic, Memory organization and management, Networking technology and protocols, Supporting concurrent computation",
+                                                    "prerequisite_knowledge":  "Facility in C, including basic data structures, from 15-122",
+                                                    "assessment_structure":  "Assignments (7 Labs) - 50%, Midterm - 20 %, Final - 30%",
+                                                    "relevance":  "Foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required.\n\nNOTE FOR GRADUATE STUDENTS: This course is not open to graduate students beginning Spring 2015. Graduate students must register for 15-513 instead.",
+                                                    "learning_resources":  "Course Textbook, AutoLab, Piazza, Course Website",
+                                                    "extra_time_commitment":  null
+                                            }
+}

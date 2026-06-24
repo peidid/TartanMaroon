@@ -1,0 +1,37 @@
+{
+        "code":  "08-532",
+        "name":  "Law of Computer Technology",
+        "short_name":  "LAW OF COMPUTER TECH",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Law of Computer Technology  A survey of how legislatures and courts cope with rapidly advancing computer technologies and how scientific information is presented to, and evaluated by, civil authorities.  The course is also an introduction to the legal process generally and the interaction between the legal system and technology organizations.  Topics include patents, copyrights in a networked world, law of the Internet, free speech, data security, technology regulation, international law, and transborder crime.  Open to juniors, seniors and graduate students in any school.  Open to sophomores by permission of the instructor.  Prerequisites none.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

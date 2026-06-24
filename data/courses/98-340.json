@@ -1,0 +1,37 @@
+{
+        "code":  "98-340",
+        "name":  "Student Taught Courses (StuCo): Introduction to Street Roaming in Tokyo",
+        "short_name":  "STUCO: TOKYO 13",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Urban streets are cultural scenes they give rise to various contemporary ideas and modern communities, which in turn transform the street they emerged from. The diversity of street culture in Tokyo naturally suggests that modern Japanese culture is not a unitary concept, but rather a coexistence of contrasting ideals. This course will walk you through streets of vastly different personalities, from Akihabara, the capital of Otaku subculture, to Sugamo, the fashion center for the elderly, to gain an eclectic view of culture in urban Japan. Although Tokyo is the main theme of the course, it would become clear that the same concepts will enrich your adventure in many other cities. Prior knowledge about Japanese or Japanese culture is optional. No travelling is required.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

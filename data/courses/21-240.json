@@ -1,0 +1,37 @@
+{
+        "code":  "21-240",
+        "name":  "Matrix Algebra with Applications",
+        "short_name":  "MATRIX ALGBA APPLC",
+        "units":  10.0,
+        "min_units":  10.0,
+        "max_units":  10.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Vectors and matrices, the solution of linear systems of equations, vector spaces and subspaces, orthogonality, determinants, real and complex eigenvalues and eigenvectors, linear transformations.  The course is intended for students in Economics, Statistics, Information Systems, and it will focus on topics relevant to these fields.  Three 50 minute lectures, one 50 minute recitation",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "https://www.cmu.edu/math/undergrad/math-course-information.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  "No prior knowledge required",
+                                                    "assessment_structure":  "Homework, midterm and final exams",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "Lecture notes and/or textbooks",
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "79-211",
+        "name":  "Modern Southeast Asia: Colonialism, Capitalism, and Cultural Exchange",
+        "short_name":  "MODRN SOUTHEAST ASIA",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "When you hear the term Southeast Asia, what comes to mind The US War in Vietnam The ruins of the Angkor civilization Rich culinary traditions Or perhaps your own heritage However you imagine it, Southeast Asia is an incredibly diverse and dynamic region that has long been integral to world affairs and whose importance continues to grow. This course offers a wideranging survey of Southeast Asias peoples, their histories, and some of the issues they face today. Together we will explore the region as a global crossroads, where the worlds religions, economies, cultures, and politics come together in generative, sometimes traumatic, and often surprising ways. This course meets the Dietrich Gen Ed Contextual Thinking requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Combining existing skills with those developed in this course, students will Explore Southeast Asia as a key center of cultural, economic, and political exchange in world history Engage critically with a range of scholarly and journalistic texts as well as works of political commentary and fiction Examine contemporary issues and events within historical and societal context Consider how Westerncolonial ideologies have shaped perceptions of Southeast Asia, how students relate to those ideologies, and when relevant how students personally relate to the content of the course, such as through their heritage or family history Advance your research skills by conducting independent inquiry into a topic of relevance to one or more Southeast Asian contexts and Improve your writing skills by composing and revising an essay that examines your research topic in relation to the broader themes and content of the course.",
+                                                    "key_topics":  "Our first unit will explore the region as a key center of cultural, economic, and political exchange in world history, with discussions of precolonial societies, colonial empires, World War II, decolonization, and the Vietnam War. We will then work to place a series of contemporary issues, from the experiences of migrants who leave the region, to the resurgence of authoritarianism and current environmental challenges, in their societal and historical context. Although we will take account of global processes that affect the region, our readings and discussions will emphasize the everyday lives of ordinary people.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Students will write brief reflection papers, present findings from \u0027rapid-response research\u0027, participate in a simulation activity, and complete a research project on a relevant topic of their choosing.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Contextual Thinking\n\nStudents will learn about an increasingly important world region, with which some have links through their families or prospective careers. They will also develop analytical and research skills applicable to a wide range of professional fields.",
+                                                    "learning_resources":  "Students will read two books (available as ebooks from CMU\u0027s library), plus shorter texts, such as journal articles, news reports and commentaries (available on Canvas).",
+                                                    "extra_time_commitment":  null
+                                            }
+}

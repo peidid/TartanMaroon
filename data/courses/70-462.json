@@ -1,0 +1,37 @@
+{
+        "code":  "70-462",
+        "name":  "Uncertainty and Risk Modeling",
+        "short_name":  "UNCERT RISK MODELING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-200 [] at least D) or (36-201 [] at least D) or (70-207 [] at least D) or (36-220 [] at least D) or (36-225 [] at least D) or (36-207 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course takes the perspective of the consultant whose job is to analyze existing or potential business processes and provide recommendations for managerial decisionmaking. Recognizing that most businesses are subject to high levels of variability, risk and uncertainty, it will adopt a stochastic approach to characterize the behavior of business systems and processes, and explore the effects of alternative decisions in this context.  Two modeling methodologies will be covered i stochastic modeling, and ii stochastic simulation. Examples are drawn from different managerial domains, such as supply chain management, risk management, marketing, and project management. The lectures, homework assignments, exam and term project will focus on modeling, computational, and analytical skills. Computational implementations will be done in Excel using the Risk addin during the first half of the course to build simple simulation models and the Arena software during the second half of the course to build more complex models based on discreteevent simulation.    This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "After completing the course students should acquire the following skillsModel uncertainty and risk quantitatively using probabilistic tools.Develop computational models for managerial simulation using appropriate software.Generate probabilistic distributions for outputs e.g., profit, waiting time, etc. and relevant performance metrics e.g., average, standard deviation, distribution tails.Communicate outputs of uncertainty analyses and implications for managerial decisions.",
+                                                    "key_topics":  "The course will focus on why uncertainty matters, and provide stochastic modeling and simulation tools to characterize risk and assess alternative decisions. The two main topics are: 1) using mathematical tools (probabilistic methodologies) to model the business decision-making context, and 2) learn how to conduct simulation experiments and use the simulation results to aid our decision making.",
+                                                    "prerequisite_knowledge":  "1. Probability and statistics: students should be familiar with the basic concepts of probability, including random variables and probability distributions. However, we will review the useful concepts in class.\n\n\n2. Excel skills: students should be familiar with Microsoft Excel and basic Excel formulas and functionalities. We will spend time building spreadsheet models and will review some basic skills as needed.",
+                                                    "assessment_structure":  "Students will be assessed based on the following components: five homework assignments, two exams (mid-term and final), and a team project. There will also be a participation score.",
+                                                    "relevance":  "This will be a hands-on course on business risk and uncertainty. It takes the perspective of a consultant supporting a business facing uncertainty and providing recommendations for managerial decision-making. It helps the students acquire skills such as model building and simulation that might be related to their future career.",
+                                                    "learning_resources":  "A canvas course webpage (every student will be enrolled) where lecture notes and other supplementary materials will be posted. For simulation experiments, software required for the experiments will be available to every student. A recitation (attendance is not compulsory) will be held to help the students install the software and learn the basics.",
+                                                    "extra_time_commitment":  "Students will need to get familiar with course materials and finish the assignments (e.g., homeworks and team projects). There will be recitations held to help students get familiar with software/simulation platforms but the participation will be self-voluntary."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "98-184",
+        "name":  "Student Taught Courses (StuCo): Exploring Fan Fiction: Origins, Impact, \u0026 Trends",
+        "short_name":  "STUCO: FAN FICTION",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Fanfiction is a literary medium where individuals can expand upon a preexisting media, whether by creating alternate universes, alternate endings, or new characters. In this course we will learn about the history of fanfiction, the trends throughout these pieces of work, and the impact fanfiction has both inside and outside of a fandom. Each class will focus on a new topic relating to these and will have open discussions on the theme. This course is open to anyone willing to learn, whether they are fanfiction readers, writers, or just curious souls.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course students will have had their eyes opened to the rich history of fanmade literature and the current implications fanfiction has had on pop culture.",
+                                                    "key_topics":  "- Introduction to Fanfic\n- Fanfiction Sites\n- Harry Potter\u0027s Impact on Fanfiction\n- Real Person Fiction\n- Predominance of M/M in fanfiction\n- Omegaverse\n- Lawsuits and Copyrights in fanfiction\n- Author\u0027s opinion on fanfiction\n- Fanon vs. Canon\n- Fanfiction in the Real World",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Students will be expected to complete 7 homework assignments (70%), a jeopardy style midterm worth 15% of the final grade, and a presentation style final exam worth 15% of their grade.",
+                                                    "relevance":  "This course is targeted toward anyone interested or curious in discovering the aspects of fanfiction.",
+                                                    "learning_resources":  "Students will have access to slides presented during class via the course Canvas site. Additional resources may be recommended to students upon request.",
+                                                    "extra_time_commitment":  "Students will work on homework outside of classes."
+                                            }
+}

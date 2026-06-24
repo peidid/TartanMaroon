@@ -1,0 +1,37 @@
+{
+        "code":  "76-422",
+        "name":  "Gender and Sexuality Studies",
+        "short_name":  "GENDER \u0026 SEXUALITY",
+        "units":  4.5,
+        "min_units":  4.5,
+        "max_units":  4.5,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "We will anchor our introduction to this broad and diverse field of theory in the admittedly very limited historical period of feminist, queer, and transgender political activism, circa 1970 to the present day.  Instead of attempting coverage an impossible task, we will shuttle between recent work in queer, transgender, and feminist theory and a few key texts that are foundational to the development of academic theory as a reaction to and extension from the political activism of these social movements.  Our goals are to strengthen our understanding of the continuities and breaks in politically informed thinking about gender and sexuality, and to deepen our knowledge of the theoretical frameworks available to us from these areas of study.  Students will write short response papers to course readings that will help us focus our discussions on their particular interests in literary and cultural studies.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

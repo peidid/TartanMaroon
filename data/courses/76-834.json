@@ -1,0 +1,37 @@
+{
+        "code":  "76-834",
+        "name":  "Literature \u0026 Social Change in the 19th Century",
+        "short_name":  "LIT \u0026 SOC CHANGE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "From the French Revolution to the Victorian era, literature began to play an explosive role in the forces of political transition and the struggle for social justice. This course studies novels, poetry and prose in relation to both political and industrial revolutions during the rise of empire and capitalism and the road to climate change. We will study apocalyptic novels like Mary Shelleys The Last Man and novels of empire like Jane Eyre and its retelling in Wide Sargasso Sea poetry about living in revolutionary times by Wordsworth and Phillis Wheatley Peters and antislavery writing such as Ottobah Cugoanos Thoughts and Sentiments on the Evil of Slavery. Secondary readings for graduate students will draw from a variety of critical traditions such as critical race studies, environmental studies, gender studies, postcolonial studies.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students can expect to achieve a broad understanding of relevant conversations in studies of 19c British literature, a stronger ability to analyze literary texts across genres, espescially in a historical context, improved skills for making and supporting an argument.",
+                                                    "key_topics":  "Empire, Environment, Gender, Race, Revolution, Romanticism",
+                                                    "prerequisite_knowledge":  "Interest in fiction, poetry, essays, history, and social justice. They should have taken required lower-level literature courses.",
+                                                    "assessment_structure":  "Oral presentations, short writing assignments, formal essays, and creative projects.",
+                                                    "relevance":  "This course provides a survey of British literature of the \"long\" nineteenth century and training in relevant critical approaches",
+                                                    "learning_resources":  "Most readings will be on Canvas, though students will need to purchase or otherwise obtain copies of two novels.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

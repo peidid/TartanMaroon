@@ -1,0 +1,37 @@
+{
+        "code":  "82-137",
+        "name":  "Chinese Calligraphy: Culture and Skills",
+        "short_name":  "CHINESE CALLGPHY SKL",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Chinese calligraphy is a crucial part of Chinese culture and world art. It is also a clear manifestation of Chinese philosophy that has influenced Chinese people for several thousand years. This introductory course on Chinese calligraphy provides students with basic knowledge of Chinese calligraphy and how it mirrors Chinese history, culture, and philosophy. It will also introduce the fundamental characteristics of the Chinese writing system, its cultural content, and principles of formation as well as the skills used in Chinese calligraphy. At the end of the course, students will have a good understanding of Chinese characters and their cultural and philosophical background but also be able to appreciate the art and beauty in Chinese calligraphy. Classes include lectures, discussions, handson practice, and projects.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "1 Students will develop basic knowledge of Chinese character history, Liushu, writing forms, and components. 2 Students will build up a learning framework of historical and cultural background of Chinese calligraphy consisting of writing tools, writing genres development, and relationships between calligraphy and other cultural components such as art, literature, and philosophy. 3 Students, through learning and practice, will develop skills to write Chinese characters in the Regular Style and evaluate basic calligraphy works. 4 Students will gain the ability to appreciate the art and beauty in Chinese calligraphy.",
+                                                    "key_topics":  "Chinese art, Chinese calligraphy and writing system through hands-on practice, How Chinese calligraphy mirrors Chinese history, culture, and philosophy.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Attendance, 1 Group presentation, 1 Mid-term exam, 5-8 Regular calligraphy practice (homework), 1 Self-reflection project, and 1 Final calligraphy work and showcase.",
+                                                    "relevance":  "Dietrich GenEd prior to Fall 2021: Creating\nDietrich GenEd after Fall 2021: The Arts\n\nThis course will enhance students\u0027 abilities to appreciate the art and beauty in Chinese calligraphy. Through cultural comparison and hands-on practice, it will improve students\u0027 intercultural knowledge and understanding of Chinese art and culture in global learning context.",
+                                                    "learning_resources":  "Textbook: Li, Wendan (2010). Chinese Writing and Calligraphy. Tools and writing materials including brushes, ink, ink stone and rice paper. Other learning materials will also be provided by the instructor.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

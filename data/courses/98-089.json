@@ -1,0 +1,37 @@
+{
+        "code":  "98-089",
+        "name":  "Student Taught Courses (StuCo): Introduction to Professional Baking",
+        "short_name":  "STUCO: PRO BAKING",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Have you ever wanted to learn to make delicious French bread  Or perhaps a perfectly moist dark chocolate cake  This course will teach the baking fundamentals such as which flour to choose for any given baked product, or how to choose between butter and oil and the methods to create perfect products.  This is the course for somebody who has always wanted to learn the theories behind recipes, but doesnt have the time for cooking school.  With recipes and techniques approved by Le Cordon Bleu, each week we will learn a new product ranging from bread to pastries, cookies to cakes, and of course, along dedication to the use of chocolate.  Practice skills will be demonstrated and utilized in this class.  This is not a lecture course, this is a multisensing experience",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "www.cmu.edu/stuco",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

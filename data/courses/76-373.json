@@ -1,0 +1,37 @@
+{
+        "code":  "76-373",
+        "name":  "Argument",
+        "short_name":  "ARGUMENT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course introduces the fundamentals of argumentation theory and offers guided practice in analyzing and producing arguments. Through analysis, we will learn what an argument is, how to identify one, and what the names and functions of a variety of argument features are. We will also explore the production of argument by pursuing the questions What are my argumentative goals How do I build a theory of my audience What means of persuasion are available for me to achieve my goals And how should I order the contents of my argument To answer these questions, we will explore argument in a variety of genres including visuals, opeds, presidential speeches, and congressional testimonies.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this semester, you should be able to apply technical vocabulary of rhetorical features with fluency and precision, identify rhetorical features in realworld instances of communication, develop a reasonable theory of an authors audience by analyzing linguistic signals in their writing, craft an argument with a specific persuasive goal which addresses a particular audience, write compellingly about features of argument with support from empirical textual evidence and rhetorical theory, explain the central ideas in course readings, and facilitate conversation around course ideas.",
+                                                    "key_topics":  "argument, persuasion, writing",
+                                                    "prerequisite_knowledge":  "First-Year Writing",
+                                                    "assessment_structure":  "Two argument analyses desgined to assess studen\u0027ts ability to use argument theory to identify argument features in the analysis of real-world argument. One argument production assignment, an op-ed in which the students apply their argumentative skills to craft an argument for a particular audience. Several homework assignements to prepare students for larger stakes projects. Assessment of in-class participation. Attendance is graded.",
+                                                    "relevance":  "This course will help students assess and produce arguments.",
+                                                    "learning_resources":  "This course will draw on scholarly works about argument as well as real-world examples, all of which are provided on Canvas. Required text: The Rhetorical Act: Thinking Speaking and Writing Critically 5th Edition (2015) Karolyn Kohrs Campbell, Susan Huxman, and Thomas Burkholder ISBN 1133313795.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

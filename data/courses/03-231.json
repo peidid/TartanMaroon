@@ -1,0 +1,53 @@
+{
+        "code":  "03-231",
+        "name":  "Honors Biochemistry",
+        "short_name":  "HONORS BIOCHEMISTRY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-151 [] at least D) or (03-121 [] at least D)"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "09-217",
+                                                "id":  5315,
+                                                "name":  "Organic Chemistry I",
+                                                "units":  9.0
+                                        },
+                                        {
+                                                "code":  "09-219",
+                                                "id":  5318,
+                                                "name":  "Modern Organic Chemistry",
+                                                "units":  10.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "03-232",
+                                            "id":  4201,
+                                            "name":  "Biochemistry I",
+                                            "units":  9.0
+                                    }
+                            ],
+        "long_desc":  "This course provides an introduction to molecules and processes found in living systems. Amino acids, sugars, lipids and nucleotides and their corresponding higher structures, proteins, polysaccharides, membranes and nucleic acids are studied. Kinetics and mechanisms of enzymes as well as elementary metabolic cycles and the energetics of biological systems are studied with a quantitative approach.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Understand 1 the basic structure of biological molecules and higher order assemblies and 2 how structure relates to function",
+                                                    "key_topics":  "Macromolecular structure, ligand binding, enzyme kinetics and cellular metabolism, recombinant DNA technologies.",
+                                                    "prerequisite_knowledge":  "Basic Biology (03-121 or 03-151) and Organic Chemistry I (09-217 or 09-219, as a coreq)",
+                                                    "assessment_structure":  "Weekly problem sets, weekly quizzes, three in-class exams, and a comprehensive final exam.",
+                                                    "relevance":  "Core course required for Cell Biology and other upper level Biology courses",
+                                                    "learning_resources":  "Extensive on-line notes accompanied with active learning activities, lecture handouts and completed lecture notes, active learning in recitations, previous exams with solution keys. Optional textbook.",
+                                                    "extra_time_commitment":  "Students are encouraged to prepare for each lecture by reading on-line material prior to class."
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "76-398",
+        "name":  "Museum of Broken Relationships",
+        "short_name":  "MUSEUM OF BRKN RELAT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-365 [] at least C) or (76-360 [] at least C) or (76-460 [] at least C) or (76-366 [] at least C)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The Museum of Broken Relationships in Zagreb, Croatia is a museum dedicated to failed love relationships. Its exhibits are made up of objects and stories that have been donated after relationships have failed.  In the short time since the museum was established, 37 exhibitions have been mounted in cities all over the world.  In November 2016, Pittsburgh will host an exhibition.    Students who enroll in this course will have the chance to see photos and read stories from other exhibits.  They will learn how to conduct the collection process, and then go into the community to collect stories and objects. They will also collaborate with Masters students from Entertainment Technologys LocationBased Entertainment track, who specialize in designing and implementing exhibits. Together, these groups will then curate a show with stories and objects that reflect the culture and history of Pittsburgh.     This course is designed for students who love stories and have the curiosity and motivation to travel throughout Pittsburgh to find them.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

@@ -1,0 +1,37 @@
+{
+        "code":  "70-335",
+        "name":  "Fairness in Business",
+        "short_name":  "FAIRN IN BUS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will explore a range of formal principles used to evaluate fairness, the normative justifications for these principles, and how they can be applied to resolve practical business problems involving prices, wages, costs, and resource allocation. Topics in discrimination and algorithmic fairness will also be covered.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

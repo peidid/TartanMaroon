@@ -1,0 +1,37 @@
+{
+        "code":  "03-127",
+        "name":  "How Biological Experiments Work - A Project Course",
+        "short_name":  "HW BLG EX WK PRJ CRS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(03-151 [] at least D) or (03-121 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The goal of this course is to provide an understanding of the nuts and bolts of biological experimentation. We will discuss the molecular principles behind the wide variety of experiments that were used to discover how cells work. The first half of the class will be a lecture based discussion of key experimental methods used in biological research. The second half of the class will be dedicated to group projects that create story boards to explain in molecular terms how these experiments work. The story boards will be used by modelers at the Pittsburgh Supercomputing Center to generate highend animations of these experimental processes. This will prepare students for working in research labs and biology courses beyond Modern Biology.  This course is limited to first, second, and third year students.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

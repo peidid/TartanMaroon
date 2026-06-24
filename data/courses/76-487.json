@@ -1,0 +1,42 @@
+{
+        "code":  "76-487",
+        "name":  "Information Architecture \u0026 Content Strategy",
+        "short_name":  "INFO ARCH \u0026 CON STRA",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((76-270 [] at least D) or (76-271 [] at least D) or (76-272 [] at least D) or (76-101 [] at least D) or (76-102 [] at least D)) and ((51-261 [] at least D) or (51-262 [] at least D) or (76-382 [] at least D) or (76-391 [] at least D))"
+                                },
+        "co_reqs":  [
+                                        {
+                                                "code":  "76-488",
+                                                "id":  3911,
+                                                "name":  "Information Architecture \u0026 Content Strategy Lab",
+                                                "units":  3.0
+                                        }
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In the digital age, the vast amount of information available online can be overwhelming, and even individual websites often struggle to present their content in a userfriendly manner. In this course, students will immerse themselves in a semesterlong realworld project with practical exercises designed to address this challenge.  This course equips students with the skills necessary to develop usercentered information architecture and content strategydesign, enabling them to create userfriendly websites that align with user expectations and industry best practices. Throughout the course, students will adopt a usercentered approach, utilizing essential usability methods to gain insights into the information needs, behaviors, and preferences of users. They will develop the ability to identify and rectify usability issues on websites.  Additionally, students will delve into the principles of online information design, encompassing topics such as information architecture, navigation, and effective labeling. In the required lab section of the course, students will gain handson experience with core web technologies, including HTML and CSS, to shape and style web content. They will also gain an understanding of JavaScript and APIs, which play a pivotal role in integrating data and services into websites.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students in this course will be able to 1 develop a vocabulary for discussing information architecture and content strategydesign, 2 use usercentered methods to plan and design a largecomplex information space, and 3 practice writing a report that summarizes the usercentered information design process and provides recommendations.",
+                                                    "key_topics":  "Information Architecture, Online Information Design, Usability Methods, Design Documentation",
+                                                    "prerequisite_knowledge":  "Undergraduate students should have taken 76270 Writing for the Professions or 76271 Introduction to Professional \u0026 Technical Writing, and 51261 or 51262 Communication Fundamentals, or 76391 Document \u0026 Information Design.\n\nGraduate students should have taken 76870 Professional \u0026 Technical Writing and 76791 Document \u0026 Information Design.",
+                                                    "assessment_structure":  "Students will be assessed based on the quality of their reports. There will be three preliminary research reports, followed by a design process that results in a final deliverable consisting of a prototype, presentation, and a comprehensive final report.",
+                                                    "relevance":  "As the online information space is having a profound impact on the way we communicate, it is essential for students interested in professional and technical writing to develop foundational skills for online information design.",
+                                                    "learning_resources":  "Textbooks and websites.",
+                                                    "extra_time_commitment":  "Homework, group work."
+                                            }
+}

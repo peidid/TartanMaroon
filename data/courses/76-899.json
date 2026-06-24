@@ -1,0 +1,37 @@
+{
+        "code":  "76-899",
+        "name":  "Introduction to Media Studies",
+        "short_name":  "INTRO MEDIA STUDIES",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course examines theories of mass culture and particular media forms, including newspapers and magazines, literature, film, music, TV, and social media. Students will engage with key canonical texts to form a basis for their own research, with opportunities to apply the theory we discuss in class to particular media interests.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/dietrich/english/index.html",
+        "custom_fields":  {
+                                                    "goals":  "Students will gain experience working with and analyzing secondary and primary material as they build a theoretical background for their own research.",
+                                                    "key_topics":  "media studies, mass culture, music, film, tv, social media",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Reading responses, a presentation, and a short paper",
+                                                    "relevance":  "This course functions as an introduction to key texts and theories for graduate students",
+                                                    "learning_resources":  "All materials will be available on Canvas",
+                                                    "extra_time_commitment":  null
+                                            }
+}

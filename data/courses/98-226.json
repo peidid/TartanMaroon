@@ -1,0 +1,37 @@
+{
+        "code":  "98-226",
+        "name":  "Student Taught Courses (StuCo): Movies You Should Have Watched By Now",
+        "short_name":  "STUCO: MOVIES",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Have you ever watched a movie Great Want to watch some more This course surveys movies that are pioneers of genres, ideas, and storytelling forms that are popular in American film today. Students will discuss the origins of common tropes as well as how they have evolved and how they may have been subverted. Students will develop their film knowledge and be able to recognize the development of film structure, genre, and tropes in the media they consume today. In this course we will alternate between watching these movies and discussing their impact. Be ready to experience quality films and engage in quality conversation ",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will develop their film knowledge and be able to recognize the development of film structure, genre, and tropes in the media they consume today",
+                                                    "key_topics":  "Movies that are pioneers of genres, ideas, and storytelling forms that are popular in American film today",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Assignments, exams, discussions. Every other class, students are encouraged to participate in discussion, complete homework questions after every class, a midterm exam, and a final exam.",
+                                                    "relevance":  "Students get the chance to develop their movie knowledge! Movies are all around us and popular tropes from formative movies are found all over media",
+                                                    "learning_resources":  "Texts and case studies on movies",
+                                                    "extra_time_commitment":  "No required commitments - optional screenings are offered for students to attend if they don\u0027t have access to a movie outside of class"
+                                            }
+}

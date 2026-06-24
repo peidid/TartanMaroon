@@ -1,0 +1,37 @@
+{
+        "code":  "79-366",
+        "name":  "Power \u0026 Politics: A Global History of Food",
+        "short_name":  "PWR \u0026 POL: GLB FOOD",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The course will investigate the history of food from prehistory to the present day, and will consider examples from every corner of the world. We will begin with the science of food and taste, consider origins of agriculture and industry, and the implications of society and culture.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will obtain an understanding of the complexity behind food history. Often, foodseems like a really fun subject with the opportunity to taste exciting cuisines and it will be,but we students will also come to fully reckon with practices of enslavement, famine, drought,food deserts, food insecurity, and malnutrituion.",
+                                                    "key_topics":  "The course will investigate the history of food from prehistory to the present day, and will\nconsider examples from every corner of the world. We will begin with the science of food and\ntaste, consider origins of agriculture and industry, and the implications of society and culture.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "There will be a fair amount of reading, three 60-minute in-class exams, and three creative\nassignments.",
+                                                    "relevance":  "Students will understand the politics behind food and food production. With examples from\ncommunities and societies around the global, students will recognize some practices, habits,\nand cusines, while others will be new to them. Overall, the idea behind this course it to\ndemonstrate how interconnected we are as peoples",
+                                                    "learning_resources":  "Students will be provided access to any required reading materials on Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

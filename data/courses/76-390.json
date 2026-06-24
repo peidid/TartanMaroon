@@ -1,0 +1,37 @@
+{
+        "code":  "76-390",
+        "name":  "Style",
+        "short_name":  "STYLE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course teaches you how to write clearly. Specifically, the principles you learn in this course will help you 1 to clearly represent actions and the characters responsible for them 2 to make your paragraphs coherent and cohesive 3 to write sentences that stress important information 4 to cut unnecessary prose and 5 to reshape lengthy sentences so as not to perplex your reader.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of the semester, students should be able todiscuss the rhetorical, contextdependent dimensions of style employ a technical vocabulary of style with fluency and precision construct and explain a topic structure analysis diagnose, analyze, and revise stylistic problems in professional writing materials explain stylistic revisions to nonexpert audiences\nmake an argument about stylistic challenges related to ethics or metaphor, and provide an analysis of a text that illustrates your point.",
+                                                    "key_topics":  "writing clarity, writing clarity, writing ethicsethics",
+                                                    "prerequisite_knowledge":  "The class is designed for beginners; students should have general knowledge of English language",
+                                                    "assessment_structure":  "HW exercises, Analyses and Revisions of Professional Texts, quiz, exam (not a final)",
+                                                    "relevance":  "This is a crucial course for students interested in Professional Writing, since it teaches elemental techniques for writing clarity. It is good for other writers, too!",
+                                                    "learning_resources":  "A textbook; lots of in-class practice using real-world examples",
+                                                    "extra_time_commitment":  null
+                                            }
+}

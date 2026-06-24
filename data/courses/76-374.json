@@ -1,0 +1,37 @@
+{
+        "code":  "76-374",
+        "name":  "Mediated Narrative",
+        "short_name":  "MEDIATED NARRATIVE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Futuristic Explorations  Artificial IntelligenceThe Mediated Narrative Futuristic Explorations course aims to explore the ideaof the future, analyze its representations, and create a media project based onpotential areas of human progress and evolution. Students will have to recreateand represent their own visions of the future through a media project. Essential tothe research and development of the class are the concepts of humanity andempathy within sociotechnical transformations in the world. Ideas such asreality ahead of schedule high tech, low life neon and corporate dystopiascyberpunk posthumanism sustainability etc, will be analyzed and discussed.Concepts of civilization, the cityscape, the individual, the body and the mind willbe examined as we see technology and society evolve. During the 2025 springsemester we will be focusing on the impact and development of ArtificialIntelligence AI on individuals and society. The idea is to map traditional futuristicthemes and to find new ways to represent them based on the needs andcontradictions of our present reality. We are offering the opportunity to travel intothe future, build it, and represent it in creative and critical ways.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  "The future. Aritfical Intellegence, social issues, media representation and creative media production..",
+                                                    "prerequisite_knowledge":  "Basic knowledge of media production (video, sound. graphics, animation, UX/UI, art, writing, etc).knowledge of media and documentary production (video, sound. graphics, art, writing, etc).",
+                                                    "assessment_structure":  null,
+                                                    "relevance":  "The future and the representation of the future is a subject relevant to any new generation to become.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

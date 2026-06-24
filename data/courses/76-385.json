@@ -1,0 +1,37 @@
+{
+        "code":  "76-385",
+        "name":  "Introduction to Discourse Analysis",
+        "short_name":  "INTRO DISCOURSE ANLY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Discourse is language people talking or signing or writing. Discourse analysts ask and answer a variety of questions about how and why people do the things they do with language. We study the structure of written texts  the semiconscious rules people use to organize paragraphs, for example  as well as the unconscious rules that organize oral discourse such as spontaneous stories and arguments. We study how people signal their intended audienceinterpretations of what they say as foreground or background information, a casual remark or solemn promise, more of the same or change of topic. We look at how grammar is influenced by what people need to do with language, and how discourse affects grammar over time. We ask how children and other language learners learn how to make things happen with talk and writing. We ask how people learn what language is for, from exchanging information to writing poetry to perpetuating systems of belief. We analyze the choices speakers and writers make that show how they see themselves and how they relate to others. Choices about how to address other people, for example, both create and reflect relationships of power and solidarity. We study how people define social processes like disease, aging, and disability as they talk about them, and how language is used to mirror and establish social relations in institutional settings like law courts and schools as well as in families and among friends. This course touches on a selection of these topics and gives students practice in analyzing the complex nuances of language. The course is meant for anyone whose future work is likely to involve critical andor productive work with language writers and other communication designers, critics who work with written or spoken texts, historians, actors, sociologists, and so on.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students shouldunderstand and be able to communicate about some of the constraints on writers and speakers as they make choices about what to say and how to say it.understand and be able to communicate about some of the resources writers and speakers draw on as they make choices about what to say and how to say it.be able to analyze short stretches of text or transcription in at least five different ways, all of which involve paying very close attention to the details of wording, phrasing, and sentence structure.be able to read research articles involving discourse analysis with a critical eye, summarizing them and sketching their strengths and weaknesses.students enrolled in 76385 be able to analyze one longer stretch of text or transcription in three different ways, all of which involve paying very close attention to the details of wording, phrasing, and sentence structure.students enrolled in 76785 be able to bring the tools of discourse analysis to bear on a topic or text of your choosing, connecting course material with the requirements of your envisioned career.",
+                                                    "key_topics":  "This course covers the basic principles of discourse analysis, including how language reflects assumptions about the world \u0026 culture, creates and reproduces social roles and hierarchies, connects texts and discourses across time, and influences (while being influenced by) different forms of media.",
+                                                    "prerequisite_knowledge":  "Basic knowledge and classroom experience working with the principles of rhetoric and rhetorical analysis, argumentation, and/or sociolinguistics will be useful for students hoping to excel in this course.",
+                                                    "assessment_structure":  "In this course, students will be assessed based upon their performance of the following tasks:\n\n¿\tFive (5) 500-word critical summaries of scholarly research articles implementing the principles of Discourse Analysis.\n\n¿\tFive (5) micro-analysis assignments which require students to practice the methods of Discourse Analysis themselves.\n\n¿\tFor students enrolled in 76-385: the final project will require students to choose a text and analyze it using at least three (3) of the specific Discourse Analysis methods practiced throughout the semester, and write-up their analyses in a 10-12 page paper.\n\n¿\tFor students enrolled in 76-785: the final project will be a larger research project, to be designed in consultation with the instructor, which fits with the overall academic / research / career goals of the student (e.g. a 15-20 page seminar paper that could be workshopped for future publication).",
+                                                    "relevance":  "This course provides a survey of methods for performing multi-faceted discourse analysis, which is a relevant in a variety of different academic fields and career contexts which require thoughtful/strategic language-use and/or analysis of linguistic data.",
+                                                    "learning_resources":  "In this course, we will use Barbara Johnstone\u0027s Discourse Analysis (3rd ed.) textbook as our primary source text for learning the principles of Discourse Analysis. We will also draw on a number of other scholarly research articles implementing Discourse Analysis methods and principles. This course will use Canvas as its primary course home-page.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

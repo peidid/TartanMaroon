@@ -1,0 +1,37 @@
+{
+        "code":  "76-317",
+        "name":  "Contemporary American Fiction",
+        "short_name":  "CONTEMP AMRCN FIC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-108 [] at least D) and (76-107 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "No one seems to know quite how to define contemporary American fiction. Its clear that fiction has changed since the 1960s and 70s, the heyday of postmodernism, but its hard to pin down what characterizes the work that has come since. In this course, we will read a selection of American fiction from the 1980s to the present and try to get a sense of its main lines. In particular well look at the turn to genre, the expansion to multicultural authors, and the return to realism. Also, we will consider how it relates to American society. Authors might include authors like Alison Bechdel, Jennifer Egan, Emily St. John Mandel, Weike Wang, and Colson Whitehead.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Knowledge of literary fiction and general directions in contemporary American fiction, as well as ideas of the contemporary",
+                                                    "key_topics":  "The novel; American literature; contemporary fiction; theories of the contemporary.",
+                                                    "prerequisite_knowledge":  "Interest in and knowledge of fiction helps",
+                                                    "assessment_structure":  "Three short papers and one long paper, and other occasional writing",
+                                                    "relevance":  "It is about contemporary American culture and how writers or artists represent it and respond to it.",
+                                                    "learning_resources":  "Canvas pages with selected contextual readings and in-class PowerPoints about several authors, movements, and cultural contexts.",
+                                                    "extra_time_commitment":  "Intensive reading"
+                                            }
+}

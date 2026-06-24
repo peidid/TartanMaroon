@@ -1,0 +1,37 @@
+{
+        "code":  "98-329",
+        "name":  "Student Taught Courses (StuCo): Civilization V: Understanding Civilizations",
+        "short_name":  "STUCO: CIV V",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Civilization V is a turnbased strategy game where players lead a civilization and guide its growth across thousands of years. As simple as it sounds, this game can be a valuable tool of understanding the framework of todays world. The goal of this course is threefold. The first, basic goal is for students to be able to enjoy playing this game as entertainment. The second goal is to reveal some thematic concepts in anthropology, politics, and history. Example concepts that will be covered include political and geographical factors of institutional action, the nature of war, the politics of scale, the butterfly effect, and more. The third goal is to understand how the limitations of the game as an oversimplified model affects the way in which we view events in this course, and keeping in mind such limitations as we use the game as an investigative tool. The latest version of the complete edition of Civilization V on Steam, with all purchasable DLCs, is required for participation in the course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

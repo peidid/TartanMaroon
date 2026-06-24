@@ -1,0 +1,37 @@
+{
+        "code":  "73-352",
+        "name":  "Public Economics",
+        "short_name":  "PUBLIC ECONOMICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-269 [] at least D) or (21-268 [] at least D) or (21-254 [] at least D)) and (73-230 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, students analyze the role of governments in market economies and their impact on the behavior and welfare of citizens. Reasons for government intervention in markets are examined in light of some of the economic challenges faced by modern societies in an increasingly globalized marketplace. Topics include taxation and expenditure policies, externalities and market failure, social security, public assistance and income redistribution programs. There will also be some coverage of the role of local governments in the economy with respect to such issues as crime, urban development and education.  Lecture, 3 hours.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

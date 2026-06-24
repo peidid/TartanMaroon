@@ -1,0 +1,37 @@
+{
+        "code":  "88-372",
+        "name":  "Social and Emotional Brain",
+        "short_name":  "SOCIAL \u0026 EMOTNL BRN",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(85-102 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides an introductory survey of the methods and findings in social and affective neuroscience. Half the course is lecture style and covers the basics of neuroanatomy, neurochemistry, and neuroendocrine systems, as well as a survey of relevant neuroscience methods neuroimaging, neuropsychological, psychophysiological, transcranial magnetic stimulation, etc.. The other half of the course is more like a seminar, where each week we will discuss a couple seminal empirical papers from the scientific literature. Topics include interpersonal relationships, prosocial behavior, aggression, prejudice, emotion regulation, stress, etc.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

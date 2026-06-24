@@ -1,0 +1,37 @@
+{
+        "code":  "79-272",
+        "name":  "Coexistence and Conflict: Muslims, Christians and Jews in Spain and Portugal",
+        "short_name":  "COEXISTNCE \u0026 CONFLCT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In medieval Spain and Portugal, Islam, Judaism and Christianity coexisted in a situation distinguished by cooperation and exchange, as well as by friction, rivalry and violence. In this course, we shall explore the complexity of this unique historical encounter, as well as its role in shaping debates over modern Iberian and global identities, and historical memory. We shall discuss topics such as Interethnic collaboration and violence JewishChristian disputations the exclusion and expulsion of religious and ethnic minorities as well as Muslim and Jewish presence in present day Spain and Portugal. Historical documents, literary texts, film, musical traditions, as well as contemporary political and cultural debates will be discussed to enhance familiarity with the topic. This course meets the Dietrich Gen Ed Intercultural and Global Inquiry requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students will be able to ... Examine how Europes cultural and religious heritage transcends Christianity, and includes an integral Muslim and Jewish presence and heritage. Challenge the dominant worldview of Europe as having an exclusively Christian heritage, as well as the perceived absence of Islam and Judaism as factors that shaped the idea and history of Europe. Assess the existence of a rich IslamicJudeoArabo tradition for centuries, when most of world Jewry lived under the orbit of Islam and spoke Arabic. Evaluate the impact of the rich and multilayered interaction of Muslims, Christians and Jews and their respective faiths to better understand contemporary issues, such as Islamophobia and antisemitism.",
+                                                    "key_topics":  "The course will cover the history of the encounter of Muslims, Christians and Jews in medieval Spain and Portugal, as well as the contemporary implications of this historical encounter for our understanding of inter-ethnic and inter-religious relations and cultural debates in Europe today.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "Class participation, Canvas discussion post, Preparing questions for Guest Speakers, Primary Document Analysis, and Final Paper.",
+                                                    "relevance":  "Dietrich Gen Ed: Foundations - Intercultural and Global Inquiry\n\nUniversity students will understand the history of the coexistence of Muslims, Jews and Christians in the Iberian Peninsula.",
+                                                    "learning_resources":  "Students will be required to read primary and secondary sources, scholarly articles, media articles and view films. Most resources are posted on Canvas, but students will purchase one primary source reader.",
+                                                    "extra_time_commitment":  "No. Non-obligatory extra credit events will be offered to students."
+                                            }
+}

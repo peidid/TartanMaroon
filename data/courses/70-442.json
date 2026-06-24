@@ -1,0 +1,37 @@
+{
+        "code":  "70-442",
+        "name":  "Principles of Game Theory for Business",
+        "short_name":  "PRNCPL GAME THRY BUS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((36-207 [] at least D) or (70-207 [] at least D)) and ((73-230 [] at least D) or (80-305 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Game theory is the formal study of strategic interaction and aims to help us understand situations where rational decision makers interact.  This course will focus on the theory of noncooperative games with an emphasis on economic and business applications.  In particular, we will use equilibrium analysis to study topics including competition, credible threats, commitment problems, and the strategic use of information via signaling and screening.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

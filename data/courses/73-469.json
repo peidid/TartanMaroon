@@ -1,0 +1,37 @@
+{
+        "code":  "73-469",
+        "name":  "Global Electronic Markets: Economics and the Internet",
+        "short_name":  "GLBL ELECTRONIC MKTS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-259 [] at least D) or (21-269 [] at least D) or (21-268 [] at least D)) and ((73-160 [] at least C) or (73-230 [] at least C))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "The information revolution brought about by the Internet is having a dramatic impact on the organization of economic activity. Longterm contractual relationships that once governed corporate procurement are being dismantled as manufacturers use the Internet to market directly to the public. New transportation networks that used to simply move goods from point A to point B are evolving into dynamic inventory pipelines that allow manufacturers to track and even reroute shipments in real time. At the same time, individuals are making use of sophisticated search engines to comparison shop at a scale that would have been physically exhausting even five years ago. We will use the basic tools of economic analysis to understand how and why the changes in information technology are reshaping the economic landscape.  Lecture, 3 hours. Minimum grade standard of C applies only to economics courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

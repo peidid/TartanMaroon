@@ -1,0 +1,37 @@
+{
+        "code":  "73-407",
+        "name":  "Fundamentals of Statistical Modeling",
+        "short_name":  "FNDML STATCL MODELNG",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "((21-256 [] at least D) or (21-268 [] at least D) or (21-269 [] at least D) or (21-259 [] at least D)) and ((70-208 [] at least D) or (36-208 [] at least D) or (36-202 [] at least D) or (36-309 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course provides a onesemester introduction to the theory of probability and mathematical statistics. The course will emphasize probability models and distribution theory the practice of statistical inference based on the use of maximum likelihood estimation and applications of statistical modeling and inference, using case studies drawn from the social, physical and biomedical sciences. The use of a computer software package will be an integral part of this course. Lecture, 3 hours. Minimum grade of C required in all economics prerequisite courses.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  "http://tepper.cmu.edu/prospective-students/course-page/73407/fundamentals-of-statistical-modeling",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

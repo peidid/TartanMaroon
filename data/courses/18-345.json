@@ -1,0 +1,37 @@
+{
+        "code":  "18-345",
+        "name":  "Introduction to Telecommunication Networks",
+        "short_name":  "INTR TELECOM NETWRKS",
+        "units":  12.0,
+        "min_units":  12.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  "((36-212 [] at least D) or (36-217 [] at least D) or (36-226 [] at least D)) and (18-213 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course introduces the fundamental concepts of telecommunication networks. Underlying engineering principles of telephone networks, computer networks and integrated digital networks are discussed. Topics in the course include telephone and data networks overview OSI layers data link protocol flow control, congestion control, routing local area networks transport layer introduction to highspeed networks performance evaluation techniques. The course also reviews important aspects of network security and widely used classes of Internet application and services, such as peertopeer, content delivery networks, and video streaming.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

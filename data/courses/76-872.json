@@ -1,0 +1,37 @@
+{
+        "code":  "76-872",
+        "name":  "Topics in Journalism: Storytelling in a Digital Age",
+        "short_name":  "TPCS IN OURNALISM",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Advanced Journalism students will learn how to plan and execute longform news feature stories from the ground up, starting with recognizing a promising idea, organizing a solid proposal then ultimately producing a publicationready report that is both accurate and compelling.  We will focus on four types of feature stories over the course of the semester a trend story, a profile, an explanatory report and a datadriven investigative story.  Each will require strong news judgment and solid writing skills, plus the ability to adapt as some story leads unexpectedly come to a dead end while promising other angles rise to the surface. Dont be surprised if the final product is notably different than the original idea thats often the path of the most successful reports.  While each student is responsible for his or her work, class sessions will be highly collaborative as ideas and strategies are critiqued with an eye toward helping all students achieve their best work.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

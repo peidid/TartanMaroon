@@ -1,0 +1,37 @@
+{
+        "code":  "76-786",
+        "name":  "Language and Culture",
+        "short_name":  "LANGUAGE \u0026 CULTURE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  12.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is an introduction into the scholarship surrounding the nature of language and the question of how language shapes and is shaped by social, cultural and political contexts. We will begin by studying important literature in linguistics and language theory, both to introduce us to how scholars think about language and to give us a shared vocabulary to use for the rest of the semester. We will then move into case studies and theoretical works exploring the intersections of language use, individual and group identities, and the exercise of power, in its many forms. In particular, we will focus on the relationship between language and culture by asking, in what ways does language influence and constitute social change How is social change reflected by changes in the way we use language Over the course of the semester, you will work on applying the knowledge and theoretical tools you gain to your own analysis of a linguistic artifact that you choose.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.cmu.edu/hss/english/courses/courses.html",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

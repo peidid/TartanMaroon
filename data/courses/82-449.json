@@ -1,0 +1,37 @@
+{
+        "code":  "82-449",
+        "name":  "Arabic Sociolinguistics",
+        "short_name":  "ARABIC SOCIOLNGTS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course focuses on the main concepts in sociolinguistics such as diglossia, dialects, variation, gender, etc. These concepts then are applied to the Arabic language in particular.  We will read selected chapters from the assigned book that deal with these concepts in general, and then we will read other assigned articles that apply these concepts to the Arabic language. This course explains the historical and existing linguistic repertoire in the Arab countries.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

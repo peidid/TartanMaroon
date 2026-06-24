@@ -1,0 +1,37 @@
+{
+        "code":  "76-708",
+        "name":  "Literary Journal Publishing",
+        "short_name":  "LIT JOURNAL PUB",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  11.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "In this course, students will learn about the landscape of and publication process for literary journals in the United States. We will read a variety of literary journals in print and online, will host guest speakers, and will do a variety of handson activities related to editing and publishing. Students will gain experience by working on The Oakland Review, an international literary journal run out of CMU, in capacities as varied as editorial, design and production, or promotion. If you are interested in registering for this course, please go to the Course URL and fill out the questionnaire. Thank you.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "https://form.jotform.com/CMUEnglish/literary-journal-publishing-course",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

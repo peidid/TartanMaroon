@@ -1,0 +1,37 @@
+{
+        "code":  "76-384",
+        "name":  "Race, Nation, and the Enemy",
+        "short_name":  "RACE NATION \u0026 ENEMY",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Conflicts over racial and national identity have long shaped American public discourse, from debates about immigration, naturalization, and birthright citizenship to struggles over racial disparities in civil rights. This course examines the discursive practices through which racial and national identities are often negatively constructed, with a focus on how public discourse frames enemies, national threats, and sacrifices made in the name of the nation to shape and mobilize political constituencies. By analyzing key moments in the history of American public discourseincluding discourse regarding wars, immigration policy, racial segregation, civil rights movements, and the criminal prosecution of dissidents during criseswell explore how racial and national identity discourse has been pervasively shaped by demagoguery, or blaming societal problems on outside groups. Through primary sources and theoretical readings, students will engage with multiple disciplinary perspectives on identity formation. Assignments include regular responses to readings, a rhetorical analysis paper, and a longer research paper, offering students the tools to critically evaluate and contribute to discussions on race, nationality, and conflict in public discourse.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Identify and analyze commonly occurring discursive practices used to construct racial and national identities at their intersection Produce and support a rhetorical analysis of one or more primary sources regarding the relationship between racial and national identity formation in a particular social, historical, and intellectual context, or potentially a comparison of two contexts Develop skills of critical analysis, research, and writing of academic research",
+                                                    "key_topics":  "Rhetorical functions of enemy construction; demagoguery; racial and national identity; immigration and citizenship; racial segregation; civil rights; wartime rhetoric and war memorials.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Perusall annotations to readings and replies to annotations; two oral reading response presentations in class; a term paper combining rhetorical analysis and engagement with theoretical perspectives regarding the role of negative identification in the rhetorical construction of one or more racial or national identity categories in a particular social, cultural, and political context, preceded by an abstract and narrative bibliography outlining the paper; an oral presentation of the final paper; a short take-home examination after all of the assigned readings for the semester are completed; and attendance and participation.",
+                                                    "relevance":  null,
+                                                    "learning_resources":  "All readings are provided electronically on Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

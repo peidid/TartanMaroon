@@ -1,0 +1,37 @@
+{
+        "code":  "90-765",
+        "name":  "Cities, Technology and the Environment",
+        "short_name":  "CITIES TECH ENVIRNMT",
+        "units":  6.0,
+        "min_units":  6.0,
+        "max_units":  6.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This mini will explore the interaction of cities, technology and the natural environment over time. More specifically, it will consider several major issues confronting cities today 1 water supply, wastewater and storm water disposal and flooding 2 Energy and Environment 3 Transportation, suburbanization and land use and 4 Brownfield creation and development.  In a number of instances, the Pittsburgh region will be used to provide examples of these issues. These themes will be approached through a combination of class discussions, lectures, and visiting speakers. Class participation is expected, and will comprise a portion of the grade.  Students will be expected to prepare a problemoriented paper on one of the areas focused on in the course.",
+        "student_sets":  [
+                                                {
+                                                        "id":  895,
+                                                        "name":  "graduate"
+                                                }
+                                        ],
+        "website":  "http://www.heinz.cmu.edu/academic-resources/course-results/course-details/index.aspx?cid=73",
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

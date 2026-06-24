@@ -1,0 +1,37 @@
+{
+        "code":  "79-270",
+        "name":  "Anti-Semitism Then and Now: Perspectives from the Middle Ages to the Present",
+        "short_name":  "ANTISEMITSM THEN/NOW",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will examine the history of antiJewish hatred and violence from the Middle Ages through the present. The course will focus on representative case studies, texts, and films. These will include premodern incidents of fake news such as the medieval rumor of blood libel that unleashed massacres and mass expulsions of Jews from countless communities. In examining the rise of modern antiSemitism, we shall focus on debates over Jewish assimilation and citizenship and consider the popular impact of the print medias dissemination of conspiracy theories of Jewish world domination, including the infamous forgery, The Protocols of the Elders of Zion. We will also examine cases of mass antiJewish violence, known as pogroms, in Eastern Europe and Russia, and the genocidal onslaught against European Jewry by the National Socialist regime. Finally, we will discuss the contemporary global resurgence of antiSemitism. This course meets the Dietrich Gen Ed Perspectives on Justice and Injustice requirement.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will obtain an understanding of the history and manifestation of the hatred of Jews, or antisemitism over several centuries and through today.",
+                                                    "key_topics":  "The course will cover the history of anti-Jewish sentiment and antisemitism from the middle ages through the present.",
+                                                    "prerequisite_knowledge":  "No prior knowledge required.",
+                                                    "assessment_structure":  "There will be required weekly readings, students will submit weekly reading notes and write papers on course readings and films.",
+                                                    "relevance":  "Dietrich Gen Ed: Special Seminars - Perspectives on Justice and Injustice\n\nUniversity students will understand the history of one of the longest and persistent hatreds, the the hatred of Jews, or antisemitism.",
+                                                    "learning_resources":  "A variety of primary and secondary sources, including case studies, digital sources and websites, as well as film.",
+                                                    "extra_time_commitment":  "Some films connected to assignments might be viewed outside of class."
+                                            }
+}

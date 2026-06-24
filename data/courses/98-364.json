@@ -1,0 +1,37 @@
+{
+        "code":  "98-364",
+        "name":  "Student Taught Courses (StuCo): Puyo Puyo StuCo",
+        "short_name":  "STUCO: PUYO PUYO",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Puyo Puyo is a tilematching puzzle game like Tetris that has been popular in Japan for over 25 years for its lovable characters and exciting gameplay, only recently gaining popularity internationally with the releases of Puyo Puyo Tetris and Puyo Puyo Champions. In this course, students will learn how to create chains in Puyo Puyo and battle competitively.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

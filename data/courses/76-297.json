@@ -1,0 +1,37 @@
+{
+        "code":  "76-297",
+        "name":  "Topics in Russian Language \u0026 Culture",
+        "short_name":  "TPCS RUSS LANG CULT",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Topics vary by semester SPRING 2022The Russian hacker looms large in the global imagination. Hes the cyber outlaw sowing confusion and paranoia, the purveyor of fake news and conspiracy theories, the antihero who threatens the interests of powerful people and powerful states, or the state agent who threatens to upend democratic institutions. This course will examine the mythology and reality of the Russian hacker by considering this figure in the context of late Soviet and postSoviet Russian culture. We will attend to the influence of both geopolitical forces, such as the politics of the Cold War, and artistic movements like Postmodernism. The course follows a seminar format. Students will be required to critically analyze literature Dostoevsky, Bulgakov, Pelevin, Tolstaya, film Balabanov, Ginzburg, media sources, and scholarship. They will work on written exercises that prepare them to write a research paper to be presented at a research symposium at the end of the semester. No prior knowledge of Russian language or culture is required. The course is conducted in English, but students will have the option to do work in Russian for three extra course units.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

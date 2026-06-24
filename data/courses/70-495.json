@@ -1,0 +1,37 @@
+{
+        "code":  "70-495",
+        "name":  "Corporate Finance",
+        "short_name":  "CORPORATE FINANCE",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(70-391 [] at least D) or (21-370 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Students develop an advanced financial perspective on how firms make investment, financing, and management decisions.  The course starts with simple net present value rules and builds the theoretical framework to address more sophisticated issues and problems including risk management, mergers, acquisitions, executive compensation, corporate governance, and dividend payout policies. Theory is supplemented with numerous case study examples.This course may use thirdparty course material that is not available for individual purchase from the publisher.   If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided.   The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will achieve the following course goals Evaluate investment projects and capital budgeting decisions, analyze risk and return using different asset pricing models, determine a firms optimal mix of debt and equity, understand how cash is returned to a companys shareholders, and apply investment and financing decisions to security issuance and related topics.",
+                                                    "key_topics":  "The key subject topics covered by this course are: capital budgeting, cost of capital, capital structure, dividends, financing, and valuation. Additionally, these topics will be applied to initial public offerings, mergers and acquisitions, corporate governance, and executive compensation.",
+                                                    "prerequisite_knowledge":  "The prior knowledge that students must have include: time value of money, project selection rules, risk and return, and capital asset pricing model.",
+                                                    "assessment_structure":  "Students will be assessed by a midterm exam, a final exam, problem sets, group cases, and a group project.",
+                                                    "relevance":  "Students will learn how firms make investment, financing and management decisions. The course will include theory and applications, providing guidance in their careers.",
+                                                    "learning_resources":  "The resources for this course will be a textbook and case studies.",
+                                                    "extra_time_commitment":  "There are no extra time commitments outside of the scheduled course meeting times."
+                                            }
+}

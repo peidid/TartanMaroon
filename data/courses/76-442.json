@@ -1,0 +1,37 @@
+{
+        "code":  "76-442",
+        "name":  "Black Lives in Pre-1900 Britain",
+        "short_name":  "BLCK LIVES PRE 1900",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course engages with Black voices writing from, to, about, and against PreModern Britain, from abolitionists to actors to royalty. We explore topics including racial philosophy, the transatlantic slave trade, revolution, abolition, imperialism, and popular culture, from both contemporary and modern sources. Our texts and conversations trace how the lives and experiences of individuals like Ignatius Sancho, Sarah Baartman, Ira Aldridge, and Alemayehu Tewodros presage those of a modern global Black diaspora.In this course, we will Identify how race and antiblackness are crafted, and historically and contemporaneously affect both individuals and society, using theories like critical fabulation and evidence, including primary and secondary sources, to approach the historical experiences of a global Black diaspora, ethically and through multiple lenses. Students will compare and contrast methods of inquiry from multiple disciplines, including history, literary studies, performance studies, art history, and political science. We explore not only Black history and stories, but also how they might be told and the lessons about history and race that we might take away from our critical engagement with both.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "By the end of this course, students will be able to Examine the invention of race and its effects on selfperception and social representation, as well as how class, gender, disability, and sexuality work intersectionally, through the stories of a historical Black diaspora.Evaluate pivotal historical events and ideas from the perspective of both marginalized and majority groups and analyze how economic, philosophical, cultural, scientific, and artistic systems and institutions of privilege and power have influenced racial injustice and inequality globally and to this day.Evaluate how history is crafted, told, and taught, especially Black history, and how cultural artifacts like plays, novels, and poetry work alongside that history. Learn to interpret multiple forms of media, including literature, art, and drama using different critical methodologies for example, archival work, historical contextualization of media, multimodal analysis.Analyze and contextualize key pieces of primary and secondary literature, as well as their modern, transatlantic legacies.Practice thinking, speaking, and writing about race, gender, class in a critical and thoughtful manner and generate two pieces of critical writing with guidance and opportunities for revision.",
+                                                    "key_topics":  "British history, Black history, literature, non-fiction, poetry, novel, transatlantic, slavery, abolition, race, racial philosophy, art history, etc.",
+                                                    "prerequisite_knowledge":  "First Year Writing",
+                                                    "assessment_structure":  "Grades are based on engagement, weekly discussion question inspired by the reading and posted on Canvas, midterm paper, final paper or project, with related presentation.",
+                                                    "relevance":  "DC GenEd: Perspectives on Justice and Injustice",
+                                                    "learning_resources":  "All course resources are provided via Canvas.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

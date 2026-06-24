@@ -1,0 +1,37 @@
+{
+        "code":  "88-341",
+        "name":  "Team Dynamics and Leadership",
+        "short_name":  "TEAM DYNAM \u0026LEADRSHP",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(36-201 [] at least D) or (36-200 [] at least D) or (36-207 [] at least D) or (36-220 [] at least D) or (70-207 [] at least D) or (36-225 [] at least D) or (36-247 [] at least D) or (36-217 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Much of the work in groups and organizations consists of communication.  You communicate to get information that will be the basis of decisions, to provide a vision for the people who work for and with you, to coordinate activity, and to sell yourself and your work.  The goal of this course is to identify sources of communication problems within an organization and ways to overcome them.  To do this requires that we know how communication normally works, what parts are difficult, and how to fix it when it goes wrong.  The focus of this course is on providing you with a broad understanding of the way communication operates within dyads, work groups, and organizations.  This course is not a practicum in public speaking or writing, although you will get some experience writing, speaking and managing impressions.  Rather the intent is to give you theoretical and empirical underpinnings for the communication you will undoubtedly do when you return to work.  Readings come from both the research and the managerial literatures.  Among the topics considered are managerial communication, persuasion and conformity, self presentation and person perception, social networks.  Cases and group projects give you an opportunity to apply what youve learned.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Identify sources of communication problems within an organization and ways to overcome them.",
+                                                    "key_topics":  "The focus of this course is on providing you with a broad understanding of the way communication operates within dyads, work groups, and organizations.",
+                                                    "prerequisite_knowledge":  "Basic statistical knowledge",
+                                                    "assessment_structure":  "This course is not a practicum in public speaking or writing, although you will get some experience writing, speaking and managing impressions. Readings come from both the research and the managerial literatures. Among the topics considered are managerial communication, persuasion and conformity, self presentation and person perception, social networks. Cases and group projects give you an opportunity to apply what you\u0027ve learned.",
+                                                    "relevance":  "To give students the theoretical and empirical underpinnings for the communication.",
+                                                    "learning_resources":  "Readings come from both the research and the managerial literatures.",
+                                                    "extra_time_commitment":  null
+                                            }
+}

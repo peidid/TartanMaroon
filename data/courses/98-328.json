@@ -1,0 +1,37 @@
+{
+        "code":  "98-328",
+        "name":  "Student Taught Courses (StuCo): World Music: An Exploration",
+        "short_name":  "STUCO: WORLD MUSIC",
+        "units":  3.0,
+        "min_units":  3.0,
+        "max_units":  3.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course will take students on a journey of the music scenes of every country in the world. For each country, students will learn what its music scene is like today, and how other factors, like society, geography, politics, and location influence the music made there today. Students will also listen to at least one song from each country that is representative of the music from there. By the end of the course, students will have heard music from soca to rigsar to qpop to fado and everything in between.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

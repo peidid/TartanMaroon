@@ -1,0 +1,37 @@
+{
+        "code":  "85-406",
+        "name":  "Autism: Psychological and Neuroscience Perspectives",
+        "short_name":  "AUTISM: PSYCH PERSPC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(85-211 [] at least D) or (85-213 [] at least D) or (85-429 [] at least D) or (85-355 [] at least D) or (85-219 [] at least D)"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "Autism is a disorder that affects many cognitive and social processes, sparing some facets of thought while strongly impacting others. This seminar will examine the scientific research that has illuminated the nature of autism, focusing on its cognitive and biological aspects. For example, language, perception, and theory of mind are affected in autism. The readings will include a few short books and many primary journal articles. The readings will deal primarily with autism in people whose IQs are in the normal range high functioning autism. Seminar members will be expected to regularly enter to class discussions and make presentations based on the readings.     The seminar will examine various domains of thinking and various biological underpinnings of brain function, to converge on the most recent scientific consensus on the biological and psychological characterization of autism.  There will be a special focus on brain imaging studies of autism, including both structural MRI imaging of brain morphology and functional fMRI and PET imaging of brain activation during the performance of various tasks.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goals of the course are to understand the differences between neurotypical and autistic brain systems in terms of psychological processes and neural processes.",
+                                                    "key_topics":  "autism, cognition, research",
+                                                    "prerequisite_knowledge":  "Students should have some knowledge of human cognitive functioning and human brain functioning.",
+                                                    "assessment_structure":  "Students will be assessed on a midterm and final exam, on a class paper, and on class participation.",
+                                                    "relevance":  "This course describes a neural systems disorder which affects many people and which presents educational, vocational, and social challenges that students of psychology, with further education, may be able to address.",
+                                                    "learning_resources":  "The main resources will be scientific journal articles and class visits from experts on autism.",
+                                                    "extra_time_commitment":  "There are reading assignments and a paper assignment to be completed outside of the regularly scheduled course meeting times."
+                                            }
+}

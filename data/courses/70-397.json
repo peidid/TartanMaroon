@@ -1,0 +1,37 @@
+{
+        "code":  "70-397",
+        "name":  "Introduction to Entrepreneurial Finance",
+        "short_name":  "INTRO ENTREPN FINANC",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course covers the financing of highgrowth entrepreneurial firms with a focus on venture capital. We will discuss the issues entrepreneurial firms in highgrowth, innovative industries face when funding their investments and how venture capital and angel investing can mitigate them. Issues will include business plan evaluation, the economics of venture capital funds and the sources of value in entrepreneurial firms. Major topics include a detailed look at the financial market angels, venture capital and private equity, an analysis of assets and liabilities in an entrepreneurial firm, structuring the ownership of startups, and the multiple valuation methods available for investment assessment. Rather than preparing students to become venture capitalists or angel investors, the course provides material to help potential entrepreneurs navigate the financing environment.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

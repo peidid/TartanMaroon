@@ -1,0 +1,37 @@
+{
+        "code":  "79-285",
+        "name":  "Islam in the United States",
+        "short_name":  "ISLAM IN THE US",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This course is offered only at Carnegie Mellons campus in Qatar.  As is well known, America has become a land of great religious diversity, and Islam in particular. Appreciating this issue helps appreciate the dynamism of the US and the religion of Islam. To a degree, however, this is both an old and new phenomenon. The course will explore the many facets of Islamic history and life, the process of its growth as well as the challenges and issues that American Muslims of different colours and backgrounds face in a vibrant plural democratic  society.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

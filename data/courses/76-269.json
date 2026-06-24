@@ -1,0 +1,37 @@
+{
+        "code":  "76-269",
+        "name":  "Introduction to Screenwriting",
+        "short_name":  "INTRO SCREENWRITING",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "This is a course in screenplay narrative. The screenplay has a certain format observed by every screenwriter. It is not so difficult to learn the format. The difficulty is in developing a screen story populated by believable characters, creating an expressive and logical relationship between the scenes by manipulating screen space and screen time knowing what to omit from the story and what to emphasize, and finally writing dialogue that sounds real, but that does not simply copy everyday speech. The class will be structured into weekly writing exercises, discussion of the narratives under consideration, presentation and discussion of student work, and a final writing project.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "Students will emerge from this class with a strong sense of the specific formatting and aesthetic requirements of screenplay writing. They will also gain a basic understanding of threeact structure, story analysis, scenecraft, dialogue writing, character building, and visual storytelling. Through weekly writing assignments, they will apply the basic principles of screenwriting in their own work, culminating in a finished halfhour length script.",
+                                                    "key_topics":  "Screenplay format\nThree-act story structure\nVisual storytelling\nDialogue\nScenecraft\nMovie analysis\nTreatment writing",
+                                                    "prerequisite_knowledge":  "Students require no prior knowledge beyond what they have intuitively learned by watching movies. If you\u0027ve ever watched a movie, you know enough to start.",
+                                                    "assessment_structure":  "Students will be assessed through both participation and completion of various writing assignments.",
+                                                    "relevance":  "Screenwriting is a unique way of building and telling stories -- but the skills are highly transferable. The basic tools of three-act structure, dialogue, visual storytelling, and scenecraft are valuable to storytellers working in any medium.",
+                                                    "learning_resources":  "Students will be working through assigned texts, reading assigned screenplays, and analyzing assigned movies (which will be available online and through the campus library)",
+                                                    "extra_time_commitment":  "Students will be required to read assigned texts, watch movies, and write scenes outside of class time. They will also be reading and giving feedback on each other\u0027s work outside of class time."
+                                            }
+}

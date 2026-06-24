@@ -1,0 +1,37 @@
+{
+        "code":  "70-334",
+        "name":  "Ethics of Emerging Technologies",
+        "short_name":  "ETHICS OF EMERGING T",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  "(76-101 [] at least D) or (76-102 [] at least D) or (70-332 [] at least D) or ((76-106 [] at least D) and (76-107 [] at least D)) or ((76-106 [] at least D) and (76-108 [] at least D)) or ((76-107 [] at least D) and (76-108 [] at least D))"
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+
+                            ],
+        "long_desc":  "New technologies transform the ways that companies deliver value to consumers, but they also raise important ethical challenges. We will examine these challenges with the goal of developing strong normative arguments for corporate policies. Topics covered include online data collection, media, and marketing metaverse and virtual reality platforms autonomous objects genetic screening and engineering neural screening and engineering narrow and general artificial intelligence. This course may use thirdparty course material that is not available for individual purchase from the publisher. If so, the thirdparty course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the thirdparty course material provided. The amount of the course materials fee is dependent on the Universitys cost of the particular materials provided, and typically ranges from 13 to 75.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  "The goal of the course is to gain an understanding of the ethical challenges raised by new technologies in business, and to develop skills for criticizing and defending corporate policy about the use of these technologies.",
+                                                    "key_topics":  "Online data collection, media, and marketing; metaverse and virtual reality platforms; autonomous objects; genetic screening and engineering; neural screening and engineering; narrow and general artificial intelligence.",
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  "Papers; weekly responses; quizzes",
+                                                    "relevance":  "This course provides a more specialized application of business ethics to the challenges of new technologies, and will draw on guest lectures from experts in these respective areas from across the university.",
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}

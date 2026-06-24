@@ -1,0 +1,42 @@
+{
+        "code":  "73-100",
+        "name":  "Principles of Economics",
+        "short_name":  "PRINC OF ECONOMICS",
+        "units":  9.0,
+        "min_units":  9.0,
+        "max_units":  9.0,
+        "prereqs":  {
+                                        "text":  ""
+                                },
+        "co_reqs":  [
+
+                                ],
+        "anti_reqs":  [
+
+                                    ],
+        "equiv":  [
+                                    {
+                                            "code":  "18-482",
+                                            "id":  10,
+                                            "name":  "Telecommunications Technology and Policy for the Internet Age",
+                                            "units":  12.0
+                                    }
+                            ],
+        "long_desc":  "Literally, an introduction to economic principles, the goal of this course is to give students an understanding as to what constitutes good economic thinking.  This thought process is grounded in the construction and use of economics models.  Drawing on issues in both microeconomics and macroeconomics, fundamental principles are shown to transcend  particular examples and allow the field to be seen as a coherent, unified whole.  Lecture, 2 hours Recitation, 1 hour.",
+        "student_sets":  [
+                                                {
+                                                        "id":  896,
+                                                        "name":  "undergraduate"
+                                                }
+                                        ],
+        "website":  null,
+        "custom_fields":  {
+                                                    "goals":  null,
+                                                    "key_topics":  null,
+                                                    "prerequisite_knowledge":  null,
+                                                    "assessment_structure":  null,
+                                                    "relevance":  null,
+                                                    "learning_resources":  null,
+                                                    "extra_time_commitment":  null
+                                            }
+}
