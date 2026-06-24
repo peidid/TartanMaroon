@@ -15,7 +15,7 @@ from pydantic_ai import Agent, RunContext
 from .config import settings
 from .models import StudentState
 from .repository.base import Repository
-from .retrieval.index import search_prose
+from .retrieval import library
 from .tools import advising
 
 
@@ -39,12 +39,23 @@ Rules:
 - Plan multi-step questions: call several tools, then synthesize one clear answer.
 - Cite course codes (e.g. 15-122) and be concise. If a tool returns an error or
   no data, say so plainly rather than guessing.
-- For "what's left for my degree / can I add this minor" questions, use
-  `degree_progress` (it uses the student's known completed courses). Pass along
+- For "what's left for my degree / can I add this minor" questions about a
+  student's GRADUATION progress in a program, use `degree_progress`. Pass along
   its `unmet_requirements` and surface the `double_counting_rules` and `caveat`
   honestly — progress is an estimate, not a registrar audit.
-- For policy / advising-document questions ("grade appeals", "overload
-  approval", "academic integrity"), use `search_handbook`.
+- IMPORTANT — distinguish two different questions:
+  • "What do I need to TRANSFER INTO / CHANGE MY MAJOR TO X?" = an ADMISSION
+    POLICY question. Answer it from the "Policy on Changing Majors" document via
+    `find_documents` + `read_document`. Do NOT answer it with `degree_progress`
+    (that returns graduation requirements, which is a different thing).
+  • "What's left to GRADUATE in X?" = `degree_progress`.
+- For policy / advising / handbook questions (changing majors, grade appeals,
+  overload approval, academic integrity, financial aid, etc.), use the document
+  tools: `find_documents` to locate the right document, then `read_document` to
+  read it IN FULL and quote the exact text. Use `list_documents` to browse the
+  catalog if a search is unclear. The full handbook is available to you — NEVER
+  ask the student to paste or point you to a policy/document; find and read it
+  yourself. If one search misses, try different wording before giving up.
 - A STUDENT PROFILE is given to you below (major, year, completed courses,
   interests, etc.). Use it to personalize answers — when a student asks "what
   should I take?" or "what's left for my degree?", reason from their profile and
@@ -134,8 +145,23 @@ def build_agent() -> Agent[Deps, str]:
         )
 
     @agent.tool
-    def search_handbook(ctx: RunContext[Deps], query: str, k: int = 5) -> list[dict]:
-        """Search policy / student-life / advising prose (grades, appeals, overload, etc.)."""
-        return search_prose(query, k)
+    def find_documents(ctx: RunContext[Deps], query: str, k: int = 5) -> list[dict]:
+        """Find handbook/policy/advising documents by keyword. Returns ranked
+        matches with a context snippet and the document's section outline. Follow
+        up with `read_document(source)` to read the full text."""
+        return library.find_documents(query, k)
+
+    @agent.tool
+    def read_document(ctx: RunContext[Deps], source: str, offset: int = 0) -> dict:
+        """Read a full handbook/policy/advising document by its `source` path
+        (from find_documents/list_documents). Returns the complete cleaned text;
+        if `truncated`, call again with the returned `next_offset`."""
+        return library.read_document(source, offset)
+
+    @agent.tool
+    def list_documents(ctx: RunContext[Deps], category: str = "") -> list[dict]:
+        """Browse the handbook/policy/advising catalog (title + summary per doc).
+        Optionally filter by category, e.g. 'policies', 'programs', 'student_life'."""
+        return library.list_documents(category)
 
     return agent

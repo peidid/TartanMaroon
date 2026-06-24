@@ -106,14 +106,14 @@ async def lifespan(app: FastAPI):
     logger.info("Starting server…")
     await MongoDB.connect()
     get_engine()
-    # Warm the prose embedding index in the background (don't block healthcheck).
+    # Warm the document library in the background (don't block healthcheck).
     async def _warm():
         try:
-            from advisor.retrieval.index import ProseIndex
-            await asyncio.to_thread(ProseIndex.get, settings.data_dir)
-            logger.info("Prose index warm.")
+            from advisor.retrieval.library import get_library
+            lib = await asyncio.to_thread(get_library, settings.data_dir)
+            logger.info("Document library ready: %d documents.", len(lib.catalog()))
         except Exception as e:
-            logger.warning("Prose index warmup failed (lazy on first use): %s", e)
+            logger.warning("Library warmup failed (lazy on first use): %s", e)
     asyncio.create_task(_warm())
     yield
     await MongoDB.disconnect()

@@ -3,7 +3,7 @@
 Usage:
     uv run advisor                  # interactive REPL (streams the working trace)
     uv run advisor chat "question"  # one-shot
-    uv run advisor index [--rebuild]# build the prose retrieval index
+    uv run advisor docs ["query"]   # inspect / test the document library
     uv run advisor serve            # SSE server for a web/Vercel UI
 """
 
@@ -99,12 +99,18 @@ def chat(question: str = typer.Argument(..., help="Ask one question and exit."))
 
 
 @app.command()
-def index(rebuild: bool = typer.Option(False, help="Rebuild even if cached.")):
-    """Build (or rebuild) the prose retrieval index."""
-    from .retrieval.index import ProseIndex
-    console.print("[dim]Embedding prose corpus…[/]")
-    idx = ProseIndex.get(settings.data_dir, rebuild=rebuild)
-    console.print(f"[green]Index ready:[/] {len(idx.chunks)} chunks.")
+def docs(query: str = typer.Argument("", help="Optional: test a find query.")):
+    """Inspect the handbook/policy/advising document library (no embeddings)."""
+    from .retrieval.library import get_library
+    lib = get_library(settings.data_dir)
+    cat = lib.catalog()
+    console.print(f"[green]Library ready:[/] {len(cat)} documents.")
+    if query:
+        for r in lib.find(query, k=5):
+            console.print(f"  [{r['score']}] [cyan]{r['source']}[/]")
+    else:
+        for c in cat[:40]:
+            console.print(f"  [dim]{c['category']}[/]  {c['title']}")
 
 
 @app.command()

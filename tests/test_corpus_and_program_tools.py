@@ -1,4 +1,4 @@
-"""No-API tests for the prose corpus builder and program/requirement tools."""
+"""No-API tests for the document library and program/requirement tools."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import pathlib
 import pytest
 
 from advisor.repository.json_repo import JsonRepository
-from advisor.retrieval.corpus import build_corpus
+from advisor.retrieval.library import DocumentLibrary
 from advisor.tools import advising
 
 DATA = pathlib.Path(__file__).resolve().parents[1] / "data"
@@ -18,15 +18,45 @@ def repo():
     return JsonRepository(DATA)
 
 
-# ---- corpus ----
+@pytest.fixture(scope="module")
+def lib():
+    return DocumentLibrary.build(DATA)
 
-def test_corpus_builds_and_is_bounded():
-    chunks = build_corpus(DATA)
-    assert len(chunks) > 800
-    sources = {c.source.split("/")[0] for c in chunks}
-    assert {"policies", "programs"} <= sources
-    # markdown chunks are hard-wrapped; nothing absurdly large
-    assert max(len(c.text) for c in chunks) <= 4000
+
+# ---- document library ----
+
+def test_library_builds_with_catalog(lib):
+    cat = lib.catalog()
+    assert len(cat) > 50
+    cats = {c["category"].split("/")[0] for c in cat}
+    assert {"policies", "programs"} <= cats
+    # every doc has locating metadata
+    assert all(c["title"] and c["source"] for c in cat)
+    # the redundant prereq dump is excluded
+    assert not any("course_prerequisites" in c["source"] for c in cat)
+
+
+def test_find_locates_changing_majors_doc(lib):
+    hits = lib.find("how do I transfer into computer science", k=5)
+    assert hits, "expected at least one match"
+    assert "Policy_on_Changing_Majors" in hits[0]["source"]
+
+
+def test_read_returns_full_cs_transfer_requirements(lib):
+    """Regression: the CS row used to be sliced off at 'To be automatically acc…'."""
+    doc = lib.read("programs/Policy_on_Changing_Majors_–_Scotty.md")
+    text = doc["text"]
+    assert not doc.get("truncated"), "small policy doc must not be truncated"
+    # the actual transfer checklist must be present and readable
+    assert "Computer Science" in text
+    for code in ("21-127", "15-112", "21-120"):
+        assert code in text
+    assert "3.6" in text  # required QPA in the course set
+
+
+def test_read_unknown_document(lib):
+    res = lib.read("does/not/exist.md")
+    assert "error" in res
 
 
 # ---- program / requirement tools ----

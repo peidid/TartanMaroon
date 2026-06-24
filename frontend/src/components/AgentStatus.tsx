@@ -44,6 +44,9 @@ const TOOL_META: Record<string, { label: string; Icon: typeof Wrench }> = {
   list_programs: { label: 'Listing programs', Icon: GraduationCap },
   program_requirements: { label: 'Reading requirements', Icon: GraduationCap },
   degree_progress: { label: 'Computing degree progress', Icon: GraduationCap },
+  find_documents: { label: 'Finding policy & advising docs', Icon: Search },
+  read_document: { label: 'Reading a document', Icon: BookOpen },
+  list_documents: { label: 'Browsing the handbook', Icon: ShieldCheck },
   search_handbook: { label: 'Searching policy & advising docs', Icon: ShieldCheck },
 };
 
