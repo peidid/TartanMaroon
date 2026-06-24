@@ -29,6 +29,7 @@ AdvisingBot copy/
 
 # Frontend (Next.js)
 frontend/node_modules/
+*.tsbuildinfo
 frontend/.next/
 frontend/out/
 frontend/.vercel/

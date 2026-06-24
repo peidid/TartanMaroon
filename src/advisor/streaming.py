@@ -40,10 +40,17 @@ def _args_to_dict(part) -> dict:
         return {}
 
 
+# How much of each tool result to surface in the trace. Generous so the UI can
+# show the real working data (the full result still goes to the model regardless).
+_MAX_RESULT_CHARS = 4000
+
+
 def _summarize_result(result) -> str:
     content = getattr(result, "content", result)
-    s = content if isinstance(content, str) else json.dumps(content, default=str)
-    return s[:240] + ("…" if len(s) > 240 else "")
+    s = content if isinstance(content, str) else json.dumps(content, indent=2, default=str)
+    if len(s) > _MAX_RESULT_CHARS:
+        return s[:_MAX_RESULT_CHARS] + f"\n… (+{len(s) - _MAX_RESULT_CHARS} more chars)"
+    return s
 
 
 class AgentStreamer:

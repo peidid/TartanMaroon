@@ -25,7 +25,7 @@ interface WorkflowDetailsProps {
 }
 
 export default function WorkflowDetails({ agentsUsed = [], streamEvents = [] }: WorkflowDetailsProps) {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
 
   const calls: { tool: string; args?: Record<string, unknown>; result?: string }[] = [];
   for (const ev of streamEvents) {
@@ -73,7 +73,7 @@ export default function WorkflowDetails({ agentsUsed = [], streamEvents = [] }: 
                   )}
                 </div>
                 {c.result && (
-                  <pre className="mt-1 ml-5 text-[11px] text-gray-500 whitespace-pre-wrap break-words max-h-32 overflow-y-auto font-mono">
+                  <pre className="mt-1 ml-5 text-[11px] text-gray-500 whitespace-pre-wrap break-words max-h-64 overflow-y-auto font-mono">
                     {c.result}
                   </pre>
                 )}

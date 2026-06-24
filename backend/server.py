@@ -25,6 +25,7 @@ from advisor.agent import Deps, build_agent
 from advisor.config import settings
 from advisor.repository.json_repo import JsonRepository
 from advisor.streaming import AgentStreamer
+from advisor.triage import triage_message
 
 from .auth import create_token, get_current_user, hash_password, verify_password
 from .database import (
@@ -142,6 +143,12 @@ def _sse(obj: dict) -> str:
     return f"data: {json.dumps(obj)}\n\n"
 
 
+def _chunk_text(text: str, size: int = 24):
+    """Yield small slices so a canned reply still streams in token-by-token."""
+    for i in range(0, len(text), size):
+        yield text[i:i + size]
+
+
 # ---- auth ----
 
 @app.post("/api/auth/register")
@@ -232,9 +239,26 @@ async def chat_stream(data: ChatMessage, user: dict = Depends(get_current_user))
     repo, agent = get_engine()
     conversation_id = await _resolve_conversation(data, user)
     await add_message(conversation_id, "user", data.message)
-    student = profile_to_student(user.get("profile", {}))
+    student = profile_to_student(user.get("profile", {}), user.get("name"))
 
     async def generate():
+        # Fast path: greetings / "what can you do?" skip the full tool agent.
+        triaged = await triage_message(data.message)
+        if triaged.category in ("greeting", "general") and triaged.reply:
+            reply = triaged.reply
+            yield _sse({"type": "thinking", "message": "Quick reply"})
+            for chunk in _chunk_text(reply):
+                yield _sse({"type": "token", "data": {"text": chunk}})
+            await add_message(conversation_id, "assistant", reply,
+                              metadata={"engine": "advisor_triage",
+                                        "category": triaged.category, "tools_used": []})
+            yield _sse({"type": "answer", "data": {
+                "content": reply, "conversation_id": conversation_id,
+                "agents_used": [], "agent_details": {}, "execution_stats": {},
+                "phase_timing": {}}})
+            yield _sse({"type": "done", "data": {}})
+            return
+
         streamer = AgentStreamer(agent, Deps(repo=repo, student=student))
         history = _histories.get(conversation_id)
         tools_used: list[str] = []
@@ -284,7 +308,14 @@ async def chat(data: ChatMessage, user: dict = Depends(get_current_user)):
     repo, agent = get_engine()
     conversation_id = await _resolve_conversation(data, user)
     await add_message(conversation_id, "user", data.message)
-    student = profile_to_student(user.get("profile", {}))
+    student = profile_to_student(user.get("profile", {}), user.get("name"))
+
+    triaged = await triage_message(data.message)
+    if triaged.category in ("greeting", "general") and triaged.reply:
+        await add_message(conversation_id, "assistant", triaged.reply,
+                          metadata={"engine": "advisor_triage", "category": triaged.category})
+        return {"conversation_id": conversation_id, "response": triaged.reply, "agents_used": []}
+
     result = await agent.run(data.message, deps=Deps(repo=repo, student=student),
                              message_history=_histories.get(conversation_id))
     _histories[conversation_id] = result.all_messages()

@@ -45,6 +45,12 @@ Rules:
   honestly — progress is an estimate, not a registrar audit.
 - For policy / advising-document questions ("grade appeals", "overload
   approval", "academic integrity"), use `search_handbook`.
+- A STUDENT PROFILE is given to you below (major, year, completed courses,
+  interests, etc.). Use it to personalize answers — when a student asks "what
+  should I take?" or "what's left for my degree?", reason from their profile and
+  the tools. Their completed courses are already wired into the eligibility and
+  degree-progress tools. Call `my_profile` if you need the raw profile values
+  (e.g. to quote their GPA or interests).
 """
 
 
@@ -54,6 +60,18 @@ def build_agent() -> Agent[Deps, str]:
         deps_type=Deps,
         system_prompt=SYSTEM_PROMPT,
     )
+
+    @agent.system_prompt
+    def student_profile_prompt(ctx: RunContext[Deps]) -> str:
+        """Inject the current student's profile so the orchestrator always knows
+        who it is advising (appended to the static system prompt each run)."""
+        return ctx.deps.student.profile_summary()
+
+    @agent.tool
+    def my_profile(ctx: RunContext[Deps]) -> dict:
+        """Return the current student's stored profile (major, year, completed
+        courses with grades, interests, goals, GPA)."""
+        return ctx.deps.student.to_dict()
 
     @agent.tool
     def find_courses(ctx: RunContext[Deps], query: str, limit: int = 10) -> list[dict]:

@@ -65,13 +65,22 @@ class Offering(BaseModel):
 
 
 class StudentState(BaseModel):
-    """What we know about a student, for prereq/eligibility reasoning."""
+    """What we know about a student, for prereq/eligibility reasoning and
+    for personalizing the advisor's answers."""
 
-    program: Optional[str] = None
+    name: Optional[str] = None
+    program: Optional[str] = None          # primary major (free text; fuzzy-matched)
+    year: Optional[str] = None             # e.g. "Sophomore"
+    gpa: Optional[float] = None
+    minors: list[str] = Field(default_factory=list)
+    concentration: Optional[str] = None
+    expected_graduation: Optional[str] = None
+
     # completed course code -> grade (e.g. "A", "B+", "T" for transfer/AP)
     completed: dict[str, Optional[str]] = Field(default_factory=dict)
     in_progress: list[str] = Field(default_factory=list)
     interests: list[str] = Field(default_factory=list)
+    career_goals: list[str] = Field(default_factory=list)
     notes: Optional[str] = None
 
     def completed_with_inprogress(self) -> dict[str, Optional[str]]:
@@ -81,3 +90,70 @@ class StudentState(BaseModel):
         for c in self.in_progress:
             merged.setdefault(c, "IP")
         return merged
+
+    def has_profile(self) -> bool:
+        """True if the student has entered anything worth personalizing on."""
+        return bool(
+            self.name or self.program or self.year or self.completed
+            or self.in_progress or self.interests or self.career_goals
+            or self.minors or self.concentration
+        )
+
+    def to_dict(self) -> dict:
+        """Plain, JSON-serializable view of the profile (for the my_profile tool)."""
+        return {
+            "name": self.name,
+            "program": self.program,
+            "year": self.year,
+            "gpa": self.gpa,
+            "minors": self.minors,
+            "concentration": self.concentration,
+            "expected_graduation": self.expected_graduation,
+            "completed_courses": self.completed,
+            "in_progress": self.in_progress,
+            "interests": self.interests,
+            "career_goals": self.career_goals,
+        }
+
+    def profile_summary(self) -> str:
+        """A compact, human-readable profile block to inject into the system
+        prompt so the orchestrator always knows who it is advising."""
+        if not self.has_profile():
+            return (
+                "STUDENT PROFILE: none on file yet. Don't assume a major, year, or "
+                "completed courses — ask the student for the details you need, and "
+                "suggest they fill in their profile for personalized advice."
+            )
+        lines: list[str] = ["STUDENT PROFILE (the student you are advising):"]
+        if self.name:
+            lines.append(f"- Name: {self.name}")
+        if self.program:
+            lines.append(f"- Major: {self.program}")
+        if self.year:
+            lines.append(f"- Year: {self.year}")
+        if self.expected_graduation:
+            lines.append(f"- Expected graduation: {self.expected_graduation}")
+        if self.minors:
+            lines.append(f"- Minor(s): {', '.join(self.minors)}")
+        if self.concentration:
+            lines.append(f"- Concentration: {self.concentration}")
+        if self.gpa is not None:
+            lines.append(f"- GPA: {self.gpa}")
+        if self.interests:
+            lines.append(f"- Interests: {', '.join(self.interests)}")
+        if self.career_goals:
+            lines.append(f"- Career goals: {', '.join(self.career_goals)}")
+        if self.completed:
+            done = ", ".join(
+                f"{code} ({grade})" if grade else code
+                for code, grade in sorted(self.completed.items())
+            )
+            lines.append(f"- Completed courses: {done}")
+        if self.in_progress:
+            lines.append(f"- In progress: {', '.join(self.in_progress)}")
+        lines.append(
+            "Use this profile to personalize advice. The eligibility and "
+            "degree-progress tools already apply these completed courses "
+            "automatically — you don't need to ask the student to re-list them."
+        )
+        return "\n".join(lines)

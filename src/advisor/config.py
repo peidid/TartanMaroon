@@ -16,10 +16,14 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", extra="ignore", case_sensitive=False)
 
     openai_api_key: str = ""
-    advisor_chat_model: str = "gpt-4.1"
+    advisor_chat_model: str = "gpt-5.2"
     advisor_embed_model: str = "text-embedding-3-small"
     advisor_data_dir: str = "data"
     advisor_backend: str = "json"
+
+    # Fast model for the greeting / introduction short-circuit (triage).
+    advisor_triage_model: str = "gpt-4o-mini"
+    advisor_triage_enabled: bool = True
 
     @property
     def chat_model(self) -> str:
@@ -28,6 +32,10 @@ class Settings(BaseSettings):
     @property
     def embed_model(self) -> str:
         return self.advisor_embed_model
+
+    @property
+    def triage_model(self) -> str:
+        return self.advisor_triage_model
 
     @property
     def data_dir(self) -> str:

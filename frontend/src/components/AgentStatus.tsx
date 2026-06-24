@@ -13,7 +13,7 @@
 import { useState } from 'react';
 import {
   Brain, Loader2, CheckCircle, ChevronDown, ChevronRight, Wrench,
-  Search, BookOpen, GraduationCap, Network, ShieldCheck, CalendarDays,
+  Search, BookOpen, GraduationCap, Network, ShieldCheck, CalendarDays, User,
 } from 'lucide-react';
 
 interface StreamEvent {
@@ -32,6 +32,7 @@ interface AgentStatusProps {
 }
 
 const TOOL_META: Record<string, { label: string; Icon: typeof Wrench }> = {
+  my_profile: { label: 'Reading your profile', Icon: User },
   find_courses: { label: 'Searching the catalog', Icon: Search },
   course_details: { label: 'Reading course details', Icon: BookOpen },
   prerequisites: { label: 'Tracing prerequisites', Icon: Network },
@@ -102,11 +103,13 @@ export default function AgentStatus({ streamEvents = [], currentPhase = '' }: Ag
         {calls.map((call, i) => {
           const { label, Icon } = metaFor(call.tool);
           const done = call.result !== undefined;
-          const isOpen = expanded[i];
+          // Results are shown by default once a call returns (transparency first);
+          // the chevron lets the user collapse a noisy one.
+          const isOpen = done && (expanded[i] ?? true);
           return (
             <div key={i} className="rounded-lg border border-gray-200 bg-white/70 overflow-hidden">
               <button
-                onClick={() => done && setExpanded((p) => ({ ...p, [i]: !p[i] }))}
+                onClick={() => done && setExpanded((p) => ({ ...p, [i]: !(p[i] ?? true) }))}
                 className={`w-full px-3 py-2 flex items-center gap-2 text-left ${done ? 'hover:bg-gray-50 cursor-pointer' : 'cursor-default'}`}
                 disabled={!done}
               >
@@ -126,7 +129,7 @@ export default function AgentStatus({ streamEvents = [], currentPhase = '' }: Ag
               </button>
               {isOpen && done && (
                 <div className="px-3 pb-3 border-t border-gray-100 bg-white">
-                  <pre className="mt-2 text-xs text-gray-600 whitespace-pre-wrap break-words max-h-48 overflow-y-auto font-mono">
+                  <pre className="mt-2 text-xs text-gray-600 whitespace-pre-wrap break-words max-h-80 overflow-y-auto font-mono">
                     {call.result || '(no output)'}
                   </pre>
                 </div>
