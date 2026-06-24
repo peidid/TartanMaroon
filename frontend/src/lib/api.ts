@@ -43,6 +43,12 @@ export interface Conversation {
   messages?: Message[];
 }
 
+export interface ToolStep {
+  tool: string;
+  args?: Record<string, unknown>;
+  result?: string | null;
+}
+
 export interface Message {
   _id: string;
   conversation_id: string;
@@ -51,6 +57,7 @@ export interface Message {
   timestamp: string;
   metadata?: {
     agents_used?: string[];
+    tool_trace?: ToolStep[];
   };
 }
 

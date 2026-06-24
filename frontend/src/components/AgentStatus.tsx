@@ -106,30 +106,36 @@ export default function AgentStatus({ streamEvents = [], currentPhase = '' }: Ag
           // Results are shown by default once a call returns (transparency first);
           // the chevron lets the user collapse a noisy one.
           const isOpen = done && (expanded[i] ?? true);
+          const args = argSummary(call.args);
           return (
             <div key={i} className="rounded-lg border border-gray-200 bg-white/70 overflow-hidden">
               <button
                 onClick={() => done && setExpanded((p) => ({ ...p, [i]: !(p[i] ?? true) }))}
-                className={`w-full px-3 py-2 flex items-center gap-2 text-left ${done ? 'hover:bg-gray-50 cursor-pointer' : 'cursor-default'}`}
+                className={`w-full px-3 py-2 flex items-start gap-2 text-left ${done ? 'hover:bg-gray-50 cursor-pointer' : 'cursor-default'}`}
                 disabled={!done}
               >
-                {done ? (
-                  isOpen ? <ChevronDown className="w-4 h-4 text-gray-400" /> : <ChevronRight className="w-4 h-4 text-gray-400" />
-                ) : (
-                  <span className="w-4 h-4" />
-                )}
-                <Icon className="w-4 h-4 text-cmu-red shrink-0" />
-                <span className="text-sm text-gray-800 font-medium">{label}</span>
-                {call.args && argSummary(call.args) && (
-                  <code className="text-xs text-gray-500 truncate">{argSummary(call.args)}</code>
-                )}
-                <span className="ml-auto">
+                <span className="mt-0.5 w-5 h-5 shrink-0 rounded-full bg-cmu-red/10 text-cmu-red text-[11px] font-semibold flex items-center justify-center">
+                  {i + 1}
+                </span>
+                <Icon className="w-4 h-4 text-cmu-red shrink-0 mt-0.5" />
+                <span className="flex-1 min-w-0">
+                  <span className="text-sm text-gray-800 font-medium">{label}</span>
+                  <code className="ml-1.5 text-[11px] text-gray-400">{call.tool}</code>
+                  {args && (
+                    <span className="block text-xs text-gray-500 font-mono break-words mt-0.5">{args}</span>
+                  )}
+                </span>
+                <span className="shrink-0 mt-0.5">
                   {done ? <CheckCircle className="w-4 h-4 text-green-500" /> : <Loader2 className="w-4 h-4 text-gray-400 animate-spin" />}
                 </span>
+                {done && (isOpen
+                  ? <ChevronDown className="w-4 h-4 text-gray-400 shrink-0 mt-0.5" />
+                  : <ChevronRight className="w-4 h-4 text-gray-400 shrink-0 mt-0.5" />)}
               </button>
               {isOpen && done && (
                 <div className="px-3 pb-3 border-t border-gray-100 bg-white">
-                  <pre className="mt-2 text-xs text-gray-600 whitespace-pre-wrap break-words max-h-80 overflow-y-auto font-mono">
+                  <div className="mt-2 text-[11px] uppercase tracking-wide text-gray-400 font-medium">Result</div>
+                  <pre className="mt-1 text-xs text-gray-600 whitespace-pre-wrap break-words max-h-80 overflow-y-auto font-mono">
                     {call.result || '(no output)'}
                   </pre>
                 </div>

@@ -262,15 +262,21 @@ async def chat_stream(data: ChatMessage, user: dict = Depends(get_current_user))
         streamer = AgentStreamer(agent, Deps(repo=repo, student=student))
         history = _histories.get(conversation_id)
         tools_used: list[str] = []
+        tool_trace: list[dict] = []   # persisted so the trace survives reloads
         answer_text = ""
         had_error = False
         try:
             async for ev in streamer.stream(data.message, history):
                 if ev.type == "tool_call":
                     tools_used.append(ev.tool)
+                    tool_trace.append({"tool": ev.tool, "args": ev.args or {}, "result": None})
                     yield _sse({"type": "tool_call", "message": f"Calling {ev.tool}",
                                 "data": {"tool": ev.tool, "args": ev.args or {}}})
                 elif ev.type == "tool_result":
+                    for step in reversed(tool_trace):
+                        if step["result"] is None and (not ev.tool or step["tool"] == ev.tool):
+                            step["result"] = ev.result
+                            break
                     yield _sse({"type": "tool_result", "data": {"tool": ev.tool, "result": ev.result}})
                 elif ev.type == "thinking":
                     yield _sse({"type": "thinking", "message": ev.text})
@@ -290,10 +296,11 @@ async def chat_stream(data: ChatMessage, user: dict = Depends(get_current_user))
             _histories[conversation_id] = streamer.last_messages
             await add_message(conversation_id, "assistant", answer_text,
                               metadata={"engine": "advisor_orchestrator",
-                                        "tools_used": tools_used})
+                                        "tools_used": tools_used,
+                                        "tool_trace": tool_trace})
             yield _sse({"type": "answer", "data": {
                 "content": answer_text, "conversation_id": conversation_id,
-                "agents_used": sorted(set(tools_used)),
+                "agents_used": sorted(set(tools_used)), "tool_trace": tool_trace,
                 "agent_details": {}, "execution_stats": {}, "phase_timing": {}}})
         yield _sse({"type": "done", "data": {}})
 

@@ -16,25 +16,36 @@ interface StreamEvent {
   data?: Record<string, unknown>;
 }
 
+interface ToolStep {
+  tool: string;
+  args?: Record<string, unknown>;
+  result?: string | null;
+}
+
 interface WorkflowDetailsProps {
   agentsUsed?: string[];
   agentDetails?: Record<string, unknown>;
   executionStats?: Record<string, unknown>;
   phaseTiming?: Record<string, number>;
   streamEvents?: StreamEvent[];
+  toolTrace?: ToolStep[];   // persisted trace (survives reload); preferred when present
 }
 
-export default function WorkflowDetails({ agentsUsed = [], streamEvents = [] }: WorkflowDetailsProps) {
+export default function WorkflowDetails({ agentsUsed = [], streamEvents = [], toolTrace }: WorkflowDetailsProps) {
   const [open, setOpen] = useState(true);
 
-  const calls: { tool: string; args?: Record<string, unknown>; result?: string }[] = [];
-  for (const ev of streamEvents) {
-    if (ev.type === 'tool_call') {
-      calls.push({ tool: (ev.data?.tool as string) || 'tool', args: ev.data?.args as Record<string, unknown> });
-    } else if (ev.type === 'tool_result') {
-      const tool = ev.data?.tool as string | undefined;
-      const target = [...calls].reverse().find((c) => c.result === undefined && (!tool || c.tool === tool));
-      if (target) target.result = (ev.data?.result as string) ?? '';
+  let calls: { tool: string; args?: Record<string, unknown>; result?: string }[] = [];
+  if (toolTrace && toolTrace.length) {
+    calls = toolTrace.map((s) => ({ tool: s.tool, args: s.args, result: s.result ?? undefined }));
+  } else {
+    for (const ev of streamEvents) {
+      if (ev.type === 'tool_call') {
+        calls.push({ tool: (ev.data?.tool as string) || 'tool', args: ev.data?.args as Record<string, unknown> });
+      } else if (ev.type === 'tool_result') {
+        const tool = ev.data?.tool as string | undefined;
+        const target = [...calls].reverse().find((c) => c.result === undefined && (!tool || c.tool === tool));
+        if (target) target.result = (ev.data?.result as string) ?? '';
+      }
     }
   }
 

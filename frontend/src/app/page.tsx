@@ -415,13 +415,14 @@ export default function Home() {
                 {messages.map((msg) => (
                   <div key={msg._id}>
                     <ChatMessage message={msg} />
-                    {msg.role === 'assistant' && messageWorkflows[msg._id] && (
+                    {msg.role === 'assistant' && (messageWorkflows[msg._id] || msg.metadata?.tool_trace?.length) && (
                       <WorkflowDetails
-                        agentsUsed={messageWorkflows[msg._id].agents_used}
-                        agentDetails={messageWorkflows[msg._id].agent_details}
-                        executionStats={messageWorkflows[msg._id].execution_stats}
-                        phaseTiming={messageWorkflows[msg._id].phase_timing}
-                        streamEvents={messageWorkflows[msg._id].stream_events}
+                        agentsUsed={messageWorkflows[msg._id]?.agents_used || msg.metadata?.agents_used}
+                        agentDetails={messageWorkflows[msg._id]?.agent_details}
+                        executionStats={messageWorkflows[msg._id]?.execution_stats}
+                        phaseTiming={messageWorkflows[msg._id]?.phase_timing}
+                        streamEvents={messageWorkflows[msg._id]?.stream_events}
+                        toolTrace={msg.metadata?.tool_trace}
                       />
                     )}
                   </div>
