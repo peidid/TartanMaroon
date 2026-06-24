@@ -1,4 +1,17 @@
-# Backend image for Railway. Builds the advisor engine + FastAPI server with uv.
+# One Railway image: builds the Next.js UI, then the FastAPI backend serves both
+# the API and the static UI from the same origin.
+
+# ---- Stage 1: build the frontend (static export -> /fe/out) ----
+FROM node:20-alpine AS frontend
+WORKDIR /fe
+COPY frontend/package.json frontend/package-lock.json ./
+RUN npm ci
+COPY frontend/ ./
+# Empty API URL => the client calls /api/... on the same origin (this server).
+ENV NEXT_PUBLIC_API_URL="" NEXT_TELEMETRY_DISABLED=1
+RUN npm run build
+
+# ---- Stage 2: backend (advisor engine + FastAPI) ----
 FROM python:3.12-slim
 
 ENV PYTHONUNBUFFERED=1 \
@@ -19,9 +32,10 @@ COPY pyproject.toml uv.lock* README.md ./
 COPY src ./src
 RUN uv sync --no-dev
 
-# App code + data.
+# App code + data + the exported UI.
 COPY backend ./backend
 COPY data ./data
+COPY --from=frontend /fe/out ./frontend_out
 
 EXPOSE 8000
 HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \

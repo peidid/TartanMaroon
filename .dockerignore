@@ -1,5 +1,4 @@
 AdvisingBot/
-frontend/
 0 Important Docs/
 tests/
 .git/
@@ -7,7 +6,11 @@ tests/
 .advisor_cache/
 **/__pycache__/
 **/.pytest_cache/
+# frontend/ is built in the Docker image — include the source, skip its artifacts
 node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
 *.zip
 **/.DS_Store
 .env

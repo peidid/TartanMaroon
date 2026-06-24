@@ -357,6 +357,23 @@ async def health():
         return {"status": "unhealthy", "error": str(e)}
 
 
-@app.get("/")
-async def root():
+@app.get("/api")
+async def api_root():
     return {"name": "TartanMaroon Advising API", "version": "2.0.0", "docs": "/docs"}
+
+
+# ---- serve the built frontend (same origin) ----
+# Mounted LAST so every /api/* route above takes precedence. The exported Next
+# app lives at frontend_out/ (Docker) or frontend/out/ (local build). If neither
+# exists (e.g. API-only dev with `npm run dev` on :3000), this is simply skipped.
+from pathlib import Path  # noqa: E402
+from fastapi.staticfiles import StaticFiles  # noqa: E402
+
+_ROOT = Path(__file__).resolve().parent.parent
+for _cand in (_ROOT / "frontend_out", _ROOT / "frontend" / "out"):
+    if _cand.is_dir():
+        app.mount("/", StaticFiles(directory=str(_cand), html=True), name="frontend")
+        logger.info("Serving frontend from %s", _cand)
+        break
+else:
+    logger.info("No built frontend found; running API-only.")

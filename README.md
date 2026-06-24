@@ -85,17 +85,21 @@ backend/        FastAPI + MongoDB (Motor) + JWT auth.  Routes: /api/auth/*,
                 transparent reasoning trace. User profiles map → StudentState.
 frontend/       Next.js 14 (App Router, Tailwind). Auth, profile, conversation
                 history, and a live tool-call reasoning panel.
-Dockerfile      Backend image for Railway (uv-based).
+Dockerfile      One image: builds the UI (static export) + FastAPI serves both.
 railway.json    Railway build (Dockerfile) + /api/health healthcheck.
 ```
 
 ### Deploy
 
-- **Backend → Railway**: deploys from this repo's root `Dockerfile`. Set env
-  vars `MONGODB_URI`, `MONGODB_DATABASE`, `OPENAI_API_KEY`, `JWT_SECRET_KEY`,
-  `ALLOWED_ORIGINS` (your Vercel URL). Health: `/api/health`.
-- **Frontend → Vercel**: set project **Root Directory = `frontend`**; env var
-  `NEXT_PUBLIC_API_URL` = the Railway backend URL.
+- **Single Railway service (API + UI).** The root `Dockerfile` is multi-stage:
+  stage 1 builds the Next.js app to a static export; stage 2 runs FastAPI, which
+  serves the API at `/api/*` **and** the built UI from the same origin. So one
+  `git push` to `main` updates both. No separate frontend host needed.
+- The UI calls the API at `/api/...` (same origin) — `NEXT_PUBLIC_API_URL` is
+  left empty at build time. (For local dev with `npm run dev`, it defaults to
+  `http://localhost:8000`.)
+- Set Railway env vars: `MONGODB_URI`, `MONGODB_DATABASE`, `OPENAI_API_KEY`,
+  `ADVISOR_CHAT_MODEL`, `JWT_SECRET_KEY`. Health: `/api/health`.
 - Schema-compatible with the previous AdvisingBot Mongo (`users`/`conversations`/
   `messages`), so existing data and logins carry over (keep `JWT_SECRET_KEY`).
 

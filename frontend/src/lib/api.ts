@@ -2,7 +2,9 @@
  * API client for the Multi-Agent Advising backend.
  */
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+// Empty string = same-origin (FastAPI serves the UI + /api together on Railway).
+// `??` preserves an intentional "" from the build; unset (dev) falls back to :8000.
+const API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:8000';
 
 // Types
 export interface User {
